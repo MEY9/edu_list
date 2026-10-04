@@ -5,15 +5,482 @@
 
 [返回首页](../README.md) · [收录标准](../docs/selection-policy.md)
 
-按 Star 降序排列。许可证标识来自 GitHub API；实际使用请核对上游条款。
+分类共 470 个项目。批量条目的教育用途为分类建议，原文简介和检索依据保留在 YAML；未逐项核对的条目如实标记。
 
-| 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
-| --- | ---: | --- | --- | --- |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,731 | 教育原生 | 参考编程学习路径与练习设计，支持学生自主练习。 | BSD-3-Clause |
-| [Blockly](https://github.com/RaspberryPiFoundation/blockly) | 13,578 | 教育原生 | 嵌入图形化编程课件，设计变量、循环和逻辑教学活动。 | Apache-2.0 |
-| [CodeCombat](https://github.com/codecombat/codecombat) | 8,571 | 教育原生 | 参考游戏化编程教学和关卡设计，组织代码练习。 | MIT |
+| 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
+| --- | ---: | --- | --- | --- | --- |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,731 | 编程与 STEM 教育／应用 | 教育原生 | 包含自学课程与互动编程练习的平台代码库。 | 资料核对 |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 225,231 | 编程与 STEM 教育／应用 | 可用于教育 | All Algorithms implemented in Python | 元数据收集 |
+| [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 129,316 | 编程与 STEM 教育／应用 | 可用于教育 | Coding articles to level up your development skills | 元数据收集 |
+| [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | 29,572 | 编程与 STEM 教育／应用 | 教育原生 | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | 元数据收集 |
+| [processing/p5.js](https://github.com/processing/p5.js) | 24,078 | 编程与 STEM 教育／应用 | 可用于教育 | p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the… | 元数据收集 |
+| [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) | 18,726 | 编程与 STEM 教育／应用 | 可用于教育 | Jargon from the functional programming world in simple terms! | 元数据收集 |
+| [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS) | 16,730 | 编程与 STEM 教育／应用 | 可用于教育 | Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. | 元数据收集 |
+| [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) | 14,563 | 编程与 STEM 教育／应用 | 可用于教育 | Source code for Hacker101.com - a free online web and mobile security class. | 元数据收集 |
+| [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) | 13,945 | 编程与 STEM 教育／应用 | 可用于教育 | Learning operating system development using Linux kernel and Raspberry Pi | 元数据收集 |
+| [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) | 13,623 | 编程与 STEM 教育／应用 | 可用于教育 | Must-watch videos about javascript | 元数据收集 |
+| [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) | 13,578 | 编程与 STEM 教育／应用 | 教育原生 | 用图形积木表示代码概念的 Web 编辑器库。 | 资料核对 |
+| [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) | 12,174 | 编程与 STEM 教育／应用 | 可用于教育 | Code. Music. Live. | 元数据收集 |
+| [kanaka/mal](https://github.com/kanaka/mal) | 10,741 | 编程与 STEM 教育／应用 | 可用于教育 | mal - Make a Lisp | 元数据收集 |
+| [codecombat/codecombat](https://github.com/codecombat/codecombat) | 8,571 | 编程与 STEM 教育／应用 | 教育原生 | 通过游戏任务学习编程的项目。 | 资料核对 |
+| [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7,702 | 编程与 STEM 教育／应用 | 可用于教育 | Digital logic design tool and simulator | 元数据收集 |
+| [workshopper/learnyounode](https://github.com/workshopper/learnyounode) | 7,382 | 编程与 STEM 教育／应用 | 可用于教育 | Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops. | 元数据收集 |
+| [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) | 7,032 | 编程与 STEM 教育／应用 | 可用于教育 | Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available) | 元数据收集 |
+| [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) | 6,983 | 编程与 STEM 教育／应用 | 可用于教育 | Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup | 元数据收集 |
+| [CTFd/CTFd](https://github.com/CTFd/CTFd) | 6,862 | 编程与 STEM 教育／应用 | 可用于教育 | CTFs as you need them | 元数据收集 |
+| [pshenok/server-survival](https://github.com/pshenok/server-survival) | 6,432 | 编程与 STEM 教育／应用 | 可用于教育 | Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. | 元数据收集 |
+| [gsantner/markor](https://github.com/gsantner/markor) | 6,214 | 编程与 STEM 教育／应用 | 可用于教育 | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. | 元数据收集 |
+| [hneemann/Digital](https://github.com/hneemann/Digital) | 6,056 | 编程与 STEM 教育／应用 | 可用于教育 | A digital logic designer and circuit simulator. | 元数据收集 |
+| [apptension/developer-handbook](https://github.com/apptension/developer-handbook) | 5,958 | 编程与 STEM 教育／应用 | 可用于教育 | An opinionated guide on how to become a professional Web/Mobile App Developer. | 元数据收集 |
+| [drk1wi/Modlishka](https://github.com/drk1wi/Modlishka) | 5,424 | 编程与 STEM 教育／应用 | 可用于教育 | Modlishka. Reverse Proxy. | 元数据收集 |
+| [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) | 5,414 | 编程与 STEM 教育／开发组件 | 教育原生 | An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics e… | 元数据收集 |
+| [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5,388 | 编程与 STEM 教育／应用 | 可用于教育 | 🎈 Simple reactive notebooks for Julia | 元数据收集 |
+| [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) | 5,111 | 编程与 STEM 教育／应用 | 可用于教育 | A computer science textbook | 元数据收集 |
+| [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) | 4,894 | 编程与 STEM 教育／应用 | 可用于教育 | Phishing Tool & Information Collector | 元数据收集 |
+| [ratfactor/ziglings](https://github.com/ratfactor/ziglings) | 4,674 | 编程与 STEM 教育／应用 | 可用于教育 | Learn the Zig programming language by fixing tiny broken programs. | 元数据收集 |
+| [oceanbase/miniob](https://github.com/oceanbase/miniob) | 4,427 | 编程与 STEM 教育／应用 | 可用于教育 | MiniOB is a compact database that assists developers in understanding the fundamental workings of a database. | 元数据收集 |
+| [berwin/Blog](https://github.com/berwin/Blog) | 4,150 | 编程与 STEM 教育／应用 | 可用于教育 | 记录成长的过程 | 元数据收集 |
+| [grantjenks/free-python-games](https://github.com/grantjenks/free-python-games) | 4,032 | 编程与 STEM 教育／应用 | 可用于教育 | Free Python Games | 元数据收集 |
+| [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) | 3,985 | 编程与 STEM 教育／应用 | 可用于教育 | Common data structures and algorithms in Rust | 元数据收集 |
+| [0atman/noboilerplate](https://github.com/0atman/noboilerplate) | 3,874 | 编程与 STEM 教育／应用 | 可用于教育 | Code for my talks on the No Boilerplate channel | 元数据收集 |
+| [GitbookIO/javascript](https://github.com/GitbookIO/javascript) | 3,695 | 编程与 STEM 教育／应用 | 教育原生 | GitBook teaching programming basics with Javascript | 元数据收集 |
+| [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) | 3,672 | 编程与 STEM 教育／应用 | 可用于教育 | The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language. | 元数据收集 |
+| [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) | 3,641 | 编程与 STEM 教育／应用 | 教育原生 | Envision a future where everyone can read all the code of an educational operating system. | 元数据收集 |
+| [rathena/rathena](https://github.com/rathena/rathena) | 3,593 | 编程与 STEM 教育／应用 | 可用于教育 | rAthena is an open-source cross-platform MMORPG server. | 元数据收集 |
+| [ob-f/OpenBot](https://github.com/ob-f/OpenBot) | 3,517 | 编程与 STEM 教育／应用 | 可用于教育 | OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot b… | 元数据收集 |
+| [shovanch/fullstack-web-developer-path](https://github.com/shovanch/fullstack-web-developer-path) | 3,474 | 编程与 STEM 教育／应用 | 可用于教育 | 📚 A learning path for Full-stack web development | 元数据收集 |
+| [mortbopet/Ripes](https://github.com/mortbopet/Ripes) | 3,440 | 编程与 STEM 教育／应用 | 可用于教育 | A graphical processor simulator and assembly editor for the RISC-V ISA | 元数据收集 |
+| [hunar4321/particle-life](https://github.com/hunar4321/particle-life) | 3,360 | 编程与 STEM 教育／应用 | 可用于教育 | A simple program to simulate artificial life using attraction/reuplsion forces between many particles | 元数据收集 |
+| [noob-hackers/infect](https://github.com/noob-hackers/infect) | 3,010 | 编程与 STEM 教育／应用 | 可用于教育 | Infect Any Android Device With Virus From Link In Termux | 元数据收集 |
+| [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) | 2,996 | 编程与 STEM 教育／应用 | 可用于教育 | Free hands-on digital forensics labs for students and faculty | 元数据收集 |
+| [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) | 2,988 | 编程与 STEM 教育／应用 | 可用于教育 | Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components. | 元数据收集 |
+| [MaximeVandegar/Papers-in-100-Lines-of-Code](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code) | 2,898 | 编程与 STEM 教育／应用 | 可用于教育 | Implementation of papers in 100 lines of code. | 元数据收集 |
+| [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) | 2,847 | 编程与 STEM 教育／应用 | 可用于教育 | 一款功能强、可定制、跨平台，适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。 | 元数据收集 |
+| [GDQuest/learn-gdscript](https://github.com/GDQuest/learn-gdscript) | 2,792 | 编程与 STEM 教育／应用 | 可用于教育 | Learn Godot's GDScript programming language from zero, right in your browser, for free. | 元数据收集 |
+| [hackclub/hackclub](https://github.com/hackclub/hackclub) | 2,626 | 编程与 STEM 教育／应用 | 可用于教育 | 🌎 Hack Club is a worldwide community of high school hackers. We make things. We help one another. We have fun. | 元数据收集 |
+| [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) | 2,487 | 编程与 STEM 教育／应用 | 可用于教育 | Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated t… | 元数据收集 |
+| [penecho/penecho](https://github.com/penecho/penecho) | 2,455 | 编程与 STEM 教育／应用 | 可用于教育 | Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning. | 元数据收集 |
+| [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) | 2,369 | 编程与 STEM 教育／应用 | 可用于教育 | Real-time 3D visualization of space. | 元数据收集 |
+| [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero) | 2,141 | 编程与 STEM 教育／应用 | 可用于教育 | A simple interface to GPIO devices with Raspberry Pi | 元数据收集 |
+| [showlab/Code2Video](https://github.com/showlab/Code2Video) | 2,090 | 编程与 STEM 教育／应用 | 可用于教育 | \[ICML 2026\] Video generation via code | 元数据收集 |
+| [Netflix-Skunkworks/stethoscope](https://github.com/Netflix-Skunkworks/stethoscope) | 2,005 | 编程与 STEM 教育／应用 | 可用于教育 | Personalized, user-focused recommendations for employee information security. | 元数据收集 |
+| [jplag/JPlag](https://github.com/jplag/JPlag) | 1,970 | 编程与 STEM 教育／应用 | 可用于教育 | State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs. | 元数据收集 |
+| [iiab/iiab](https://github.com/iiab/iiab) | 1,969 | 编程与 STEM 教育／开发组件 | 可用于教育 | Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi ! | 元数据收集 |
+| [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) | 1,866 | 编程与 STEM 教育／应用 | 可用于教育 | Macro-header for compile-time C obfuscation (tcc, win x86/x64) | 元数据收集 |
+| [ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way) | 1,865 | 编程与 STEM 教育／开发组件 | 可用于教育 | Learn NodeJS and master the art of server-side programming by creating a backend framework with 0 dependencies. | 元数据收集 |
+| [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) | 1,845 | 编程与 STEM 教育／应用 | 教育原生 | An educational OLAP database system. | 元数据收集 |
+| [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) | 1,723 | 编程与 STEM 教育／应用 | 可用于教育 | Go(lang) examples - (explain the basics of #golang) | 元数据收集 |
+| [renzorlive/vimmaster](https://github.com/renzorlive/vimmaster) | 1,712 | 编程与 STEM 教育／应用 | 可用于教育 | VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels. | 元数据收集 |
+| [hedyorg/hedy](https://github.com/hedyorg/hedy) | 1,693 | 编程与 STEM 教育／应用 | 可用于教育 | Hedy is a gradual programming language to teach children programming. Gradual languages use different language levels, where each level adds new co… | 元数据收集 |
+| [TheThirdOne/rars](https://github.com/TheThirdOne/rars) | 1,649 | 编程与 STEM 教育／应用 | 可用于教育 | RARS -- RISC-V Assembler and Runtime Simulator | 元数据收集 |
+| [stared/science-based-games-list](https://github.com/stared/science-based-games-list) | 1,648 | 编程与 STEM 教育／应用 | 可用于教育 | Science-based games - a collaborative list | 元数据收集 |
+| [DreambigOu/ELI5](https://github.com/DreambigOu/ELI5) | 1,631 | 编程与 STEM 教育／应用 | 可用于教育 | ELI5 — A Claude Code skill that explains anything to anyone: kids, managers, engineers, parents. Adapts tone, vocabulary, and analogies to match th… | 元数据收集 |
+| [danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source) | 1,502 | 编程与 STEM 教育／应用 | 可用于教育 | \[STILL ACTIVE\] Learn the GitHub workflow by contributing code in a fun simulation project | 元数据收集 |
+| [Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth) | 1,437 | 编程与 STEM 教育／应用 | 可用于教育 | Cross-Platform Android Remote Administration Tool \| Official maintained repository for the AhMyth R.A.T Project \| A dedicated revival of the origin… | 元数据收集 |
+| [rohitg00/k8sgames](https://github.com/rohitg00/k8sgames) | 1,383 | 编程与 STEM 教育／应用 | 可用于教育 | Learn Kubernetes by playing. Deploy pods, fix CrashLoopBackOff, type real kubectl commands: 3D browser game, no install needed. | 元数据收集 |
+| [arschles/go-in-5-minutes](https://github.com/arschles/go-in-5-minutes) | 1,347 | 编程与 STEM 教育／应用 | 可用于教育 | Code and website for Go in 5 Minutes Screencasts | 元数据收集 |
+| [Cur10s1tyByt3/GenP](https://github.com/Cur10s1tyByt3/GenP) | 1,343 | 编程与 STEM 教育／应用 | 可用于教育 | This repository preserves source materials and related documentation about GenP. For archival and research purposes only. | 元数据收集 |
+| [HugeCatLab/ChatTutor](https://github.com/HugeCatLab/ChatTutor) | 1,315 | 编程与 STEM 教育／应用 | 教育原生 | 👨‍🏫 ChatTutor: Visual and Interactive AI Tutor | 元数据收集 |
+| [google/codeworld](https://github.com/google/codeworld) | 1,269 | 编程与 STEM 教育／应用 | 教育原生 | Educational computer programming environment using Haskell | 元数据收集 |
+| [pascal-lab/Tai-e-assignments](https://github.com/pascal-lab/Tai-e-assignments) | 1,230 | 编程与 STEM 教育／应用 | 可用于教育 | Tai-e assignments for static program analysis | 元数据收集 |
+| [vvignesh17/List-of-all-Research-Internship-Program-for-IIT-and-NITs](https://github.com/vvignesh17/List-of-all-Research-Internship-Program-for-IIT-and-NITs) | 1,227 | 编程与 STEM 教育／应用 | 可用于教育 | This contains the list of almost all the internship available for Indian college students. | 元数据收集 |
+| [qcha/JBook](https://github.com/qcha/JBook) | 1,225 | 编程与 STEM 教育／应用 | 可用于教育 | Алгоритмы, паттерны, подготовка к собеседованиям, статьи и материалы по Java | 元数据收集 |
+| [xevrion/breakscale](https://github.com/xevrion/breakscale) | 1,221 | 编程与 STEM 教育／应用 | 可用于教育 | Build a system, load it until it breaks, and watch why. A system design simulator for learning distributed systems. | 元数据收集 |
+| [pro1code1hack/Your-Journey-To-Fluent-Python](https://github.com/pro1code1hack/Your-Journey-To-Fluent-Python) | 1,209 | 编程与 STEM 教育／应用 | 可用于教育 | Your Journey To Fluent Python | 元数据收集 |
+| [Ceyron/machine-learning-and-simulation](https://github.com/Ceyron/machine-learning-and-simulation) | 1,206 | 编程与 STEM 教育／应用 | 可用于教育 | All the handwritten notes 📝 and source code files 🖥️ used in my YouTube Videos on Machine Learning & Simulation (https://www.youtube.com/channel/UC… | 元数据收集 |
+| [odan/learn-php](https://github.com/odan/learn-php) | 1,180 | 编程与 STEM 教育／应用 | 可用于教育 | :elephant: Learn modern PHP | 元数据收集 |
+| [jlord/patchwork](https://github.com/jlord/patchwork) | 1,166 | 编程与 STEM 教育／应用 | 可用于教育 | All the Git-it Workshop completers! | 元数据收集 |
+| [pointfreeco/pointfreeco](https://github.com/pointfreeco/pointfreeco) | 1,160 | 编程与 STEM 教育／应用 | 可用于教育 | 🎬 The source for www.pointfree.co, a hub for advanced Swift programming. | 元数据收集 |
+| [needleworm/bhban\_rpa](https://github.com/needleworm/bhban_rpa) | 1,154 | 编程与 STEM 教育／应用 | 可用于教育 | \<6개월 치 업무를 하루 만에 끝내는 업무 자동화(생능출판사, 2020)\>의 예제 코드입니다. 파이썬을 한 번도 배워본 적 없는 분들을 위한 예제이며, 엑셀부터 디자인, 매크로, 크롤링까지 업무 자동화와 관련된 다양한 분야 예제가 제공됩니다. | 元数据收集 |
+| [jupyterhub/the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub) | 1,150 | 编程与 STEM 教育／应用 | 可用于教育 | Simple JupyterHub distribution for 1-100 users on a single server | 元数据收集 |
+| [jendewalt/jennifer\_dewalt](https://github.com/jendewalt/jennifer_dewalt) | 1,146 | 编程与 STEM 教育／应用 | 可用于教育 | a.k.a. 180 Websites in 180 Days | 元数据收集 |
+| [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) | 1,130 | 编程与 STEM 教育／应用 | 可用于教育 | The Pyret language. | 元数据收集 |
+| [mohi-devhub/antivibe](https://github.com/mohi-devhub/antivibe) | 1,118 | 编程与 STEM 教育／应用 | 教育原生 | Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives. | 元数据收集 |
+| [TheAlgorithms/Scala](https://github.com/TheAlgorithms/Scala) | 1,104 | 编程与 STEM 教育／应用 | 可用于教育 | All Algorithms implemented in Scala | 元数据收集 |
+| [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) | 1,087 | 编程与 STEM 教育／应用 | 可用于教育 | :abacus: Algorithms and Data Structures in several Programming Languages | 元数据收集 |
+| [s010s/prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum) | 1,086 | 编程与 STEM 教育／应用 | 可用于教育 | A free, open-source bilingual 3D museum where young children and their grown-ups explore prehistoric animals across land, sea, and sky. | 元数据收集 |
+| [bespoyasov/refactor-like-a-superhero](https://github.com/bespoyasov/refactor-like-a-superhero) | 1,063 | 编程与 STEM 教育／应用 | 可用于教育 | How to refactor code efficiently and without pain. | 元数据收集 |
+| [ceilf6/Auto\_courseGrabber](https://github.com/ceilf6/Auto_courseGrabber) | 974 | 编程与 STEM 教育／应用 | 可用于教育 | 正方教务系统自动抢课脚本（多省市高校实测）：并发选课、课程名/课号检索、时间/教师筛选、换课、定时开抢与可视化控制台。JavaScript helper for Zhengfang course enrollment. | 元数据收集 |
+| [ECNU-ICALK/EduChat](https://github.com/ECNU-ICALK/EduChat) | 972 | 编程与 STEM 教育／应用 | 教育原生 | An open-source educational chat model from ICALK, East China Normal University. 开源中英教育对话大模型。(通用基座模型，GPU部署，数据清理) 致敬: LLaMA, MOSS, BELLE, Ziya, vLLM | 元数据收集 |
+| [seed-labs/seed-labs](https://github.com/seed-labs/seed-labs) | 970 | 编程与 STEM 教育／应用 | 可用于教育 | SEED Labs developed in the last 20 years. | 元数据收集 |
+| [izdi/elm-cheat-sheet](https://github.com/izdi/elm-cheat-sheet) | 948 | 编程与 STEM 教育／应用 | 可用于教育 | An overview of Elm syntax and features | 元数据收集 |
+| [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) | 932 | 编程与 STEM 教育／应用 | 教育原生 | AI tutor powered by Theory-of-Mind reasoning | 元数据收集 |
+| [atralice/Curso.Prep.Henry](https://github.com/atralice/Curso.Prep.Henry) | 931 | 编程与 STEM 教育／应用 | 可用于教育 | Curso de Preparación para Ingresar a Henry. | 元数据收集 |
+| [scrimba/community](https://github.com/scrimba/community) | 918 | 编程与 STEM 教育／应用 | 可用于教育 | Repository for public issue-tracking and discussions | 元数据收集 |
+| [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks) | 903 | 编程与 STEM 教育／应用 | 可用于教育 | Music Blocks -- A musical microworld | 元数据收集 |
+| [code-dot-org/code-dot-org](https://github.com/code-dot-org/code-dot-org) | 900 | 编程与 STEM 教育／应用 | 可用于教育 | The code powering code.org and studio.code.org | 元数据收集 |
+| [hexlet-codebattle/codebattle](https://github.com/hexlet-codebattle/codebattle) | 887 | 编程与 STEM 教育／应用 | 可用于教育 | Codebattle - Game for programmers, where you solved algorithmic problems with other players in real time. You can fight with other players in singl… | 元数据收集 |
+| [openeducat/openeducat\_erp](https://github.com/openeducat/openeducat_erp) | 884 | 编程与 STEM 教育／应用 | 教育原生 | Comprehensive Open Source ERP for Educational Institutes | 元数据收集 |
+| [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode) | 848 | 编程与 STEM 教育／应用 | 可用于教育 | 🚀 100+ mini-projects demonstrating the power of concise code. Perfect for learning, portfolio building, and first-time open source contributors. Un… | 元数据收集 |
+| [ls1intum/Artemis](https://github.com/ls1intum/Artemis) | 816 | 编程与 STEM 教育／应用 | 可用于教育 | Artemis - Interactive Learning with Automated Feedback | 元数据收集 |
+| [microsoft/pxt-microbit](https://github.com/microsoft/pxt-microbit) | 805 | 编程与 STEM 教育／应用 | 可用于教育 | A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode | 元数据收集 |
+| [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 编程与 STEM 教育／应用 | 可用于教育 | Homework Submission, Automated Grading, and TA grading system. | 元数据收集 |
+| [processing/processing-android](https://github.com/processing/processing-android) | 798 | 编程与 STEM 教育／开发组件 | 可用于教育 | Processing mode and core library to create Android apps with Processing | 元数据收集 |
+| [shama/letswritecode](https://github.com/shama/letswritecode) | 795 | 编程与 STEM 教育／应用 | 可用于教育 | :mortar\_board: code examples for Let's Write Code | 元数据收集 |
+| [taybenlor/runno](https://github.com/taybenlor/runno) | 773 | 编程与 STEM 教育／应用 | 可用于教育 | Sandboxed runtime for programming languages and WASI binaries. Works in the browser, on your server, or via MCP. | 元数据收集 |
+| [eka-foundation/numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) | 772 | 编程与 STEM 教育／应用 | 可用于教育 | Learning numerical computing with notebooks for all ages. | 元数据收集 |
+| [hyqzz/Solar-Wanderer](https://github.com/hyqzz/Solar-Wanderer) | 748 | 编程与 STEM 教育／应用 | 可用于教育 | Solar Wanderer / 遨游太阳系 - 1:1 Real-Time Solar System Explorer in the Browser. NASA JPL ephemeris, WebGL2, Three.js. From solar surface to 100,000 AU… | 元数据收集 |
+| [solana-developers/developer-bootcamp-2024](https://github.com/solana-developers/developer-bootcamp-2024) | 745 | 编程与 STEM 教育／应用 | 可用于教育 | 通过教育相关主题检索收集；可评估用于编程教学、示例练习或 STEM 学习；具体能力待核对。 | 元数据收集 |
+| [quinton-ashley/p5play](https://github.com/quinton-ashley/p5play) | 743 | 编程与 STEM 教育／应用 | 可用于教育 | JavaScript game engine that uses q5.js/p5.js for graphics and Box2D for physics. | 元数据收集 |
+| [lukew3/mathgenerator](https://github.com/lukew3/mathgenerator) | 738 | 编程与 STEM 教育／应用 | 教育原生 | A math problem generator, created for the purpose of giving self-studying students and teaching organizations the means to easily get access to hig… | 元数据收集 |
+| [soypat/gopherlings](https://github.com/soypat/gopherlings) | 735 | 编程与 STEM 教育／应用 | 可用于教育 | 📘️ Learn Go by fixing tiny incorrect programs | 元数据收集 |
+| [retro-esp32/RetroESP32](https://github.com/retro-esp32/RetroESP32) | 734 | 编程与 STEM 教育／应用 | 可用于教育 | Retro ESP32 is a turbo charged Odroid Go Launcher, Emulator and ROM Manager | 元数据收集 |
+| [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) | 724 | 编程与 STEM 教育／应用 | 教育原生 | An Educational Project (step by step) to teach how to build a production-ready app for RAG application. | 元数据收集 |
+| [mawoka-myblock/ClassQuiz](https://github.com/mawoka-myblock/ClassQuiz) | 723 | 编程与 STEM 教育／应用 | 可用于教育 | ClassQuiz is a quiz-application like Kahoot!, but open-source. | 元数据收集 |
+| [williamgherman/c-solutions](https://github.com/williamgherman/c-solutions) | 711 | 编程与 STEM 教育／应用 | 可用于教育 | My Solutions to K. N. King's "C Programming: A Modern Approach", second edition | 元数据收集 |
+| [joeynmt/joeynmt](https://github.com/joeynmt/joeynmt) | 710 | 编程与 STEM 教育／应用 | 教育原生 | Minimalist NMT for educational purposes | 元数据收集 |
+| [MoonHighway/learning-graphql](https://github.com/MoonHighway/learning-graphql) | 704 | 编程与 STEM 教育／应用 | 可用于教育 | The code samples for Learning GraphQL by Eve Porcello and Alex Banks, published by O'Reilly Media | 元数据收集 |
+| [CopterExpress/clover](https://github.com/CopterExpress/clover) | 689 | 编程与 STEM 教育／开发组件 | 可用于教育 | ROS-based framework and RPi image to control PX4-powered drones 🍀 | 元数据收集 |
+| [ucfopen/canvasapi](https://github.com/ucfopen/canvasapi) | 681 | 编程与 STEM 教育／应用 | 可用于教育 | Python API wrapper for Instructure's Canvas LMS. Easily manage courses, users, gradebooks, and more. | 元数据收集 |
+| [ArsMasiuk/qvge](https://github.com/ArsMasiuk/qvge) | 672 | 编程与 STEM 教育／应用 | 可用于教育 | Qt Visual Graph Editor | 元数据收集 |
+| [lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab) | 670 | 编程与 STEM 教育／应用 | 可用于教育 | PICSimLab - Programmable IC Simulator Laboratory ⚠️ Please note: The official distribution of the PICSimLab simulator binaries is available on gith… | 元数据收集 |
+| [DsThakurRawat/Backend-from-first-Principle](https://github.com/DsThakurRawat/Backend-from-first-Principle) | 652 | 编程与 STEM 教育／应用 | 可用于教育 | A comprehensive open-source reference for backend engineering HTTP, concurrency, gRPC, distributed systems, observability, and cloud-native deploym… | 元数据收集 |
+| [mlcommons/ck](https://github.com/mlcommons/ck) | 651 | 编程与 STEM 教育／应用 | 可用于教育 | Collective Knowledge (CK), Collective Mind (CM/CMX) and MLPerf automations: community-driven projects to learn how to run AI, ML, and other emergin… | 元数据收集 |
+| [lmt-swallow/puppy-browser](https://github.com/lmt-swallow/puppy-browser) | 648 | 编程与 STEM 教育／应用 | 教育原生 | An example implementation of a tiny Web browser for educational purposes. | 元数据收集 |
+| [geerlingguy/kubernetes-101](https://github.com/geerlingguy/kubernetes-101) | 634 | 编程与 STEM 教育／应用 | 可用于教育 | Kubernetes 101 - by Jeff Geerling | 元数据收集 |
+| [cfgranda/ps4ds](https://github.com/cfgranda/ps4ds) | 626 | 编程与 STEM 教育／应用 | 可用于教育 | Probability and Statistics for Data Science: A self-contained introduction to probability and statistics for data science, including a free pdf, 10… | 元数据收集 |
+| [jarvisteach/appJar](https://github.com/jarvisteach/appJar) | 613 | 编程与 STEM 教育／应用 | 可用于教育 | Simple Tkinter GUIs in Python | 元数据收集 |
+| [lordmauve/pgzero](https://github.com/lordmauve/pgzero) | 610 | 编程与 STEM 教育／开发组件 | 可用于教育 | A zero-boilerplate games programming framework for Python 3, based on Pygame. | 元数据收集 |
+| [sansan0/mao-map](https://github.com/sansan0/mao-map) | 593 | 编程与 STEM 教育／应用 | 可用于教育 | 📍 毛主席足迹地图 \| Chairman Mao's Footprints Map - 交互式动态展示1893-1976年完整轨迹 \| Interactive map showcasing Mao Zedong's journey (1893-1976). 星星之火，可以燎原 / A sing… | 元数据收集 |
+| [ProjectSkyfire/SkyFire\_548](https://github.com/ProjectSkyfire/SkyFire_548) | 592 | 编程与 STEM 教育／应用 | 可用于教育 | SkyFireEMU is a full featured World of Warcraft: Mists of Pandaria emulator written in C++. \|\| Compatible with World of Warcraft client 5.4.8 (Buil… | 元数据收集 |
+| [hackerxphantom/HXP-Ducky](https://github.com/hackerxphantom/HXP-Ducky) | 590 | 编程与 STEM 教育／应用 | 可用于教育 | Most Powerfull 😈Crash any android device with virus from any link using termux or kali linux | 元数据收集 |
+| [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) | 589 | 编程与 STEM 教育／应用 | 可用于教育 | GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. | 元数据收集 |
+| [ishtms/nodebook](https://github.com/ishtms/nodebook) | 589 | 编程与 STEM 教育／应用 | 可用于教育 | Learn and Master Node.js. V8, libuv, event loop, buffers, streams, async internals, performance, security, deployment, and production architecture. | 元数据收集 |
+| [danzen/zimjs](https://github.com/danzen/zimjs) | 584 | 编程与 STEM 教育／开发组件 | 可用于教育 | ZIM JavaScript Canvas Framework - Code Creativity! Interactive Media For All. | 元数据收集 |
+| [vantage-sh/handbook.vantage.sh](https://github.com/vantage-sh/handbook.vantage.sh) | 580 | 编程与 STEM 教育／应用 | 可用于教育 | The Cloud Cost Handbook is a free, open-source, community-supported set of guides meant to help explain often-times complex pricing of public cloud… | 元数据收集 |
+| [mzazon/cloud-projects](https://github.com/mzazon/cloud-projects) | 578 | 编程与 STEM 教育／应用 | 可用于教育 | Over 1100 cloud recipes, projects, tutorials, and real-world solutions to gain hands-on experience across Amazon Web Services (AWS), Microsoft Azur… | 元数据收集 |
+| [bisqwit/compiler\_series](https://github.com/bisqwit/compiler_series) | 569 | 编程与 STEM 教育／应用 | 可用于教育 | Material for the Creating a Compiler video lesson series. | 元数据收集 |
+| [Rocketseat/comunidade](https://github.com/Rocketseat/comunidade) | 561 | 编程与 STEM 教育／应用 | 可用于教育 | Informações sobre a comunidade da Rocketseat | 元数据收集 |
+| [sightread/sightread](https://github.com/sightread/sightread) | 555 | 编程与 STEM 教育／应用 | 可用于教育 | 🎹 Learn to play piano | 元数据收集 |
+| [januschung/math-worksheet-generator](https://github.com/januschung/math-worksheet-generator) | 542 | 编程与 STEM 教育／应用 | 可用于教育 | Create basic addition, subtraction, multiplication and division practice questions with the answer sheet | 元数据收集 |
+| [codergautam/worldguessr](https://github.com/codergautam/worldguessr) | 539 | 编程与 STEM 教育／应用 | 可用于教育 | Free & Open source version of Geoguessr | 元数据收集 |
+| [earthlab/earthpy](https://github.com/earthlab/earthpy) | 537 | 编程与 STEM 教育／应用 | 可用于教育 | A package built to support working with spatial data using open source python | 元数据收集 |
+| [SeanWong17/Future-Style-Periodic-Table](https://github.com/SeanWong17/Future-Style-Periodic-Table) | 512 | 编程与 STEM 教育／应用 | 可用于教育 | 赛博朋克交互式元素周期表：3D 电子排布可视化、沉浸动效与热力图 \| Cyberpunk interactive periodic table with 3D electron orbital visualization & heatmaps | 元数据收集 |
+| [TryEnlight/tryenlight.github.io](https://github.com/TryEnlight/tryenlight.github.io) | 512 | 编程与 STEM 教育／应用 | 可用于教育 | :computer: Learn to code by building projects (old site!) | 元数据收集 |
+| [processing/processing4](https://github.com/processing/processing4) | 509 | 编程与 STEM 教育／开发组件 | 可用于教育 | Source code for Processing, the software sketchbook and Java-based programming language for students, artists, designers, educators, hobbyists, and… | 元数据收集 |
+| [cloudxlab/ml](https://github.com/cloudxlab/ml) | 506 | 编程与 STEM 教育／应用 | 可用于教育 | Machine Learning Projects and Learning Content | 元数据收集 |
+| [SEVA77/circuitjs1](https://github.com/SEVA77/circuitjs1) | 503 | 编程与 STEM 教育／应用 | 可用于教育 | Standalone (offline) version of the Circuit Simulator with small modifications based on modified NW.js. | 元数据收集 |
+| [lets-all-be-stupid-forever/circuit-artist](https://github.com/lets-all-be-stupid-forever/circuit-artist) | 479 | 编程与 STEM 教育／应用 | 可用于教育 | Circuit Artist is a digital circuit drawing and simulation game. | 元数据收集 |
+| [endlessm/godot-block-coding](https://github.com/endlessm/godot-block-coding) | 470 | 编程与 STEM 教育／应用 | 可用于教育 | Block-based visual programming plugin for Godot | 元数据收集 |
+| [IBM/IBM-Z-zOS](https://github.com/IBM/IBM-Z-zOS) | 469 | 编程与 STEM 教育／应用 | 可用于教育 | The helpful and handy location for finding and sharing z/OS files, which are not included in the product. | 元数据收集 |
+| [PetoiCamp/OpenCatEsp32-Quadruped-Robot](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) | 457 | 编程与 STEM 教育／开发组件 | 教育原生 | An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding … | 元数据收集 |
+| [howl-anderson/agentsilex](https://github.com/howl-anderson/agentsilex) | 456 | 编程与 STEM 教育／开发组件 | 可用于教育 | A transparent, minimal, and hackable agent framework. ~300 lines of readable code. Full control, no magic. | 元数据收集 |
+| [ckaestne/seai](https://github.com/ckaestne/seai) | 454 | 编程与 STEM 教育／应用 | 可用于教育 | CMU Lecture: Machine Learning In Production / AI Engineering / Software Engineering for AI-Enabled Systems (SE4AI) | 元数据收集 |
+| [computerlovetech/agr](https://github.com/computerlovetech/agr) | 451 | 编程与 STEM 教育／应用 | 教育原生 | Educational package-manager project for AI agent skills. Not actively maintained. | 元数据收集 |
+| [hydrabus/hydrafw](https://github.com/hydrabus/hydrafw) | 451 | 编程与 STEM 教育／应用 | 可用于教育 | HydraBus HydraFW official firmware for open source multi-tool for anyone interested in learning/developping/debugging/hacking/Penetration Testing f… | 元数据收集 |
+| [omnitool-ai/omnitool](https://github.com/omnitool-ai/omnitool) | 450 | 编程与 STEM 教育／应用 | 可用于教育 | Official Omnitool repository | 元数据收集 |
+| [Derssa/Torollo](https://github.com/Derssa/Torollo) | 447 | 编程与 STEM 教育／应用 | 可用于教育 | Torollo is an open-source interactive visual playground designed to learn system design and networking, all locally. | 元数据收集 |
+| [andrescv/jupiter](https://github.com/andrescv/jupiter) | 446 | 编程与 STEM 教育／应用 | 可用于教育 | RISC-V Assembler and Runtime Simulator | 元数据收集 |
+| [civboot/civboot](https://github.com/civboot/civboot) | 441 | 编程与 STEM 教育／应用 | 可用于教育 | Civilizational Bootstraper: landing page and wiki | 元数据收集 |
+| [samuel-lucas6/Cryptography-Guidelines](https://github.com/samuel-lucas6/Cryptography-Guidelines) | 441 | 编程与 STEM 教育／应用 | 可用于教育 | Guidance on implementing cryptography as a developer. | 元数据收集 |
+| [brndnmtthws/cracking-the-coding-interview-rust](https://github.com/brndnmtthws/cracking-the-coding-interview-rust) | 438 | 编程与 STEM 教育／应用 | 可用于教育 | Cracking the Coding Interview problem solutions in Rust | 元数据收集 |
+| [denysdovhan/learnyouhtml](https://github.com/denysdovhan/learnyouhtml) | 437 | 编程与 STEM 教育／应用 | 可用于教育 | Learn you how to create your first web page | 元数据收集 |
+| [PythonTurtle/PythonTurtle](https://github.com/PythonTurtle/PythonTurtle) | 436 | 编程与 STEM 教育／应用 | 可用于教育 | A learning environment for Python suited for beginners and children, inspired by Logo. | 元数据收集 |
+| [kevintpeng/Learn-Something-Every-Day](https://github.com/kevintpeng/Learn-Something-Every-Day) | 435 | 编程与 STEM 教育／应用 | 可用于教育 | 📝 A compilation of everything that I learn; Computer Science, Software Development, Engineering, Math, and Coding in General. Read the rendered res… | 元数据收集 |
+| [w3f/polkadot-wiki](https://github.com/w3f/polkadot-wiki) | 435 | 编程与 STEM 教育／应用 | 可用于教育 | The source of truth for Polkadot. | 元数据收集 |
+| [techblitzdev/TechBlitz](https://github.com/techblitzdev/TechBlitz) | 430 | 编程与 STEM 教育／应用 | 可用于教育 | Learning to code made free and accessible to everyone. | 元数据收集 |
+| [q5js/q5.js](https://github.com/q5js/q5.js) | 422 | 编程与 STEM 教育／应用 | 可用于教育 | Beginner friendly graphics powered by WebGPU, optimized for interactive art! | 元数据收集 |
+| [oppia/oppia-android](https://github.com/oppia/oppia-android) | 415 | 编程与 STEM 教育／应用 | 教育原生 | A free online & offline learning platform to make quality education accessible for all. | 元数据收集 |
+| [alanbjohnston/CubeSatSim](https://github.com/alanbjohnston/CubeSatSim) | 414 | 编程与 STEM 教育／应用 | 可用于教育 | CubeSatSim, the AMSAT CubeSat Simulator | 元数据收集 |
+| [yuawn/NTU-Computer-Security](https://github.com/yuawn/NTU-Computer-Security) | 411 | 编程与 STEM 教育／应用 | 可用于教育 | 台大 計算機安全 - Pwn 簡報、影片、作業題目與解法 - Computer Security Fall 2019 @ CSIE NTU Taiwan | 元数据收集 |
+| [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university) | 405 | 编程与 STEM 教育／应用 | 可用于教育 | Repository with training material to learn all about Azure Functions \<⚡\> | 元数据收集 |
+| [jin-zi-xuan/kaobuddy-pwa](https://github.com/jin-zi-xuan/kaobuddy-pwa) | 402 | 编程与 STEM 教育／应用 | 可用于教育 | 一个帮你临时抱佛脚的项目 | 元数据收集 |
+| [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits) | 402 | 编程与 STEM 教育／应用 | 可用于教育 | A free, open source, online digital circuit/logic designer. | 元数据收集 |
+| [fukuball/Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) | 398 | 编程与 STEM 教育／开发组件 | 教育原生 | A curated list of resources for learning about the Laravel PHP Framework | 元数据收集 |
+| [wolandark/bash-dungeon](https://github.com/wolandark/bash-dungeon) | 398 | 编程与 STEM 教育／应用 | 教育原生 | An educational dungeon crawler in the shell | 元数据收集 |
+| [mathigon/textbooks](https://github.com/mathigon/textbooks) | 393 | 编程与 STEM 教育／应用 | 可用于教育 | Source code of Mathigon's interactive textbooks | 元数据收集 |
+| [ianshulx/Django-Projects-for-beginners](https://github.com/ianshulx/Django-Projects-for-beginners) | 385 | 编程与 STEM 教育／应用 | 可用于教育 | Open source Django Project repository for beginners. @Hacktoberfest @Django | 元数据收集 |
+| [endbasic/endbasic](https://github.com/endbasic/endbasic) | 384 | 编程与 STEM 教育／应用 | 可用于教育 | BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust | 元数据收集 |
+| [idrak888/lab2client-frontend](https://github.com/idrak888/lab2client-frontend) | 382 | 编程与 STEM 教育／应用 | 可用于教育 | Primary React website for lab2client | 元数据收集 |
+| [ystemsrx/mini-nanoGPT](https://github.com/ystemsrx/mini-nanoGPT) | 381 | 编程与 STEM 教育／应用 | 可用于教育 | One-click training of your own GPT. Training a GPT has never been easier for beginners. / 一键预训练+SFT一个属于自己的LLM，0基础训练GPT原来可以这么简单？ | 元数据收集 |
+| [he4rt/react4noobs](https://github.com/he4rt/react4noobs) | 378 | 编程与 STEM 教育／应用 | 可用于教育 | 通过教育相关主题检索收集；可评估用于编程教学、示例练习或 STEM 学习；具体能力待核对。 | 元数据收集 |
+| [brettchalupa/projectbook](https://github.com/brettchalupa/projectbook) | 372 | 编程与 STEM 教育／应用 | 可用于教育 | 100+ project ideas with specifications, mock-ups, and assets for learning any programming language | 元数据收集 |
+| [okpy/ok](https://github.com/okpy/ok) | 371 | 编程与 STEM 教育／应用 | 可用于教育 | ok.py supports programming projects by running tests, tracking progress, and assisting in debugging. | 元数据收集 |
+| [dair-ai/nlp\_fundamentals](https://github.com/dair-ai/nlp_fundamentals) | 370 | 编程与 STEM 教育／应用 | 可用于教育 | 📘 Contains a series of hands-on notebooks for learning the fundamentals of NLP | 元数据收集 |
+| [Frimkron/mud-pi](https://github.com/Frimkron/mud-pi) | 370 | 编程与 STEM 教育／应用 | 教育原生 | A simple MUD server in Python, for teaching purposes, which could be run on a Raspberry Pi | 元数据收集 |
+| [training-center/sobre](https://github.com/training-center/sobre) | 364 | 编程与 STEM 教育／应用 | 可用于教育 | Informações gerais sobre o Centro de Treinamento | 元数据收集 |
+| [TheAlgorithms/Solidity](https://github.com/TheAlgorithms/Solidity) | 363 | 编程与 STEM 教育／应用 | 可用于教育 | Algorithms and data structures implemented in Solidity | 元数据收集 |
+| [TrenTorch/TrenTorch](https://github.com/TrenTorch/TrenTorch) | 358 | 编程与 STEM 教育／应用 | 可用于教育 | Don't memorize ML. Understand it from first principles including Inference,Cuda,Deep-Learning,Data-science and Reinforcement Learning. | 元数据收集 |
+| [Hash-Studios/e-learning-app](https://github.com/Hash-Studios/e-learning-app) | 355 | 编程与 STEM 教育／开发组件 | 教育原生 | E-Learn is a beautiful open-source education app for Android. It is built with Dart on top of Google's Flutter Framework. | 元数据收集 |
+| [Moonrend/Classworks](https://github.com/Moonrend/Classworks) | 351 | 编程与 STEM 教育／应用 | 可用于教育 | 适用于班级大屏的作业板小工具 | 元数据收集 |
+| [dodona-edu/dolos](https://github.com/dodona-edu/dolos) | 350 | 编程与 STEM 教育／应用 | 可用于教育 | :detective: Source code plagiarism detection | 元数据收集 |
+| [davidedc/livecodelab](https://github.com/davidedc/livecodelab) | 345 | 编程与 STEM 教育／应用 | 可用于教育 | a web based livecoding environment | 元数据收集 |
+| [nikoo28/java-solutions](https://github.com/nikoo28/java-solutions) | 343 | 编程与 STEM 教育／应用 | 可用于教育 | Solutions in JAVA for some coding platforms. | 元数据收集 |
+| [edrys-org/edrys](https://github.com/edrys-org/edrys) | 336 | 编程与 STEM 教育／应用 | 教育原生 | Edrys is an open and modular remote teaching platform (and the first live LMS) | 元数据收集 |
+| [paralax/lfi-labs](https://github.com/paralax/lfi-labs) | 335 | 编程与 STEM 教育／应用 | 可用于教育 | small set of PHP scripts to practice exploiting LFI, RFI and CMD injection vulns | 元数据收集 |
+| [octallium/modern-python-101](https://github.com/octallium/modern-python-101) | 332 | 编程与 STEM 教育／应用 | 可用于教育 | Modern Python 101 - Thinking In Types | 元数据收集 |
+| [hoochanlon/aitii-tekisuto](https://github.com/hoochanlon/aitii-tekisuto) | 327 | 编程与 STEM 教育／应用 | 可用于教育 | AD 域控与数据通信网络的统一技术文档平台，覆盖架构设计、部署实施、安全加固与日常运维，帮助你快速搭建与维护稳定可靠的企业网络环境。 | 元数据收集 |
+| [php-school/learn-you-php](https://github.com/php-school/learn-you-php) | 325 | 编程与 STEM 教育／应用 | 可用于教育 | 🏆 Learn You PHP! - An introduction to PHP's core features: i/o, http, arrays, exceptions and so on. | 元数据收集 |
+| [tesseralis/polyhedra-viewer](https://github.com/tesseralis/polyhedra-viewer) | 325 | 编程与 STEM 教育／应用 | 可用于教育 | Explore the relationships between convex regular-faced polyhedra. | 元数据收集 |
+| [ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu) | 323 | 编程与 STEM 教育／应用 | 可用于教育 | Get AI to teach and answer questions for you - just by typing! | 元数据收集 |
+| [PapillonApp/Papillon](https://github.com/PapillonApp/Papillon) | 323 | 编程与 STEM 教育／应用 | 可用于教育 | L'application libre et open source ultime pour gérer toute ta vie scolaire sans compromis. | 元数据收集 |
+| [crossin/snippet](https://github.com/crossin/snippet) | 319 | 编程与 STEM 教育／应用 | 教育原生 | Crossin的编程教室 - 教学案例配套代码 | 元数据收集 |
+| [Lakens/statistical\_inferences](https://github.com/Lakens/statistical_inferences) | 319 | 编程与 STEM 教育／应用 | 可用于教育 | Repository for the textbook 'Improving Your Statistical Inferences' by Daniel Lakens | 元数据收集 |
+| [keyvank/30cc](https://github.com/keyvank/30cc) | 317 | 编程与 STEM 教育／应用 | 可用于教育 | 30 C Compiler | 元数据收集 |
+| [SimonSchubert/Braincup](https://github.com/SimonSchubert/Braincup) | 314 | 编程与 STEM 教育／应用 | 可用于教育 | Memory, focus & math trainer | 元数据收集 |
+| [AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator) | 313 | 编程与 STEM 教育／应用 | 可用于教育 | Create and edit AI video tutorials with illustrated lessons, expressive presenters, distinct voices, and a native timeline. Windows desktop app wit… | 元数据收集 |
+| [paytonjjones/bsharp](https://github.com/paytonjjones/bsharp) | 313 | 编程与 STEM 教育／应用 | 可用于教育 | A tool to teach children perfect pitch | 元数据收集 |
+| [rajshah6/arXivisual](https://github.com/rajshah6/arXivisual) | 311 | 编程与 STEM 教育／应用 | 可用于教育 | 🎊 TartanHacks '26 Winner | 元数据收集 |
+| [aicademyorg/AIcademy](https://github.com/aicademyorg/AIcademy) | 308 | 编程与 STEM 教育／应用 | 教育原生 | A friendly community offering free AI education. | 元数据收集 |
+| [g0aty/SickoMenu](https://github.com/g0aty/SickoMenu) | 308 | 编程与 STEM 教育／应用 | 可用于教育 | A powerful utility for Among Us designed to enrich your game experience with custom features! | 元数据收集 |
+| [cahirwpz/mimiker](https://github.com/cahirwpz/mimiker) | 307 | 编程与 STEM 教育／应用 | 教育原生 | Simple unix-like operating system for education and research purposes | 元数据收集 |
+| [gilesknap/mciwb](https://github.com/gilesknap/mciwb) | 307 | 编程与 STEM 教育／应用 | 可用于教育 | Minecraft Interactive world builder | 元数据收集 |
+| [minmaxflow/mini-kode](https://github.com/minmaxflow/mini-kode) | 307 | 编程与 STEM 教育／应用 | 教育原生 | An educational AI coding agent CLI | 元数据收集 |
+| [ml-from-scratch-book/code](https://github.com/ml-from-scratch-book/code) | 306 | 编程与 STEM 教育／应用 | 可用于教育 | Companion code for Machine Learning From Scratch — 10 core ML algorithms built from scratch with NumPy, compared with Scikit-learn and PyTorch. | 元数据收集 |
+| [thom4parisot/nodebook](https://github.com/thom4parisot/nodebook) | 306 | 编程与 STEM 教育／应用 | 可用于教育 | 📖 Livre publié aux Éditions Eyrolles • Première édition : Node.js v10 et npm v6. | 元数据收集 |
+| [fengyanhao/3D\_Magnetic\_Pieces](https://github.com/fengyanhao/3D_Magnetic_Pieces) | 305 | 编程与 STEM 教育／应用 | 可用于教育 | 一个面向儿童和家长的开源交互式 3D 磁力片搭建与教程平台，基于 React、TypeScript 和 Three.js 构建。 | 元数据收集 |
+| [F2u0a0d3/goodboy-framework](https://github.com/F2u0a0d3/goodboy-framework) | 299 | 编程与 STEM 教育／开发组件 | 可用于教育 | 15-stage Windows malware development & analysis course in Rust. Red team builds it, blue team detects it. All 15 binaries achieved 0/76 on VirusTotal. | 元数据收集 |
+| [Luzkan/smells](https://github.com/Luzkan/smells) | 294 | 编程与 STEM 教育／应用 | 可用于教育 | 📗 The Code Smells Catalog | 元数据收集 |
+| [DanielPodolsky/ownyourcode](https://github.com/DanielPodolsky/ownyourcode) | 290 | 编程与 STEM 教育／应用 | 可用于教育 | Claude Code workflow for AI-mentored development. Work efficiently with Spec-Driven Development and the 6 Gates. Built to fight cognitive offloadin… | 元数据收集 |
+| [scratchfoundation/scratch-editor](https://github.com/scratchfoundation/scratch-editor) | 290 | 编程与 STEM 教育／应用 | 教育原生 | 包含当前 Scratch 编辑器组件的 monorepo。 | 资料核对 |
+| [benjie-git/CardStock](https://github.com/benjie-git/CardStock) | 287 | 编程与 STEM 教育／应用 | 可用于教育 | CardStock is a cross-platform tool for quickly and easily building programs. It provides a drawing-program-like editor for visually laying out your… | 元数据收集 |
+| [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) | 287 | 编程与 STEM 教育／应用 | 可用于教育 | A free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners. | 元数据收集 |
+| [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal) | 286 | 编程与 STEM 教育／应用 | 教育原生 | Enterprise open source portal built by and for the higher education community. | 元数据收集 |
+| [LiaScript/LiaScript](https://github.com/LiaScript/LiaScript) | 284 | 编程与 STEM 教育／应用 | 教育原生 | Interpreter for interactive educational content, written in an extended Markdown format... | 元数据收集 |
+| [Li-Evan/Bloom](https://github.com/Li-Evan/Bloom) | 282 | 编程与 STEM 教育／应用 | 教育原生 | Hire a private AI tutor for anything — it reads how you actually learn and teaches the next lesson just for you. Bloom's 2-Sigma research as a Clau… | 元数据收集 |
+| [zalo/zalo.github.io](https://github.com/zalo/zalo.github.io) | 279 | 编程与 STEM 教育／应用 | 可用于教育 | A home for knowledge that is hard to find elsewhere | 元数据收集 |
+| [EmenstaNougat/BlueJammer-V2](https://github.com/EmenstaNougat/BlueJammer-V2) | 278 | 编程与 STEM 教育／应用 | 教育原生 | BlueJammer-V2 is a two-board RF research platform combining an ESP32 jamming engine with a BW16 5GHz web controller. Features up to 4x NRF24L01 mod… | 元数据收集 |
+| [lucasfrag/kali-linux-tools-interface](https://github.com/lucasfrag/kali-linux-tools-interface) | 277 | 编程与 STEM 教育／应用 | 可用于教育 | Graphical Web interface developed to facilitate the use of security information tools. | 元数据收集 |
+| [rogergcc/AndroidEducationApp](https://github.com/rogergcc/AndroidEducationApp) | 277 | 编程与 STEM 教育／应用 | 教育原生 | Android Education App adding Design Course App UI | 元数据收集 |
+| [kobra-dev/Kobra](https://github.com/kobra-dev/Kobra) | 272 | 编程与 STEM 教育／应用 | 可用于教育 | Kobra is a visual programming language (like Scratch) for Machine Learning | 元数据收集 |
+| [PuneethReddyHC/event-management](https://github.com/PuneethReddyHC/event-management) | 272 | 编程与 STEM 教育／应用 | 可用于教育 | helps to register an users for on events conducted in college fests with simple logic with secured way | 元数据收集 |
+| [data-edu/data-science-in-education](https://github.com/data-edu/data-science-in-education) | 271 | 编程与 STEM 教育／应用 | 教育原生 | Repository for the second edition of 'Data Science in Education Using R' by Emily A. Bovee, Ryan A. Estrellado, Joshua M. Rosenberg, and Isabella C… | 元数据收集 |
+| [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale) | 268 | 编程与 STEM 教育／应用 | 可用于教育 | Git repository for Robocode Tank Royale | 元数据收集 |
+| [sjsyrek/haskell-study-startup](https://github.com/sjsyrek/haskell-study-startup) | 266 | 编程与 STEM 教育／应用 | 可用于教育 | Launch your own Haskell study group. Now. | 元数据收集 |
+| [lesnitsky/howtodothisinflutter](https://github.com/lesnitsky/howtodothisinflutter) | 263 | 编程与 STEM 教育／应用 | 可用于教育 | 📄Flutter cheat sheet | 元数据收集 |
+| [TUM-Dev/gocast](https://github.com/TUM-Dev/gocast) | 262 | 编程与 STEM 教育／应用 | 可用于教育 | TUMs lecture streaming service. | 元数据收集 |
+| [hotosm/learnosm](https://github.com/hotosm/learnosm) | 258 | 编程与 STEM 教育／应用 | 可用于教育 | LearnOSM.org content, Jekyll layouts & issue tracking. This repository is dedicated to helping people learn how to map in OpenStreetMap (OSM) and u… | 元数据收集 |
+| [SJRiz/pytogether](https://github.com/SJRiz/pytogether) | 258 | 编程与 STEM 教育／应用 | 可用于教育 | Source code for pytogether.org — A fully browser-based collaborative IDE with real-time editing, live drawing, and voice chat. | 元数据收集 |
+| [szkolny-eu/szkolny-android](https://github.com/szkolny-eu/szkolny-android) | 256 | 编程与 STEM 教育／应用 | 可用于教育 | Nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce. | 元数据收集 |
+| [ATOM00blue/machine-learning-library](https://github.com/ATOM00blue/machine-learning-library) | 255 | 编程与 STEM 教育／开发组件 | 可用于教育 | Custom APRL machine-learning algorithm + a curated ML knowledge base of 923 papers, lectures, and explainers. NumPy classifier/regressor, tests, be… | 元数据收集 |
+| [shreyashankar/datasets-for-good](https://github.com/shreyashankar/datasets-for-good) | 253 | 编程与 STEM 教育／应用 | 可用于教育 | List of datasets to apply stats/machine learning/technology to the world of social good. | 元数据收集 |
+| [quantum-ods/qmlcourse](https://github.com/quantum-ods/qmlcourse) | 252 | 编程与 STEM 教育／应用 | 可用于教育 | Курс по квантовому машинному обучению | 元数据收集 |
+| [ronilan/BlockLike](https://github.com/ronilan/BlockLike) | 252 | 编程与 STEM 教育／应用 | 可用于教育 | Bridging the gap between block programming and JavaScript. | 元数据收集 |
+| [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec) | 248 | 编程与 STEM 教育／应用 | 教育原生 | A tiny educational decompiler that helps people understand how decompilation works. | 元数据收集 |
+| [bklieger-groq/mathtutor-on-groq](https://github.com/bklieger-groq/mathtutor-on-groq) | 245 | 编程与 STEM 教育／应用 | 教育原生 | Voice-Enabled Math Tutor Powered by Groq that Calculates and Renders Live Problems and Instruction with LaTeX in Seconds! | 元数据收集 |
+| [dair-ai/dair-ai.github.io](https://github.com/dair-ai/dair-ai.github.io) | 244 | 编程与 STEM 教育／应用 | 可用于教育 | Home of DAIR.AI | 元数据收集 |
+| [inuyasha2012/pypsy](https://github.com/inuyasha2012/pypsy) | 241 | 编程与 STEM 教育／应用 | 可用于教育 | psychometrics package, including MIRT(multidimension item response theory), IRT(item response theory),GRM(grade response theory),CAT(computerized a… | 元数据收集 |
+| [arm-education/Embedded-Systems-Fundamentals](https://github.com/arm-education/Embedded-Systems-Fundamentals) | 240 | 编程与 STEM 教育／应用 | 教育原生 | Textbook on embedded systems fundamentals using Arm Cortex-M microcontrollers with hands-on labs (educational) | 元数据收集 |
+| [madebydia/tiny-terminal](https://github.com/madebydia/tiny-terminal) | 238 | 编程与 STEM 教育／应用 | 可用于教育 | A fake terminal where kids can type anything and get fun responses. Teaches keyboard familiarity and cause-effect thinking. | 元数据收集 |
+| [UBC-MDS/public](https://github.com/UBC-MDS/public) | 237 | 编程与 STEM 教育／应用 | 可用于教育 | Public documents for the Master of Data Science program at the University of British Columbia | 元数据收集 |
+| [kvakil/venus](https://github.com/kvakil/venus) | 235 | 编程与 STEM 教育／应用 | 教育原生 | RISC-V instruction set simulator built for education | 元数据收集 |
+| [WorldFamousElectronics/PulseSensorPlayground](https://github.com/WorldFamousElectronics/PulseSensorPlayground) | 235 | 编程与 STEM 教育／开发组件 | 可用于教育 | A PulseSensor library (for Arduino) that collects our most popular projects in one place. | 元数据收集 |
+| [ezra-bible-app/ezra-bible-app](https://github.com/ezra-bible-app/ezra-bible-app) | 234 | 编程与 STEM 教育／应用 | 可用于教育 | Ezra Bible App is a modern and user-friendly Bible app for desktops, tablets and mobiles focussing on topical study | 元数据收集 |
+| [int64ago/vistep](https://github.com/int64ago/vistep) | 234 | 编程与 STEM 教育／应用 | 可用于教育 | Visualize Every Step with AI — bilingual visual explanations, interactive models and synchronized narration. | 元数据收集 |
+| [PabloLec/neoss](https://github.com/PabloLec/neoss) | 232 | 编程与 STEM 教育／应用 | 可用于教育 | :heavy\_check\_mark: User-friendly and detailed socket statistics with a Terminal UI. | 元数据收集 |
+| [SeanWong17/Mammalia-tree](https://github.com/SeanWong17/Mammalia-tree) | 230 | 编程与 STEM 教育／应用 | 可用于教育 | DeepTime Mammalia：交互式哺乳纲演化树，3D 螺旋序幕 + D3.js 动态时间树，跨越 2 亿年 \| Interactive mammalian phylogeny with 3D spiral intro & D3.js dynamic timetree spanning … | 元数据收集 |
+| [skbkontur/dotEducation](https://github.com/skbkontur/dotEducation) | 229 | 编程与 STEM 教育／应用 | 可用于教育 | База знаний для .NET разработчиков | 元数据收集 |
+| [playfulprogramming/playfulprogramming](https://github.com/playfulprogramming/playfulprogramming) | 227 | 编程与 STEM 教育／应用 | 可用于教育 | 🦄 Practice programming with magically majestic methods | 元数据收集 |
+| [classroombookings/classroombookings](https://github.com/classroombookings/classroombookings) | 224 | 编程与 STEM 教育／应用 | 可用于教育 | The open source hassle-free room booking system for schools | 元数据收集 |
+| [workshopper/how-to-markdown](https://github.com/workshopper/how-to-markdown) | 220 | 编程与 STEM 教育／应用 | 可用于教育 | Learn how to start using Markdown | 元数据收集 |
+| [hqanhh/EduGPT](https://github.com/hqanhh/EduGPT) | 218 | 编程与 STEM 教育／应用 | 可用于教育 | Implementation of an AI Instructor using LLMs and Langchain | 元数据收集 |
+| [xiaolai/1000-hours](https://github.com/xiaolai/1000-hours) | 217 | 编程与 STEM 教育／应用 | 可用于教育 | Pay your attention into 1000 hours, and you can master anything you need. | 元数据收集 |
+| [iansan5653/open-mcr](https://github.com/iansan5653/open-mcr) | 211 | 编程与 STEM 教育／应用 | 可用于教育 | :pencil: Exam bubble sheet scorer. Created with OpenCV and Python. | 元数据收集 |
+| [creativescala/creative-scala](https://github.com/creativescala/creative-scala) | 209 | 编程与 STEM 教育／应用 | 可用于教育 | Quick, graphical, fun introduction to programming in Scala. | 元数据收集 |
+| [foundation50/classroom50](https://github.com/foundation50/classroom50) | 209 | 编程与 STEM 教育／应用 | 可用于教育 | The free, open-source alternative to GitHub Classroom | 元数据收集 |
+| [heycarsten/lcbo-api](https://github.com/heycarsten/lcbo-api) | 209 | 编程与 STEM 教育／应用 | 可用于教育 | A crawler and API server for Liquor Control Board of Ontario retail data | 元数据收集 |
+| [PowerPointLabs/PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs) | 208 | 编程与 STEM 教育／应用 | 可用于教育 | This is the project for PowerPointLabs, a productivity add-in for PowerPoint | 元数据收集 |
+| [edwardlib/observations](https://github.com/edwardlib/observations) | 207 | 编程与 STEM 教育／应用 | 可用于教育 | Tools for loading standard data sets in machine learning | 元数据收集 |
+| [plskz/100-days-of-productivity](https://github.com/plskz/100-days-of-productivity) | 207 | 编程与 STEM 教育／应用 | 可用于教育 | becoming one percent better everyday. | 元数据收集 |
+| [Poseidon-fan/linux-0.11-rs](https://github.com/Poseidon-fan/linux-0.11-rs) | 206 | 编程与 STEM 教育／开发组件 | 可用于教育 | Linux 0.11 rewritten in idiomatic Rust: kernel, std-style user library, and 60+ coreutils — boots on i386 in QEMU. | 元数据收集 |
+| [themrsami/scribd-downloader](https://github.com/themrsami/scribd-downloader) | 206 | 编程与 STEM 教育／应用 | 可用于教育 | Download Scribd documents as PDF for free. Fast, automated, headless Chrome browser - no login required. | 元数据收集 |
+| [mistval/kotoba](https://github.com/mistval/kotoba) | 205 | 编程与 STEM 教育／应用 | 可用于教育 | A Discord bot for helping with learning Japanese. | 元数据收集 |
+| [oil-oil/vibe-hub-skill](https://github.com/oil-oil/vibe-hub-skill) | 203 | 编程与 STEM 教育／应用 | 可用于教育 | 在编程交流中识别专业术语，提供通俗解释和可追溯的术语链接，帮助准确表达需求。 | 元数据收集 |
+| [skranz/RTutor](https://github.com/skranz/RTutor) | 203 | 编程与 STEM 教育／应用 | 可用于教育 | Creating interactive R Problem Sets. Automatic hints and solution checks. (Shiny or RStudio) | 元数据收集 |
+| [trevorsandy/lpub3d](https://github.com/trevorsandy/lpub3d) | 200 | 编程与 STEM 教育／应用 | 可用于教育 | An LDraw™ editor for LEGO® style digital building instructions. | 元数据收集 |
+| [bilgecakar/Sakarya-University-Computer-Engineering-Department](https://github.com/bilgecakar/Sakarya-University-Computer-Engineering-Department) | 199 | 编程与 STEM 教育／应用 | 可用于教育 | 2017-2021 Sakarya Üniversitesi Bilgisayar Mühendisliği Bölümü ders notları, sınavlar, kod örneklerini içermektedir. | 元数据收集 |
+| [aau-network-security/haaukins](https://github.com/aau-network-security/haaukins) | 197 | 编程与 STEM 教育／应用 | 教育原生 | A Highly Accessible and Automated Virtualization Platform for Security Education | 元数据收集 |
+| [boschresearch/pylife](https://github.com/boschresearch/pylife) | 197 | 编程与 STEM 教育／开发组件 | 可用于教育 | a general library for fatigue and reliability | 元数据收集 |
+| [expertiza/expertiza](https://github.com/expertiza/expertiza) | 194 | 编程与 STEM 教育／应用 | 可用于教育 | Expertiza is a web application through which students can submit and peer-review learning objects (articles, code, web sites, etc). The Expertiza p… | 元数据收集 |
+| [Lumieducation/Lumi](https://github.com/Lumieducation/Lumi) | 194 | 编程与 STEM 教育／应用 | 可用于教育 | Lumi is a Desktop App that offers a collection of tools to create, edit and share digital content with your class. | 元数据收集 |
+| [TheAlgorithms/AArch64\_Assembly](https://github.com/TheAlgorithms/AArch64_Assembly) | 194 | 编程与 STEM 教育／应用 | 可用于教育 | All Algorithms implemented in AArch64 Assembly | 元数据收集 |
+| [popcodeorg/popcode](https://github.com/popcodeorg/popcode) | 190 | 编程与 STEM 教育／应用 | 可用于教育 | An HTML/CSS/JavaScript editor for use in the classroom | 元数据收集 |
+| [replit/replit-py](https://github.com/replit/replit-py) | 190 | 编程与 STEM 教育／应用 | 可用于教育 | A helpful Python package that helps you build excellent things inside Repls! 💻 | 元数据收集 |
+| [carpentries/instructor-training](https://github.com/carpentries/instructor-training) | 189 | 编程与 STEM 教育／应用 | 可用于教育 | Instructor Training | 元数据收集 |
+| [read2017/learn-anything-with-AI](https://github.com/read2017/learn-anything-with-AI) | 189 | 编程与 STEM 教育／应用 | 可用于教育 | A reusable AI learning skill for mastering almost any subject through project-driven learning, mastery checks, and authoritative sources. | 元数据收集 |
+| [ystemsrx/sql\_to\_ER](https://github.com/ystemsrx/sql_to_ER) | 187 | 编程与 STEM 教育／应用 | 可用于教育 | 【在线免费使用】 简单快速将SQL或DBML转换为美观的ER图（支持 Agent Skill）/ The best SQL to ER Diagram converter (Support Agent Skill). | 元数据收集 |
+| [resumax/coding-project-ideas](https://github.com/resumax/coding-project-ideas) | 186 | 编程与 STEM 教育／应用 | 可用于教育 | 50+ real, portfolio-grade coding project ideas with references and an AI coach to build them with you. A shipped project beats a claimed skill. Upd… | 元数据收集 |
+| [Mariotti94/WebRISC-V](https://github.com/Mariotti94/WebRISC-V) | 182 | 编程与 STEM 教育／应用 | 教育原生 | WebRISC-V: A Web-Based Education-Oriented RISC-V Pipeline Simulation Environment \[PHP\] | 元数据收集 |
+| [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) | 181 | 编程与 STEM 教育／应用 | 可用于教育 | A website to teach and learn Blenders default shortcuts | 元数据收集 |
+| [cclank/clay-safari](https://github.com/cclank/clay-safari) | 180 | 编程与 STEM 教育／应用 | 可用于教育 | 黏土风格 3D 双语动物世界 · A playful clay-style animal world built with Three.js and Blender. | 元数据收集 |
+| [vanishgg/VanishRaider](https://github.com/vanishgg/VanishRaider) | 179 | 编程与 STEM 教育／应用 | 可用于教育 | Vanish - a free discord raider (DISCONTINEUD!!) | 元数据收集 |
+| [chenyuliu577-cyber/jyd-rv32i-fpga-core](https://github.com/chenyuliu577-cyber/jyd-rv32i-fpga-core) | 178 | 编程与 STEM 教育／应用 | 教育原生 | Educational RV32I FPGA CPU/SoC project organized for JYD RISC-V contest-style Vivado reconstruction and verification. | 元数据收集 |
+| [v-community/v\_by\_example](https://github.com/v-community/v_by_example) | 178 | 编程与 STEM 教育／应用 | 可用于教育 | Learn V by Example | 元数据收集 |
+| [xuzongbao/encryption](https://github.com/xuzongbao/encryption) | 178 | 编程与 STEM 教育／应用 | 教育原生 | Java/JDK 加解密教学示例：AES-GCM、RSA、ECDH、PBKDF2、HMAC 等。仅供学习，非生产库。MIT。 | 元数据收集 |
+| [EduMIPS64/edumips64](https://github.com/EduMIPS64/edumips64) | 177 | 编程与 STEM 教育／应用 | 教育原生 | Free cross-platform educational MIPS64 CPU Simulator. Experimental web version: https://web.edumips.org. | 元数据收集 |
+| [KC7-Foundation/kc7](https://github.com/KC7-Foundation/kc7) | 176 | 编程与 STEM 教育／应用 | 可用于教育 | A cybersecurity game in Azure Data Explorer | 元数据收集 |
+| [Psyyke/A.C.A.S](https://github.com/Psyyke/A.C.A.S) | 175 | 编程与 STEM 教育／应用 | 可用于教育 | Advanced Chess Assistance System for Chess.com, Lichess.org, Pychess.org and more. Hassle-free 1-click install, no downloading. All devices and bro… | 元数据收集 |
+| [damiansire/web-worker-patterns](https://github.com/damiansire/web-worker-patterns) | 174 | 编程与 STEM 教育／应用 | 可用于教育 | An interactive platform demonstrating advanced Web Worker patterns and architectural strategies. | 元数据收集 |
+| [DosX-dev/UAC-Exploit](https://github.com/DosX-dev/UAC-Exploit) | 174 | 编程与 STEM 教育／应用 | 可用于教育 | Confirmation message bypass (Win 10/11) | 元数据收集 |
+| [rsokl/Learning\_Python](https://github.com/rsokl/Learning_Python) | 173 | 编程与 STEM 教育／应用 | 可用于教育 | Source material for Python Like You Mean it | 元数据收集 |
+| [elixirschool/school\_house](https://github.com/elixirschool/school_house) | 172 | 编程与 STEM 教育／应用 | 可用于教育 | The new era of Elixir School now powered by @phoenixframework | 元数据收集 |
+| [FSou1/typescript-algorithms](https://github.com/FSou1/typescript-algorithms) | 172 | 编程与 STEM 教育／应用 | 可用于教育 | 🔖 Algorithms and data structures implemented in TypeScript | 元数据收集 |
+| [scribe-org/Scribe-iOS](https://github.com/scribe-org/Scribe-iOS) | 171 | 编程与 STEM 教育／应用 | 可用于教育 | Scribe-iOS: Keyboards for language learners & Conjugate-iOS: Wikidata based verb conjugation app | 元数据收集 |
+| [swe-labs/the-go-engineer](https://github.com/swe-labs/the-go-engineer) | 171 | 编程与 STEM 教育／应用 | 可用于教育 | The Go Engineer is a complete Go backend engineering path where learners go from machine fundamentals to building Opslane, a production-shaped SaaS… | 元数据收集 |
+| [techthoughts2/Learn-PowerShell-Code-Examples](https://github.com/techthoughts2/Learn-PowerShell-Code-Examples) | 171 | 编程与 STEM 教育／应用 | 可用于教育 | Contains code examples used in the Learn PowerShell Video & Blog series | 元数据收集 |
+| [StepicOrg/stepik-ios](https://github.com/StepicOrg/stepik-ios) | 170 | 编程与 STEM 教育／应用 | 可用于教育 | iOS Application for Taking Open Courses on the Stepik Platform | 元数据收集 |
+| [L-M-Sherlock/thoughts-memo-translation](https://github.com/L-M-Sherlock/thoughts-memo-translation) | 169 | 编程与 STEM 教育／应用 | 可用于教育 | Thoughts Memo 汉化组翻译合集 | 元数据收集 |
+| [Azumi67/FRP\_Reverse\_Loadbalance](https://github.com/Azumi67/FRP_Reverse_Loadbalance) | 167 | 编程与 STEM 教育／应用 | 可用于教育 | Create a reverse tunnel using FRP with load balancing between multiple servers (10) Kharej Servers \| (1) Iran Server/s and vice versa\] using either… | 元数据收集 |
+| [jungang/alumnet](https://github.com/jungang/alumnet) | 167 | 编程与 STEM 教育／应用 | 可用于教育 | AlumNet - AI-powered intelligent school history exhibition & alumni management system \| AI 智能校史展示系统 — 校友星图 | 元数据收集 |
+| [novoid/org-mode-workshop](https://github.com/novoid/org-mode-workshop) | 167 | 编程与 STEM 教育／应用 | 可用于教育 | Workshop for Org-mode with focus on todo-, project- and workflow-management | 元数据收集 |
+| [BG-IT-Edu/School-Programming](https://github.com/BG-IT-Edu/School-Programming) | 166 | 编程与 STEM 教育／应用 | 可用于教育 | Хранилище за свободно учебно съдържание по програмиране, информатика и ИТ за българските училища в помощ на ИТ учителите | 元数据收集 |
+| [TerryHuangHD/Windows10-VersionSwitcher](https://github.com/TerryHuangHD/Windows10-VersionSwitcher) | 166 | 编程与 STEM 教育／应用 | 教育原生 | A simple script to switch Windows 10 & Windows 11 version, supports Home & Pro & Education & Enterprise x Retail & VL. | 元数据收集 |
+| [wkoszek/cpu60](https://github.com/wkoszek/cpu60) | 165 | 编程与 STEM 教育／应用 | 可用于教育 | Simple CPU model written in 60 lines of C with 8 registers and basic instructions | 元数据收集 |
+| [byo-books/pretty\_laughable\_lang](https://github.com/byo-books/pretty_laughable_lang) | 164 | 编程与 STEM 教育／应用 | 教育原生 | An educational C-like toy programming language that compiles to x64 binary. | 元数据收集 |
+| [tighten/onramp](https://github.com/tighten/onramp) | 164 | 编程与 STEM 教育／应用 | 可用于教育 | Easing the onramp for new or non-PHP developers to become Laravel devs. | 元数据收集 |
+| [notemrovsky/tiktok-reverse-engineering](https://github.com/notemrovsky/tiktok-reverse-engineering) | 163 | 编程与 STEM 教育／开发组件 | 教育原生 | Reverse engineering TikTok's JavaScript VM - 77 opcodes mapped, string deobfuscation, bytecode disassembly, and crypto function identification. Edu… | 元数据收集 |
+| [landgreen/landgreen.github.io](https://github.com/landgreen/landgreen.github.io) | 162 | 编程与 STEM 教育／应用 | 可用于教育 | Landgreen's public site: physics notes, n-gon | 元数据收集 |
+| [matthewkastor/Metatrader](https://github.com/matthewkastor/Metatrader) | 162 | 编程与 STEM 教育／应用 | 可用于教育 | Expert advisors, scripts, indicators and code libraries for Metatrader. | 元数据收集 |
+| [ivoyager/planetarium](https://github.com/ivoyager/planetarium) | 161 | 编程与 STEM 教育／应用 | 可用于教育 | Our Planetarium project! | 元数据收集 |
+| [stratosphereips/stratocyberlab](https://github.com/stratosphereips/stratocyberlab) | 161 | 编程与 STEM 教育／应用 | 可用于教育 | A Cyber Range to learn hacking (both attacking & defending) techniques locally in your computer | 元数据收集 |
+| [carpentries-incubator/geospatial-python](https://github.com/carpentries-incubator/geospatial-python) | 160 | 编程与 STEM 教育／应用 | 可用于教育 | Introduction to Geospatial Raster and Vector Data with Python | 元数据收集 |
+| [stevekrouse/WoofJS](https://github.com/stevekrouse/WoofJS) | 158 | 编程与 STEM 教育／应用 | 可用于教育 | Learnable JavaScript | 元数据收集 |
+| [isadrtdinov/intro-to-dl-hse](https://github.com/isadrtdinov/intro-to-dl-hse) | 157 | 编程与 STEM 教育／应用 | 可用于教育 | Введение в глубинное обучение на ФКН ВШЭ | 元数据收集 |
+| [learning-commons-org/knowledge-graph](https://github.com/learning-commons-org/knowledge-graph) | 157 | 编程与 STEM 教育／应用 | 教育原生 | The data layer for smarter educational AI. Integrate trusted instructional content and research directly into your AI-powered tools — improving pre… | 元数据收集 |
+| [squillero/computer-sciences](https://github.com/squillero/computer-sciences) | 157 | 编程与 STEM 教育／应用 | 可用于教育 | Code bites from Computer Sciences @ Politecnico di Torino | 元数据收集 |
+| [aieducations/edumcp](https://github.com/aieducations/edumcp) | 156 | 编程与 STEM 教育／应用 | 教育原生 | EDUMCP is a protocol that integrates the Model Context Protocol (MCP) with applications in the education field, dedicated to achieving seamless int… | 元数据收集 |
+| [codu-code/codu](https://github.com/codu-code/codu) | 154 | 编程与 STEM 教育／应用 | 可用于教育 | Codú's open-source codebase. A space for coders. Visit our community! | 元数据收集 |
+| [Erblocker/YRSSF](https://github.com/Erblocker/YRSSF) | 154 | 编程与 STEM 教育／应用 | 教育原生 | 一个分布式(p2p)云教学/云课堂/直播平台系统CMS，睿易派的开源替代品 | 元数据收集 |
+| [KeWang0622/kaogong-skill](https://github.com/KeWang0622/kaogong-skill) | 154 | 编程与 STEM 教育／应用 | 可用于教育 | 考公AI导师 — 免费的公务员考试 AI 辅导技能：行测·申论·面试·时政·报考。符合 Agent Skills 开放标准，可在 Claude Code / ChatGPT / Cursor / Gemini CLI 等 40+ 客户端使用，全部制度性内容标注权威出处。 | 元数据收集 |
+| [c4pr1c3/cuc-wiki](https://github.com/c4pr1c3/cuc-wiki) | 153 | 编程与 STEM 教育／应用 | 教育原生 | 个人教学 Wiki | 元数据收集 |
+| [duzhi5368/AwesomeAllInOne](https://github.com/duzhi5368/AwesomeAllInOne) | 152 | 编程与 STEM 教育／应用 | 可用于教育 | Sort. | 元数据收集 |
+| [rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) | 152 | 编程与 STEM 教育／应用 | 可用于教育 | 🔓 Free open-source AI text humanizer — bypass GPTZero, Turnitin & AI detectors with 16+ Languages support. 35 providers, 4 rewrite levels, 6 Writin… | 元数据收集 |
+| [unageek/graphest](https://github.com/unageek/graphest) | 151 | 编程与 STEM 教育／应用 | 可用于教育 | A faithful graphing calculator | 元数据收集 |
+| [barissaslan/django-dersleri](https://github.com/barissaslan/django-dersleri) | 150 | 编程与 STEM 教育／应用 | 可用于教育 | YouTube Django Dersleri için proje kaynak kodu | 元数据收集 |
+| [bvasiles/empirical-methods](https://github.com/bvasiles/empirical-methods) | 150 | 编程与 STEM 教育／应用 | 可用于教育 | Homepage for 17-803 "Empirical Methods" at Carnegie Mellon University | 元数据收集 |
+| [fifthist/Introduction-To-Probability-Blitzstein-Solutions](https://github.com/fifthist/Introduction-To-Probability-Blitzstein-Solutions) | 149 | 编程与 STEM 教育／应用 | 可用于教育 | Unofficial solutions for Introduction to Probability, Second Edition by Joseph Blitzstein and Jessica Hwang. | 元数据收集 |
+| [jaktestowac/typescript-dla-testera](https://github.com/jaktestowac/typescript-dla-testera) | 149 | 编程与 STEM 教育／应用 | 可用于教育 | Poznaj z nami TypeScript! Ekspresowe podstawy programowania z praktyką i ćwiczeniami | 元数据收集 |
+| [crgimenes/kutta](https://github.com/crgimenes/kutta) | 147 | 编程与 STEM 教育／应用 | 可用于教育 | A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave | 元数据收集 |
+| [c-koans/c\_koans](https://github.com/c-koans/c_koans) | 146 | 编程与 STEM 教育／应用 | 可用于教育 | C Koans | 元数据收集 |
+| [OpenRoberta/openroberta-lab](https://github.com/OpenRoberta/openroberta-lab) | 146 | 编程与 STEM 教育／应用 | 可用于教育 | The programming environment »Open Roberta Lab« by Fraunhofer IAIS enables children and adolescents to program robots. A variety of different progra… | 元数据收集 |
+| [chipmates/agoracosmica](https://github.com/chipmates/agoracosmica) | 145 | 编程与 STEM 教育／开发组件 | 可用于教育 | A Living Library You Can Talk To. Thirty historical figures, their lives narrated, their ideas open to conversation, in English and German. Nonprof… | 元数据收集 |
+| [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 145 | 编程与 STEM 教育／应用 | 可用于教育 | Go(lang) benchmarks - (measure the speed of golang) | 元数据收集 |
+| [HeathHowren/CSGO-Cheats](https://github.com/HeathHowren/CSGO-Cheats) | 144 | 编程与 STEM 教育／应用 | 教育原生 | Legacy (2018-2020) external CS:GO examples from the Cyborg Elf video series. Educational; offsets are out of date. | 元数据收集 |
+| [labplus-cn/mpython](https://github.com/labplus-cn/mpython) | 142 | 编程与 STEM 教育／应用 | 可用于教育 | mpython掌控板文档和固件源码 | 元数据收集 |
+| [LukeStonehm/LogicalDefence](https://github.com/LukeStonehm/LogicalDefence) | 142 | 编程与 STEM 教育／应用 | 可用于教育 | An open source Android app that displays a list of the logical fallacies that haunt every rationalists world | 元数据收集 |
+| [JinLingxi/MathCyclus---Lingxi-Question-Bank-Assistant](https://github.com/JinLingxi/MathCyclus---Lingxi-Question-Bank-Assistant) | 141 | 编程与 STEM 教育／应用 | 可用于教育 | Config files for my GitHub profile.基于 Streamlit 和 LaTeX 的自动化高中数学题库管理与智能组卷系统。支持 OCR 识别、TikZ 实时渲染与自动归档。 | 元数据收集 |
+| [JLospinoso/memcachedump](https://github.com/JLospinoso/memcachedump) | 141 | 编程与 STEM 教育／应用 | 可用于教育 | Python/Shodan tool for dumping exposed memcached server contents into local text files. | 元数据收集 |
+| [thesephist/codeframe](https://github.com/thesephist/codeframe) | 141 | 编程与 STEM 教育／应用 | 可用于教育 | The fastest, easiest way to build and deploy quick static webpages | 元数据收集 |
+| [Dentrax/Data-Structures-with-Go](https://github.com/Dentrax/Data-Structures-with-Go) | 140 | 编程与 STEM 教育／应用 | 可用于教育 | Data Structures with Go Language | 元数据收集 |
+| [free-revalution/AIGC-Detector-Pro](https://github.com/free-revalution/AIGC-Detector-Pro) | 140 | 编程与 STEM 教育／应用 | 可用于教育 | AIGC 检测论文 AI 降率工具 - Claude Code Skill for academic paper AI detection and rewriting | 元数据收集 |
+| [neural-data-science/NESC\_3505\_textbook](https://github.com/neural-data-science/NESC_3505_textbook) | 140 | 编程与 STEM 教育／应用 | 可用于教育 | Textbook for NESC 3505, Neural Data Science, at Dalhousie University | 元数据收集 |
+| [Raminshiraz/raft-visualizer](https://github.com/Raminshiraz/raft-visualizer) | 140 | 编程与 STEM 教育／应用 | 可用于教育 | Interactive Raft consensus visualizer. Crash nodes, partition the network, cut single links one-way, and watch elections and log repair play out — … | 元数据收集 |
+| [technologiescollege/Blockly-at-rduino](https://github.com/technologiescollege/Blockly-at-rduino) | 140 | 编程与 STEM 教育／应用 | 可用于教育 | Blockly@rduino : Blockly remix for Arduino. Totally new version, enhanced one ! | 元数据收集 |
+| [philippwulff/TUM\_RCI](https://github.com/philippwulff/TUM_RCI) | 139 | 编程与 STEM 教育／应用 | 可用于教育 | Lecture Notes for Robotics, Cognition, Intelligence @ TUM | 元数据收集 |
+| [ikeboy/pluralsight-scraper](https://github.com/ikeboy/pluralsight-scraper) | 138 | 编程与 STEM 教育／应用 | 可用于教育 | Pluralsight video downloader | 元数据收集 |
+| [tinyMLx/colabs](https://github.com/tinyMLx/colabs) | 138 | 编程与 STEM 教育／应用 | 可用于教育 | This repository holds the Google Colabs for the EdX TinyML Specialization | 元数据收集 |
+| [rwxrob/boost](https://github.com/rwxrob/boost) | 137 | 编程与 STEM 教育／应用 | 可用于教育 | Get started right. Become a shell native. This is the way. | 元数据收集 |
+| [bromagosa/Snap4Arduino](https://github.com/bromagosa/Snap4Arduino) | 136 | 编程与 STEM 教育／应用 | 可用于教育 | Binding Snap! and Arduino together | 元数据收集 |
+| [CALFEM/calfem-python](https://github.com/CALFEM/calfem-python) | 136 | 编程与 STEM 教育／开发组件 | 可用于教育 | CALFEM for Python is the Python port of the CALFEM finite element toolkit. It also implements meshing function based on GMSH and triangle. Visualis… | 元数据收集 |
+| [SAOImageDS9/SAOImageDS9](https://github.com/SAOImageDS9/SAOImageDS9) | 136 | 编程与 STEM 教育／应用 | 可用于教育 | SAOImage DS9 is an astronomical imaging and data visualization application. | 元数据收集 |
+| [CodeSmile-0000011110110111/LunyScript-RFC](https://github.com/CodeSmile-0000011110110111/LunyScript-RFC) | 134 | 编程与 STEM 教育／应用 | 可用于教育 | Beginner-friendly gameplay programming for Godot & Unity: Declarative, block-based, StateMachine & BehaviorTree powered portable C# code! | 元数据收集 |
+| [ls1intum/thesis-template-typst](https://github.com/ls1intum/thesis-template-typst) | 134 | 编程与 STEM 教育／应用 | 可用于教育 | TUM AET thesis typst template | 元数据收集 |
+| [Slashgear/git-kata](https://github.com/Slashgear/git-kata) | 134 | 编程与 STEM 教育／应用 | 可用于教育 | When you know the bases of git but sometimes you have problemes with it. This "code kata" could help you to deal with git problems | 元数据收集 |
+| [studentinsights/studentinsights](https://github.com/studentinsights/studentinsights) | 134 | 编程与 STEM 教育／应用 | 可用于教育 | We work within school communities to make open, secure, student-centered data systems. Say hello@studentinsights.org! | 元数据收集 |
+| [Sion612/rubrictrail](https://github.com/Sion612/rubrictrail) | 133 | 编程与 STEM 教育／应用 | 可用于教育 | A local-first, evidence-linked assignment planner. | 元数据收集 |
+| [linouxis9/ARMStrong](https://github.com/linouxis9/ARMStrong) | 132 | 编程与 STEM 教育／应用 | 教育原生 | A fast and simple ARM Simulator made for education based upon Unicorn and Keystone engines | 元数据收集 |
+| [otter-sec/rctf](https://github.com/otter-sec/rctf) | 132 | 编程与 STEM 教育／应用 | 可用于教育 | rCTF is a platform for hosting cybersecurity capture-the-flag competitions. | 元数据收集 |
+| [GeminiLight/gen-mentor](https://github.com/GeminiLight/gen-mentor) | 131 | 编程与 STEM 教育／开发组件 | 可用于教育 | \[WWW '25 Oral - GenMentor\] Official code of our paper "LLM-powered Multi-agent Framework for Goal-oriented Learning in Intelligent Tutoring System"… | 元数据收集 |
+| [hheydarian/csharp-12-in-a-nutshell-persian](https://github.com/hheydarian/csharp-12-in-a-nutshell-persian) | 131 | 编程与 STEM 教育／应用 | 可用于教育 | Persian translation of "C# 12 in a Nutshell: The Definitive Reference" by Joseph Albahari. | 元数据收集 |
+| [gabrielepompa88/pyBlackScholesAnalytics](https://github.com/gabrielepompa88/pyBlackScholesAnalytics) | 130 | 编程与 STEM 教育／应用 | 教育原生 | Options and Option Strategies analytics for educational purpose using the Black-Scholes Model | 元数据收集 |
+| [hnarayanan/sicm](https://github.com/hnarayanan/sicm) | 130 | 编程与 STEM 教育／应用 | 可用于教育 | Working through Structure and Interpretation of Classical Mechanics. | 元数据收集 |
+| [invent-framework/invent](https://github.com/invent-framework/invent) | 128 | 编程与 STEM 教育／开发组件 | 可用于教育 | Express yourself with code: a simple app framework in Python. | 元数据收集 |
+| [prashant-andani/AR-Alphabets](https://github.com/prashant-andani/AR-Alphabets) | 128 | 编程与 STEM 教育／应用 | 可用于教育 | Augmented Reality on Web (Web AR) for Kids to learn Alphabets with fun. AR on all Mobile Devices | 元数据收集 |
+| [StarDustCFW/StarDustCFWPack](https://github.com/StarDustCFW/StarDustCFWPack) | 128 | 编程与 STEM 教育／应用 | 可用于教育 | StarDust es un Pack con los CFW actuales tipo AIO, Configurado con Atmosphere, SX OS Agrega también las app mas básicas para empezar y no preocupar… | 元数据收集 |
+| [Synthaze/EpyNN](https://github.com/Synthaze/EpyNN) | 128 | 编程与 STEM 教育／应用 | 教育原生 | Educational python for Neural Networks. | 元数据收集 |
+| [agvxov/cursed\_c](https://github.com/agvxov/cursed_c) | 127 | 编程与 STEM 教育／应用 | 可用于教育 | An attempt to create the worst C program ever by repeatedly abusing obscure features. (Note that there were no version restraints imposed and exten… | 元数据收集 |
+| [bashmohandes/go-askme](https://github.com/bashmohandes/go-askme) | 127 | 编程与 STEM 教育／应用 | 可用于教育 | My GoLang learning journey by building an AskFm clone | 元数据收集 |
+| [Enmn/KickNoSub](https://github.com/Enmn/KickNoSub) | 127 | 编程与 STEM 教育／应用 | 教育原生 | Extract direct stream URLs from Kick videos in your preferred quality for educational and research purposes. | 元数据收集 |
+| [millsp/medium](https://github.com/millsp/medium) | 127 | 编程与 STEM 教育／应用 | 可用于教育 | 📰 Developer versions of my Medium.com articles | 元数据收集 |
+| [JuliaAcademy/DataFrames](https://github.com/JuliaAcademy/DataFrames) | 126 | 编程与 STEM 教育／应用 | 可用于教育 | Welcome to DataFrames.jl with Bogumił Kamiński | 元数据收集 |
+| [NesoHQ/bgce-archive](https://github.com/NesoHQ/bgce-archive) | 126 | 编程与 STEM 教育／应用 | 可用于教育 | BGCE-CMS | 元数据收集 |
+| [alan-barzilay/NLPortugues](https://github.com/alan-barzilay/NLPortugues) | 125 | 编程与 STEM 教育／应用 | 可用于教育 | NLPortuguês - Aprenda PLN em português! Esse repositório contem os materiais e exercícios do curso NLPortuguês, hospedado tambem no coursera sob o … | 元数据收集 |
+| [alexandregama/java8-guides-tutorials](https://github.com/alexandregama/java8-guides-tutorials) | 125 | 编程与 STEM 教育／应用 | 可用于教育 | Java 8 Guides and Tutorials - A lot of awesome examples using Java 8 features like Stream, Lambda, Functional Interface, Date and Time API and much… | 元数据收集 |
+| [IlIllII/collecobrary](https://github.com/IlIllII/collecobrary) | 125 | 编程与 STEM 教育／应用 | 可用于教育 | Making online learning fun and easy. | 元数据收集 |
+| [tutors-sdk/tutors](https://github.com/tutors-sdk/tutors) | 125 | 编程与 STEM 教育／应用 | 可用于教育 | The core Tutors Reader application. | 元数据收集 |
+| [vgwb/Antura](https://github.com/vgwb/Antura) | 125 | 编程与 STEM 教育／应用 | 可用于教育 | the award winning open source literacy and language learning game for kids | 元数据收集 |
+| [EkaAI-Tech/learn](https://github.com/EkaAI-Tech/learn) | 124 | 编程与 STEM 教育／应用 | 可用于教育 | Learning app for kids | 元数据收集 |
+| [mumuki/mulang](https://github.com/mumuki/mulang) | 124 | 编程与 STEM 教育／应用 | 可用于教育 | :bamboo: Universal, Multi Language, Multi Paradigm code analyzer | 元数据收集 |
+| [pointless-lang/pointless](https://github.com/pointless-lang/pointless) | 124 | 编程与 STEM 教育／应用 | 可用于教育 | Pointless: a scripting language for learning and fun | 元数据收集 |
+| [Ringmast4r/DEATH\_STAR](https://github.com/Ringmast4r/DEATH_STAR) | 124 | 编程与 STEM 教育／应用 | 教育原生 | \`Windows\` \`Linux\` \`Python\` \`Visualization\` - Educational cybersecurity tool that visualizes network attacks on a 3D ASCII globe. Real-time firewall… | 元数据收集 |
+| [f1ko/demystifying-cni](https://github.com/f1ko/demystifying-cni) | 123 | 编程与 STEM 教育／应用 | 可用于教育 | Explanation on what a CNI (Container Network Interface) is and how to write it from scratch. | 元数据收集 |
+| [lottec-ufpb/populus-viewer](https://github.com/lottec-ufpb/populus-viewer) | 123 | 编程与 STEM 教育／应用 | 可用于教育 | A Social Annotation Tool Powered by Matrix | 元数据收集 |
+| [Donitzo/godot-simple-portal-system](https://github.com/Donitzo/godot-simple-portal-system) | 122 | 编程与 STEM 教育／应用 | 可用于教育 | A simple portal system for viewport-based portals in Godot 4. | 元数据收集 |
+| [tomcl/V2releases](https://github.com/tomcl/V2releases) | 122 | 编程与 STEM 教育／应用 | 教育原生 | A friendly ARM assembler and simulator for educational use | 元数据收集 |
+| [w3develops/w3Develops](https://github.com/w3develops/w3Develops) | 122 | 编程与 STEM 教育／应用 | 可用于教育 | The w3develops.org open source codebase - Learn, build, and meetup with other developers on DISCORD https://discord.gg/WphGvTT and YOUTUBE http://b… | 元数据收集 |
+| [gemartin99/Push-Swap-Tester](https://github.com/gemartin99/Push-Swap-Tester) | 121 | 编程与 STEM 教育／应用 | 可用于教育 | Push\_swap tester and bonus tester + GUI pro checker | 元数据收集 |
+| [ktonga/reactive-turtle](https://github.com/ktonga/reactive-turtle) | 121 | 编程与 STEM 教育／应用 | 可用于教育 | Scala and Akka for kids. A Functional Programming approach for the well known LOGO. | 元数据收集 |
+| [mannychen0225/Agent-Hive-Workbench](https://github.com/mannychen0225/Agent-Hive-Workbench) | 120 | 编程与 STEM 教育／应用 | 可用于教育 | Open Source Office Agent & Game Platform Beta 2026 | 元数据收集 |
+| [namoshizun/PyPOMDP](https://github.com/namoshizun/PyPOMDP) | 120 | 编程与 STEM 教育／开发组件 | 可用于教育 | ✍️ Python implementation of POMDP framework and PBVI & POMCP algorithms. | 元数据收集 |
+| [sihooleebd/noteworthy](https://github.com/sihooleebd/noteworthy) | 120 | 编程与 STEM 教育／开发组件 | 可用于教育 | A powerful academic framework for typst | 元数据收集 |
+| [PlanB-Network/bitcoin-educational-content](https://github.com/PlanB-Network/bitcoin-educational-content) | 119 | 编程与 STEM 教育／应用 | 教育原生 | The open-source content repository for Plan ₿ Academy — Bitcoin education in every language | 元数据收集 |
+| [tpetricek/teaching](https://github.com/tpetricek/teaching) | 119 | 编程与 STEM 教育／应用 | 教育原生 | :mortar\_board: Materials for my lectures including programming langauge design, software engineering and human-computer interaction. | 元数据收集 |
+| [acquitelol/elle](https://github.com/acquitelol/elle) | 118 | 编程与 STEM 教育／应用 | 可用于教育 | A procedural programming language built in Rust which compiles to QBE | 元数据收集 |
+| [buntine/Simply-Scheme-Exercises](https://github.com/buntine/Simply-Scheme-Exercises) | 118 | 编程与 STEM 教育／应用 | 可用于教育 | All of the exercises (and their solutions!) from the Berkeley textbook Simply Scheme. | 元数据收集 |
+| [ice-wzl/Hacknetics](https://github.com/ice-wzl/Hacknetics) | 118 | 编程与 STEM 教育／应用 | 可用于教育 | Contained is all my reference material for my OSCP / Red Teaming. Designed to be a one stop shop for code, guides, command syntax, and high level s… | 元数据收集 |
+| [OpenEnergyDashboard/OED](https://github.com/OpenEnergyDashboard/OED) | 118 | 编程与 STEM 教育／应用 | 可用于教育 | Open Energy Dashboard (OED) | 元数据收集 |
+| [roberto-arista/PythonForDesigners](https://github.com/roberto-arista/PythonForDesigners) | 118 | 编程与 STEM 教育／应用 | 可用于教育 | An introductory manual to Python3 and DrawBot built with Lektor | 元数据收集 |
+| [stereobooster/write-you-a-programming-language](https://github.com/stereobooster/write-you-a-programming-language) | 118 | 编程与 STEM 教育／应用 | 教育原生 | List of small programming languages that you can implement in a relatively small amount of time for educational purposes. | 元数据收集 |
+| [aminekago-web/Paradigm-Survival-Arena](https://github.com/aminekago-web/Paradigm-Survival-Arena) | 117 | 编程与 STEM 教育／应用 | 可用于教育 | Top 6 AI Paradigms Fighting for Survival in 2026 | 元数据收集 |
+| [drichardson/huffman](https://github.com/drichardson/huffman) | 117 | 编程与 STEM 教育／应用 | 可用于教育 | huffman encoder/decoder | 元数据收集 |
+| [EduNLP/edu-convokit](https://github.com/EduNLP/edu-convokit) | 117 | 编程与 STEM 教育／开发组件 | 教育原生 | Edu-ConvoKit: An Open-Source Framework for Education Conversation Data | 元数据收集 |
+| [Glowstick0017/Little-Plane-Project](https://github.com/Glowstick0017/Little-Plane-Project) | 117 | 编程与 STEM 教育／应用 | 可用于教育 | Flying through a procedural web world | 元数据收集 |
+| [anandpatikat/guru-latihan-dinamis](https://github.com/anandpatikat/guru-latihan-dinamis) | 116 | 编程与 STEM 教育／应用 | 可用于教育 | Revolutionizing Indonesian Exam Prep: AI Teacher Tools 2026 | 元数据收集 |
+| [gitfx/ActionServerless](https://github.com/gitfx/ActionServerless) | 116 | 编程与 STEM 教育／应用 | 可用于教育 | Use GitHub Actions to create a Serverless service. | 元数据收集 |
+| [onflow/flow-playground](https://github.com/onflow/flow-playground) | 116 | 编程与 STEM 教育／应用 | 可用于教育 | Flow Playground. Browser-based IDE for writing, compiling, and testing Cadence smart contracts directly in a browser | 元数据收集 |
+| [ucfopen/UDOIT](https://github.com/ucfopen/UDOIT) | 116 | 编程与 STEM 教育／应用 | 可用于教育 | The Universal Design Online content Inspection Tool, or UDOIT (pronounced, “You Do It”) enables faculty to identify accessibility issues in their L… | 元数据收集 |
+| [vkaravir/JSAV](https://github.com/vkaravir/JSAV) | 116 | 编程与 STEM 教育／开发组件 | 可用于教育 | JavaScript Algorithm Visualization library | 元数据收集 |
+| [zahariev-webbersof/python-mini-projects](https://github.com/zahariev-webbersof/python-mini-projects) | 116 | 编程与 STEM 教育／应用 | 可用于教育 | This is a series of mini-projects that I have written over time. The projects are suitable for beginners. | 元数据收集 |
+| [DamonMohammadbagher/Some\_Pentesters\_SecurityResearchers\_RedTeamers](https://github.com/DamonMohammadbagher/Some_Pentesters_SecurityResearchers_RedTeamers) | 115 | 编程与 STEM 教育／应用 | 可用于教育 | Some Pentesters, Security Researchers, Red Teamers which i learned from them a lot... | 元数据收集 |
+| [visualize-it/visualize-it.github.io](https://github.com/visualize-it/visualize-it.github.io) | 115 | 编程与 STEM 教育／应用 | 可用于教育 | View scientific concepts at work. Anytime. Anywhere | 元数据收集 |
+| [byznrdmrr/cs-sakaryauniversity](https://github.com/byznrdmrr/cs-sakaryauniversity) | 114 | 编程与 STEM 教育／应用 | 可用于教育 | Sakarya Üniversitesi Bilgisayar Mühendisliği lisans eğitimim boyunca yapmış olduğum ödevler, projeler ve ders notları | 元数据收集 |
+| [engineersCode/EngComp](https://github.com/engineersCode/EngComp) | 114 | 编程与 STEM 教育／应用 | 可用于教育 | A set of learning modules in computing for engineering undergraduate students. | 元数据收集 |
+| [ParanoidUser/codewars-handbook](https://github.com/ParanoidUser/codewars-handbook) | 114 | 编程与 STEM 教育／应用 | 可用于教育 | A code warrior's handbook 🐱‍💻 | 元数据收集 |
+| [rocambille/start-express-react](https://github.com/rocambille/start-express-react) | 114 | 编程与 STEM 教育／应用 | 可用于教育 | Zero-magic Express + React starter. Readable, hackable, and built for rapid prototyping in the era of agentic coding. | 元数据收集 |
+| [TheAlgorithms/Clojure](https://github.com/TheAlgorithms/Clojure) | 113 | 编程与 STEM 教育／应用 | 可用于教育 | All Algorithms implemented in Clojure | 元数据收集 |
+| [chalmerlowe/intro\_to\_sprinting](https://github.com/chalmerlowe/intro_to_sprinting) | 111 | 编程与 STEM 教育／应用 | 可用于教育 | A gentle introduction to contributing to open source projects / open source sprints | 元数据收集 |
+| [DaveVoorhis/Rel](https://github.com/DaveVoorhis/Rel) | 111 | 编程与 STEM 教育／应用 | 可用于教育 | Rel is a desktop database management system that implements Date & Darwen's "Tutorial D" database language. | 元数据收集 |
+| [Developer-DAO/academy](https://github.com/Developer-DAO/academy) | 111 | 编程与 STEM 教育／应用 | 可用于教育 | Deprecated; V2 lives at https://github.com/developer-dao/academy-turbo | 元数据收集 |
+| [Dicklesworthstone/introduction\_to\_temporal\_logic](https://github.com/Dicklesworthstone/introduction_to_temporal_logic) | 111 | 编程与 STEM 教育／应用 | 可用于教育 | An introduction to temporal logic and how it can be used to analyze concurrency | 元数据收集 |
+| [Gaok1/Raven-RiscV](https://github.com/Gaok1/Raven-RiscV) | 111 | 编程与 STEM 教育／应用 | 可用于教育 | RISC-V simulator and IDE for learning assembly — RV32IMF, step-by-step debugger,cache , pipeline, multi-core simulator | 元数据收集 |
+| [JLospinoso/cpp-implant](https://github.com/JLospinoso/cpp-implant) | 111 | 编程与 STEM 教育／应用 | 可用于教育 | Modern C++ implant sample with C2, headers, and build scaffolding. | 元数据收集 |
+| [rodneyknaap/atx-286at-v1-mainboard](https://github.com/rodneyknaap/atx-286at-v1-mainboard) | 111 | 编程与 STEM 教育／应用 | 可用于教育 | This project features a design for a 80286 ATX mainboard based on the IBM 5170 AT PC | 元数据收集 |
+| [SarthakKeshari/calc\_for\_everything](https://github.com/SarthakKeshari/calc_for_everything) | 111 | 编程与 STEM 教育／应用 | 教育原生 | This repository aims to provide Calculators for educational, professional, scientific, health and well-being and other purposes. | 元数据收集 |
+| [workofart/ml-by-hand](https://github.com/workofart/ml-by-hand) | 111 | 编程与 STEM 教育／开发组件 | 可用于教育 | A deep learning library built from scratch with complex neural networks examples built on top for learning purposes. | 元数据收集 |
+| [mstefaniuk/graphviz.it](https://github.com/mstefaniuk/graphviz.it) | 110 | 编程与 STEM 教育／应用 | 可用于教育 | Graphviz fiddling website | 元数据收集 |
+| [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site) | 109 | 编程与 STEM 教育／应用 | 可用于教育 | This is open source village community site | 元数据收集 |
+| [Priyans0830m/DDOS-BOMBER](https://github.com/Priyans0830m/DDOS-BOMBER) | 109 | 编程与 STEM 教育／应用 | 可用于教育 | priyans0830m | 元数据收集 |
+| [parz0val0/scan-to-practice](https://github.com/parz0val0/scan-to-practice) | 108 | 编程与 STEM 教育／应用 | 可用于教育 | Scan-to-Practice: a field-tested AI skill and methodology for turning scanned learning materials into structured practice products. | 元数据收集 |
+| [scratux/scratux](https://github.com/scratux/scratux) | 108 | 编程与 STEM 教育／应用 | 可用于教育 | A simple project that aims to provide Free/Libre Open Source Linux binaries of Scratch Desktop | 元数据收集 |
+| [scribe-org/Scribe-Android](https://github.com/scribe-org/Scribe-Android) | 108 | 编程与 STEM 教育／应用 | 可用于教育 | Scribe-Android: Keyboards for language learners & Conjugate-Android: Wikidata based verb conjugation app | 元数据收集 |
+| [t1112000/tutor-management-app](https://github.com/t1112000/tutor-management-app) | 108 | 编程与 STEM 教育／应用 | 教育原生 | MyClass — open-source private tutoring management (students, schedules, bills, VN timezone). Next.js 15 + Postgres. Self-hosted. | 元数据收集 |
+| [Open-TutorAi/open-tutor-ai-CE](https://github.com/Open-TutorAi/open-tutor-ai-CE) | 107 | 编程与 STEM 教育／应用 | 教育原生 | An open-source project designed to provide an educational and collaborative AI-powered platform | 元数据收集 |
+| [viktor-prutyanov/drec-fpga-intro](https://github.com/viktor-prutyanov/drec-fpga-intro) | 107 | 编程与 STEM 教育／应用 | 可用于教育 | Материалы для курсов по проектированию цифровых вычислительных систем | 元数据收集 |
+| [abap34/ml-lecture](https://github.com/abap34/ml-lecture) | 106 | 编程与 STEM 教育／应用 | 可用于教育 | 東京工業大学 traP Kaggle班「機械学習講習会」の資料 | 元数据收集 |
+| [flysheep-ai/education-skills](https://github.com/flysheep-ai/education-skills) | 106 | 编程与 STEM 教育／应用 | 教育原生 | 教育类 Claude Code Skills 集合 - 包含各类教学辅导和学习支持工具 | 元数据收集 |
+| [gyunggyung/Korea-Startups](https://github.com/gyunggyung/Korea-Startups) | 106 | 编程与 STEM 教育／应用 | 可用于教育 | 🌟 국내 스타트업 목록 및 설명 🌟 | 元数据收集 |
+| [albertzhzhou-droid/ParkinSUM](https://github.com/albertzhzhou-droid/ParkinSUM) | 105 | 编程与 STEM 教育／应用 | 教育原生 | A local-first Flutter research notebook for meals, medication context, and evidence-oriented explanations. Educational prototype with synthetic demos. | 元数据收集 |
+| [cdiggins/plato](https://github.com/cdiggins/plato) | 105 | 编程与 STEM 教育／应用 | 可用于教育 | A simple and efficient cross-platform programming language. | 元数据收集 |
+| [Dicklesworthstone/hoeffdings\_d\_explainer](https://github.com/Dicklesworthstone/hoeffdings_d_explainer) | 105 | 编程与 STEM 教育／应用 | 可用于教育 | A Detailed Introduction to My Favorite Statistical Measure, Hoeffding's D | 元数据收集 |
+| [inno-devops-labs/DevOps-Intro](https://github.com/inno-devops-labs/DevOps-Intro) | 105 | 编程与 STEM 教育／应用 | 可用于教育 | 🚀 DevOps intro elective — 10 hands-on labs + 2 bonus building QuickNotes end-to-end: Git internals, CI/CD with GitHub Actions, OS & networking, Vag… | 元数据收集 |
+| [rafaballerini/meu-site-html](https://github.com/rafaballerini/meu-site-html) | 105 | 编程与 STEM 教育／应用 | 可用于教育 | Projeto desenvolvido no vídeo abaixo, em que ensino tudo sobre HTML do zero para quem deseja iniciar em programação. Nele aprendemos diversas tags … | 元数据收集 |
+| [SinonApp/cansleep](https://github.com/SinonApp/cansleep) | 105 | 编程与 STEM 教育／应用 | 教育原生 | The program for scanning and testing city cameras (DVR, RTSP, Hikvision) is a tool developed exclusively for educational purposes to analyze and ch… | 元数据收集 |
+| [krish567366/submicro-execution-engine](https://github.com/krish567366/submicro-execution-engine) | 104 | 编程与 STEM 教育／应用 | 可用于教育 | Sub-microsecond bare-metal execution engine with deterministic replay, lock-free order path, and hardware-timestamped latency measurement. | 元数据收集 |
+| [training-center/training-center.github.io](https://github.com/training-center/training-center.github.io) | 104 | 编程与 STEM 教育／应用 | 可用于教育 | Site do Centro de Treinamento | 元数据收集 |
+| [arm-education/Digital-Signal-Processing-using-Arm-Cortex-M-based-Microcontrollers](https://github.com/arm-education/Digital-Signal-Processing-using-Arm-Cortex-M-based-Microcontrollers) | 103 | 编程与 STEM 教育／应用 | 教育原生 | Textbook introducing DSP fundamentals using Arm Cortex-M microcontrollers with hands-on labs (educational) | 元数据收集 |
+| [nodeschool/spb](https://github.com/nodeschool/spb) | 103 | 编程与 STEM 教育／应用 | 可用于教育 | :anchor: Saint Petersburg, Russia | 元数据收集 |
+| [Razen04/GateQuest](https://github.com/Razen04/GateQuest) | 103 | 编程与 STEM 教育／应用 | 可用于教育 | This is a GATE PYQs solving website. | 元数据收集 |
+| [davep/dhv](https://github.com/davep/dhv) | 102 | 编程与 STEM 教育／应用 | 可用于教育 | Dive into Python code | 元数据收集 |
+| [lugaralgum/material-aulas](https://github.com/lugaralgum/material-aulas) | 102 | 编程与 STEM 教育／应用 | 可用于教育 | Material para ensino introdutório de programação com Python em um contexto visual | 元数据收集 |
+| [Niox1337/rainbow-tensor](https://github.com/Niox1337/rainbow-tensor) | 102 | 编程与 STEM 教育／应用 | 教育原生 | Colourful tensor operation visuals for NumPy style arrays, built for notebooks, docs, and teaching shape transformations. | 元数据收集 |
+| [hackclub/workshops](https://github.com/hackclub/workshops) | 101 | 编程与 STEM 教育／应用 | 可用于教育 | 💽 Website for Hack Club workshops. | 元数据收集 |
+| [TsekaLuk/Kaoyan-Math1-Papers](https://github.com/TsekaLuk/Kaoyan-Math1-Papers) | 101 | 编程与 STEM 教育／应用 | 可用于教育 | 考研数学一真题库 (1987-2025) + 详细解析 | 元数据收集 |
+| [WyLAskTg/UPrep](https://github.com/WyLAskTg/UPrep) | 101 | 编程与 STEM 教育／应用 | 可用于教育 | A web app that lets you upload course materials to create review and practice content/questions | 元数据收集 |
+| [arturbac/fixed\_math](https://github.com/arturbac/fixed_math) | 100 | 编程与 STEM 教育／开发组件 | 可用于教育 | FixedMath: A High-Performance C++23, C++17 Library for Fixed-Point 48.16 Arithmetic | 元数据收集 |
+| [arvind37/Basic-Website-using-HTML-CSS](https://github.com/arvind37/Basic-Website-using-HTML-CSS) | 100 | 编程与 STEM 教育／应用 | 可用于教育 | Create your very first website using HTML5, CSS3 | 元数据收集 |
+| [ntk148v/lets-go](https://github.com/ntk148v/lets-go) | 100 | 编程与 STEM 教育／应用 | 可用于教育 | Let's Go! | 元数据收集 |
 
-## 项目详情
+## 已核对精选详情
 
 ### freeCodeCamp
 
@@ -28,7 +495,7 @@
 - 许可说明：代码、课程和附属资源存在各自许可，使用时核对上游说明。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：456,731；最近推送：2026-10-04 19:40:22 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
+- Star：456,731；最近推送：2026-10-04 19:40:22 UTC+08:00；数据获取：2026-10-05 01:30:38 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/README.md)、[来源 2](https://github.com/freeCodeCamp/freeCodeCamp)
 
 

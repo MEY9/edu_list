@@ -5,15 +5,330 @@
 
 [返回首页](../README.md) · [收录标准](../docs/selection-policy.md)
 
-按 Star 降序排列。许可证标识来自 GitHub API；实际使用请核对上游条款。
+分类共 318 个项目。批量条目的教育用途为分类建议，原文简介和检索依据保留在 YAML；未逐项核对的条目如实标记。
 
-| 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
-| --- | ---: | --- | --- | --- |
-| [Logseq](https://github.com/logseq/logseq) | 45,129 | 可用于教育 | 整理课程笔记、建立知识关联和个人学习资料库。 | AGPL-3.0 |
-| [Anki](https://github.com/ankitects/anki) | 31,749 | 教育原生 | 制作词汇、概念和知识点卡片，组织复习。 | 需复核 |
-| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | 11,923 | 教育原生 | 在 Android 设备开展卡片复习和自学活动。 | GPL-3.0 |
+| 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
+| --- | ---: | --- | --- | --- | --- |
+| [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 77,120 | 知识管理与自主学习／应用 | 可用于教育 | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your… | 元数据收集 |
+| [usememos/memos](https://github.com/usememos/memos) | 63,526 | 知识管理与自主学习／应用 | 可用于教育 | A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted. | 元数据收集 |
+| [laurent22/joplin](https://github.com/laurent22/joplin) | 56,588 | 知识管理与自主学习／应用 | 可用于教育 | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | 元数据收集 |
+| [logseq/logseq](https://github.com/logseq/logseq) | 45,130 | 知识管理与自主学习／应用 | 可用于教育 | 面向知识管理的笔记与协作平台。 | 资料核对 |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 39,802 | 知识管理与自主学习／应用 | 可用于教育 | An Open Source implementation of Notebook LM with more flexibility and features | 元数据收集 |
+| [ankitects/anki](https://github.com/ankitects/anki) | 31,749 | 知识管理与自主学习／应用 | 教育原生 | 采用间隔重复方法的桌面闪卡学习程序。 | 资料核对 |
+| [foambubble/foam](https://github.com/foambubble/foam) | 17,437 | 知识管理与自主学习／应用 | 可用于教育 | A personal knowledge management and sharing system for VSCode | 元数据收集 |
+| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 15,346 | 知识管理与自主学习／应用 | 可用于教育 | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge grap… | 元数据收集 |
+| [streetwriters/notesnook](https://github.com/streetwriters/notesnook) | 14,716 | 知识管理与自主学习／应用 | 可用于教育 | A fully open source & end-to-end encrypted note taking alternative to Evernote. | 元数据收集 |
+| [vnotex/vnote](https://github.com/vnotex/vnote) | 12,995 | 知识管理与自主学习／应用 | 可用于教育 | A pleasant note-taking platform in native C++. | 元数据收集 |
+| [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 11,923 | 知识管理与自主学习／应用 | 教育原生 | Android 平台上的 Anki 闪卡学习应用。 | 资料核对 |
+| [Laverna/laverna](https://github.com/Laverna/laverna) | 9,169 | 知识管理与自主学习／应用 | 可用于教育 | Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote. | 元数据收集 |
+| [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) | 7,519 | 知识管理与自主学习／应用 | 可用于教育 | Fast Markdown note-taking app for Mac and iPhone | 元数据收集 |
+| [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) | 7,334 | 知识管理与自主学习／应用 | 可用于教育 | Collect your thoughts and notes without leaving the command line. | 元数据收集 |
+| [taniarascia/takenote](https://github.com/taniarascia/takenote) | 7,126 | 知识管理与自主学习／应用 | 可用于教育 | 📝 ‎ A web-based notes app for developers. | 元数据收集 |
+| [plainhub/plain-app](https://github.com/plainhub/plain-app) | 6,819 | 知识管理与自主学习／应用 | 可用于教育 | 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more t… | 元数据收集 |
+| [standardnotes/app](https://github.com/standardnotes/app) | 6,640 | 知识管理与自主学习／应用 | 可用于教育 | Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help. | 元数据收集 |
+| [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) | 6,211 | 知识管理与自主学习／应用 | 可用于教育 | The malleable knowledge base for you and your team. Powered by Markdown and Lua. | 元数据收集 |
+| [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) | 5,891 | 知识管理与自主学习／应用 | 可用于教育 | QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. | 元数据收集 |
+| [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) | 5,375 | 知识管理与自主学习／应用 | 可用于教育 | 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览 | 元数据收集 |
+| [heyman/heynote](https://github.com/heyman/heynote) | 5,372 | 知识管理与自主学习／应用 | 可用于教育 | A dedicated scratchpad for power users | 元数据收集 |
+| [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) | 5,301 | 知识管理与自主学习／应用 | 可用于教育 | TagSpaces is an offline, open source, document manager with tagging support | 元数据收集 |
+| [WorldBrain/Memex](https://github.com/WorldBrain/Memex) | 4,722 | 知识管理与自主学习／应用 | 可用于教育 | Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities. | 元数据收集 |
+| [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) | 4,671 | 知识管理与自主学习／应用 | 可用于教育 | Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-explaining your projects, decisi… | 元数据收集 |
+| [nuttyartist/notes](https://github.com/nuttyartist/notes) | 4,267 | 知识管理与自主学习／应用 | 可用于教育 | Fast and beautiful note-taking app written in C++. Write down your thoughts. | 元数据收集 |
+| [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) | 4,234 | 知识管理与自主学习／应用 | 可用于教育 | Mobile first Note Taking integrated with Git | 元数据收集 |
+| [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) | 4,167 | 知识管理与自主学习／应用 | 可用于教育 | Your web application for managing personal data. | 元数据收集 |
+| [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) | 4,086 | 知识管理与自主学习／应用 | 可用于教育 | A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm | 元数据收集 |
+| [artempyanykh/marksman](https://github.com/artempyanykh/marksman) | 3,356 | 知识管理与自主学习／应用 | 可用于教育 | Write Markdown with code assist and intelligence in the comfort of your favourite editor. | 元数据收集 |
+| [dullage/flatnotes](https://github.com/dullage/flatnotes) | 3,235 | 知识管理与自主学习／应用 | 可用于教育 | A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage. | 元数据收集 |
+| [dnote/dnote](https://github.com/dnote/dnote) | 3,087 | 知识管理与自主学习／应用 | 可用于教育 | A simple command line notebook | 元数据收集 |
+| [5mdld/anki-jlpt-decks](https://github.com/5mdld/anki-jlpt-decks) | 3,029 | 知识管理与自主学习／应用 | 可用于教育 | 【egg rolls】JLPT N1～N5 一万词 Anki 牌组【简／繁】【语音＆例句】；Anki，日语，日文，日本語，牌组，卡组，牌組，卡組，能力考，日檢 | 元数据收集 |
+| [Nriver/trilium-translation](https://github.com/Nriver/trilium-translation) | 2,862 | 知识管理与自主学习／应用 | 可用于教育 | Translation for Trilium Notes. Trilium Notes 中文适配, 体验优化 | 元数据收集 |
+| [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes) | 2,805 | 知识管理与自主学习／应用 | 可用于教育 | Open source note-taking application for Android | 元数据收集 |
+| [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) | 2,723 | 知识管理与自主学习／开发组件 | 可用于教育 | A Python 3 library for generating Anki decks | 元数据收集 |
+| [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | 2,666 | 知识管理与自主学习／应用 | 可用于教育 | Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI… | 元数据收集 |
+| [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) | 2,573 | 知识管理与自主学习／应用 | 教育原生 | Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian | 元数据收集 |
+| [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) | 2,514 | 知识管理与自主学习／应用 | 教育原生 | 200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. | 元数据收集 |
+| [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) | 2,462 | 知识管理与自主学习／应用 | 可用于教育 | 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成 | 元数据收集 |
+| [snownico0722/PaperTodo](https://github.com/snownico0722/PaperTodo) | 2,452 | 知识管理与自主学习／应用 | 可用于教育 | A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with suppo… | 元数据收集 |
+| [batnoter/batnoter](https://github.com/batnoter/batnoter) | 2,421 | 知识管理与自主学习／应用 | 可用于教育 | An open source, markdown-based, self-hosted note taking webapp. | 元数据收集 |
+| [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) | 2,146 | 知识管理与自主学习／应用 | 可用于教育 | Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code. | 元数据收集 |
+| [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) | 2,102 | 知识管理与自主学习／课程／资源 | 教育原生 | A curated list of awesome Anki add-ons, decks and resources | 元数据收集 |
+| [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) | 2,046 | 知识管理与自主学习／应用 | 可用于教育 | 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app | 元数据收集 |
+| [ObsidianToAnki/Obsidian\_to\_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) | 2,042 | 知识管理与自主学习／应用 | 教育原生 | Script to add flashcards from text/markdown files to Anki | 元数据收集 |
+| [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) | 2,026 | 知识管理与自主学习／应用 | 教育原生 | PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, … | 元数据收集 |
+| [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) | 2,002 | 知识管理与自主学习／应用 | 可用于教育 | TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API … | 元数据收集 |
+| [olmps/memo](https://github.com/olmps/memo) | 1,869 | 知识管理与自主学习／应用 | 可用于教育 | Memo is an open-source, programming-oriented spaced repetition software (SRS) written in Flutter. | 元数据收集 |
+| [andymatuschak/orbit](https://github.com/andymatuschak/orbit) | 1,835 | 知识管理与自主学习／应用 | 可用于教育 | Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention | 元数据收集 |
+| [akosbalasko/yarle](https://github.com/akosbalasko/yarle) | 1,806 | 知识管理与自主学习／应用 | 可用于教育 | Yarle - The ultimate converter of Evernote notes to Markdown | 元数据收集 |
+| [iwe-org/iwe](https://github.com/iwe-org/iwe) | 1,749 | 知识管理与自主学习／应用 | 可用于教育 | Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents | 元数据收集 |
+| [Lifeforge-app/lifeforge](https://github.com/Lifeforge-app/lifeforge) | 1,705 | 知识管理与自主学习／应用 | 可用于教育 | A self-hosted solution to streamline and organize all aspects of your life. | 元数据收集 |
+| [mobailabs/gitnote](https://github.com/mobailabs/gitnote) | 1,689 | 知识管理与自主学习／应用 | 可用于教育 | A modern note taking app based on GIT that does not require a local GIT environment. | 元数据收集 |
+| [JLiscom/OpenNote](https://github.com/JLiscom/OpenNote) | 1,661 | 知识管理与自主学习／应用 | 可用于教育 | OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote. | 元数据收集 |
+| [ninja33/ODH](https://github.com/ninja33/ODH) | 1,617 | 知识管理与自主学习／应用 | 可用于教育 | A chrome extension to show online dictionary content. | 元数据收集 |
+| [maqi1520/mdx-notes](https://github.com/maqi1520/mdx-notes) | 1,596 | 知识管理与自主学习／应用 | 可用于教育 | ⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版 | 元数据收集 |
+| [srid/neuron](https://github.com/srid/neuron) | 1,558 | 知识管理与自主学习／应用 | 可用于教育 | Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote) | 元数据收集 |
+| [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) | 1,552 | 知识管理与自主学习／应用 | 可用于教育 | Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app | 元数据收集 |
+| [video-db/call.md](https://github.com/video-db/call.md) | 1,537 | 知识管理与自主学习／应用 | 可用于教育 | Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls. | 元数据收集 |
+| [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) | 1,534 | 知识管理与自主学习／应用 | 可用于教育 | Obsidian Plugin to execute code in a note. | 元数据收集 |
+| [ripose-jp/Memento](https://github.com/ripose-jp/Memento) | 1,487 | 知识管理与自主学习／应用 | 可用于教育 | An mpv-based video player for studying Japanese | 元数据收集 |
+| [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md) | 1,482 | 知识管理与自主学习／应用 | 可用于教育 | The best notepad for you and your agents | 元数据收集 |
+| [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) | 1,463 | 知识管理与自主学习／应用 | 可用于教育 | LinguaCafe is a self-hosted software that helps language learners read foreign languages. | 元数据收集 |
+| [nagisanzenin/engram](https://github.com/nagisanzenin/engram) | 1,440 | 知识管理与自主学习／应用 | 可用于教育 | Evidence-based learning engine — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifact… | 元数据收集 |
+| [Demizo/Daily\_You](https://github.com/Demizo/Daily_You) | 1,346 | 知识管理与自主学习／应用 | 可用于教育 | Daily diary & journaling app | 元数据收集 |
+| [pimterry/notes](https://github.com/pimterry/notes) | 1,322 | 知识管理与自主学习／应用 | 可用于教育 | :pencil: Simple delightful note taking, with more unix and less lock-in. | 元数据收集 |
+| [glutanimate/review-heatmap](https://github.com/glutanimate/review-heatmap) | 1,313 | 知识管理与自主学习／应用 | 可用于教育 | Anki add-on to help you keep track of your review activity | 元数据收集 |
+| [btw-so/btw](https://github.com/btw-so/btw) | 1,255 | 知识管理与自主学习／应用 | 可用于教育 | Open source Medium alternative- set up your personal blog in minutes. | 元数据收集 |
+| [journiv/journiv-app](https://github.com/journiv/journiv-app) | 1,223 | 知识管理与自主学习／应用 | 可用于教育 | Journiv - Self hosted private journaling app | 元数据收集 |
+| [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) | 1,197 | 知识管理与自主学习／应用 | 可用于教育 | An app to help you capture thoughts and ideas | 元数据收集 |
+| [bbodi/notecalc3](https://github.com/bbodi/notecalc3) | 1,193 | 知识管理与自主学习／应用 | 可用于教育 | NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web. | 元数据收集 |
+| [anki-geo/ultimate-geography](https://github.com/anki-geo/ultimate-geography) | 1,177 | 知识管理与自主学习／应用 | 教育原生 | Geography flashcard deck for Anki | 元数据收集 |
+| [penxio/penx](https://github.com/penxio/penx) | 1,170 | 知识管理与自主学习／应用 | 可用于教育 | AI Powered Personal Data Hub | 元数据收集 |
+| [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) | 1,127 | 知识管理与自主学习／应用 | 可用于教育 | Starter templates for Obsidian | 元数据收集 |
+| [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) | 1,126 | 知识管理与自主学习／应用 | 可用于教育 | Notational velocity for vim. | 元数据收集 |
+| [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) | 1,097 | 知识管理与自主学习／应用 | 教育原生 | 🎴 An Anki plugin for Obsidian.md | 元数据收集 |
+| [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) | 1,089 | 知识管理与自主学习／应用 | 可用于教育 | 📝 Local-first markdown notebook - notes live in your browser or local folders as plain markdown files, synced with in-browser git. No server, no ac… | 元数据收集 |
+| [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) | 1,078 | 知识管理与自主学习／课程／资源 | 教育原生 | List of all tools (apps, services) that startups should use. | 元数据收集 |
+| [lostdesign/linked](https://github.com/lostdesign/linked) | 1,019 | 知识管理与自主学习／应用 | 可用于教育 | 🧾 Daily journaling without distraction. An easy, distraction-free way to record your thoughts, declutter your mind and keep the things you want to … | 元数据收集 |
+| [juzzlin/Heimer](https://github.com/juzzlin/Heimer) | 977 | 知识管理与自主学习／应用 | 可用于教育 | Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt. | 元数据收集 |
+| [paperboi/kindle2notion](https://github.com/paperboi/kindle2notion) | 967 | 知识管理与自主学习／应用 | 可用于教育 | Export all clippings from your Kindle device to a database in Notion. | 元数据收集 |
+| [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) | 956 | 知识管理与自主学习／应用 | 可用于教育 | ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product | 元数据收集 |
+| [Nriver/awesome-trilium](https://github.com/Nriver/awesome-trilium) | 953 | 知识管理与自主学习／应用 | 可用于教育 | A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集 | 元数据收集 |
+| [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) | 922 | 知识管理与自主学习／应用 | 可用于教育 | Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs. | 元数据收集 |
+| [blueberrycongee/Lumina-Note](https://github.com/blueberrycongee/Lumina-Note) | 918 | 知识管理与自主学习／应用 | 可用于教育 | Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant | 元数据收集 |
+| [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) | 903 | 知识管理与自主学习／应用 | 可用于教育 | Powerful note-taking without the hassle. | 元数据收集 |
+| [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) | 894 | 知识管理与自主学习／应用 | 可用于教育 | An app to help you capture thoughts and ideas | 元数据收集 |
+| [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) | 890 | 知识管理与自主学习／应用 | 可用于教育 | 🍜 Adds mpv keybindings to create Anki cards from movies and TV shows. | 元数据收集 |
+| [ashlinchak/mdanki](https://github.com/ashlinchak/mdanki) | 890 | 知识管理与自主学习／应用 | 可用于教育 | Markdown to Anki converter | 元数据收集 |
+| [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) | 883 | 知识管理与自主学习／应用 | 教育原生 | AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond | 元数据收集 |
+| [bpwhelan/GameSentenceMiner](https://github.com/bpwhelan/GameSentenceMiner) | 865 | 知识管理与自主学习／开发组件 | 可用于教育 | An immersion toolkit for learning Languages through games and other visual media. | 元数据收集 |
+| [lingxuanqjc-alt/note-bridge-desktop](https://github.com/lingxuanqjc-alt/note-bridge-desktop) | 855 | 知识管理与自主学习／应用 | 可用于教育 | Windows 笔记导出与迁移工具：七平台适配、四格式导出、离线阅读，明确验证范围与失败状态。 | 元数据收集 |
+| [trane-project/trane](https://github.com/trane-project/trane) | 847 | 知识管理与自主学习／应用 | 可用于教育 | A deliberate practice engine for mastering complex skills | 元数据收集 |
+| [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) | 833 | 知识管理与自主学习／应用 | 可用于教育 | Fluent navigation and management of markdown notebooks | 元数据收集 |
+| [hwgilbert16/scholarsome](https://github.com/hwgilbert16/scholarsome) | 792 | 知识管理与自主学习／应用 | 教育原生 | Web-based interactive flashcard learning software | 元数据收集 |
+| [vincentdchan/CubyText](https://github.com/vincentdchan/CubyText) | 779 | 知识管理与自主学习／应用 | 可用于教育 | An open-source knowledge management app. | 元数据收集 |
+| [enchant97/note-mark](https://github.com/enchant97/note-mark) | 769 | 知识管理与自主学习／应用 | 可用于教育 | Note Mark is a lighting fast, web-based Markdown notes app. | 元数据收集 |
+| [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) | 761 | 知识管理与自主学习／应用 | 教育原生 | Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert th… | 元数据收集 |
+| [jrblevin/deft](https://github.com/jrblevin/deft) | 760 | 知识管理与自主学习／应用 | 可用于教育 | Deft for Emacs | 元数据收集 |
+| [Crustack/NotallyX](https://github.com/Crustack/NotallyX) | 747 | 知识管理与自主学习／应用 | 可用于教育 | Minimalistic Android note taking App \| Notally, but eXtended. | 元数据收集 |
+| [louietan/anki-editor](https://github.com/louietan/anki-editor) | 747 | 知识管理与自主学习／应用 | 可用于教育 | Emacs minor mode for making Anki cards with Org | 元数据收集 |
+| [awehook/blink-mind-desktop](https://github.com/awehook/blink-mind-desktop) | 728 | 知识管理与自主学习／应用 | 可用于教育 | Cross-platform full-featured mind mapping and outline app based on electron. | 元数据收集 |
+| [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) | 722 | 知识管理与自主学习／应用 | 可用于教育 | A spaced repetition algorithm based on DSR model | 元数据收集 |
+| [lumen-notes/lumen](https://github.com/lumen-notes/lumen) | 721 | 知识管理与自主学习／应用 | 可用于教育 | A free, open-source note-taking app that syncs with markdown files in your GitHub repository | 元数据收集 |
+| [betterRunner/context-note](https://github.com/betterRunner/context-note) | 717 | 知识管理与自主学习／应用 | 可用于教育 | A note-taking chrome extension: taking notes on the web with their context. | 元数据收集 |
+| [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) | 712 | 知识管理与自主学习／课程／资源 | 教育原生 | A curated list of awesome FSRS implementations, papers and resources | 元数据收集 |
+| [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown) | 704 | 知识管理与自主学习／应用 | 可用于教育 | Export and convert Google Keep notes dynamically to markdown for Obsidian, Apple Notes, Logseq, Joplin and Notion using the unofficial Keep API. Al… | 元数据收集 |
+| [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) | 691 | 知识管理与自主学习／应用 | 可用于教育 | Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector … | 元数据收集 |
+| [GD4AI/obsidian-llm-wiki](https://github.com/GD4AI/obsidian-llm-wiki) | 680 | 知识管理与自主学习／应用 | 可用于教育 | Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept … | 元数据收集 |
+| [SiriusFzh/NovaForge](https://github.com/SiriusFzh/NovaForge) | 676 | 知识管理与自主学习／应用 | 可用于教育 | 锻造你的知识体系 \| 考研·考公·专业课·科研·项目·竞赛通用笔记模板。LaTeX+Typst+Markdown三版本，7步模块化结构，6种场景模板，一键换色，开箱即用。 | 元数据收集 |
+| [zagortenay333/cronomix](https://github.com/zagortenay333/cronomix) | 655 | 知识管理与自主学习／应用 | 教育原生 | All-in-one timer, stopwatch, pomodoro, alarm, todo, time tracker and flashcards gnome-shell extension | 元数据收集 |
+| [aviaryan/VSCodeNotebook](https://github.com/aviaryan/VSCodeNotebook) | 653 | 知识管理与自主学习／应用 | 可用于教育 | 📝 Use VS Code as a reliable note-taking/journal application | 元数据收集 |
+| [org-roam/org-roam-server](https://github.com/org-roam/org-roam-server) | 651 | 知识管理与自主学习／应用 | 可用于教育 | A Web Application to Visualize the Org-Roam Database | 元数据收集 |
+| [samvallad33/vestige](https://github.com/samvallad33/vestige) | 645 | 知识管理与自主学习／应用 | 可用于教育 | The Causal Proof Engine and operating system for AI agents. Strata, a signed append-only log, is the kernel: zero vectors, zero RAG, and every answ… | 元数据收集 |
+| [anki/vector-python-sdk](https://github.com/anki/vector-python-sdk) | 610 | 知识管理与自主学习／开发组件 | 可用于教育 | Anki Vector Python SDK | 元数据收集 |
+| [DeepNotesApp/DeepNotes](https://github.com/DeepNotesApp/DeepNotes) | 604 | 知识管理与自主学习／应用 | 可用于教育 | End-to-end encrypted visual note-taking tool with deep page navigation. | 元数据收集 |
+| [nikunjsingh93/react-glass-keep](https://github.com/nikunjsingh93/react-glass-keep) | 602 | 知识管理与自主学习／应用 | 可用于教育 | Glass Keep is Keep Notes alternative using Glass design. Made in React + Tailwind | 元数据收集 |
+| [mnemosyne-proj/mnemosyne](https://github.com/mnemosyne-proj/mnemosyne) | 601 | 知识管理与自主学习／应用 | 可用于教育 | Mnemosyne: efficient learning with powerful digital flash-cards. | 元数据收集 |
+| [altairwei/WizNotePlus](https://github.com/altairwei/WizNotePlus) | 598 | 知识管理与自主学习／应用 | 可用于教育 | A community-driven cross-platform note-taking client. | 元数据收集 |
+| [Miaotofu01/Study-Mate](https://github.com/Miaotofu01/Study-Mate) | 592 | 知识管理与自主学习／应用 | 可用于教育 | 你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目 | 元数据收集 |
+| [debanjandhar12/logseq-anki-sync](https://github.com/debanjandhar12/logseq-anki-sync) | 586 | 知识管理与自主学习／应用 | 可用于教育 | An logseq to anki syncing plugin with superpowers - image occlusion, card direction, incremental cards, and a lot more. | 元数据收集 |
+| [mfarragher/obsidiantools](https://github.com/mfarragher/obsidiantools) | 575 | 知识管理与自主学习／应用 | 可用于教育 | Obsidian tools - a Python package for analysing an Obsidian.md vault | 元数据收集 |
+| [Razee4315/Paperling](https://github.com/Razee4315/Paperling) | 575 | 知识管理与自主学习／应用 | 可用于教育 | A minimal, distraction-free markdown editor built with Tauri, React, and TypeScript | 元数据收集 |
+| [alialbaali/Noto](https://github.com/alialbaali/Noto) | 571 | 知识管理与自主学习／应用 | 可用于教育 | Minimal Note-Taking App | 元数据收集 |
+| [hooosberg/WitNote](https://github.com/hooosberg/WitNote) | 571 | 知识管理与自主学习／应用 | 可用于教育 | WitNote is a local-first AI writing companion for macOS and Windows. | 元数据收集 |
+| [24kchengYe/human-skill-tree](https://github.com/24kchengYe/human-skill-tree) | 562 | 知识管理与自主学习／应用 | 可用于教育 | 🌳 AI-Powered Skill Tree for Lifelong Human Learning. 30+ skills from K-12 to career & social intelligence, built on cognitive science. \| 人类养成记：AI 驱… | 元数据收集 |
+| [reekta92/clin-rs](https://github.com/reekta92/clin-rs) | 559 | 知识管理与自主学习／应用 | 可用于教育 | Feature-packed TUI note management app inspired by Obsidian | 元数据收集 |
+| [Troyciv/anki-templates-superlist](https://github.com/Troyciv/anki-templates-superlist) | 555 | 知识管理与自主学习／课程／资源 | 教育原生 | A collection of Anki card styles | 元数据收集 |
+| [chenxiachan/thoughtdag](https://github.com/chenxiachan/thoughtdag) | 547 | 知识管理与自主学习／应用 | 可用于教育 | Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context. | 元数据收集 |
+| [pranavdeshai/anki-prettify](https://github.com/pranavdeshai/anki-prettify) | 544 | 知识管理与自主学习／课程／资源 | 教育原生 | Collection of customizable Anki flashcard templates with modern and clean themes. | 元数据收集 |
+| [FreeLanguageTools/vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) | 542 | 知识管理与自主学习／应用 | 可用于教育 | Simple sentence mining tool for language learning | 元数据收集 |
+| [xiaohajiayou/Leetcode-Mastery-Scheduler](https://github.com/xiaohajiayou/Leetcode-Mastery-Scheduler) | 541 | 知识管理与自主学习／应用 | 可用于教育 | 通过Anki Fsrs算法速成力扣：自动推荐题目，每日复习（支持导入外部题目：手撕、洛谷、codeforce、牛客、一题多解）。Master LeetCode via Anki Fsrs：auto-recommend problems, review daily. | 元数据收集 |
+| [Jitendex/Jitendex](https://github.com/Jitendex/Jitendex) | 540 | 知识管理与自主学习／应用 | 可用于教育 | A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly! | 元数据收集 |
+| [Linus-Mussmaecher/rucola](https://github.com/Linus-Mussmaecher/rucola) | 540 | 知识管理与自主学习／应用 | 可用于教育 | Terminal-based markdown note manager. | 元数据收集 |
+| [nobiot/org-remark](https://github.com/nobiot/org-remark) | 538 | 知识管理与自主学习／应用 | 可用于教育 | Highlight & annotate text, EWW, Info, and EPUB | 元数据收集 |
+| [xxyzz/WordDumb](https://github.com/xxyzz/WordDumb) | 535 | 知识管理与自主学习／应用 | 可用于教育 | A calibre plugin that generates Kindle Word Wise and X-Ray files for KFX, AZW3, MOBI and EPUB eBook. | 元数据收集 |
+| [redsolver/noteless](https://github.com/redsolver/noteless) | 521 | 知识管理与自主学习／应用 | 可用于教育 | A Markdown-based note-taking app for mobile devices. | 元数据收集 |
+| [tsdko/anki-sync-server](https://github.com/tsdko/anki-sync-server) | 507 | 知识管理与自主学习／应用 | 可用于教育 | Self-hosted Anki sync server | 元数据收集 |
+| [ankimcp/anki-mcp-server](https://github.com/ankimcp/anki-mcp-server) | 504 | 知识管理与自主学习／应用 | 教育原生 | A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki, the spaced repetition flashcard application. | 元数据收集 |
+| [open-spaced-repetition/py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) | 502 | 知识管理与自主学习／应用 | 可用于教育 | Python Package for FSRS Spaced Repetition | 元数据收集 |
+| [alyssaxuu/carden](https://github.com/alyssaxuu/carden) | 489 | 知识管理与自主学习／应用 | 教育原生 | Flashcards with spaced repetition and gamification 🌱 | 元数据收集 |
+| [LifetimeLabsDev/PrivacyNotes.app](https://github.com/LifetimeLabsDev/PrivacyNotes.app) | 481 | 知识管理与自主学习／应用 | 可用于教育 | End-to-end encrypted notes, tasks, files, passwords, journal and bookmarks. Keyed by a 12-word BIP-39 phrase: no email, no password, no account to … | 元数据收集 |
+| [ChenChenyaqi/learn-anything](https://github.com/ChenChenyaqi/learn-anything) | 467 | 知识管理与自主学习／应用 | 可用于教育 | Learn Anything is an AI-powered recursive learning system — Socratic deep-dives and TDD-style exercises integrated directly into your coding assist… | 元数据收集 |
+| [d12frosted/vulpea](https://github.com/d12frosted/vulpea) | 461 | 知识管理与自主学习／应用 | 可用于教育 | Database layer for org-mode notes with async indexing, rich queries, backlink discovery, and external change detection. Scales to 100k+ notes. | 元数据收集 |
+| [bryanph/GeistMap](https://github.com/bryanph/GeistMap) | 451 | 知识管理与自主学习／应用 | 可用于教育 | An experimental personal knowledge base with a focus on connections | 元数据收集 |
+| [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) | 449 | 知识管理与自主学习／应用 | 可用于教育 | Next generation of Tomboy | 元数据收集 |
+| [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad) | 448 | 知识管理与自主学习／应用 | 可用于教育 | 📓 Plainpad - Self Hosted Note Taking App | 元数据收集 |
+| [text2future/flowix](https://github.com/text2future/flowix) | 445 | 知识管理与自主学习／应用 | 可用于教育 | Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding | 元数据收集 |
+| [glutanimate/image-occlusion-enhanced](https://github.com/glutanimate/image-occlusion-enhanced) | 442 | 知识管理与自主学习／应用 | 可用于教育 | Anki add-on that transforms images into cloze tests | 元数据收集 |
+| [tema6120/ForgetMeNot](https://github.com/tema6120/ForgetMeNot) | 442 | 知识管理与自主学习／应用 | 教育原生 | A flashcard app for Android. | 元数据收集 |
+| [lockbook/lockbook](https://github.com/lockbook/lockbook) | 439 | 知识管理与自主学习／应用 | 可用于教育 | Encrypted notebook | 元数据收集 |
+| [xinthink/flutter-keep](https://github.com/xinthink/flutter-keep) | 437 | 知识管理与自主学习／应用 | 可用于教育 | A note-taking app built with Flutter + Firebase | 元数据收集 |
+| [shaankhosla/repeater](https://github.com/shaankhosla/repeater) | 435 | 知识管理与自主学习／应用 | 可用于教育 | Spaced repetition, in your terminal | 元数据收集 |
+| [fspv/leetcode-anki](https://github.com/fspv/leetcode-anki) | 427 | 知识管理与自主学习／应用 | 可用于教育 | Anki cards generator for Leetcode | 元数据收集 |
+| [iridakos/stup](https://github.com/iridakos/stup) | 425 | 知识管理与自主学习／应用 | 可用于教育 | Daily notes in the terminal :penguin: | 元数据收集 |
+| [tristcoil/hanabira.org](https://github.com/tristcoil/hanabira.org) | 425 | 知识管理与自主学习／应用 | 可用于教育 | Free Open-Source Japanese and Korean language learning portal. Allows for Self-Hosting. MIT License. | 元数据收集 |
+| [krmanik/Anki-xiehanzi](https://github.com/krmanik/Anki-xiehanzi) | 419 | 知识管理与自主学习／应用 | 可用于教育 | Learn, read, write and practice Mandarin by drawing strokes in Anki Desktop, AnkiDroid and AnkiMobile with audio of HSK 2.0 (HSK1-6) and HSK 3.0 (H… | 元数据收集 |
+| [HuangAntimony/Hoshi-Reader-Android](https://github.com/HuangAntimony/Hoshi-Reader-Android) | 415 | 知识管理与自主学习／应用 | 可用于教育 | Hoshi Reader Android: Japanese EPUB reader with Yomitan lookup, Anki mining, audiobook read-along, and e-ink support. | 元数据收集 |
+| [thepeacemonk/Onigiri](https://github.com/thepeacemonk/Onigiri) | 415 | 知识管理与自主学习／应用 | 可用于教育 | (Update in production) Onigiri is an experimental add-on that replaces the standard Anki interface with a modern, highly customizable, and personal… | 元数据收集 |
+| [lakesare/memcode](https://github.com/lakesare/memcode) | 408 | 知识管理与自主学习／应用 | 可用于教育 | Open-source SRS | 元数据收集 |
+| [rampaa/JL](https://github.com/rampaa/JL) | 402 | 知识管理与自主学习／应用 | 可用于教育 | JL is a program for looking up Japanese words and expressions. | 元数据收集 |
+| [ArneVogel/listudy](https://github.com/ArneVogel/listudy) | 398 | 知识管理与自主学习／应用 | 可用于教育 | Listudy - chess training server | 元数据收集 |
+| [computing-den/unforget](https://github.com/computing-den/unforget) | 395 | 知识管理与自主学习／应用 | 可用于教育 | Unforget is a minimalist end-to-end encrypted note-taking app without Electron.js | 元数据收集 |
+| [YangDai2003/Kori](https://github.com/YangDai2003/Kori) | 392 | 知识管理与自主学习／应用 | 可用于教育 | AI-powered Markdown notepad built with Compose Multiplatform. | 元数据收集 |
+| [tizuio/TizuMark-Markdown-Editor](https://github.com/tizuio/TizuMark-Markdown-Editor) | 385 | 知识管理与自主学习／应用 | 可用于教育 | 轻量级跨平台 Markdown 编辑器（Windows 平台，macOS/Linux 规划中）：WYSIWYG 实时预览、大纲导航、KaTeX 公式、Mermaid 图表，基于 Tauri + Rust，安装包仅 9MB。Lightweight Markdown editor for Wind… | 元数据收集 |
+| [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) | 383 | 知识管理与自主学习／应用 | 可用于教育 | Python code to convert Obsidian notes to proper markdown and optionally to create an html site too. | 元数据收集 |
+| [bngarren/checkmate.nvim](https://github.com/bngarren/checkmate.nvim) | 380 | 知识管理与自主学习／应用 | 可用于教育 | A full-featured, Markdown-based Neovim todo plugin | 元数据收集 |
+| [hluaguo/learn-faster-kit](https://github.com/hluaguo/learn-faster-kit) | 380 | 知识管理与自主学习／应用 | 可用于教育 | AI-powered learning coach with spaced repetition with Claude Code - master any knowledge faster with personalized syllabi and progress tracking | 元数据收集 |
+| [orayemre/Notemod](https://github.com/orayemre/Notemod) | 379 | 知识管理与自主学习／应用 | 可用于教育 | Note-Taking App Free & Open Source | 元数据收集 |
+| [rsimmons/voracious](https://github.com/rsimmons/voracious) | 371 | 知识管理与自主学习／应用 | 可用于教育 | A video player for studying foreign languages (esp. Japanese) | 元数据收集 |
+| [byteyilabs/yi-note](https://github.com/byteyilabs/yi-note) | 369 | 知识管理与自主学习／应用 | 可用于教育 | YiNote browser extension - online video note taking tool | 元数据收集 |
+| [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) | 360 | 知识管理与自主学习／应用 | 可用于教育 | Joplin (note-taking) assistant running a very intelligent system (GPT, Claude, Gemini, Ollama, Hugging Face) | 元数据收集 |
+| [friebetill/TubeCards](https://github.com/friebetill/TubeCards) | 360 | 知识管理与自主学习／应用 | 可用于教育 | TubeCards - Cross-platform Spaced Repetition App written in Flutter | 元数据收集 |
+| [lervag/apy](https://github.com/lervag/apy) | 357 | 知识管理与自主学习／课程／资源 | 教育原生 | CLI script for interacting with local Anki collection | 元数据收集 |
+| [cybersemics/em](https://github.com/cybersemics/em) | 356 | 知识管理与自主学习／应用 | 可用于教育 | A beautiful, minimalistic note-taking app for personal sensemaking. | 元数据收集 |
+| [volotat/Anagnorisis](https://github.com/volotat/Anagnorisis) | 354 | 知识管理与自主学习／应用 | 可用于教育 | Local data-management platform with built-in trainable recommendation engine and distributed file-sharing ecosystem for content search and discovery. | 元数据收集 |
+| [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) | 345 | 知识管理与自主学习／应用 | 可用于教育 | Bidirectional synchronization between Obsidian and TickTick. Mobile compatible. | 元数据收集 |
+| [Yvee1/hascard](https://github.com/Yvee1/hascard) | 341 | 知识管理与自主学习／应用 | 教育原生 | flashcard TUI with markdown cards | 元数据收集 |
+| [fasiha/ebisu](https://github.com/fasiha/ebisu) | 338 | 知识管理与自主学习／开发组件 | 教育原生 | Public-domain Python library for flashcard quiz scheduling using Bayesian statistics. (JavaScript, Java, Dart, and other ports available!) | 元数据收集 |
+| [VienDinhCom/supermemo](https://github.com/VienDinhCom/supermemo) | 338 | 知识管理与自主学习／应用 | 教育原生 | A JavaScript and TypeScript implementation of SuperMemo 2, a spaced repetition algorithm for flashcards. | 元数据收集 |
+| [SYuan03/Skill-Anything](https://github.com/SYuan03/Skill-Anything) | 336 | 知识管理与自主学习／课程／资源 | 教育原生 | Any source (PDF, video, web, audio, text) to interactive learning package with quizzes, flashcards and spaced repetition. One command, 12-section s… | 元数据收集 |
+| [2anki/2anki.net](https://github.com/2anki/2anki.net) | 326 | 知识管理与自主学习／应用 | 教育原生 | Server to create Anki flashcards faster, easier and better today ⭐️ | 元数据收集 |
+| [open-spaced-repetition/fsrs4anki-helper](https://github.com/open-spaced-repetition/fsrs4anki-helper) | 325 | 知识管理与自主学习／应用 | 可用于教育 | An Anki add-on that supports Postpone & Advance & Load Balance & Easy Days & Disperse Siblings & Flatten | 元数据收集 |
+| [abahmed/Deer](https://github.com/abahmed/Deer) | 324 | 知识管理与自主学习／应用 | 可用于教育 | :pencil2:A modern, fast, beautiful note taking app, built on Electron and React | 元数据收集 |
+| [BDenizKoca/Tideflow-md-to-pdf](https://github.com/BDenizKoca/Tideflow-md-to-pdf) | 320 | 知识管理与自主学习／应用 | 可用于教育 | Turn Markdown into beautiful PDFs with Tideflow instantly - offline, portable desktop app | 元数据收集 |
+| [sazardev/shiki](https://github.com/sazardev/shiki) | 320 | 知识管理与自主学习／应用 | 可用于教育 | TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search. | 元数据收集 |
+| [pacocoursey/Opus](https://github.com/pacocoursey/Opus) | 315 | 知识管理与自主学习／应用 | 可用于教育 | minimal note-taking app | 元数据收集 |
+| [memospot/memospot](https://github.com/memospot/memospot) | 310 | 知识管理与自主学习／应用 | 可用于教育 | Memospot is a self-contained desktop version of Memos -a privacy-first, lightweight note-taking service. | 元数据收集 |
+| [imrofayel/fylepad](https://github.com/imrofayel/fylepad) | 306 | 知识管理与自主学习／应用 | 可用于教育 | Thoughtful, secure, and intelligent writing | 元数据收集 |
+| [finalion/WordQuery](https://github.com/finalion/WordQuery) | 305 | 知识管理与自主学习／应用 | 可用于教育 | word fast-querying addon for anki | 元数据收集 |
+| [mmjang/ankihelper](https://github.com/mmjang/ankihelper) | 303 | 知识管理与自主学习／应用 | 可用于教育 | 通过教育相关主题检索收集；可评估用于学习笔记、知识整理、闪卡或复习；具体能力待核对。 | 元数据收集 |
+| [mathewthe2/Game2Text](https://github.com/mathewthe2/Game2Text) | 298 | 知识管理与自主学习／应用 | 可用于教育 | Complete toolbox for gamifying language learning | 元数据收集 |
+| [d-eniz/jupymd](https://github.com/d-eniz/jupymd) | 295 | 知识管理与自主学习／应用 | 可用于教育 | JupyMD: Use Obsidian as a Jupyter notebook IDE | 元数据收集 |
+| [l3kn/org-fc](https://github.com/l3kn/org-fc) | 295 | 知识管理与自主学习／应用 | 可用于教育 | Spaced Repetition System for Emacs org-mode | 元数据收集 |
+| [eallion/memos.top](https://github.com/eallion/memos.top) | 293 | 知识管理与自主学习／应用 | 可用于教育 | ✍ A static page rendered with the Memos API. | 元数据收集 |
+| [michaelwilhelmsen/humla](https://github.com/michaelwilhelmsen/humla) | 293 | 知识管理与自主学习／应用 | 可用于教育 | Open-source AI meeting notes for Mac. Records mic + system audio with no bot, transcribes on-device or via OpenAI / Deepgram / Groq, identifies spe… | 元数据收集 |
+| [sth2018/FastWordQuery](https://github.com/sth2018/FastWordQuery) | 290 | 知识管理与自主学习／应用 | 可用于教育 | Query words definitions or examples etc. from local or web dictionaries to fill into Anki cards. | 元数据收集 |
+| [toolstack/Folio](https://github.com/toolstack/Folio) | 288 | 知识管理与自主学习／应用 | 可用于教育 | A beautiful markdown note-taking app for GNOME (forked from Paper) | 元数据收集 |
+| [Efimj/Shkiper](https://github.com/Efimj/Shkiper) | 287 | 知识管理与自主学习／应用 | 可用于教育 | Android modern notepad | 元数据收集 |
+| [KamWithK/AnkiconnectAndroid](https://github.com/KamWithK/AnkiconnectAndroid) | 286 | 知识管理与自主学习／应用 | 可用于教育 | Unofficial Ankiconnect for Android (i.e. for Yomichan) | 元数据收集 |
+| [gluesql/glues](https://github.com/gluesql/glues) | 284 | 知识管理与自主学习／应用 | 可用于教育 | Vim-inspired TUI note-taking app with multi-backend storage — privacy-focused | 元数据收集 |
+| [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) | 281 | 知识管理与自主学习／应用 | 可用于教育 | Taking interactive notes when watching videos or listening to audios in org-mode. | 元数据收集 |
+| [amjarmed/Awesome-AnyType-Resources](https://github.com/amjarmed/Awesome-AnyType-Resources) | 280 | 知识管理与自主学习／应用 | 可用于教育 | 🎉 A curated collection of useful links, tutorials, and resources for the AnyType app – a knowledge management and organization tool. Explore guides… | 元数据收集 |
+| [muety/mininote](https://github.com/muety/mininote) | 278 | 知识管理与自主学习／应用 | 可用于教育 | 📔 A simple, self-hosted, encrypted Markdown note-taking editor | 元数据收集 |
+| [Writeopia/Writeopia](https://github.com/Writeopia/Writeopia) | 278 | 知识管理与自主学习／应用 | 可用于教育 | Write like nobody’s watching. Because they aren't. | 元数据收集 |
+| [open-spaced-repetition/srs-benchmark](https://github.com/open-spaced-repetition/srs-benchmark) | 272 | 知识管理与自主学习／应用 | 可用于教育 | A benchmark for spaced repetition schedulers/algorithms | 元数据收集 |
+| [rhysd/notes-cli](https://github.com/rhysd/notes-cli) | 269 | 知识管理与自主学习／应用 | 可用于教育 | Small markdown note taking CLI app playing nicely with your favorite editor and other CLI tools | 元数据收集 |
+| [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) | 268 | 知识管理与自主学习／应用 | 可用于教育 | Anti-Note for GNOME. | 元数据收集 |
+| [penge/my-notes](https://github.com/penge/my-notes) | 267 | 知识管理与自主学习／应用 | 可用于教育 | Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed. | 元数据收集 |
+| [0xMassi/stik\_app](https://github.com/0xMassi/stik_app) | 266 | 知识管理与自主学习／应用 | 可用于教育 | Instant thought capture for macOS. One shortcut, post-it appears, type, close. | 元数据收集 |
+| [antigluten/amgi](https://github.com/antigluten/amgi) | 266 | 知识管理与自主学习／应用 | 教育原生 | An open-source, offline-first Anki-compatible iOS flashcard client with sync server support, powered by the official Anki Rust backend via C FFI. | 元数据收集 |
+| [yomidevs/local-audio-yomichan](https://github.com/yomidevs/local-audio-yomichan) | 258 | 知识管理与自主学习／应用 | 可用于教育 | Anki add-on to run a local audio server for Yomichan. | 元数据收集 |
+| [Hansanshi/mark-idea](https://github.com/Hansanshi/mark-idea) | 256 | 知识管理与自主学习／应用 | 可用于教育 | 一款私有云笔记，git + markdown | 元数据收集 |
+| [taivop/anki-decks](https://github.com/taivop/anki-decks) | 256 | 知识管理与自主学习／应用 | 可用于教育 | Anki decks I've created | 元数据收集 |
+| [fabd/kanji-koohii](https://github.com/fabd/kanji-koohii) | 255 | 知识管理与自主学习／应用 | 可用于教育 | A web application to help Japanese language learners remember the kanji. | 元数据收集 |
+| [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim) | 254 | 知识管理与自主学习／应用 | 可用于教育 | A Vim Philosophy Oriented Zettelkasten Note Taking Plugin | 元数据收集 |
+| [haochaco/issue-tracker-zh](https://github.com/haochaco/issue-tracker-zh) | 253 | 知识管理与自主学习／应用 | 可用于教育 | 中文GitHub反馈区 | 元数据收集 |
+| [nailuoGG/anki-mcp-server](https://github.com/nailuoGG/anki-mcp-server) | 253 | 知识管理与自主学习／应用 | 可用于教育 | MCP server for Anki via AnkiConnect | 元数据收集 |
+| [danloh/mdSilo-web](https://github.com/danloh/mdSilo-web) | 252 | 知识管理与自主学习／应用 | 可用于教育 | In-browser knowledge base on top of local plain-text files | 元数据收集 |
+| [cannibalox/logtools](https://github.com/cannibalox/logtools) | 250 | 知识管理与自主学习／应用 | 可用于教育 | Logtools: utilities for Logseq (kanban, image gallery, priority matrix, ...) | 元数据收集 |
+| [kaorahi/howm](https://github.com/kaorahi/howm) | 249 | 知识管理与自主学习／应用 | 可用于教育 | note-taking tool on Emacs | 元数据收集 |
+| [shardulvs/xnotes-android](https://github.com/shardulvs/xnotes-android) | 248 | 知识管理与自主学习／应用 | 可用于教育 | A handwriting notes and sketching app for Android with stylus support | 元数据收集 |
+| [ErezShahaf/Lore](https://github.com/ErezShahaf/Lore) | 245 | 知识管理与自主学习／应用 | 可用于教育 | Summon it with a keystroke, throw in anything you want to remember or ask your own memory. A local LLM agent that restructures your knowledge into … | 元数据收集 |
+| [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron) | 244 | 知识管理与自主学习／课程／资源 | 教育原生 | A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer. | 元数据收集 |
+| [glutanimate/cloze-overlapper](https://github.com/glutanimate/cloze-overlapper) | 244 | 知识管理与自主学习／应用 | 可用于教育 | Anki add-on for memorizing lists and enumerations | 元数据收集 |
+| [Dentrax/GMDB](https://github.com/Dentrax/GMDB) | 241 | 知识管理与自主学习／开发组件 | 可用于教育 | GMDB is the ultra-simple, cross-platform Movie Library with Features (Search, Take Note, Watch Later, Like, Import, Learn, Instantly Torrent Magnet… | 元数据收集 |
+| [hzc073/memoflow](https://github.com/hzc073/memoflow) | 241 | 知识管理与自主学习／应用 | 可用于教育 | 为usememos/memos打造的安卓移动端，支持AI总结，随机漫步，统计分析等多种功能。 | 元数据收集 |
+| [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop) | 240 | 知识管理与自主学习／开发组件 | 可用于教育 | Memos client built on electron cross-end framework | 元数据收集 |
+| [zayfod/pycozmo](https://github.com/zayfod/pycozmo) | 236 | 知识管理与自主学习／开发组件 | 可用于教育 | A pure-Python communication library, alternative SDK, and application for the Cozmo robot. | 元数据收集 |
+| [Ajatt-Tools/anki.koplugin](https://github.com/Ajatt-Tools/anki.koplugin) | 235 | 知识管理与自主学习／应用 | 可用于教育 | KOReader plugin enabling Anki card generations for words looked up in the internal dictionary. | 元数据收集 |
+| [AGI-is-going-to-arrive/ahadiff](https://github.com/AGI-is-going-to-arrive/ahadiff) | 233 | 知识管理与自主学习／课程／资源 | 教育原生 | Learn from your vibe coding instead of just clicking Accept. AhaDiff turns each AI diff into a code-verified lesson, quiz, and review. · 别再无脑 vibe … | 元数据收集 |
+| [envico801/Neetcode-150-and-Blind-75](https://github.com/envico801/Neetcode-150-and-Blind-75) | 231 | 知识管理与自主学习／课程／资源 | 教育原生 | 📘 Neetcode 150 practice problems + Blind 75 techniques. Includes quizzes/questions/tests in flashcards format (Anki) to learn patterns and solution… | 元数据收集 |
+| [Nriver/trilium-py](https://github.com/Nriver/trilium-py) | 231 | 知识管理与自主学习／应用 | 可用于教育 | Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端 | 元数据收集 |
+| [alopezrivera/OneNoteExporter](https://github.com/alopezrivera/OneNoteExporter) | 230 | 知识管理与自主学习／应用 | 可用于教育 | Export your OneNote note collection to Obsidian, Logseq, Org Mode or any other plain text note-taking app! | 元数据收集 |
+| [jdlorimer/incremental-reading](https://github.com/jdlorimer/incremental-reading) | 228 | 知识管理与自主学习／应用 | 可用于教育 | Anki add-on providing incremental reading features | 元数据收集 |
+| [maimemo/SSP-MMC](https://github.com/maimemo/SSP-MMC) | 226 | 知识管理与自主学习／应用 | 可用于教育 | A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling | 元数据收集 |
+| [kuku-mom/kuku](https://github.com/kuku-mom/kuku) | 225 | 知识管理与自主学习／应用 | 可用于教育 | Open-source local-first Markdown workspace with wiki, AI editing, and encrypted sync. | 元数据收集 |
+| [groepl/Take-Useful-Notes](https://github.com/groepl/Take-Useful-Notes) | 224 | 知识管理与自主学习／应用 | 可用于教育 | The Minimalist’s Zettelkasten. Think Better with Less. | 元数据收集 |
+| [aviaryan/SublimeNotebook](https://github.com/aviaryan/SublimeNotebook) | 223 | 知识管理与自主学习／应用 | 可用于教育 | 📝 Make Sublime Text your favorite note taking/journal application | 元数据收集 |
+| [Amulopapa67/open-yonsei-korean-vocabulary](https://github.com/Amulopapa67/open-yonsei-korean-vocabulary) | 221 | 知识管理与自主学习／应用 | 可用于教育 | 《延世韩国语》1–6 册开源词源单词本：中韩英对照、词源追溯、可编辑数据与自制单词书生成器 | 元数据收集 |
+| [MFreidank/AnkiVim](https://github.com/MFreidank/AnkiVim) | 219 | 知识管理与自主学习／应用 | 可用于教育 | Use vim (or your favorite editor) to write anki cards quickly in plain text or latex. | 元数据收集 |
+| [ibnishak/Timimi](https://github.com/ibnishak/Timimi) | 217 | 知识管理与自主学习／应用 | 可用于教育 | Webextension to save Tiddlywiki | 元数据收集 |
+| [Chimahon/chimahon](https://github.com/Chimahon/chimahon) | 216 | 知识管理与自主学习／应用 | 可用于教育 | Mihon immersion fork with native dictionary lookup (Yomitan), Mokuro manga and anime support, Novel EPUB reader, and instant Anki card mining. | 元数据收集 |
+| [supermemo/SuperMemoAssistant](https://github.com/supermemo/SuperMemoAssistant) | 215 | 知识管理与自主学习／应用 | 可用于教育 | A companion app for SuperMemo 17-18 which extends its functionalities through plugins. | 元数据收集 |
+| [SourcewareLab/Toney](https://github.com/SourcewareLab/Toney) | 210 | 知识管理与自主学习／应用 | 可用于教育 | Toney is a fast, lightweight, terminal-based note-taking app for the modern developer. | 元数据收集 |
+| [stdword/logseq13-full-house-plugin](https://github.com/stdword/logseq13-full-house-plugin) | 209 | 知识管理与自主学习／应用 | 可用于教育 | Logseq Templates you will really love ❤️ 🏛️ | 元数据收集 |
+| [bjsi/incremental-writing](https://github.com/bjsi/incremental-writing) | 208 | 知识管理与自主学习／应用 | 可用于教育 | An incremental writing plugin for Obsidian where you add notes and blocks to prioritized queues and review them incrementally over time, spaced rep… | 元数据收集 |
+| [1nsp1r3rnzt/chrome-anki-quick-adder](https://github.com/1nsp1r3rnzt/chrome-anki-quick-adder) | 205 | 知识管理与自主学习／应用 | 可用于教育 | This chrome extension provides the ability to create Anki cards directly from Google Chrome on your Anki Desktop. | 元数据收集 |
+| [flusterIO/fluster](https://github.com/flusterIO/fluster) | 205 | 知识管理与自主学习／应用 | 可用于教育 | Your brain's presentation layer. | 元数据收集 |
+| [ResearchHelper/research-helper](https://github.com/ResearchHelper/research-helper) | 205 | 知识管理与自主学习／应用 | 可用于教育 | THE reference manager with features including PDF reading/annotating, Markdown/Excalidraw note-taking, project/note linking, and more... | 元数据收集 |
+| [abougouffa/minemacs](https://github.com/abougouffa/minemacs) | 203 | 知识管理与自主学习／开发组件 | 可用于教育 | MinEmacs: an Emacs configuration framework for daily use | 元数据收集 |
+| [ff-notes/ff](https://github.com/ff-notes/ff) | 203 | 知识管理与自主学习／应用 | 可用于教育 | A distributed note taker and task manager. | 元数据收集 |
+| [renerocksai/sublimeless\_zk](https://github.com/renerocksai/sublimeless_zk) | 203 | 知识管理与自主学习／应用 | 可用于教育 | A note taking app, Markdown editor, and text browser, featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loade… | 元数据收集 |
+| [corollari/ankiTab](https://github.com/corollari/ankiTab) | 202 | 知识管理与自主学习／应用 | 教育原生 | Browser extension that replaces the new tab page with Anki flashcards | 元数据收集 |
+| [mtrazzi/rl-book-challenge](https://github.com/mtrazzi/rl-book-challenge) | 202 | 知识管理与自主学习／课程／资源 | 教育原生 | self-studying the Sutton & Barto the hard way | 元数据收集 |
+| [chenkanglin198904/Personal\_External\_Brain](https://github.com/chenkanglin198904/Personal_External_Brain) | 201 | 知识管理与自主学习／应用 | 可用于教育 | Not another ChatGPT wrapper. This is a local-first tool that turns your notes, web pages, PDFs and audio/video into a personal knowledge graph — ru… | 元数据收集 |
+| [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes) | 201 | 知识管理与自主学习／应用 | 可用于教育 | A template for Eleventy to publish your personal notes or docs. | 元数据收集 |
+| [SimonLammer/anki-persistence](https://github.com/SimonLammer/anki-persistence) | 201 | 知识管理与自主学习／应用 | 教育原生 | Persist data between both sides of an anki flashcard. | 元数据收集 |
+| [umaranis/MindMate](https://github.com/umaranis/MindMate) | 199 | 知识管理与自主学习／应用 | 可用于教育 | Mind Mate is an open source mind mapping software developed in C# .Net | 元数据收集 |
+| [anki-editor/anki-editor](https://github.com/anki-editor/anki-editor) | 198 | 知识管理与自主学习／应用 | 可用于教育 | Emacs minor mode for making Anki cards with Org Mode | 元数据收集 |
+| [kitschpatrol/yanki-obsidian](https://github.com/kitschpatrol/yanki-obsidian) | 197 | 知识管理与自主学习／应用 | 教育原生 | An Obsidian plugin that syncs flashcards from a folder in your vault to Anki. Pure Markdown syntax. No fuss. | 元数据收集 |
+| [nastaso/cloudcertprep](https://github.com/nastaso/cloudcertprep) | 197 | 知识管理与自主学习／应用 | 可用于教育 | Free, open-source AWS Cloud Practitioner (CLF-C02) & AI Practitioner (AIF-C01) practice exams - 1,469 questions with explanations, timed mock exams… | 元数据收集 |
+| [eried/Research](https://github.com/eried/Research) | 195 | 知识管理与自主学习／应用 | 可用于教育 | My personal repository for findings and things to remember | 元数据收集 |
+| [vadimmelnicuk/meo](https://github.com/vadimmelnicuk/meo) | 191 | 知识管理与自主学习／应用 | 可用于教育 | An optimized markdown editor with live editing mode for VS Code. | 元数据收集 |
+| [Human-Centric-Machine-Learning/memorize](https://github.com/Human-Centric-Machine-Learning/memorize) | 190 | 知识管理与自主学习／应用 | 可用于教育 | Code and real data for "Enhancing Human Learning via Spaced Repetition Optimization", PNAS 2019 | 元数据收集 |
+| [treehousedev/treehouse](https://github.com/treehousedev/treehouse) | 190 | 知识管理与自主学习／应用 | 可用于教育 | 通过教育相关主题检索收集；可评估用于学习笔记、知识整理、闪卡或复习；具体能力待核对。 | 元数据收集 |
+| [git9527/anki-awesome-select](https://github.com/git9527/anki-awesome-select) | 187 | 知识管理与自主学习／课程／资源 | 教育原生 | This is the select template for Anki with awesome interface/Anki选择题模板 | 元数据收集 |
+| [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh) | 187 | 知识管理与自主学习／应用 | 教育原生 | 💥 flashcards in your terminal | 元数据收集 |
+| [yaoyhu/anki\_packager](https://github.com/yaoyhu/anki_packager) | 186 | 知识管理与自主学习／应用 | 教育原生 | An intelligent, automatic Anki flashcard generator designed for Chinese speakers learning English. | 元数据收集 |
+| [flashcards/flashcards.github.io](https://github.com/flashcards/flashcards.github.io) | 184 | 知识管理与自主学习／开发组件 | 教育原生 | An open, community-driven library of developer flashcards — powered by Flashcards.io. Contribute Markdown files and instantly turn them into AI-gen… | 元数据收集 |
+| [nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT) | 184 | 知识管理与自主学习／应用 | 教育原生 | Turn lecture slides into flashcards and export them to Anki. Uses GPT-5 by OpenAI. AnkiGPT already generated 3,431,786 flashcards. | 元数据收集 |
+| [glutanimate/anki-addons-misc](https://github.com/glutanimate/anki-addons-misc) | 183 | 知识管理与自主学习／应用 | 可用于教育 | Various add-ons I've written for Anki | 元数据收集 |
+| [repeat-space/anki-apkg-export](https://github.com/repeat-space/anki-apkg-export) | 181 | 知识管理与自主学习／课程／资源 | 教育原生 | :book: Generate decks for Anki (spaced repetition software) | 元数据收集 |
+| [open-spaced-repetition/fsrs.js](https://github.com/open-spaced-repetition/fsrs.js) | 180 | 知识管理与自主学习／应用 | 可用于教育 | A spaced repetition algorithm which overtakes Anki and catches up with SuperMemo. | 元数据收集 |
+| [ctrlaltwill/LearnKit](https://github.com/ctrlaltwill/LearnKit) | 179 | 知识管理与自主学习／应用 | 教育原生 | A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and … | 元数据收集 |
+| [sobjornstad/AnkiLPCG](https://github.com/sobjornstad/AnkiLPCG) | 179 | 知识管理与自主学习／应用 | 可用于教育 | Addon for dae/anki for studying lyrics and poetry | 元数据收集 |
+| [SteveRidout/flashdown](https://github.com/SteveRidout/flashdown) | 178 | 知识管理与自主学习／应用 | 教育原生 | A terminal based Flashcard app using plain text files | 元数据收集 |
+| [Ecattea/COCA-English-Anki-Deck](https://github.com/Ecattea/COCA-English-Anki-Deck) | 176 | 知识管理与自主学习／应用 | 可用于教育 | This Anki deck contains top 5,000 high-frequency English lemmas (as ranked by COCA) in an English-only environment. Each atomic card presents a sin… | 元数据收集 |
+| [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) | 174 | 知识管理与自主学习／应用 | 教育原生 | Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually cre… | 元数据收集 |
+| [sirupsen/anki-airtable](https://github.com/sirupsen/anki-airtable) | 172 | 知识管理与自主学习／应用 | 可用于教育 | Sync Anki with Airtable! | 元数据收集 |
+| [bergercookie/awesome-albert-plugins](https://github.com/bergercookie/awesome-albert-plugins) | 167 | 知识管理与自主学习／课程／资源 | 教育原生 | Unofficial collection of plugins for the Albert launcher (https://albertlauncher.github.io/). | 元数据收集 |
+| [debanjandhar12/Obsidian-Anki-Sync](https://github.com/debanjandhar12/Obsidian-Anki-Sync) | 166 | 知识管理与自主学习／应用 | 教育原生 | Obsidian plugin to make flashcards and sync them to Anki | 元数据收集 |
+| [slaypni/SM-15](https://github.com/slaypni/SM-15) | 164 | 知识管理与自主学习／应用 | 可用于教育 | Spaced repetition for memorizing tons of things. | 元数据收集 |
+| [cleverbunny/elixir-flashcards](https://github.com/cleverbunny/elixir-flashcards) | 163 | 知识管理与自主学习／应用 | 教育原生 | Elixir flashcards to help you level up quicker | 元数据收集 |
+| [supermemo/awesome-supermemo](https://github.com/supermemo/awesome-supermemo) | 162 | 知识管理与自主学习／课程／资源 | 教育原生 | A list of resources which can be used with SuperMemo. | 元数据收集 |
+| [ShoroukAziz/Beautify-Anki](https://github.com/ShoroukAziz/Beautify-Anki) | 161 | 知识管理与自主学习／应用 | 可用于教育 | An Anki addon that attempts to give Anki's deck browser and deck overview pages a material design look. | 元数据收集 |
+| [Polaris-Aeterna/loom-notes](https://github.com/Polaris-Aeterna/loom-notes) | 158 | 知识管理与自主学习／应用 | 可用于教育 | A gorgeous XeLaTeX class + Claude skill for fill-in study notes — read and fill, learn by active recall. | 元数据收集 |
+| [Eltaurus-Lt/Anki-Card-Templates](https://github.com/Eltaurus-Lt/Anki-Card-Templates) | 156 | 知识管理与自主学习／应用 | 可用于教育 | Anki Card templates and the managing Add-on | 元数据收集 |
+| [klieret/AnkiPandas](https://github.com/klieret/AnkiPandas) | 155 | 知识管理与自主学习／应用 | 教育原生 | Analyze and manipulate your Anki flashcards using pandas dataframes! | 元数据收集 |
+| [jrgilbertson/networked-thinking](https://github.com/jrgilbertson/networked-thinking) | 153 | 知识管理与自主学习／课程／资源 | 教育原生 | An Obsidian companion vault for putting Networked Thinking into practice, with the notes, templates, and folder structure from the book. | 元数据收集 |
+| [5mdld/anki-english-mwld-decks](https://github.com/5mdld/anki-english-mwld-decks) | 150 | 知识管理与自主学习／应用 | 可用于教育 | An extensive Anki deck of 60,000 high-frequency English words with definitions, examples, and audio from Merriam-Webster's Learner's Dictionary. | 元数据收集 |
+| [Aquafina-water-bottle/jp-mining-note](https://github.com/Aquafina-water-bottle/jp-mining-note) | 146 | 知识管理与自主学习／应用 | 可用于教育 | Anki card template for studying Japanese. | 元数据收集 |
+| [kubk/memo-card](https://github.com/kubk/memo-card) | 146 | 知识管理与自主学习／应用 | 可用于教育 | MemoCard - Award winning Telegram app for improving memory with spaced repetition | 元数据收集 |
+| [katademy/kubernetes](https://github.com/katademy/kubernetes) | 145 | 知识管理与自主学习／应用 | 教育原生 | Aims to be the most comprehensive repository for Kubernetes flashcards and interview questions. | 元数据收集 |
+| [lukesmurray/markdown-anki-decks](https://github.com/lukesmurray/markdown-anki-decks) | 144 | 知识管理与自主学习／应用 | 可用于教育 | Tool for converting markdown files into anki decks | 元数据收集 |
+| [abeleinin/goki](https://github.com/abeleinin/goki) | 141 | 知识管理与自主学习／应用 | 教育原生 | Anki-like flashcard management tool for the terminal! | 元数据收集 |
+| [L-M-Sherlock/AnkigaokaoTutorial](https://github.com/L-M-Sherlock/AnkigaokaoTutorial) | 141 | 知识管理与自主学习／应用 | 可用于教育 | 一本结合高考的 Anki 入门书 | 元数据收集 |
+| [kokimame/joytan](https://github.com/kokimame/joytan) | 140 | 知识管理与自主学习／应用 | 可用于教育 | Creative Audio/Textbook Maker 🎵 📖 See our YouTube channel | 元数据收集 |
+| [MarvNC/JP-Resources](https://github.com/MarvNC/JP-Resources) | 140 | 知识管理与自主学习／课程／资源 | 教育原生 | My contributions to the Japanese learning community. | 元数据收集 |
+| [llmsresearch/llm-flashcards](https://github.com/llmsresearch/llm-flashcards) | 138 | 知识管理与自主学习／课程／资源 | 教育原生 | 211 free visual cards about large language models, from tokenization to deployment. Full collection: 376 cards. | 元数据收集 |
+| [campfirium/foliole](https://github.com/campfirium/foliole) | 135 | 知识管理与自主学习／应用 | 可用于教育 | An approachable incremental reading app. | 元数据收集 |
+| [eannchen/leetsolv](https://github.com/eannchen/leetsolv) | 131 | 知识管理与自主学习／应用 | 可用于教育 | A spaced repetition CLI for DSA, powered by a custom SM-2 algorithm for deliberate practice. | 元数据收集 |
+| [BrenoAqua/Senren](https://github.com/BrenoAqua/Senren) | 128 | 知识管理与自主学习／应用 | 可用于教育 | A highly customizable Anki note type for studying Japanese. | 元数据收集 |
+| [Mochitto/Markdown2Anki](https://github.com/Mochitto/Markdown2Anki) | 128 | 知识管理与自主学习／应用 | 教育原生 | A CLI tool and an apkg template to allow you to create flashcards from markdown and have a better experience while using anki for your studies. 🌸 | 元数据收集 |
+| [yannickfunk/genanki-rs](https://github.com/yannickfunk/genanki-rs) | 128 | 知识管理与自主学习／开发组件 | 可用于教育 | Rust crate to create Anki decks. Based on the python library genanki | 元数据收集 |
+| [youyoumu/kiku](https://github.com/youyoumu/kiku) | 128 | 知识管理与自主学习／应用 | 可用于教育 | 菊 Kiku is feature-rich, fully interactive Anki note type designed for Japanese learners. | 元数据收集 |
+| [zijinz456/OpenTutor](https://github.com/zijinz456/OpenTutor) | 128 | 知识管理与自主学习／应用 | 教育原生 | The first block-based adaptive learning workspace that runs locally. Upload any material → get AI-generated notes, quizzes, flashcards, and an adap… | 元数据收集 |
+| [Anton-Latukha/Fundamental-Haskell](https://github.com/Anton-Latukha/Fundamental-Haskell) | 126 | 知识管理与自主学习／课程／资源 | 教育原生 | Fundamental Haskell book, to the point terse statements on Haskell, Category theory, and related fields. Encyclopedic pocketbook of meaning. Zen kō… | 元数据收集 |
+| [rmountjoy92/VectorCloud](https://github.com/rmountjoy92/VectorCloud) | 124 | 知识管理与自主学习／应用 | 可用于教育 | A web interface for Anki Vector | 元数据收集 |
+| [cuduy197/vue-flashcard](https://github.com/cuduy197/vue-flashcard) | 120 | 知识管理与自主学习／应用 | 教育原生 | Rich flashcard component for vue js 2 :tada: | 元数据收集 |
+| [linmp/flash-card](https://github.com/linmp/flash-card) | 120 | 知识管理与自主学习／应用 | 可用于教育 | An Open Source Study App that developed with Flask and MiniProgram.记忆手卡小程序开源 【FLask + 微信小程序】(记忆卡片)(学习类App)\|(入门项目)(flask项目)(有接口文档) | 元数据收集 |
+| [jotron/StudyMD](https://github.com/jotron/StudyMD) | 119 | 知识管理与自主学习／应用 | 教育原生 | Flashcards from Markdown. Built with React and Electron | 元数据收集 |
+| [marisukukise/japReader](https://github.com/marisukukise/japReader) | 112 | 知识管理与自主学习／应用 | 可用于教育 | japReader is an app for breaking down Japanese sentences and tracking vocabulary progress | 元数据收集 |
+| [open-spaced-repetition/fsrs-optimizer](https://github.com/open-spaced-repetition/fsrs-optimizer) | 112 | 知识管理与自主学习／应用 | 可用于教育 | FSRS Optimizer Package | 元数据收集 |
+| [memoetapp/memoet](https://github.com/memoetapp/memoet) | 108 | 知识管理与自主学习／应用 | 可用于教育 | A self-hosted spaced repetition software | 元数据收集 |
+| [Binah-Dev/cf-compass](https://github.com/Binah-Dev/cf-compass) | 106 | 知识管理与自主学习／应用 | 可用于教育 | A cross-platform Codeforces desktop companion for personalized practice, contest review, training plans, and algorithm templates. | 元数据收集 |
+| [rr-/drill](https://github.com/rr-/drill) | 105 | 知识管理与自主学习／应用 | 可用于教育 | A CLI program for learning things through spaced repetition. :dog: | 元数据收集 |
+| [0xzerolight/anki\_miner](https://github.com/0xzerolight/anki_miner) | 103 | 知识管理与自主学习／应用 | 可用于教育 | Automated vocabulary mining from media. | 元数据收集 |
 
-## 项目详情
+## 已核对精选详情
 
 ### Logseq
 
@@ -28,7 +343,7 @@
 - 许可说明：插件、同步服务和笔记内容分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：45,129；最近推送：2026-10-05 01:06:51 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
+- Star：45,130；最近推送：2026-10-05 01:28:46 UTC+08:00；数据获取：2026-10-05 01:35:36 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/logseq/logseq/blob/master/README.md)、[来源 2](https://github.com/logseq/logseq)
 
 
@@ -62,5 +377,5 @@ Android 平台上的 Anki 闪卡学习应用。
 - 许可说明：应用代码与导入卡组、媒体素材分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：11,923；最近推送：2026-10-05 01:00:06 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
+- Star：11,923；最近推送：2026-10-05 01:23:36 UTC+08:00；数据获取：2026-10-05 01:30:38 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/ankidroid/Anki-Android/blob/main/README.md)、[来源 2](https://github.com/ankidroid/Anki-Android)

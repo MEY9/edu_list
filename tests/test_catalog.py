@@ -1,5 +1,6 @@
 import copy
 import io
+import json
 import sys
 import tempfile
 import unittest
@@ -7,9 +8,9 @@ import urllib.error
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from catalog import ROOT, bucket, load_catalog, load_metrics, load_yaml, local_time, validate, write_json
+from catalog import ROOT, STAR_TIERS, bucket, catalog_visible, star_tier, load_catalog, load_metrics, load_yaml, local_time, validate, write_json
 from build_lists import previous_snapshot, render
-from fetch_metrics import fetch_repository, refresh
+from fetch_metrics import fetch_repository, fetch_batch, refresh, refresh_batched
 
 
 class CatalogTests(unittest.TestCase):
@@ -128,6 +129,64 @@ class CatalogTests(unittest.TestCase):
 
     def test_display_dates_use_beijing_time(self):
         self.assertEqual("2026-10-05", local_time("2026-10-04T17:04:00Z", date_only=True))
+
+    def test_star_tier_boundaries_are_disjoint(self):
+        for name, title, lower, upper in STAR_TIERS:
+            self.assertEqual(name, star_tier(lower))
+            if upper is not None:
+                self.assertEqual(name, star_tier(upper - 1))
+                self.assertNotEqual(name, star_tier(upper))
+        self.assertIsNone(star_tier(None))
+        self.assertIsNone(star_tier(-1))
+        self.assertIsNone(star_tier(True))
+
+    def test_large_catalog_export_is_unique_and_complete(self):
+        export = json.loads((ROOT / "data/catalog.json").read_text())
+        keys = {p["github"].lower() for p in export["projects"]}
+        visible = {p["github"].lower() for p in self.projects if catalog_visible(p, self.metrics["repositories"].get(p["github"].lower(), {}))}
+        self.assertGreaterEqual(len(keys), 1000)
+        self.assertEqual(visible, keys)
+        self.assertEqual(len(keys), export["count"])
+        self.assertEqual(len(keys), len(export["projects"]))
+        for p in export["projects"]:
+            self.assertEqual(star_tier(p["stars"]), p["tier"])
+
+    def test_metadata_intake_cannot_silently_become_curated(self):
+        p = copy.deepcopy(self.projects[0])
+        p["status"] = "discovered"
+        p["review"]["level"] = "metadata_collected"
+        self.assertEqual("discovered", bucket(p, {"stars": 400000}, 1000))
+        p["status"] = "accepted"
+        self.assertTrue(any("requires at least README" in e for e in validate(self.config, [p])))
+
+    def test_graphql_partial_response_keeps_missing_repository_cache(self):
+        p, other = self.projects[:2]
+        old = self.metrics
+        m = old["repositories"][p["github"].lower()]
+        node = {"databaseId": m["repository_id"], "nameWithOwner": p["github"], "stargazerCount": 12345, "forkCount": 4,
+                "isArchived": False, "isDisabled": False, "pushedAt": None, "updatedAt": None, "primaryLanguage": None, "licenseInfo": None}
+        requests = []
+        def opener(req, timeout):
+            requests.append(json.loads(req.data))
+            return io.StringIO(json.dumps({"data": {"r0": node, "r1": None}, "errors": [{"path": ["r1"], "message": "Not found"}]}))
+        def fetcher(names, token):
+            return fetch_batch(names, token, opener=opener)
+        new, errors = refresh_batched([p, other], old, "test-token", "2026-10-06T00:00:00Z", batch_fetcher=fetcher, sleeper=lambda _: None)
+        self.assertEqual(12345, new["repositories"][p["github"].lower()]["stars"])
+        self.assertEqual(old["repositories"][other["github"].lower()]["stars"], new["repositories"][other["github"].lower()]["stars"])
+        self.assertEqual(1, len(errors))
+        self.assertNotIn("test-token", json.dumps(requests))
+
+    def test_graphql_request_batches_have_bounded_size(self):
+        projects = [{"github": "owner/repo%d" % i} for i in range(101)]
+        batches = []
+        def fetcher(names, token):
+            batches.append(len(names))
+            return {name.lower(): {"id": i + 1, "full_name": name, "stargazers_count": 100, "forks_count": 0, "archived": False} for i, name in enumerate(names)}
+        result, failures = refresh_batched(projects, {}, "unused", "2026-10-06T00:00:00Z", batch_fetcher=fetcher, sleeper=lambda _: None)
+        self.assertEqual([50, 50, 1], batches)
+        self.assertEqual(101, len(result["repositories"]))
+        self.assertEqual([], failures)
 
 
 if __name__ == "__main__":

@@ -5,6 +5,18 @@
 
 [返回首页](../README.md) · [收录标准](../docs/selection-policy.md)
 
-按 Star 降序排列。许可证标识来自 GitHub API；实际使用请核对上游条款。
+分类共 11 个项目。批量条目的教育用途为分类建议，原文简介和检索依据保留在 YAML；未逐项核对的条目如实标记。
 
-暂无符合当前门槛的已收录项目。欢迎通过 Issue 推荐。
+| 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
+| --- | ---: | --- | --- | --- | --- |
+| [changeweb/Unifiedtransform](https://github.com/changeweb/Unifiedtransform) | 3,002 | 学校与培训机构管理／应用 | 教育原生 | A school management Software | 元数据收集 |
+| [hrshadhin/school-management-system](https://github.com/hrshadhin/school-management-system) | 1,144 | 学校与培训机构管理／应用 | 教育原生 | Another School Management System | 元数据收集 |
+| [4jean/lav\_sms](https://github.com/4jean/lav_sms) | 1,043 | 学校与培训机构管理／应用 | 教育原生 | Laravel School Management System (LAVSMS) | 元数据收集 |
+| [frappe/education](https://github.com/frappe/education) | 658 | 学校与培训机构管理／应用 | 教育原生 | Open source education / school management system | 元数据收集 |
+| [francoisjacquet/rosariosis](https://github.com/francoisjacquet/rosariosis) | 645 | 学校与培训机构管理／应用 | 教育原生 | RosarioSIS Student Information System for school management. | 元数据收集 |
+| [GibbonEdu/core](https://github.com/GibbonEdu/core) | 634 | 学校与培训机构管理／应用 | 教育原生 | 面向教师、学生、家长和学校的学校管理平台。 | 资料核对 |
+| [yungifez/skuul](https://github.com/yungifez/skuul) | 407 | 学校与培训机构管理／应用 | 教育原生 | A multi school management system | 元数据收集 |
+| [OS4ED/openSIS-Classic](https://github.com/OS4ED/openSIS-Classic) | 344 | 学校与培训机构管理／应用 | 教育原生 | openSIS is a commercial grade, secure, scalable & intuitive Student Information System, School Management Software from OS4ED. Has all functionalit… | 元数据收集 |
+| [ProjectsAndPrograms/school-management-system](https://github.com/ProjectsAndPrograms/school-management-system) | 205 | 学校与培训机构管理／应用 | 教育原生 | PHP School management system developed for schools or small institutes. | 元数据收集 |
+| [ghrimx/StudX](https://github.com/ghrimx/StudX) | 137 | 学校与培训机构管理／应用 | 教育原生 | Web based School management system | 元数据收集 |
+| [galibBd/OnlineSchoolManagementSystem](https://github.com/galibBd/OnlineSchoolManagementSystem) | 134 | 学校与培训机构管理／应用 | 教育原生 | This project is for multilevel users like Admin, Teacher and Student. It provide login system with registration. Student can see notice board, resu… | 元数据收集 |

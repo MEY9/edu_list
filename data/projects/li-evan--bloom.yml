@@ -1,0 +1,48 @@
+schema_version: 1
+name: Bloom
+github: Li-Evan/Bloom
+description_zh: 通过教育相关主题检索收集；可评估用于编程教学、示例练习或 STEM 学习；具体能力待核对。
+upstream_description: Hire a private AI tutor for anything — it reads how you actually
+  learn and teaches the next lesson just for you. Bloom's 2-Sigma research as a Claude
+  Code skill + self-hostable web app · 中文优先 苏格拉底式 AI 家教
+category: programming
+kind: application
+tags: &id001
+- adaptive-learning
+- agent-skills
+- ai-agent
+- ai-tutor
+- bloom-2-sigma
+- chinese
+- claude-code
+- claude-skill
+- edtech
+- education
+- fastapi
+- learning
+- llm
+- personalized-learning
+- react
+- self-hosted
+- socratic-method
+- study-tool
+education_relation: native
+audience:
+- 教师
+- 学习者
+- 教育产品开发者
+education_use: 可评估用于编程教学、示例练习或 STEM 学习；具体能力待核对。
+cost: 未逐项核对费用与托管条件，见上游说明。
+deployment: 未逐项部署；资源、应用和开发组件按上游 README 使用。
+license_note: 仅收集 API 许可证标识，课程、模型和附属资产条款待核对。
+status: discovered
+discovery:
+  query: topic:education stars:>=100 archived:false fork:false
+  topics: *id001
+review:
+  level: metadata_collected
+  checked_at: '2026-10-04T17:30:52Z'
+  method: GitHub 搜索 API 元数据收集与规则分类；未逐项阅读 README、运行或验证教学效果。分类和教育关系待资料核对。
+  sources:
+  - https://github.com/Li-Evan/Bloom
+  - https://api.github.com/search/repositories?q=topic%3Aeducation+stars%3A%3E%3D100+archived%3Afalse+fork%3Afalse&sort=stars&order=desc&per_page=100&page=3

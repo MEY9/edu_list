@@ -5,15 +5,407 @@
 
 [返回首页](../README.md) · [收录标准](../docs/selection-policy.md)
 
-按 Star 降序排列。许可证标识来自 GitHub API；实际使用请核对上游条款。
+分类共 395 个项目。批量条目的教育用途为分类建议，原文简介和检索依据保留在 YAML；未逐项核对的条目如实标记。
 
-| 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
-| --- | ---: | --- | --- | --- |
-| [Manim Community](https://github.com/ManimCommunity/manim) | 41,245 | 教育原生 | 制作函数、几何、线性代数等概念的讲解动画。 | MIT |
-| [JupyterLab](https://github.com/jupyterlab/jupyterlab) | 15,333 | 可用于教育 | 制作可运行的数据分析、科学计算和编程实验讲义。 | BSD-3-Clause |
-| [image-blaster](https://github.com/neilsonnn/image-blaster) | 7,512 | 可用于教育 | 制作虚拟商店或情境教学素材；任务、评分和学习记录另开发。 | MIT |
+| 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
+| --- | ---: | --- | --- | --- | --- |
+| [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | 41,245 | 仿真、可视化与虚拟实验／应用 | 教育原生 | 通过程序制作数学解释动画的社区版引擎。 | 资料核对 |
+| [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) | 34,274 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. | 元数据收集 |
+| [Popmotion/popmotion](https://github.com/Popmotion/popmotion) | 20,151 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Simple animation libraries for delightful user interfaces | 元数据收集 |
+| [williamfiset/algorithms](https://github.com/williamfiset/algorithms) | 18,772 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A collection of algorithms and data structures | 元数据收集 |
+| [liabru/matter-js](https://github.com/liabru/matter-js) | 18,439 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | a 2D rigid body physics engine for the web ▲● ■ | 元数据收集 |
+| [rossant/awesome-math](https://github.com/rossant/awesome-math) | 16,531 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A curated list of awesome mathematics resources | 元数据收集 |
+| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 15,457 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Multi-Joint dynamics with Contact. A general purpose physics simulator. | 元数据收集 |
+| [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) | 15,333 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 面向 Notebook、代码和数据的交互式开发环境。 | 资料核对 |
+| [tangyudi/Ai-Learn](https://github.com/tangyudi/Ai-Learn) | 13,391 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analys… | 元数据收集 |
+| [zhanwen/MathModel](https://github.com/zhanwen/MathModel) | 12,325 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | 研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT | 元数据收集 |
+| [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) | 11,658 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon F… | 元数据收集 |
+| [mathjax/MathJax](https://github.com/mathjax/MathJax) | 10,926 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Beautiful and accessible math in all browsers | 元数据收集 |
+| [Visualize-ML/Book4\_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) | 10,105 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Book\_4\_《矩阵力量》 \| 鸢尾花书：从加减乘除到机器学习；上架！ | 元数据收集 |
+| [penrose/penrose](https://github.com/penrose/penrose) | 7,985 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Create beautiful diagrams just by typing notation in plain text. | 元数据收集 |
+| [Visualize-ML/Book3\_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) | 7,655 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Book\_3\_《数学要素》 \| 鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！ | 元数据收集 |
+| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 7,571 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition. | 元数据收集 |
+| [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) | 7,512 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 编排图片处理、3D 场景、物体模型和音效生成的工作流。 | 资料核对 |
+| [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) | 6,907 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques. | 元数据收集 |
+| [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) | 6,721 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Piccolo (formerly Pilot) – mini game engine for games104 | 元数据收集 |
+| [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) | 6,450 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | 🧮 A collection of resources to learn mathematics for machine learning | 元数据收集 |
+| [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) | 6,375 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A maintained collection of useful & free unity scripts / library's / plugins and extensions | 元数据收集 |
+| [WhitestormJS/whs.js](https://github.com/WhitestormJS/whs.js) | 6,354 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js | 元数据收集 |
+| [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 5,984 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | ✨ The fundamental numerical library for JavaScript and TypeScript. ✨ ⭐️ Star to support our work! | 元数据收集 |
+| [galacean/engine](https://github.com/galacean/engine) | 5,899 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF. | 元数据收集 |
+| [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) | 5,300 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use. | 元数据收集 |
+| [jonkrohn/ML-foundations](https://github.com/jonkrohn/ML-foundations) | 4,889 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science | 元数据收集 |
+| [zalo/MathUtilities](https://github.com/zalo/MathUtilities) | 4,755 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A collection of some of the neat math and physics tricks that I've collected over the last few years. | 元数据收集 |
+| [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) | 4,684 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Visually simulate Git operations in your own repos with a single terminal command. | 元数据收集 |
+| [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) | 4,516 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A contact solver for physics-based simulations involving 👚 shells, 🪵 solids, 🪢 rods, 🧱 rigid bodies and ⏳ sand. | 元数据收集 |
+| [Moataz-Elmesmary/Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) | 4,386 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Data Science Roadmap from A to Z | 元数据收集 |
+| [Developer-Y/math-science-video-lectures](https://github.com/Developer-Y/math-science-video-lectures) | 4,162 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | List of Science courses with video lectures | 元数据收集 |
+| [pim-book/programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) | 3,649 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Code for A Programmer's Introduction to Mathematics | 元数据收集 |
+| [helblazer811/ManimML](https://github.com/helblazer811/ManimML) | 3,513 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library. | 元数据收集 |
+| [NVIDIA/physicsnemo](https://github.com/NVIDIA/physicsnemo) | 3,313 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods | 元数据收集 |
+| [root-project/root](https://github.com/root-project/root) | 3,307 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | The official repository for ROOT: analyzing, storing and visualizing big data, scientifically | 元数据收集 |
+| [avianphysics/avian](https://github.com/avianphysics/avian) | 3,206 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | ECS-driven 2D and 3D physics engine for the Bevy game engine. | 元数据收集 |
+| [pmndrs/use-cannon](https://github.com/pmndrs/use-cannon) | 2,965 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 👋💣 physics based hooks for @react-three/fiber | 元数据收集 |
+| [zhaipro/easy12306](https://github.com/zhaipro/easy12306) | 2,911 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 使用机器学习算法完成对12306验证码的自动识别 | 元数据收集 |
+| [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) | 2,870 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Dev repo for @zig-gamedev libs and sample applications | 元数据收集 |
+| [sahibzada-allahyar/YC-Killer](https://github.com/sahibzada-allahyar/YC-Killer) | 2,839 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y … | 元数据收集 |
+| [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) | 2,820 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Collection of resources spanning key areas of Computer Science | 元数据收集 |
+| [sharkdp/numbat](https://github.com/sharkdp/numbat) | 2,744 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A statically typed programming language for scientific computations with first class support for physical dimensions and units | 元数据收集 |
+| [schteppe/p2.js](https://github.com/schteppe/p2.js) | 2,692 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | JavaScript 2D physics library | 元数据收集 |
+| [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) | 2,691 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Pen and paper exercises in machine learning | 元数据收集 |
+| [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python) | 2,577 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the found… | 元数据收集 |
+| [godot-jolt/godot-jolt](https://github.com/godot-jolt/godot-jolt) | 2,572 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Godot Jolt is a Godot extension that integrates the Jolt physics engine | 元数据收集 |
+| [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) | 2,534 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns | 元数据收集 |
+| [HuangCongQing/Algorithms\_MathModels](https://github.com/HuangCongQing/Algorithms_MathModels) | 2,439 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 【国赛】【美赛】数学建模相关算法 MATLAB实现（2018年初整理） | 元数据收集 |
+| [susam/texme](https://github.com/susam/texme) | 2,438 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Self-rendering Markdown + LaTeX documents | 元数据收集 |
+| [markrogoyski/math-php](https://github.com/markrogoyski/math-php) | 2,411 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Powerful modern math library for PHP: Features descriptive statistics and regressions; Continuous and discrete probability distributions; Linear al… | 元数据收集 |
+| [geogebra/geogebra](https://github.com/geogebra/geogebra) | 2,345 | 仿真、可视化与虚拟实验／应用 | 教育原生 | 数学应用源码的 GitHub 镜像。 | 资料核对 |
+| [nschloe/meshio](https://github.com/nschloe/meshio) | 2,332 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | :spider\_web: input/output for many mesh formats | 元数据收集 |
+| [casadi/casadi](https://github.com/casadi/casadi) | 2,304 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued… | 元数据收集 |
+| [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) | 2,281 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | The purpose of this project is to share knowledge on how awesome Streamlit is and can be | 元数据收集 |
+| [layabox/LayaAir](https://github.com/layabox/LayaAir) | 2,202 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | LayaAir is a fully platform rendering engine with rich 2D/3D rendering capabilities and a mature integrated development platform | 元数据收集 |
+| [igraph/igraph](https://github.com/igraph/igraph) | 2,011 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Library for the analysis of networks | 元数据收集 |
+| [WassimTenachi/PhySO](https://github.com/WassimTenachi/PhySO) | 1,978 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Physical Symbolic Optimization | 元数据收集 |
+| [nayuki/Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions) | 1,960 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Runnable code for solving Project Euler problems in Java, Python, Mathematica, Haskell. | 元数据收集 |
+| [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) | 1,934 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system. | 元数据收集 |
+| [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) | 1,916 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A game of lonely space adventure | 元数据收集 |
+| [apple/swift-numerics](https://github.com/apple/swift-numerics) | 1,877 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Advanced mathematical types and functions for Swift | 元数据收集 |
+| [mrpandey/d3graphTheory](https://github.com/mrpandey/d3graphTheory) | 1,851 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | :boom: Interactive and colorful :art: graph theory tutorials made using d3.js :zap: | 元数据收集 |
+| [avhz/RustQuant](https://github.com/avhz/RustQuant) | 1,821 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Rust library for quantitative finance. | 元数据收集 |
+| [zslucky/awesome-AI-books](https://github.com/zslucky/awesome-AI-books) | 1,819 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning | 元数据收集 |
+| [su2code/SU2](https://github.com/su2code/SU2) | 1,813 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | SU2: An Open-Source Suite for Multiphysics Simulation and Design | 元数据收集 |
+| [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples) | 1,693 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Examples for the usage of LaTeX | 元数据收集 |
+| [dimforge/nphysics](https://github.com/dimforge/nphysics) | 1,649 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 2 and 3-dimensional rigid body physics engine for Rust. | 元数据收集 |
+| [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) | 1,621 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A simple, physics-based animation library 🎼 | 元数据收集 |
+| [pypose/pypose](https://github.com/pypose/pypose) | 1,615 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A library for differentiable robotics on manifolds. | 元数据收集 |
+| [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) | 1,595 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | :sunglasses: Curated list of awesome software for numerical analysis and scientific computing | 元数据收集 |
+| [DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) | 1,555 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A&M University. | 元数据收集 |
+| [nivu/ai\_all\_resources](https://github.com/nivu/ai_all_resources) | 1,536 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A curated list of Best Artificial Intelligence Resources | 元数据收集 |
+| [JuliaSymbolics/Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) | 1,532 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Symbolic programming for the next generation of numerical software | 元数据收集 |
+| [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) | 1,529 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Open source robotics simulator. The latest version of Gazebo. | 元数据收集 |
+| [TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent) | 1,510 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Official Repo for "TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding" \[ACL 2025 oral\] | 元数据收集 |
+| [sepandhaghighi/pycm](https://github.com/sepandhaghighi/pycm) | 1,508 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Multi-class confusion matrix library in Python | 元数据收集 |
+| [ChenlizheMe/Infernux](https://github.com/ChenlizheMe/Infernux) | 1,505 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Building a Neural Network-Native Engine (3N). Python authoring, C++ runtime, Vulkan/WebGPU. Windows, Linux, Android and Web. | 元数据收集 |
+| [ahundt/awesome-robotics](https://github.com/ahundt/awesome-robotics) | 1,500 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A curated list of awesome links and software libraries that are useful for robots. | 元数据收集 |
+| [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) | 1,486 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser. | 元数据收集 |
+| [jsxgraph/jsxgraph](https://github.com/jsxgraph/jsxgraph) | 1,465 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser. | 元数据收集 |
+| [igraph/python-igraph](https://github.com/igraph/python-igraph) | 1,464 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Python interface for igraph | 元数据收集 |
+| [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) | 1,459 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine. | 元数据收集 |
+| [margelo/react-native-filament](https://github.com/margelo/react-native-filament) | 1,417 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 🐧 A real-time physically based 3D rendering engine for React Native | 元数据收集 |
+| [Dreaming381/Latios-Framework](https://github.com/Dreaming381/Latios-Framework) | 1,356 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A Unity DOTS framework for my personal projects | 元数据收集 |
+| [ljeng/cheat-sheet](https://github.com/ljeng/cheat-sheet) | 1,334 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Knowledge base for software engineers and research engineers | 元数据收集 |
+| [osrf/gazebo\_models](https://github.com/osrf/gazebo_models) | 1,327 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Gazebo database of SDF models. This is a predecessor to https://app.gazebosim.org | 元数据收集 |
+| [digantamisra98/Mish](https://github.com/digantamisra98/Mish) | 1,298 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Official Repository for "Mish: A Self Regularized Non-Monotonic Neural Activation Function" \[BMVC 2020\] | 元数据收集 |
+| [sofa-framework/sofa](https://github.com/sofa-framework/sofa) | 1,266 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Real-time multi-physics simulation with an emphasis on medical simulation. | 元数据收集 |
+| [nbro/understanding-math](https://github.com/nbro/understanding-math) | 1,260 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Links to resources talking about how to learn & understand mathematics, and mathematical language, terminology and notation. | 元数据收集 |
+| [psi4/psi4](https://github.com/psi4/psi4) | 1,226 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Open-Source Quantum Chemistry – an electronic structure package in C++ driven by Python | 元数据收集 |
+| [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) | 1,219 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Math & CS awesome List, distinguished by proof and logic technique | 元数据收集 |
+| [gigahidjrikaaa/Engineering-Books](https://github.com/gigahidjrikaaa/Engineering-Books) | 1,183 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Softcopy of Engineering Books. If you want a book{s} to be taken down, please contact me. | 元数据收集 |
+| [quantum-visualizations/qmsolve](https://github.com/quantum-visualizations/qmsolve) | 1,173 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | ⚛️ A module for solving and visualizing the Schrödinger equation. | 元数据收集 |
+| [BenjaminGor/Latex\_Notes\_Tutorial](https://github.com/BenjaminGor/Latex_Notes_Tutorial) | 1,096 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A Self-contained Latex Book/Note Writing Tutorial. | 元数据收集 |
+| [gszauer/GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) | 1,087 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Source code for Game Physics Cookbook | 元数据收集 |
+| [QwenLM/Qwen2.5-Math](https://github.com/QwenLM/Qwen2.5-Math) | 1,084 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A series of math-specific large language models of our Qwen2 series. | 元数据收集 |
+| [rafael-fuente/diffractsim](https://github.com/rafael-fuente/diffractsim) | 1,072 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | ✨🔬 A flexible diffraction simulator for exploring and visualizing physical optics. | 元数据收集 |
+| [dalmia/Deep-Learning-Book-Chapter-Summaries](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) | 1,068 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Attempting to make the Deep Learning Book easier to understand. | 元数据收集 |
+| [antoniolupetti/algebrica](https://github.com/antoniolupetti/algebrica) | 1,049 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Algebrica is free and open a mathematical knowledge base dedicated to clarity, structure, and conceptual coherence. | 元数据收集 |
+| [tirthajyoti/Stats-Maths-with-Python](https://github.com/tirthajyoti/Stats-Maths-with-Python) | 1,036 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | General statistics, mathematical programming, and numerical/scientific computing scripts and notebooks in Python | 元数据收集 |
+| [ArashPartow/exprtk](https://github.com/ArashPartow/exprtk) | 1,027 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | C++ Mathematical Expression Parsing And Evaluation Library https://www.partow.net/programming/exprtk/index.html | 元数据收集 |
+| [DrWaleedAYousef/Teaching](https://github.com/DrWaleedAYousef/Teaching) | 1,021 | 仿真、可视化与虚拟实验／应用 | 教育原生 | Teaching Materials for Dr. Waleed A. Yousef | 元数据收集 |
+| [UniMath/UniMath](https://github.com/UniMath/UniMath) | 1,017 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | This rocq library aims to formalize a substantial body of mathematics using the univalent point of view. | 元数据收集 |
+| [gap-system/gap](https://github.com/gap-system/gap) | 1,013 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Main development repository for GAP - Groups, Algorithms, Programming, a System for Computational Discrete Algebra | 元数据收集 |
+| [optiland/optiland](https://github.com/optiland/optiland) | 996 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Comprehensive optical design, optimization, and analysis in Python, including GPU-accelerated and differentiable ray tracing via PyTorch. | 元数据收集 |
+| [SakuraMathcraft/LaTeXSnipper](https://github.com/SakuraMathcraft/LaTeXSnipper) | 996 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Formula Recognition & Office Editing \| Handwriting & PDF to LaTeX/Markdown \| Secure API Integrations. | 元数据收集 |
+| [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica) | 991 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Symbolica is a high-performance computer algebra library for Python and Rust. Manipulate large expressions, match patterns, and generate optimized … | 元数据收集 |
+| [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers) | 978 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | The fastest open-source C++17 optimization library for unconstrained nonlinear problems. Header-only, single dependency. Highest reliability, compo… | 元数据收集 |
+| [aniketpotabatti/Data-Science-EBooks](https://github.com/aniketpotabatti/Data-Science-EBooks) | 975 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A curated collection of eBooks on Data Science, Machine Learning, and AI to help you learn and grow. | 元数据收集 |
+| [nschloe/pygmsh](https://github.com/nschloe/pygmsh) | 970 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | :spider\_web: Gmsh for Python | 元数据收集 |
+| [psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done) | 968 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI). | 元数据收集 |
+| [mariuszgromada/MathParser.org-mXparser](https://github.com/mariuszgromada/MathParser.org-mXparser) | 954 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Math Parser: Java, C#, C++, Kotlin, Android, and all .NET platforms (Nuget, Maven, CMake). Supports .NET Framework, .NET Core, .NET Standard, Xamar… | 元数据收集 |
+| [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) | 953 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Award winning software library for nonlinear dynamics and nonlinear timeseries analysis | 元数据收集 |
+| [jeertmans/manim-slides](https://github.com/jeertmans/manim-slides) | 952 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Tool for live presentations using manim | 元数据收集 |
+| [stanfordnmbl/osim-rl](https://github.com/stanfordnmbl/osim-rl) | 948 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Reinforcement learning environments with musculoskeletal models | 元数据收集 |
+| [JustInvoke/Randomation-Vehicle-Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics) | 937 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Vehicle physics system for the Unity engine. | 元数据收集 |
+| [ad-si/Woxi](https://github.com/ad-si/Woxi) | 926 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized) | 元数据收集 |
+| [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) | 925 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 🎨 GPT for video generation ⚡️ | 元数据收集 |
+| [esengine/esengine](https://github.com/esengine/esengine) | 922 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | ESEngine - High-performance TypeScript ECS Framework for Game Development | 元数据收集 |
+| [kroitor/gjk.c](https://github.com/kroitor/gjk.c) | 897 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Gilbert-Johnson-Keerthi (GJK) collision detection algorithm in 200 lines of clean plain C | 元数据收集 |
+| [brianzinn/react-babylonjs](https://github.com/brianzinn/react-babylonjs) | 891 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | React for Babylon 3D engine | 元数据收集 |
+| [Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization) | 886 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Master the Toolkit of AI and Machine Learning. Mathematics for Machine Learning and Data Science is a beginner-friendly Specialization where you’ll… | 元数据收集 |
+| [pygae/clifford](https://github.com/pygae/clifford) | 867 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Geometric Algebra for Python | 元数据收集 |
+| [Axelrod-Python/Axelrod](https://github.com/Axelrod-Python/Axelrod) | 853 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A research tool for the Iterated Prisoner's Dilemma | 元数据收集 |
+| [cloud9c/taro](https://github.com/cloud9c/taro) | 814 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A lightweight 3D game engine for the web. | 元数据收集 |
+| [ComputationalRadiationPhysics/picongpu](https://github.com/ComputationalRadiationPhysics/picongpu) | 795 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Performance-Portable Particle-in-Cell Simulations for the Exascale Era :sparkles: | 元数据收集 |
+| [Jawnnypoo/PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout) | 790 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Android layout that simulates physics using JBox2D | 元数据收集 |
+| [CalebBell/thermo](https://github.com/CalebBell/thermo) | 789 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Thermodynamics and Phase Equilibrium component of Chemical Engineering Design Library (ChEDL) | 元数据收集 |
+| [VAR-solutions/Algorithms](https://github.com/VAR-solutions/Algorithms) | 789 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A repository of different Algorithms and Data Structures implemented in many programming languages. | 元数据收集 |
+| [sigma-py/quadpy](https://github.com/sigma-py/quadpy) | 785 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | :triangular\_ruler: Numerical integration (quadrature, cubature) in Python | 元数据收集 |
+| [ZacharyPatten/Towel](https://github.com/ZacharyPatten/Towel) | 779 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Throw in the towel. | 元数据收集 |
+| [leanprover-community/physlib](https://github.com/leanprover-community/physlib) | 769 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A project to digitalise results from physics into Lean. | 元数据收集 |
+| [hrnbot/Basic-Mathematics-for-Machine-Learning](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) | 754 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | The motive behind Creating this repo is to feel the fear of mathematics and do what ever you want to do in Machine Learning , Deep Learning and oth… | 元数据收集 |
+| [lo-th/phy](https://github.com/lo-th/phy) | 742 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Physics for three. Game engine | 元数据收集 |
+| [lambdaclass/lambdaworks](https://github.com/lambdaclass/lambdaworks) | 737 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for const… | 元数据收集 |
+| [flaport/fdtd](https://github.com/flaport/fdtd) | 724 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A 3D electromagnetic FDTD simulator written in Python with optional GPU support | 元数据收集 |
+| [CindyJS/CindyJS](https://github.com/CindyJS/CindyJS) | 715 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A JavaScript framework for interactive (mathematical) content. | 元数据收集 |
+| [enginmanap/limonEngine](https://github.com/enginmanap/limonEngine) | 713 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 3D FPS game engine with full dynamic lighting and shadows | 元数据收集 |
+| [dfki-ric/pytransform3d](https://github.com/dfki-ric/pytransform3d) | 705 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 3D transformations for Python. | 元数据收集 |
+| [dimforge/salva](https://github.com/dimforge/salva) | 703 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | 2 and 3-dimensional fluid simulation library in Rust. | 元数据收集 |
+| [jarun/bcal](https://github.com/jarun/bcal) | 703 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | :1234: Bits, bytes and general-purpose calculator | 元数据收集 |
+| [janosh/diagrams](https://github.com/janosh/diagrams) | 695 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Diagrams of concepts in physics/chemistry/ML | 元数据收集 |
+| [ITensor/ITensors.jl](https://github.com/ITensor/ITensors.jl) | 685 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A Julia library for efficient tensor computations and tensor network calculations. ITensors.jl is supported by the Simons Foundation's Flatiron Ins… | 元数据收集 |
+| [gboeing/pynamical](https://github.com/gboeing/pynamical) | 677 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Model, simulate, and visualize discrete nonlinear dynamical systems, chaos, and fractals | 元数据收集 |
+| [jcmgray/quimb](https://github.com/jcmgray/quimb) | 669 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A python library for quantum information and many-body calculations including tensor networks. | 元数据收集 |
+| [meshpro/pygalmesh](https://github.com/meshpro/pygalmesh) | 668 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | :spider\_web: A Python interface to CGAL's meshing tools | 元数据收集 |
+| [harfang3d/harfang3d](https://github.com/harfang3d/harfang3d) | 659 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | HARFANG 3D source code public repository | 元数据收集 |
+| [moble/quaternion](https://github.com/moble/quaternion) | 659 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Add built-in support for quaternions to numpy | 元数据收集 |
+| [texmacs/texmacs](https://github.com/texmacs/texmacs) | 657 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Mirror of the GNU TeXmacs SVN | 元数据收集 |
+| [AzurIce/ranim](https://github.com/AzurIce/ranim) | 652 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | An animation engine implemented in rust, inspired by manim and JAnim | 元数据收集 |
+| [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) | 646 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | NOTE: development in stuntrally3 repo. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally 2.x sour… | 元数据收集 |
+| [wbierbower/awesome-physics](https://github.com/wbierbower/awesome-physics) | 646 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | 🌌 A collaborative list of awesome software for exploring Physics concepts | 元数据收集 |
+| [meshpro/optimesh](https://github.com/meshpro/optimesh) | 635 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | :spider\_web: Mesh optimization, mesh smoothing. | 元数据收集 |
+| [igraph/rigraph](https://github.com/igraph/rigraph) | 623 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | igraph R package | 元数据收集 |
+| [J-Rios/TLG\_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) | 618 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve i… | 元数据收集 |
+| [victorfisac/Physac](https://github.com/victorfisac/Physac) | 609 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | 2D physics header-only library for videogames developed in C using raylib library. | 元数据收集 |
+| [MPh-py/MPh](https://github.com/MPh-py/MPh) | 597 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Pythonic scripting interface for Comsol Multiphysics | 元数据收集 |
+| [kool-engine/kool](https://github.com/kool-engine/kool) | 592 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A Vulkan / WebGPU / OpenGL engine for Desktop JVM, Android and Javascript written in Kotlin | 元数据收集 |
+| [dasifefe/rust-game-development-frameworks](https://github.com/dasifefe/rust-game-development-frameworks) | 580 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | List of curated frameworks by the \*\*Game Development in Rust\*\* community. | 元数据收集 |
+| [marichardson137/VerletIntegration](https://github.com/marichardson137/VerletIntegration) | 580 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A real-time particle simulation that uses Verlet Integration | 元数据收集 |
+| [MoganLab/mogan](https://github.com/MoganLab/mogan) | 579 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology! | 元数据收集 |
+| [jrouwe/JoltPhysics.js](https://github.com/jrouwe/JoltPhysics.js) | 576 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Port of JoltPhysics to JavaScript using emscripten | 元数据收集 |
+| [erkal/kite](https://github.com/erkal/kite) | 569 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | An interactive visualization tool for graph theory | 元数据收集 |
+| [susam/muboard](https://github.com/susam/muboard) | 562 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Self-rendering and distributable mathematics chalkboards | 元数据收集 |
+| [Kimbatt/unity-deterministic-physics](https://github.com/Kimbatt/unity-deterministic-physics) | 554 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Cross-platform deterministic physics simulation in Unity, using DOTS physics and soft floats | 元数据收集 |
+| [Paper-Proof/paperproof](https://github.com/Paper-Proof/paperproof) | 552 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Lean theorem proving interface which feels like pen-and-paper proofs. | 元数据收集 |
+| [greydanus/hamiltonian-nn](https://github.com/greydanus/hamiltonian-nn) | 548 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Code for our paper "Hamiltonian Neural Networks" | 元数据收集 |
+| [IceCreamYou/MainLoop.js](https://github.com/IceCreamYou/MainLoop.js) | 547 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Provides a well-constructed main loop useful for JavaScript games and other animated or time-dependent applications. | 元数据收集 |
+| [jasmcaus/ai-math-roadmap](https://github.com/jasmcaus/ai-math-roadmap) | 547 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Your no-nonsense guide to the Math used in Artificial Intelligence | 元数据收集 |
+| [JuliaPhysics/Measurements.jl](https://github.com/JuliaPhysics/Measurements.jl) | 537 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Error propagation calculator and library for physical measurements. It supports real and complex numbers with uncertainty, arbitrary precision calc… | 元数据收集 |
+| [Rythe-Interactive/Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) | 534 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Rythe is a data-oriented C++20 game engine built to make optimal use of modern hardware. | 元数据收集 |
+| [beltoforion/muparser](https://github.com/beltoforion/muparser) | 532 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | muparser is a fast math parser library for C/C++ with (optional) OpenMP support. | 元数据收集 |
+| [glebec/lambda-talk](https://github.com/glebec/lambda-talk) | 530 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A Flock of Functions: Combinators, Lambda Calculus, & Church Encodings in JS | 元数据收集 |
+| [ManimCommunity/awesome-manim](https://github.com/ManimCommunity/awesome-manim) | 530 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A database with many Manim users and content creators | 元数据收集 |
+| [oscar-system/Oscar.jl](https://github.com/oscar-system/Oscar.jl) | 526 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory. | 元数据收集 |
+| [jwbuurlage/category-theory-programmers](https://github.com/jwbuurlage/category-theory-programmers) | 521 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Category theory in the context of (functional) programming | 元数据收集 |
+| [manim-kindergarten/manim\_sandbox](https://github.com/manim-kindergarten/manim_sandbox) | 512 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | manim-kindergarten's communal repository | 元数据收集 |
+| [matryx/calcflow](https://github.com/matryx/calcflow) | 505 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A virtual reality tool for mathematical modeling! | 元数据收集 |
+| [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) | 502 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming. | 元数据收集 |
+| [mentat-collective/emmy](https://github.com/mentat-collective/emmy) | 498 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | The Emmy Computer Algebra System. | 元数据收集 |
+| [wmayner/pyemd](https://github.com/wmayner/pyemd) | 493 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | \[Deprecated; use POT instead\] Fast EMD for Python: a wrapper for Pele and Werman's C++ implementation of the Earth Mover's Distance metric | 元数据收集 |
+| [BLAST-WarpX/warpx](https://github.com/BLAST-WarpX/warpx) | 491 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | WarpX is an advanced Particle-In-Cell code. | 元数据收集 |
+| [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) | 488 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A book about category theory | 元数据收集 |
+| [cayleypy/cayleypy](https://github.com/cayleypy/cayleypy) | 481 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Library for studying Cayley graphs and Schreier coset graphs | 元数据收集 |
+| [LeviBorodenko/primify](https://github.com/LeviBorodenko/primify) | 477 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Embed any image into a prime number. | 元数据收集 |
+| [appml/neutrinote](https://github.com/appml/neutrinote) | 475 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | neutriNote - the original Markdown + Math note app. Programmatically extensible. Sync-ready note storage. Non-commerical. No lock-ins. Only 3 MB fo… | 元数据收集 |
+| [R-js/libRmath.js](https://github.com/R-js/libRmath.js) | 471 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | This R statistical nmath module re-created in typescript/javascript and handwritten webassembly. | 元数据收集 |
+| [frenzymath/Danus](https://github.com/frenzymath/Danus) | 468 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory | 元数据收集 |
+| [Wing900/ManimCat](https://github.com/Wing900/ManimCat) | 465 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | EN: ManimCat: AI-generated math animations from natural language. High-quality Manim rendering with LaTeX support and auto-code fixing. 中: ManimCat… | 元数据收集 |
+| [alexanderskulikov/discrete-math-python-scripts](https://github.com/alexanderskulikov/discrete-math-python-scripts) | 463 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Python code snippets from Discrete Mathematics for Computer Science specialization at Coursera | 元数据收集 |
+| [jknightdoeswork/gpu-physics-unity](https://github.com/jknightdoeswork/gpu-physics-unity) | 461 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Through this configuration, no per voxel data is transferred between the GPU and the CPU at runtime. | 元数据收集 |
+| [microsoft/Qcodes](https://github.com/microsoft/Qcodes) | 461 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Modular data acquisition framework | 元数据收集 |
+| [SergeyMakeev/ArcadeCarPhysics](https://github.com/SergeyMakeev/ArcadeCarPhysics) | 459 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Arcade Car Physics - Vehicle Simulation for Unity3D | 元数据收集 |
+| [lcn2/calc](https://github.com/lcn2/calc) | 458 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | C-style arbitrary precision calculator | 元数据收集 |
+| [ProudOfZiggy/SIFloatingCollection\_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) | 450 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | iOS Swift framework for creating user interface like apple music genre selection bubbles | 元数据收集 |
+| [adrenak/tork](https://github.com/adrenak/tork) | 446 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Vehicle physics for Unity | 元数据收集 |
+| [qilin-editor/qilin-app](https://github.com/qilin-editor/qilin-app) | 444 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Fully hackable text editor developed for exact sciences with built-in KaTeX and AsciiMath support. Extensible via plugins and themes. Exportable as… | 元数据收集 |
+| [Foadsf/Cmathtuts](https://github.com/Foadsf/Cmathtuts) | 442 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | trying to collect all useful tutorials for famous C math and linear algebra libraries such as CBLAS, CLAPACK, GSL... | 元数据收集 |
+| [ebassi/graphene](https://github.com/ebassi/graphene) | 439 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A thin layer of graphic data types | 元数据收集 |
+| [Macaulay2/M2](https://github.com/Macaulay2/M2) | 437 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | The primary source code repository for Macaulay2, a system for computing in commutative algebra, algebraic geometry and related fields. | 元数据收集 |
+| [odlgroup/odl](https://github.com/odlgroup/odl) | 434 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Operator Discretization Library https://odl.readthedocs.io/ | 元数据收集 |
+| [jubnoske08/linear\_algebra](https://github.com/jubnoske08/linear_algebra) | 429 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Solutions to Linear Algebra Done Right, by Sheldon Axler. | 元数据收集 |
+| [huangtinglin/Linear-Algebra-and-Its-Applications-notes](https://github.com/huangtinglin/Linear-Algebra-and-Its-Applications-notes) | 427 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 《线性代数及其应用》笔记 | 元数据收集 |
+| [amerkoleci/JoltPhysicsSharp](https://github.com/amerkoleci/JoltPhysicsSharp) | 418 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | JoltPhysics C# bindings | 元数据收集 |
+| [pydy/pydy](https://github.com/pydy/pydy) | 417 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Multibody dynamics tool kit. | 元数据收集 |
+| [TheAlgorithms/Zig](https://github.com/TheAlgorithms/Zig) | 414 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Collection of Algorithms implemented in Zig. | 元数据收集 |
+| [ekiefl/pooltool](https://github.com/ekiefl/pooltool) | 413 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A sandbox billiards game that emphasizes realistic physics | 元数据收集 |
+| [fplll/fplll](https://github.com/fplll/fplll) | 410 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Lattice algorithms using floating-point arithmetic | 元数据收集 |
+| [Yet-Zio/yetCalc](https://github.com/Yet-Zio/yetCalc) | 408 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Yet another calculator designed and developed for Android | 元数据收集 |
+| [notgiven688/jitterphysics](https://github.com/notgiven688/jitterphysics) | 407 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A cross-platform, realtime physics engine for all .NET apps. | 元数据收集 |
+| [Matheart/manim-physics](https://github.com/Matheart/manim-physics) | 406 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Physics simulation plugin of Manim that can generate scenes in various branches of Physics. | 元数据收集 |
+| [ITensor/ITensor](https://github.com/ITensor/ITensor) | 405 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A C++ library for efficient tensor network calculations | 元数据收集 |
+| [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) | 405 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Valkyrien Skies 2 | 元数据收集 |
+| [yuki-koyama/elasty](https://github.com/yuki-koyama/elasty) | 401 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A research-oriented elastic body simulator | 元数据收集 |
+| [jakecoffman/cp](https://github.com/jakecoffman/cp) | 399 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A pure Go physics library with no dependencies. Unofficial Chipmunk2D port. | 元数据收集 |
+| [fricas/fricas](https://github.com/fricas/fricas) | 397 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Official repository of the FriCAS computer algebra system | 元数据收集 |
+| [Huffon/NLP101](https://github.com/Huffon/NLP101) | 393 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | NLP 101: a resource repository for Deep Learning and Natural Language Processing | 元数据收集 |
+| [gwastro/pycbc](https://github.com/gwastro/pycbc) | 388 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Core package to analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of g… | 元数据收集 |
+| [zzllrr/mather](https://github.com/zzllrr/mather) | 388 | 仿真、可视化与虚拟实验／应用 | 教育原生 | zzllrr mather(an offline tool for Math learning, education and research)小乐数学，离线可用的数学学习（自学或教学）、研究辅助工具。计划覆盖数学全部学科的解题、作图、演示、探索工具箱。目前是演示Demo版（抛转引玉），但已经… | 元数据收集 |
+| [GlPortal/glPortal](https://github.com/GlPortal/glPortal) | 384 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | :video\_game: Open Source teleportation based first person puzzle-platformer | 元数据收集 |
+| [unrust/unrust](https://github.com/unrust/unrust) | 383 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | unrust - A pure rust based (webgl 2.0 / native) game engine | 元数据收集 |
+| [DongZhouGu/MathModel-Pretrain](https://github.com/DongZhouGu/MathModel-Pretrain) | 382 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 研究生数学建模，华为杯数学建模，2021D题（数模之星），乳腺癌，机器学习，数据分析 | 元数据收集 |
+| [drvinceknight/Nashpy](https://github.com/drvinceknight/Nashpy) | 382 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A python library for 2 player games. | 元数据收集 |
+| [GuangLun2000/COMAP-MCM-2026](https://github.com/GuangLun2000/COMAP-MCM-2026) | 381 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 数模美赛材料合集 COMAP MCM/ICM 2023-2027 | 元数据收集 |
+| [magpylib/magpylib](https://github.com/magpylib/magpylib) | 380 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Python package for computation of magnetic fields of magnets, currents and moments. | 元数据收集 |
+| [colinc86/LaTeXSwiftUI](https://github.com/colinc86/LaTeXSwiftUI) | 379 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A SwiftUI view that renders LaTeX. | 元数据收集 |
+| [OpenGammaProject/Open-Gamma-Detector](https://github.com/OpenGammaProject/Open-Gamma-Detector) | 377 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | ☢️👁️ Hardware for a hackable DIY gamma-ray spectrometer using a popular NaI(Tl) scintillator, SiPM and a Raspberry Pi Pico. | 元数据收集 |
+| [Erkaman/poisson\_blend](https://github.com/Erkaman/poisson_blend) | 373 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Seamless copy-and-paste of images with Poisson Blending. | 元数据收集 |
+| [ManevilleF/hexx](https://github.com/ManevilleF/hexx) | 372 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Hexagonal tools lib in rust | 元数据收集 |
+| [UnickSoft/graphonline](https://github.com/UnickSoft/graphonline) | 371 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | This is source code of graphonline service. Graphonline helps visualize graph and applies a lot of algorithms. | 元数据收集 |
+| [susam/mathb](https://github.com/susam/mathb) | 370 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Mathematics pastebin software that powered MathB.in from 2012 to 2025 | 元数据收集 |
+| [Jfaler/Philosophy](https://github.com/Jfaler/Philosophy) | 369 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | :octocat: A list of philosophy books and resources. | 元数据收集 |
+| [Mister-Hope/physics](https://github.com/Mister-Hope/physics) | 368 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 大学本科物理学学习资料 | 元数据收集 |
+| [lupantech/MathVista](https://github.com/lupantech/MathVista) | 367 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | MathVista: data, code, and evaluation for Mathematical Reasoning in Visual Contexts | 元数据收集 |
+| [FeynCalc/feyncalc](https://github.com/FeynCalc/feyncalc) | 365 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Mathematica package for algebraic calculations in elementary particle physics. | 元数据收集 |
+| [Habrador/Ten-Minute-Physics-Unity](https://github.com/Habrador/Ten-Minute-Physics-Unity) | 364 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Implementations in Unity of the Ten Minute Physics YouTube channel. Instead of using Unity's built-in physics engine, you will learn how to make yo… | 元数据收集 |
+| [williambl/unity-destruction](https://github.com/williambl/unity-destruction) | 364 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 💥 An open-source script to destroy objects realistically in Unity3D. | 元数据收集 |
+| [renzora/engine](https://github.com/renzora/engine) | 362 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 2D & 3D game engine & scene editor using bevy 0.19.1 | 元数据收集 |
+| [stared/quantum-game](https://github.com/stared/quantum-game) | 361 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Quantum Game (old version) - a puzzle game with real quantum mechanics in a browser | 元数据收集 |
+| [approach0/search-engine](https://github.com/approach0/search-engine) | 359 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A math-aware search engine. | 元数据收集 |
+| [IvLabs/resources](https://github.com/IvLabs/resources) | 359 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Resources on various topics being worked on at IvLabs | 元数据收集 |
+| [spamegg1/reviews](https://github.com/spamegg1/reviews) | 358 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Reviewing some online CS courses I took | 元数据收集 |
+| [milcktoast/particulate-js](https://github.com/milcktoast/particulate-js) | 351 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Particle physics micro library. | 元数据收集 |
+| [maykulkarni/Machine-Learning-Curriculum](https://github.com/maykulkarni/Machine-Learning-Curriculum) | 350 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Complete path for a beginner to become a Machine Learning Scientist! | 元数据收集 |
+| [pluto/ronkathon](https://github.com/pluto/ronkathon) | 348 | 仿真、可视化与虚拟实验／应用 | 教育原生 | Cryptography Educational Foundations | 元数据收集 |
+| [mzjb/DeepH-pack](https://github.com/mzjb/DeepH-pack) | 343 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Deep neural networks for density functional theory Hamiltonian. | 元数据收集 |
+| [cocomelonc/meow](https://github.com/cocomelonc/meow) | 341 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Cybersecurity research results. Simple C/C++ and Python implementations | 元数据收集 |
+| [milcktoast/particulate-medusae](https://github.com/milcktoast/particulate-medusae) | 341 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Soft body jellyfish simulation. | 元数据收集 |
+| [quanshengwu/wannier\_tools](https://github.com/quanshengwu/wannier_tools) | 339 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | WannierTools: An open-source software package for novel topological materials. Full documentation: | 元数据收集 |
+| [pub-calculator-io/scientific-calculator](https://github.com/pub-calculator-io/scientific-calculator) | 338 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Free WordPress Plugin: Solve complex math equations easily with our free online Scientific Calculator. Features advanced mathematical functions, tr… | 元数据收集 |
+| [juzzlin/DustRacing2D](https://github.com/juzzlin/DustRacing2D) | 337 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Dust Racing 2D is a traditional top-down car racing game including a level editor. | 元数据收集 |
+| [0xOsiris/Mev\_Book](https://github.com/0xOsiris/Mev_Book) | 336 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | An aggregate of MEV resources, libraries, research papers, and strategies. | 元数据收集 |
+| [csml-rpi/Foam-Agent](https://github.com/csml-rpi/Foam-Agent) | 336 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Foam-Agent: A large language model-based multi-agent framework for automating computational fluid dynamics workflows. Published in Computer Methods… | 元数据收集 |
+| [anubhavshrimal/Data-Structures-Algorithms](https://github.com/anubhavshrimal/Data-Structures-Algorithms) | 333 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | My implementation of 85+ popular data structures and algorithms and interview questions in Python 3 and C++ | 元数据收集 |
+| [ThePhysicsGuys/Physics3D](https://github.com/ThePhysicsGuys/Physics3D) | 328 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A 3D physics engine | 元数据收集 |
+| [Ubpa/UGM](https://github.com/Ubpa/UGM) | 327 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Ubpa Graphics Mathematics | 元数据收集 |
+| [minnie-lin/Awesome-Physics-Cognition-based-Video-Generation](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation) | 326 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A comprehensive list of papers investigating physical cognition in video generation, including papers, codes, and related websites. | 元数据收集 |
+| [Marsilea-viz/marsilea](https://github.com/Marsilea-viz/marsilea) | 323 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Declarative creation of composable visualization for Python (Complex heatmap, Upset plot, Oncoprint and more~) | 元数据收集 |
+| [ubavic/awesome-interactive-math](https://github.com/ubavic/awesome-interactive-math) | 320 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A curated list of tools that can be used for creating interactive mathematical explorables. | 元数据收集 |
+| [codepunkt/css-spring](https://github.com/codepunkt/css-spring) | 317 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Generate physics based css-keyframe animations for the css-in-js solution of your choice or plain css. | 元数据收集 |
+| [ManimCommunity/manim-voiceover](https://github.com/ManimCommunity/manim-voiceover) | 316 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Manim plugin for all things voiceover | 元数据收集 |
+| [nailuj05/FusionWater](https://github.com/nailuj05/FusionWater) | 316 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A simple way to add buoyancy / water physics in Unity, built on the existing physics engine | 元数据收集 |
+| [Birch-san/box2d-wasm](https://github.com/Birch-san/box2d-wasm) | 306 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Box2D physics engine compiled to WebAssembly. Supports TypeScript and ES modules. | 元数据收集 |
+| [AndresTraks/BulletSharp](https://github.com/AndresTraks/BulletSharp) | 301 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | .NET wrapper for the Bullet physics library | 元数据收集 |
+| [luo-yining/CFDBench](https://github.com/luo-yining/CFDBench) | 301 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A large-scale benchmark for machine learning methods in fluid dynamics | 元数据收集 |
+| [chuanyangjin/NYU-Course-Notes-and-Resources](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources) | 300 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | NYU Course Notes & Resources | 元数据收集 |
+| [caojiaolong/spaces-index](https://github.com/caojiaolong/spaces-index) | 297 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 🌟本项目自动抓取并索引科学空间的文章元数据，按研究主题进行规则分类，方便在 GitHub 上快速浏览并跳转到原文。 | 元数据收集 |
+| [clawpack/riemann\_book](https://github.com/clawpack/riemann_book) | 296 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | An interactive book about the Riemann problem for hyperbolic PDEs, using Jupyter notebooks. | 元数据收集 |
+| [henshmi/Classic-Pool-Game](https://github.com/henshmi/Classic-Pool-Game) | 292 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Classic 8 Ball pool game written in JavaScript | 元数据收集 |
+| [vprusso/toqito](https://github.com/vprusso/toqito) | 292 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | \|toqito\> (Theory of Quantum Information Toolkit) is a Python library for research in quantum information theory. | 元数据收集 |
+| [Flamethr0wer/polygon-packer](https://github.com/Flamethr0wer/polygon-packer) | 291 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A powerful bin packing problem solver for any polygons | 元数据收集 |
+| [CasberryIndia/Physics-Notebook](https://github.com/CasberryIndia/Physics-Notebook) | 290 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | An interactive collection of physics concepts with beautiful visualizations and real-time simulations | 元数据收集 |
+| [KilledByAPixel/SpaceHuggers](https://github.com/KilledByAPixel/SpaceHuggers) | 288 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A roguelike platformer with destructible environments in 13KB of JavaScript | 元数据收集 |
+| [kpeeters/cadabra2](https://github.com/kpeeters/cadabra2) | 288 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A field-theory motivated approach to computer algebra. | 元数据收集 |
+| [pygae/galgebra](https://github.com/pygae/galgebra) | 286 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Symbolic Geometric Algebra/Calculus package for SymPy :crystal\_ball: | 元数据收集 |
+| [jobovy/galpy](https://github.com/jobovy/galpy) | 284 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Galactic Dynamics in python | 元数据收集 |
+| [lotchuazzz-crypto/papergraph-mcp](https://github.com/lotchuazzz-crypto/papergraph-mcp) | 283 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | PaperGraph MCP turns math papers into evidence-grounded reading maps for AI agents: extract results, trace proof evidence, plan reading order, and … | 元数据收集 |
+| [electronicarts/pbmpm](https://github.com/electronicarts/pbmpm) | 280 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A WebGPU implementation of Position Based MPM (PB-MPM), presented at SIGGRAPH 2024. | 元数据收集 |
+| [ivanperez-keera/haskanoid](https://github.com/ivanperez-keera/haskanoid) | 278 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A free and open source breakout clone in Haskell using SDL and FRP, with Wiimote and Kinect support. | 元数据收集 |
+| [Bauxitedev/godot-jigglebones](https://github.com/Bauxitedev/godot-jigglebones) | 276 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | An addon that brings jigglebones to Godot Engine 3.0. | 元数据收集 |
+| [mbk-dev/okama](https://github.com/mbk-dev/okama) | 274 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Investment portfolio and stocks analyzing tools for Python with free historical data | 元数据收集 |
+| [espressomd/espresso](https://github.com/espressomd/espresso) | 273 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | The ESPResSo package | 元数据收集 |
+| [uburuntu/awesome-math-ru](https://github.com/uburuntu/awesome-math-ru) | 272 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | :books: Математичный список полезных книг | 元数据收集 |
+| [carloocchiena/the\_statistics\_handbook](https://github.com/carloocchiena/the_statistics_handbook) | 271 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | the statistics handbook open source repository | 元数据收集 |
+| [latte-central/LaTTe](https://github.com/latte-central/LaTTe) | 270 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | LaTTe : a Laboratory for Type Theory experiments (in clojure) | 元数据收集 |
+| [aztek/awesome-self-reference](https://github.com/aztek/awesome-self-reference) | 268 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A curated list of examples of self-reference in art, science, and technology | 元数据收集 |
+| [ashleve/ActiveRagdoll](https://github.com/ashleve/ActiveRagdoll) | 267 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | From-scratch implementation of physically simulated character animation with proportional-integral-derivative controllers (PID) | 元数据收集 |
+| [knagaitsev/slither.io-clone](https://github.com/knagaitsev/slither.io-clone) | 267 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Learn how to make Slither.io with JavaScript and Phaser! This game clones all the core features of Slither.io, including mouse-following controls, … | 元数据收集 |
+| [pkurth/D3D12Renderer](https://github.com/pkurth/D3D12Renderer) | 266 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Custom renderer and physics engine written from scratch in C++/Direct3D 12. | 元数据收集 |
+| [Yoget/Tongji-University-Advanced-Mathematics](https://github.com/Yoget/Tongji-University-Advanced-Mathematics) | 265 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 考研数学同济高等数学第七版线性代数浙大概率论 | 元数据收集 |
+| [dxxzst/mml-book-chinese](https://github.com/dxxzst/mml-book-chinese) | 264 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | mml-book-chinese《Mathematics For Machine Learning》机器学习中的数学 中文版 | 元数据收集 |
+| [mayhemantt/mayhemantt](https://github.com/mayhemantt/mayhemantt) | 264 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Awesome Github Profile Readme. Github ReadMe Github Profile Readme Dynamic Github ReadMe Dynamic Github Profile ReadMe. Please Star and Fork | 元数据收集 |
+| [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) | 263 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and compile URDF/XACRO/SRDF models from Python or Blender. | 元数据收集 |
+| [gongzhang/julia-set-playground](https://github.com/gongzhang/julia-set-playground) | 263 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A Swift playground that generates beautiful Julia set fractal images. | 元数据收集 |
+| [polyanskiy/refractiveindex.info-database](https://github.com/polyanskiy/refractiveindex.info-database) | 263 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Database of optical constants | 元数据收集 |
+| [runmat-org/runmat](https://github.com/runmat-org/runmat) | 262 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations… | 元数据收集 |
+| [benrbray/noteworthy](https://github.com/benrbray/noteworthy) | 258 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Markdown editor with bidirectional links and excellent math support, powered by ProseMirror. (In Development!) | 元数据收集 |
+| [Suvitruf/box3d-unity](https://github.com/Suvitruf/box3d-unity) | 256 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Box3d Physics bindings for Unity | 元数据收集 |
+| [timschmidt/csgrs](https://github.com/timschmidt/csgrs) | 256 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Multi-modal constructive solid geometry kernel in Rust | 元数据收集 |
+| [cigar666/my\_manim\_projects](https://github.com/cigar666/my_manim_projects) | 255 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | some of my manim projects | 元数据收集 |
+| [tailuge/billiards](https://github.com/tailuge/billiards) | 255 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | billiards physics in the browser | 元数据收集 |
+| [alpertron/calculators](https://github.com/alpertron/calculators) | 254 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Source code of calculators hosted at https://www.alpertron.com.ar | 元数据收集 |
+| [zademn/EverythingCrypto](https://github.com/zademn/EverythingCrypto) | 254 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | (Still exploring) My cryptography journey: A collection of notebooks covering different algorithms and concepts from cryptography | 元数据收集 |
+| [MasterAI-EAM/Darwin](https://github.com/MasterAI-EAM/Darwin) | 252 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | An open-source project dedicated to build foundational large language model for natural science, mainly in physics, chemistry and material science. | 元数据收集 |
+| [maxitg/SetReplace](https://github.com/maxitg/SetReplace) | 252 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | C++/Wolfram Language package for exploring set and graph rewriting systems | 元数据收集 |
+| [grazianobolla/godot-monke-net](https://github.com/grazianobolla/godot-monke-net) | 249 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Client/Server Authoritative Multiplayer Addon for the Godot Engine | 元数据收集 |
+| [PawelTroka/Computator.NET](https://github.com/PawelTroka/Computator.NET) | 249 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Computator.NET is a special kind of numerical software that is fast and easy to use but not worse than others feature-wise. It's features include: … | 元数据收集 |
+| [pelegs/maths\_book](https://github.com/pelegs/maths_book) | 245 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Planning for an entire maths LaTeX book | 元数据收集 |
+| [AlexandreSajus/Quadcopter-AI](https://github.com/AlexandreSajus/Quadcopter-AI) | 244 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Controlling a Rigidbody Quadcopter using Control Theory and Reinforcement Learning | 元数据收集 |
+| [boutproject/BOUT-dev](https://github.com/boutproject/BOUT-dev) | 244 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | BOUT++: Plasma fluid finite-difference simulation code in curvilinear coordinate systems | 元数据收集 |
+| [Summa-Cogni/Mathpad](https://github.com/Summa-Cogni/Mathpad) | 244 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A mathematical keypad for students and professionals | 元数据收集 |
+| [daleroberts/math-finance-cheat-sheet](https://github.com/daleroberts/math-finance-cheat-sheet) | 243 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Mathematical finance cheat sheet. | 元数据收集 |
+| [Emmi-AI/noether](https://github.com/Emmi-AI/noether) | 243 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Deep-Learning framework for Engineering AI. Built on transformer building blocks, it delivers the full engineering stack, allowing teams to build, … | 元数据收集 |
+| [Mojo-Numerics-and-Algorithms-group/NuMojo](https://github.com/Mojo-Numerics-and-Algorithms-group/NuMojo) | 242 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | NuMojo is a library for numerical computing in Mojo 🔥 similar to numpy in Python. | 元数据收集 |
+| [rudransh61/Physix-go](https://github.com/rudransh61/Physix-go) | 238 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A simple Physics engine in GoLang | 元数据收集 |
+| [JLindemann42/Atomic-Periodic-Table.Android](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) | 237 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 'Atomic - Periodic Table' for Android | 元数据收集 |
+| [learnbyexample/curated\_resources](https://github.com/learnbyexample/curated_resources) | 237 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | :books: Curated lists for programming, books, movies, music, games, etc | 元数据收集 |
+| [certik/theoretical-physics](https://github.com/certik/theoretical-physics) | 236 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Source code of the Theoretical Physics Reference online book | 元数据收集 |
+| [graetz23/JWave](https://github.com/graetz23/JWave) | 236 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A Discrete Fourier Transform (DFT), a Fast Wavelet Transform (FWT), and a Wavelet Packet Transform (WPT) algorithm in 1-D, 2-D, and 3-D using norma… | 元数据收集 |
+| [complex-analysis/complex-analysis.github.io](https://github.com/complex-analysis/complex-analysis.github.io) | 235 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Complex Analysis: A Visual and Interactive Introduction | 元数据收集 |
+| [sdslabs/Rootex](https://github.com/sdslabs/Rootex) | 235 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | An advanced C++ 3D game engine powering an in-production game yet to be announced | 元数据收集 |
+| [ECSIM/opem](https://github.com/ECSIM/opem) | 232 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | OPEM (Open Source PEM Fuel Cell Simulation Tool) | 元数据收集 |
+| [krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics](https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics) | 232 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A curated list of mathematics documents ,Concepts, Study Materials , Algorithms and Codes available across the internet for machine learning and de… | 元数据收集 |
+| [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack) | 231 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Comprehensive, GPU accelerated framework for developing universal virtual quantum processors | 元数据收集 |
+| [BootLoops-ai/bootloops](https://github.com/BootLoops-ai/bootloops) | 230 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by… | 元数据收集 |
+| [neonxp/MathExecutor](https://github.com/neonxp/MathExecutor) | 230 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Simple math expresions parser and calculator | 元数据收集 |
+| [fslaborg/FSharp.Stats](https://github.com/fslaborg/FSharp.Stats) | 227 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | statistical testing, linear algebra, machine learning, fitting and signal processing in F# | 元数据收集 |
+| [zerothi/sisl](https://github.com/zerothi/sisl) | 227 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Electronic structure Python package for post analysis and large scale tight-binding DFT/NEGF calculations | 元数据收集 |
+| [bugwheels94/math-expression-evaluator](https://github.com/bugwheels94/math-expression-evaluator) | 226 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Math JS library. Super advanced & efficient Math expression evaluator | 元数据收集 |
+| [MathProgrammer/CodeForces](https://github.com/MathProgrammer/CodeForces) | 226 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 通过教育相关主题检索收集；可评估用于数学、物理或 STEM 计算实验和可视化教学；具体能力待核对。 | 元数据收集 |
+| [ael-bekk/Cub3d-Advanced-Raycasting](https://github.com/ael-bekk/Cub3d-Advanced-Raycasting) | 225 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | #Cub3D: This project is a 3D game created from scratch written in C using an old graphic library mini-libx, presented with an old technology raycas… | 元数据收集 |
+| [meshpro/dmsh](https://github.com/meshpro/dmsh) | 223 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | :spider\_web: Simple mesh generator inspired by distmesh. | 元数据收集 |
+| [sepandhaghighi/pyrgg](https://github.com/sepandhaghighi/pyrgg) | 222 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 🔧 Python Random Graph Generator | 元数据收集 |
+| [chemlab/chemlab](https://github.com/chemlab/chemlab) | 221 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | The chemistry library you were waiting for | 元数据收集 |
+| [frenzymath/Archon](https://github.com/frenzymath/Archon) | 221 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | AI-assisted Lean project automation with DAG blueprints, proof orchestration, and multi-agent coding/proving workflows. | 元数据收集 |
+| [Jermesa-Studio/JRS\_Vehicle\_Physics\_Controller](https://github.com/Jermesa-Studio/JRS_Vehicle_Physics_Controller) | 221 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | The JRS Vehicle Physics Controller scripts allows you to create realistic and responsive vehicle behavior in your Unity game or simulation. Support… | 元数据收集 |
+| [materialsproject/matbench](https://github.com/materialsproject/matbench) | 220 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Matbench: Benchmarks for materials science property prediction | 元数据收集 |
+| [Koubae/Programming-CookBook](https://github.com/Koubae/Programming-CookBook) | 218 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Programmer & Developer Cook-Book \| Covers Programming Languages, Databases, Linux Commands and more. | 元数据收集 |
+| [stilldesign/PhysX.Net](https://github.com/stilldesign/PhysX.Net) | 217 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A .NET wrapper for NVIDIA PhysX 4.1.2 written using C++/CLI. | 元数据收集 |
+| [stuntrally/stuntrally3](https://github.com/stuntrally/stuntrally3) | 217 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 3D racing game with Sci-Fi elements and own Track Editor. The main repository with sources and data. Using Ogre-Next 3.0 and VDrift. | 元数据收集 |
+| [vivek3141/dl-visualization](https://github.com/vivek3141/dl-visualization) | 217 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | This is the source code for the animations in the series "Visualizing Deep Learning" | 元数据收集 |
+| [ikpil/Box2D.NET](https://github.com/ikpil/Box2D.NET) | 216 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Box2D.NET - a C# port of Box2D, is a 2D physics engine for games, .NET, Unity3D, servers | 元数据收集 |
+| [desicochrane/data-science-masters](https://github.com/desicochrane/data-science-masters) | 210 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | moved to https://github.com/desicochrane/datasci | 元数据收集 |
+| [rafael-fuente/Incoherent-Light-Simulation](https://github.com/rafael-fuente/Incoherent-Light-Simulation) | 210 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Simulation of the propagation of incoherent light, aiming to illustrate the concept of spatial coherence. | 元数据收集 |
+| [NumPower/numpower](https://github.com/NumPower/numpower) | 209 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | PHP extension for efficient scientific computing and array manipulation with GPU support | 元数据收集 |
+| [felipeek/raw-physics](https://github.com/felipeek/raw-physics) | 207 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Simple rigid-body physics simulator powered by XPBD. | 元数据收集 |
+| [francof2a/fxpmath](https://github.com/francof2a/fxpmath) | 207 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A python library for fractional fixed-point (base 2) arithmetic and binary manipulation with Numpy compatibility. | 元数据收集 |
+| [rainbowyuyu/manim\_extend\_rainbow](https://github.com/rainbowyuyu/manim_extend_rainbow) | 207 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Improvements to animations based on Manim, designed to facilitate the demonstration of algorithms in data structures, operating systems, and comput… | 元数据收集 |
+| [carstenbauer/MonteCarlo.jl](https://github.com/carstenbauer/MonteCarlo.jl) | 206 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Classical and quantum Monte Carlo simulations in Julia | 元数据收集 |
+| [pelmesh619/itmo\_conspects](https://github.com/pelmesh619/itmo_conspects) | 205 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Конспекты по разным предметам первого потока ИСy27 университета ИТМО | 元数据收集 |
+| [gbionics/jaxsim](https://github.com/gbionics/jaxsim) | 204 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A differentiable physics engine and multibody dynamics library for control and robot learning. | 元数据收集 |
+| [addmix/godot\_aerodynamic\_physics](https://github.com/addmix/godot_aerodynamic_physics) | 203 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A Godot plugin that adds nodes for realistic Aerodynamic simulation and control. | 元数据收集 |
+| [algebraic-solving/msolve](https://github.com/algebraic-solving/msolve) | 202 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Library for Polynomial System Solving through Algebraic Methods | 元数据收集 |
+| [Nemocas/AbstractAlgebra.jl](https://github.com/Nemocas/AbstractAlgebra.jl) | 202 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Generic abstract algebra functionality in pure Julia (no C dependencies) | 元数据收集 |
+| [SENATOROVAI/Data-Science-For-Beginners-from-scratch-course](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-course) | 202 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | Data science for beginners involves learning to extract insights from data using statistics, programming (Python/R), and visualization. Key steps i… | 元数据收集 |
+| [JuliaDynamics/ChaosTools.jl](https://github.com/JuliaDynamics/ChaosTools.jl) | 200 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Tools for the exploration of chaos and nonlinear dynamics | 元数据收集 |
+| [mksmbrtsh/jlatexmath-android](https://github.com/mksmbrtsh/jlatexmath-android) | 200 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | aJLaTeXMath Library - Displays LaTeX commands in android OS. | 元数据收集 |
+| [krassowski/jupyter-manim](https://github.com/krassowski/jupyter-manim) | 199 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | manim cell magic for IPython/Jupyter to show the output video | 元数据收集 |
+| [tzaeschke/ode4j](https://github.com/tzaeschke/ode4j) | 199 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Java 3D Physics Engine & Library | 元数据收集 |
+| [cpmech/russell](https://github.com/cpmech/russell) | 198 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Rust Scientific Library. ODE, DAE, and PDE solvers. Special functions (Bessel, Elliptic, Beta, Gamma, Erf). Linear algebra. Sparse solvers. Probabi… | 元数据收集 |
+| [feos-org/feos](https://github.com/feos-org/feos) | 198 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | FeOs - A Framework for Equations of State and Classical Density Functional Theory | 元数据收集 |
+| [fredhohman/awesome-mathematical-notation-design](https://github.com/fredhohman/awesome-mathematical-notation-design) | 197 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | List of links of techniques to help enhance mathematical notation | 元数据收集 |
+| [kaidul/Data\_Structure\_and\_Algorithms\_Library](https://github.com/kaidul/Data_Structure_and_Algorithms_Library) | 197 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | A collection of classical algorithms and data-structures implementation in C++ for coding interview and competitive programming | 元数据收集 |
+| [cr4yz/Unity3d-QuadTree-Collision-Detection](https://github.com/cr4yz/Unity3d-QuadTree-Collision-Detection) | 195 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | QuadTree and Collision Detection Systems for Unity3d | 元数据收集 |
+| [kekkorider/threejs-starter](https://github.com/kekkorider/threejs-starter) | 195 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | 通过教育相关主题检索收集；可评估用于数学、物理或 STEM 计算实验和可视化教学；具体能力待核对。 | 元数据收集 |
+| [Vanilagy/MarbleBlast](https://github.com/Vanilagy/MarbleBlast) | 195 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A web port of Marble Blast Gold and Marble Blast Platinum. | 元数据收集 |
+| [EldarMuradau/EraEngine](https://github.com/EldarMuradau/EraEngine) | 194 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Open source C++ 3D game engine | 元数据收集 |
+| [BenjaminGor/Intro\_to\_LinAlg\_Earth](https://github.com/BenjaminGor/Intro_to_LinAlg_Earth) | 193 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | An applied Linear Algebra textbook flavored with Earth Science topics. | 元数据收集 |
+| [chfenger/goNum](https://github.com/chfenger/goNum) | 192 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | 开源Go语言数值算法库(An open numerical library purely based on Go programming language) | 元数据收集 |
+| [RuiningLi/dso](https://github.com/RuiningLi/dso) | 192 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | \[ICCV 2025\] DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness | 元数据收集 |
+| [sigma-py/orthopy](https://github.com/sigma-py/orthopy) | 192 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | :triangular\_ruler: Orthogonal polynomials in all shapes and sizes. | 元数据收集 |
+| [vivek3141/videos](https://github.com/vivek3141/videos) | 192 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Source code for all the animations in my videos. Uses @3b1b's manim library | 元数据收集 |
+| [InternLM/OREAL](https://github.com/InternLM/OREAL) | 190 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning | 元数据收集 |
+| [bearlikelion/godot-box3d](https://github.com/bearlikelion/godot-box3d) | 189 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Godot Extension to add Box3D physics | 元数据收集 |
+| [SalmanZach/Springy\_Facebook\_Rebound](https://github.com/SalmanZach/Springy_Facebook_Rebound) | 189 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Springy makes Android Property animation easy to use. | 元数据收集 |
+| [gue-ni/OpenGL\_Flightsim](https://github.com/gue-ni/OpenGL_Flightsim) | 188 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A simple but realistic looking flight simulator using OpenGL, from scratch. | 元数据收集 |
+| [ljvmiranda921/seagull](https://github.com/ljvmiranda921/seagull) | 188 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | A Python Library for Conway's Game of Life | 元数据收集 |
+| [giacomomarchioro/PyEnergyDiagrams](https://github.com/giacomomarchioro/PyEnergyDiagrams) | 187 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | This is a simple script to plot energy profile diagrams using Python and matplotlib. | 元数据收集 |
+| [Rickaym/manim-sideview](https://github.com/Rickaym/manim-sideview) | 187 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A Manim utility extension for Visual Studio Code. | 元数据收集 |
+| [spirosmaggioros/AlgoPlus](https://github.com/spirosmaggioros/AlgoPlus) | 186 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | AlgoPlus is a C++17 library with implemented data structures and algorithms for various topics(including machine learning) | 元数据收集 |
+| [314arhaam/heat-pinn](https://github.com/314arhaam/heat-pinn) | 185 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A Physics-Informed Neural Network to solve 2D steady-state heat equations. | 元数据收集 |
+| [thetawavegame/thetawave](https://github.com/thetawavegame/thetawave) | 185 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A physics based, space shooter game made with Rust and the Bevy engine. | 元数据收集 |
+| [damask-multiphysics/DAMASK](https://github.com/damask-multiphysics/DAMASK) | 184 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Düsseldorf Advanced Material Simulation Kit (Read-only mirror) | 元数据收集 |
+| [fabmax/physx-js-webidl](https://github.com/fabmax/physx-js-webidl) | 183 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Javascript WASM bindings for Nvidia PhysX | 元数据收集 |
+| [jaipack17/Nature2D](https://github.com/jaipack17/Nature2D) | 181 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A 2D physics engine for Roblox. Create versatile physics simulations and mechanics with GUIs! | 元数据收集 |
+| [akio-tomiya/LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl) | 177 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A native Julia code for lattice QCD with dynamical fermions in 4 dimension. | 元数据收集 |
+| [mbchang/dynamics](https://github.com/mbchang/dynamics) | 174 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | A Compositional Object-Based Approach to Learning Physical Dynamics | 元数据收集 |
+| [iluaii/fwm](https://github.com/iluaii/fwm) | 173 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scro… | 元数据收集 |
+| [Pierre-Terdiman/PEEL\_PhysX\_Edition](https://github.com/Pierre-Terdiman/PEEL_PhysX_Edition) | 173 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | An updated build of PEEL dedicated to PhysX | 元数据收集 |
+| [qutip/QuantumToolbox.jl](https://github.com/qutip/QuantumToolbox.jl) | 172 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Quantum Toolbox in Julia | 元数据收集 |
+| [manim-kindergarten/manim\_document\_zh](https://github.com/manim-kindergarten/manim_document_zh) | 170 | 仿真、可视化与虚拟实验／课程／资源 | 教育原生 | 一份manim中文教程文档 / manim tutorial document in Chinese (完善中) | 元数据收集 |
+| [ashutoshbsathe/yacv](https://github.com/ashutoshbsathe/yacv) | 165 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Yet Another Compiler Visualizer | 元数据收集 |
+| [Yusuke710/manim-skill](https://github.com/Yusuke710/manim-skill) | 161 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | SKILL.md for creating animations with Manim. Coding Agent autonomously plans scenes, writes Manim code, renders videos, and refines based on feedback. | 元数据收集 |
+| [manim-web/manim-web](https://github.com/manim-web/manim-web) | 142 | 仿真、可视化与虚拟实验／应用 | 可用于教育 | Manim animation engine, for the web | 元数据收集 |
+| [makefinks/manim-generator](https://github.com/makefinks/manim-generator) | 118 | 仿真、可视化与虚拟实验／开发组件 | 可用于教育 | Automatic LLM-based video generation using the manim library. Usage of a code-writer and code-reviewer feedback loop with execution logs. | 元数据收集 |
 
-## 项目详情
+## 已核对精选详情
 
 ### Manim Community
 
@@ -28,7 +420,7 @@
 - 许可说明：引擎代码与参考视频、字体、配乐分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：41,245；最近推送：2026-10-02 13:54:47 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
+- Star：41,245；最近推送：2026-10-05 01:33:34 UTC+08:00；数据获取：2026-10-05 01:34:13 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/ManimCommunity/manim/blob/main/README.md)、[来源 2](https://github.com/ManimCommunity/manim)
 
 

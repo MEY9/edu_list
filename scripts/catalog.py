@@ -10,8 +10,27 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 REPO_PATTERN = re.compile(r"[A-Za-z0-9][A-Za-z0-9-]*/[A-Za-z0-9_.-]+\Z")
 RELATIONS = {"native": "教育原生", "adaptable": "可用于教育"}
-REVIEW_LEVELS = {"readme_reviewed": "资料核对", "code_reviewed": "代码核对", "run_verified": "运行验证"}
-STATUSES = {"accepted", "candidate", "removed"}
+REVIEW_LEVELS = {"metadata_collected": "元数据收集", "readme_reviewed": "资料核对", "code_reviewed": "代码核对", "run_verified": "运行验证"}
+STATUSES = {"discovered", "accepted", "candidate", "removed"}
+STAR_TIERS = (
+    ("300k-plus", "300K+（30 万及以上）", 300000, None),
+    ("100k-300k", "100K–300K（10 万至 30 万）", 100000, 300000),
+    ("50k-100k", "50K–100K（5 万至 10 万）", 50000, 100000),
+    ("10k-50k", "10K–50K（1 万至 5 万）", 10000, 50000),
+    ("1k-10k", "1K–10K（1 千至 1 万）", 1000, 10000),
+    ("100-1k", "100–1K（100 至 1 千）", 100, 1000),
+    ("under-100", "100 以下", 0, 100),
+)
+
+
+def star_tier(stars):
+    if type(stars) is not int or stars < 0:
+        return None
+    return next(t[0] for t in STAR_TIERS if stars >= t[2] and (t[3] is None or stars < t[3]))
+
+
+def catalog_visible(project, metric):
+    return project["status"] != "removed" and not metric.get("archived") and not metric.get("disabled") and type(metric.get("stars")) is int
 
 
 class UniqueKeyLoader(yaml.SafeLoader):
@@ -81,6 +100,8 @@ def bucket(project, metric, min_stars):
         return "candidates"
     if metric.get("archived") or metric.get("disabled"):
         return "retired"
+    if project["status"] == "discovered":
+        return "discovered"
     if type(metric.get("stars")) is not int:
         return "candidates"
     if metric["stars"] < min_stars:
@@ -105,7 +126,7 @@ def validate(config, projects, metrics=None):
             errors.append("Category id/title/description invalid")
     seen = set()
     required = {"schema_version", "name", "github", "description_zh", "category", "tags", "education_relation", "audience", "education_use", "cost", "deployment", "license_note", "status", "review"}
-    optional = {"status_reason", "replacement", "_file"}
+    optional = {"status_reason", "replacement", "_file", "upstream_description", "kind", "discovery"}
     canonical_ids = {}
     repositories = (metrics or {}).get("repositories", {})
     for p in projects:
@@ -128,6 +149,12 @@ def validate(config, projects, metrics=None):
             errors.append("{}: invalid schema/category".format(label))
         if p.get("education_relation") not in RELATIONS or p.get("status") not in STATUSES:
             errors.append("{}: invalid relation/status".format(label))
+        if p.get("kind", "application") not in {"application", "resource", "library"}:
+            errors.append("{}: invalid kind".format(label))
+        if p.get("discovery") is not None:
+            discovery = p["discovery"]
+            if not isinstance(discovery, dict) or not isinstance(discovery.get("query"), str) or not discovery["query"].strip() or not isinstance(discovery.get("topics"), list):
+                errors.append("{}: invalid discovery provenance".format(label))
         for field in ("name", "description_zh", "education_use", "cost", "deployment", "license_note"):
             if not isinstance(p.get(field), str) or not p[field].strip():
                 errors.append("{}: {} must be nonempty text".format(label, field))
@@ -146,6 +173,8 @@ def validate(config, projects, metrics=None):
             continue
         if review.get("level") not in REVIEW_LEVELS or not review.get("method"):
             errors.append("{}: review level/method required".format(label))
+        if p.get("status") == "accepted" and review.get("level") == "metadata_collected":
+            errors.append("{}: accepted requires at least README review".format(label))
         try:
             parse_time(review["checked_at"])
         except (KeyError, TypeError, ValueError, AttributeError):

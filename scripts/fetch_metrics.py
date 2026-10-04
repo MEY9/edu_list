@@ -25,7 +25,7 @@ def normalize(payload, fetched_at):
         "updated_at": payload.get("updated_at"),
         "fetched_at": fetched_at,
         "fetch_status": "ok",
-        "source": "https://api.github.com/repos/" + payload["full_name"],
+        "source": payload.get("_source", "https://api.github.com/repos/" + payload["full_name"]),
     }
 
 
@@ -74,9 +74,69 @@ def refresh(projects, existing, fetcher, fetched_at):
             "repositories": {k: v for k, v in repositories.items() if k in keys}}, failures
 
 
+def fetch_batch(repos, token, opener=None, sleeper=time.sleep):
+    """Read 50 repositories in one GraphQL request, without connection pagination."""
+    fields = "databaseId nameWithOwner stargazerCount forkCount isArchived isDisabled pushedAt updatedAt primaryLanguage { name } licenseInfo { spdxId }"
+    aliases = []
+    for i, repo in enumerate(repos):
+        owner, name = repo.split("/")
+        aliases.append("r%d: repository(owner: %s, name: %s) { %s }" % (i, json.dumps(owner), json.dumps(name), fields))
+    query = "query { " + " ".join(aliases) + " }"
+    request = urllib.request.Request("https://api.github.com/graphql", data=json.dumps({"query": query}).encode("utf-8"),
+        headers={"Authorization": "Bearer " + token, "Content-Type": "application/json", "User-Agent": "edu-list-metadata"}, method="POST")
+    open_url = opener or urllib.request.build_opener(GitHubRedirectHandler()).open
+    for attempt in range(3):
+        try:
+            with open_url(request, timeout=60) as response:
+                result = json.load(response)
+            if not isinstance(result.get("data"), dict):
+                raise RuntimeError("GitHub GraphQL query returned no data; check API access/schema/quota")
+            break
+        except urllib.error.HTTPError as exc:
+            if exc.code not in (429, 500, 502, 503, 504) or attempt == 2:
+                raise RuntimeError("GitHub GraphQL HTTP {}".format(exc.code)) from None
+        except (urllib.error.URLError, TimeoutError):
+            if attempt == 2:
+                raise RuntimeError("GitHub GraphQL network timeout/error") from None
+        sleeper(2 ** attempt)
+    payloads = {}
+    for i, repo in enumerate(repos):
+        node = result["data"].get("r%d" % i)
+        if not node or not node.get("databaseId"):
+            continue
+        payloads[repo.lower()] = {"_source": "https://api.github.com/graphql", "id": node["databaseId"], "full_name": node["nameWithOwner"],
+            "stargazers_count": node["stargazerCount"], "forks_count": node["forkCount"],
+            "archived": node["isArchived"], "disabled": node["isDisabled"],
+            "pushed_at": node.get("pushedAt"), "updated_at": node.get("updatedAt"),
+            "language": (node.get("primaryLanguage") or {}).get("name"),
+            "license": {"spdx_id": (node.get("licenseInfo") or {}).get("spdxId")}}
+    return payloads
+
+
+def refresh_batched(projects, existing, token, fetched_at, batch_fetcher=fetch_batch, sleeper=time.sleep):
+    payloads = {}
+    errors = {}
+    for start in range(0, len(projects), 50):
+        names = [p["github"] for p in projects[start:start + 50]]
+        try:
+            payloads.update(batch_fetcher(names, token))
+        except (RuntimeError, KeyError, TypeError, ValueError) as exc:
+            errors.update({name.lower(): str(exc) for name in names})
+        print("Fetched batch {}/{}".format(start // 50 + 1, (len(projects) + 49) // 50), flush=True)
+        if start + 50 < len(projects):
+            sleeper(1)
+    def cached_fetch(repo):
+        key = repo.lower()
+        if key not in payloads:
+            raise RuntimeError(errors.get(key, "Repository missing from GraphQL response; verify access or migration"))
+        return payloads[key]
+    return refresh(projects, existing, cached_fetch, fetched_at)
+
+
 def main():
     parser = argparse.ArgumentParser(description="更新 GitHub Star 等客观数据")
     parser.add_argument("--root", type=Path, default=ROOT)
+    parser.add_argument("--rest", action="store_true", help="强制逐仓库 REST 抓取（大清单需足够 API 配额）")
     args = parser.parse_args()
     config, projects = load_catalog(args.root)
     errors = validate(config, projects)
@@ -84,7 +144,12 @@ def main():
         raise SystemExit("\n".join(errors))
     stamp = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
     token = os.environ.get("GITHUB_TOKEN")
-    result, failures = refresh(projects, load_metrics(args.root), lambda repo: fetch_repository(repo, token), stamp)
+    if token and not args.rest:
+        result, failures = refresh_batched(projects, load_metrics(args.root), token, stamp)
+    else:
+        if not token and len(projects) > 50:
+            raise SystemExit("Large catalog requires GITHUB_TOKEN for batched GraphQL metadata refresh.")
+        result, failures = refresh(projects, load_metrics(args.root), lambda repo: fetch_repository(repo, token), stamp)
     write_json(args.root / "data/metrics.json", result)
     for error in failures:
         print("ERROR: " + error)

@@ -52,3 +52,22 @@ python scripts/build_lists.py
 Blockly 与 Open edX 已使用 API 返回的当前仓库全名。所有初始条目的上游 README 来源及核对方式见对应 YAML。没有运行这些第三方项目，也没有调用生成模型或付费 API。
 
 结构参考：[Awesome](https://github.com/sindresorhus/awesome)、[Awesome Selfhosted Data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)、[Best-of Generator](https://github.com/best-of-lists/best-of-generator)。GitHub 元数据字段参考 [官方 API](https://docs.github.com/en/rest/repos/repos#get-a-repository)。
+
+## 千级项目库维护
+
+目录按 Star 分层与 13 类用途生成；全部项目每页最多 200 条。`data/catalog.json` 是可搜索、筛选的机器索引，由项目 YAML 与指标缓存生成。`data/discovery.json` 保留批量检索查询、分页、结果数量、时间与排除原因。
+
+大清单刷新需要 `GITHUB_TOKEN`，默认通过 GraphQL 每批读取 50 个仓库，批次间隔 1 秒，不使用高并发。更新脚本只执行只读查询。有有效数据的仓库正常更新，缺失或失败仓库保留历史值；只要有失败就不创建新快照、不提交工作流结果。可以使用 `--rest` 强制逐仓库 REST 抓取，但需要足够额度。GitHub Actions 内置令牌的 REST 配额不足以每次逐一请求数千个仓库，因此批量 GraphQL 是默认方式。参考 [GraphQL 速率限制](https://docs.github.com/en/graphql/overview/rate-limits-and-query-limits-for-the-graphql-api) 与 [仓库字段](https://docs.github.com/en/graphql/reference/repos)。
+
+发现与导入显式运行，不在定时刷新中自动批准项目：
+
+```bash
+python scripts/discover.py --output discovery-raw.json
+python scripts/import_discovery.py discovery-raw.json
+python scripts/validate.py
+python scripts/build_lists.py
+python -m unittest discover -s tests -v
+python scripts/build_lists.py --check
+```
+
+发现脚本按明确主题检索并保存原始响应，查询间隔至少 7 秒。发生限流时有限重试；成功分页可断点续跑。原始搜索响应未纳入 Git，必要字段写入 YAML、指标缓存和检索审计记录。导入不会把已存在的人工核对状态降级；新记录默认 `discovered`。核对某条目后编辑用途、类型、分类与审核证据，再改为 `accepted`。

@@ -27,3 +27,18 @@ categories:
 - id: school-management
   title: 学校与培训机构管理
   description: 学生、教务与学校业务管理。
+- id: courses
+  title: 课程、教材与学习路线
+  description: 公开课程、教材、教程、练习和学习资源集合。
+- id: language-learning
+  title: 语言学习与阅读训练
+  description: 外语学习、阅读、词汇和语言练习应用。
+- id: collaboration
+  title: 教学协作与在线课堂
+  description: 在线会议、协同工作和学习团队协作应用。
+- id: documents
+  title: 文档、PDF 与文字识别
+  description: 教材文档处理、PDF 编辑和 OCR 工具。
+- id: media-tools
+  title: 音视频与课堂录制
+  description: 课程录屏、字幕、语音转写和多媒体工具。
