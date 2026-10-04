@@ -9,7 +9,7 @@
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,729 | 教育原生 | 参考编程学习路径与练习设计，支持学生自主练习。 | BSD-3-Clause |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,731 | 教育原生 | 参考编程学习路径与练习设计，支持学生自主练习。 | BSD-3-Clause |
 | [Blockly](https://github.com/RaspberryPiFoundation/blockly) | 13,578 | 教育原生 | 嵌入图形化编程课件，设计变量、循环和逻辑教学活动。 | Apache-2.0 |
 | [CodeCombat](https://github.com/codecombat/codecombat) | 8,571 | 教育原生 | 参考游戏化编程教学和关卡设计，组织代码练习。 | MIT |
 
@@ -28,7 +28,7 @@
 - 许可说明：代码、课程和附属资源存在各自许可，使用时核对上游说明。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：456,729；最近推送：2026-10-04 19:40:22 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：456,731；最近推送：2026-10-04 19:40:22 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/README.md)、[来源 2](https://github.com/freeCodeCamp/freeCodeCamp)
 
 
@@ -45,7 +45,7 @@
 - 许可说明：已迁移到 RaspberryPiFoundation/blockly；扩展和素材另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：13,578；最近推送：2026-10-03 17:34:03 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：13,578；最近推送：2026-10-03 17:34:03 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/RaspberryPiFoundation/blockly/blob/main/README.md)、[来源 2](https://github.com/RaspberryPiFoundation/blockly)
 
 
@@ -62,5 +62,5 @@
 - 许可说明：README 说明代码与美术采用不同许可；关卡等内容需单独核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：8,571；最近推送：2026-10-03 11:58:24 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：8,571；最近推送：2026-10-03 11:58:24 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/codecombat/codecombat/blob/master/README.md)、[来源 2](https://github.com/codecombat/codecombat)

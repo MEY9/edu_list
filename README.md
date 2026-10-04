@@ -14,7 +14,7 @@
 
 主清单 **22** 个项目；观察清单 **2** 个；待审核 **1** 个；归档／移出 **1** 个。
 
-数据更新尝试：2026-10-05 01:04:00 UTC+08:00。每个条目的成功获取时间见分类页。
+数据更新尝试：2026-10-05 01:12:50 UTC+08:00。每个条目的成功获取时间见分类页。
 
 Star 变化基线：尚无上一期快照，暂不计算增长。
 
@@ -60,7 +60,7 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 | --- | ---: | --- | --- | --- |
 | [Manim Community](https://github.com/ManimCommunity/manim) | 41,245 | 教育原生 | 制作函数、几何、线性代数等概念的讲解动画。 | MIT |
 | [JupyterLab](https://github.com/jupyterlab/jupyterlab) | 15,333 | 可用于教育 | 制作可运行的数据分析、科学计算和编程实验讲义。 | BSD-3-Clause |
-| [image-blaster](https://github.com/neilsonnn/image-blaster) | 7,478 | 可用于教育 | 制作虚拟商店或情境教学素材；任务、评分和学习记录另开发。 | MIT |
+| [image-blaster](https://github.com/neilsonnn/image-blaster) | 7,512 | 可用于教育 | 制作虚拟商店或情境教学素材；任务、评分和学习记录另开发。 | MIT |
 
 
 [查看完整分类](lists/simulation.md)
@@ -69,7 +69,7 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,729 | 教育原生 | 参考编程学习路径与练习设计，支持学生自主练习。 | BSD-3-Clause |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,731 | 教育原生 | 参考编程学习路径与练习设计，支持学生自主练习。 | BSD-3-Clause |
 | [Blockly](https://github.com/RaspberryPiFoundation/blockly) | 13,578 | 教育原生 | 嵌入图形化编程课件，设计变量、循环和逻辑教学活动。 | Apache-2.0 |
 | [CodeCombat](https://github.com/codecombat/codecombat) | 8,571 | 教育原生 | 参考游戏化编程教学和关卡设计，组织代码练习。 | MIT |
 
@@ -101,9 +101,9 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [Logseq](https://github.com/logseq/logseq) | 45,128 | 可用于教育 | 整理课程笔记、建立知识关联和个人学习资料库。 | AGPL-3.0 |
-| [Anki](https://github.com/ankitects/anki) | 31,748 | 教育原生 | 制作词汇、概念和知识点卡片，组织复习。 | 需复核 |
-| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | 11,921 | 教育原生 | 在 Android 设备开展卡片复习和自学活动。 | GPL-3.0 |
+| [Logseq](https://github.com/logseq/logseq) | 45,129 | 可用于教育 | 整理课程笔记、建立知识关联和个人学习资料库。 | AGPL-3.0 |
+| [Anki](https://github.com/ankitects/anki) | 31,749 | 教育原生 | 制作词汇、概念和知识点卡片，组织复习。 | 需复核 |
+| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | 11,923 | 教育原生 | 在 Android 设备开展卡片复习和自学活动。 | GPL-3.0 |
 
 
 [查看完整分类](lists/self-learning.md)

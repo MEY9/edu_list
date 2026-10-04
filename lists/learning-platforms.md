@@ -30,7 +30,7 @@
 - 许可说明：API 指向当前 openedx/openedx-platform；组件和内容许可另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：8,196；最近推送：2026-10-03 06:45:03 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：8,196；最近推送：2026-10-03 06:45:03 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/openedx/openedx-platform/blob/master/README.rst)、[来源 2](https://github.com/openedx/openedx-platform)
 
 
@@ -47,7 +47,7 @@
 - 许可说明：代码许可证标识以 API 为准；插件和课程内容另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：7,461；最近推送：2026-10-03 19:09:49 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：7,461；最近推送：2026-10-03 19:09:49 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/moodle/moodle/blob/main/README.md)、[来源 2](https://github.com/moodle/moodle)
 
 
@@ -64,7 +64,7 @@ Instructure 维护的开源学习管理系统。
 - 许可说明：代码采用 AGPL 标识；托管服务和扩展许可另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：6,859；最近推送：2026-04-30 22:52:10 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：6,859；最近推送：2026-04-30 22:52:10 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/instructure/canvas-lms/blob/master/README.md)、[来源 2](https://github.com/instructure/canvas-lms)
 
 
@@ -81,7 +81,7 @@ Instructure 维护的开源学习管理系统。
 - 许可说明：平台代码与现有课程内容分别核对许可。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：6,842；最近推送：2026-10-04 09:33:10 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：6,842；最近推送：2026-10-04 09:33:10 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/oppia/oppia/blob/develop/.github/README.md)、[来源 2](https://github.com/oppia/oppia)
 
 
@@ -98,5 +98,5 @@ Learning Equality 开发的离线优先教学学习平台。
 - 许可说明：平台代码与导入学习资源的许可分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：1,129；最近推送：2026-10-03 13:06:45 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：1,129；最近推送：2026-10-03 13:06:45 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/learningequality/kolibri/blob/develop/README.md)、[来源 2](https://github.com/learningequality/kolibri)

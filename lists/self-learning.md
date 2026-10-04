@@ -9,9 +9,9 @@
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [Logseq](https://github.com/logseq/logseq) | 45,128 | 可用于教育 | 整理课程笔记、建立知识关联和个人学习资料库。 | AGPL-3.0 |
-| [Anki](https://github.com/ankitects/anki) | 31,748 | 教育原生 | 制作词汇、概念和知识点卡片，组织复习。 | 需复核 |
-| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | 11,921 | 教育原生 | 在 Android 设备开展卡片复习和自学活动。 | GPL-3.0 |
+| [Logseq](https://github.com/logseq/logseq) | 45,129 | 可用于教育 | 整理课程笔记、建立知识关联和个人学习资料库。 | AGPL-3.0 |
+| [Anki](https://github.com/ankitects/anki) | 31,749 | 教育原生 | 制作词汇、概念和知识点卡片，组织复习。 | 需复核 |
+| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | 11,923 | 教育原生 | 在 Android 设备开展卡片复习和自学活动。 | GPL-3.0 |
 
 ## 项目详情
 
@@ -28,7 +28,7 @@
 - 许可说明：插件、同步服务和笔记内容分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：45,128；最近推送：2026-10-05 00:56:11 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：45,129；最近推送：2026-10-05 01:06:51 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/logseq/logseq/blob/master/README.md)、[来源 2](https://github.com/logseq/logseq)
 
 
@@ -45,7 +45,7 @@
 - 许可说明：API 未自动识别单一许可证，使用前核对上游 LICENSE 和第三方组件。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：31,748；最近推送：2026-10-04 10:39:22 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：31,749；最近推送：2026-10-04 10:39:22 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/ankitects/anki/blob/main/README.md)、[来源 2](https://github.com/ankitects/anki)
 
 
@@ -62,5 +62,5 @@ Android 平台上的 Anki 闪卡学习应用。
 - 许可说明：应用代码与导入卡组、媒体素材分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：11,921；最近推送：2026-10-05 00:48:13 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：11,923；最近推送：2026-10-05 01:00:06 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/ankidroid/Anki-Android/blob/main/README.md)、[来源 2](https://github.com/ankidroid/Anki-Android)

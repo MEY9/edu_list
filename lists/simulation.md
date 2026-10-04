@@ -11,7 +11,7 @@
 | --- | ---: | --- | --- | --- |
 | [Manim Community](https://github.com/ManimCommunity/manim) | 41,245 | 教育原生 | 制作函数、几何、线性代数等概念的讲解动画。 | MIT |
 | [JupyterLab](https://github.com/jupyterlab/jupyterlab) | 15,333 | 可用于教育 | 制作可运行的数据分析、科学计算和编程实验讲义。 | BSD-3-Clause |
-| [image-blaster](https://github.com/neilsonnn/image-blaster) | 7,478 | 可用于教育 | 制作虚拟商店或情境教学素材；任务、评分和学习记录另开发。 | MIT |
+| [image-blaster](https://github.com/neilsonnn/image-blaster) | 7,512 | 可用于教育 | 制作虚拟商店或情境教学素材；任务、评分和学习记录另开发。 | MIT |
 
 ## 项目详情
 
@@ -28,7 +28,7 @@
 - 许可说明：引擎代码与参考视频、字体、配乐分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：41,245；最近推送：2026-10-02 13:54:47 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：41,245；最近推送：2026-10-02 13:54:47 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/ManimCommunity/manim/blob/main/README.md)、[来源 2](https://github.com/ManimCommunity/manim)
 
 
@@ -45,7 +45,7 @@
 - 许可说明：平台代码与 Notebook 内容、数据集分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：15,333；最近推送：2026-10-05 00:34:49 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：15,333；最近推送：2026-10-05 00:34:49 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/jupyterlab/jupyterlab/blob/main/README.md)、[来源 2](https://github.com/jupyterlab/jupyterlab)
 
 
@@ -62,5 +62,5 @@
 - 许可说明：代码许可与生成服务、模型及生成资产条款分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：7,478；最近推送：2026-05-15 09:36:10 UTC+08:00；数据获取：2026-10-05 01:04:00 UTC+08:00。
+- Star：7,512；最近推送：2026-05-15 09:36:10 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/neilsonnn/image-blaster/blob/main/README.md)、[来源 2](https://github.com/neilsonnn/image-blaster)
