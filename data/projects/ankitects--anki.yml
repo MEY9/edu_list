@@ -1,0 +1,24 @@
+schema_version: 1
+name: Anki
+github: ankitects/anki
+description_zh: 采用间隔重复方法的桌面闪卡学习程序。
+category: self-learning
+tags:
+- 闪卡
+- 间隔重复
+education_relation: native
+audience:
+- 学生
+- 语言教师
+education_use: 制作词汇、概念和知识点卡片，组织复习。
+cost: 发行版本、移动端和服务的条件以官方说明为准。
+deployment: 安装桌面程序；从源码构建需要开发工具。
+license_note: API 未自动识别单一许可证，使用前核对上游 LICENSE 和第三方组件。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/ankitects/anki/blob/main/README.md
+  - https://github.com/ankitects/anki

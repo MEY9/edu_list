@@ -1,0 +1,25 @@
+schema_version: 1
+name: freeCodeCamp
+github: freeCodeCamp/freeCodeCamp
+description_zh: 包含自学课程与互动编程练习的平台代码库。
+category: programming
+tags:
+- 编程课程
+- 互动练习
+- 自学
+education_relation: native
+audience:
+- 学生
+- 编程教师
+education_use: 参考编程学习路径与练习设计，支持学生自主练习。
+cost: 使用官方课程与自托管开发的成本不同。
+deployment: 可使用官方学习平台；修改平台需要开发环境。
+license_note: 代码、课程和附属资源存在各自许可，使用时核对上游说明。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/freeCodeCamp/freeCodeCamp/blob/main/README.md
+  - https://github.com/freeCodeCamp/freeCodeCamp

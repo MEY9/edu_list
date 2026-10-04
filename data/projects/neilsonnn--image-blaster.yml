@@ -1,0 +1,25 @@
+schema_version: 1
+name: image-blaster
+github: neilsonnn/image-blaster
+description_zh: 编排图片处理、3D 场景、物体模型和音效生成的工作流。
+category: simulation
+tags:
+- 3D
+- 虚拟场景
+- 外部API
+education_relation: adaptable
+audience:
+- 课程作者
+- 开发者
+education_use: 制作虚拟商店或情境教学素材；任务、评分和学习记录另开发。
+cost: 需要生成服务账户，模型/API 调用和反复生成会产生费用。
+deployment: 制作端需要 Claude 工作流、Node.js/Bun 与外部 API；学生端加载已保存资产。
+license_note: 代码许可与生成服务、模型及生成资产条款分别核对。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/neilsonnn/image-blaster/blob/main/README.md
+  - https://github.com/neilsonnn/image-blaster

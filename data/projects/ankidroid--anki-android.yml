@@ -1,0 +1,25 @@
+schema_version: 1
+name: AnkiDroid
+github: ankidroid/Anki-Android
+description_zh: Android 平台上的 Anki 闪卡学习应用。
+category: self-learning
+tags:
+- Android
+- 闪卡
+- 间隔重复
+education_relation: native
+audience:
+- 学生
+- 语言教师
+education_use: 在 Android 设备开展卡片复习和自学活动。
+cost: 设备和内容制作有成本；发行与服务条件另查。
+deployment: Android 应用；修改源码需 Android 开发环境。
+license_note: 应用代码与导入卡组、媒体素材分别核对。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/ankidroid/Anki-Android/blob/main/README.md
+  - https://github.com/ankidroid/Anki-Android

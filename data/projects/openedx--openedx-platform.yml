@@ -1,0 +1,26 @@
+schema_version: 1
+name: Open edX
+github: openedx/openedx-platform
+description_zh: 包含 LMS 与课程创作工具的在线教育平台。
+category: learning-platforms
+tags:
+- LMS
+- 在线课程
+- 课程创作
+education_relation: native
+audience:
+- 高校
+- 培训机构
+- 开发者
+education_use: 构建在线课程网站，为学习者提供课程内容与学习活动。
+cost: 自托管和内容制作需要投入；托管服务另计。
+deployment: 多组件平台，需要服务端部署经验。
+license_note: API 指向当前 openedx/openedx-platform；组件和内容许可另查。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/openedx/openedx-platform/blob/master/README.rst
+  - https://github.com/openedx/openedx-platform

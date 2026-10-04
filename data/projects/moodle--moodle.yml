@@ -1,0 +1,26 @@
+schema_version: 1
+name: Moodle
+github: moodle/moodle
+description_zh: 面向学校、企业与其他机构的学习管理平台。
+category: learning-platforms
+tags:
+- LMS
+- 课程管理
+- 服务端
+education_relation: native
+audience:
+- 教师
+- 学校
+- 培训机构
+education_use: 发布课程、布置学习活动、管理作业和学习进度。
+cost: 自托管需要服务器和运维；商业托管另计。
+deployment: 需要 Web 服务、数据库和持续维护。
+license_note: 代码许可证标识以 API 为准；插件和课程内容另查。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/moodle/moodle/blob/main/README.md
+  - https://github.com/moodle/moodle

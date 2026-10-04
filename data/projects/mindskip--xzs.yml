@@ -1,0 +1,26 @@
+schema_version: 1
+name: 学之思考试系统
+github: mindskip/xzs
+description_zh: Java 与 Vue 构建的中文考试系统。
+category: assessment
+tags:
+- 中文
+- 考试
+- 题库
+education_relation: native
+audience:
+- 教师
+- 培训机构
+- 开发者
+education_use: 组织题库与在线测验，参考教师和学生端流程。
+cost: 自托管和运维有成本；商业版本或支持服务另查。
+deployment: Java、前端与数据库环境，支持上游说明中的部署方式。
+license_note: 开源版本、商业版本与题库内容分别核对。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/mindskip/xzs/blob/master/README.md
+  - https://github.com/mindskip/xzs

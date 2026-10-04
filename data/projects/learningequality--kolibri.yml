@@ -1,0 +1,25 @@
+schema_version: 1
+name: Kolibri
+github: learningequality/kolibri
+description_zh: Learning Equality 开发的离线优先教学学习平台。
+category: learning-platforms
+tags:
+- 离线优先
+- 课程管理
+education_relation: native
+audience:
+- 教师
+- 学校
+- 学生
+education_use: 在网络条件有限的教室组织数字内容与学习活动。
+cost: 需准备设备、内容资源和维护支持。
+deployment: 按官方用户指南安装本地平台并导入内容。
+license_note: 平台代码与导入学习资源的许可分别核对。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/learningequality/kolibri/blob/develop/README.md
+  - https://github.com/learningequality/kolibri

@@ -1,0 +1,26 @@
+schema_version: 1
+name: GeoGebra
+github: geogebra/geogebra
+description_zh: 数学应用源码的 GitHub 镜像。
+category: simulation
+tags:
+- 数学
+- 几何
+- 许可待核对
+education_relation: native
+audience:
+- 数学教师
+- 学生
+education_use: 参考动态几何与数学可视化，具体使用方式需核对官方条款。
+cost: 具体发行与服务条件需要核对官方说明。
+deployment: 镜像源码与应用发行渠道不同。
+license_note: README 指向 GeoGebra 专门许可页面；API 无许可证标识，暂不进入主清单。
+status: candidate
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/geogebra/geogebra/blob/main/README.md
+  - https://github.com/geogebra/geogebra
+status_reason: 需核对上游专门许可与计划使用方式；当前资料核对不足以判定许可范围。

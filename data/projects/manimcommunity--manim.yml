@@ -1,0 +1,25 @@
+schema_version: 1
+name: Manim Community
+github: ManimCommunity/manim
+description_zh: 通过程序制作数学解释动画的社区版引擎。
+category: simulation
+tags:
+- 数学
+- 动画
+- Python
+education_relation: native
+audience:
+- 数学教师
+- 课程作者
+education_use: 制作函数、几何、线性代数等概念的讲解动画。
+cost: 需要脚本编写与渲染时间。
+deployment: Python 环境及渲染依赖，按官方文档安装。
+license_note: 引擎代码与参考视频、字体、配乐分别核对。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/ManimCommunity/manim/blob/main/README.md
+  - https://github.com/ManimCommunity/manim

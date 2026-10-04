@@ -1,0 +1,29 @@
+schema_version: 1
+policy:
+  min_stars: 1000
+  inactive_days: 180
+categories:
+- id: ai-education
+  title: AI 教育与智能辅导
+  description: 构建教学问答、知识库与学习助手的工具。
+- id: courseware
+  title: 课件与教学内容制作
+  description: 演示课件、课堂白板与内容制作。
+- id: simulation
+  title: 仿真、可视化与虚拟实验
+  description: 数学动画、计算实验和 3D 情境素材。
+- id: programming
+  title: 编程与 STEM 教育
+  description: 图形化编程、编程游戏与课程平台。
+- id: learning-platforms
+  title: 学习平台与课程管理
+  description: 课程发布、学习活动、作业与学习管理。
+- id: assessment
+  title: 测验与学习评价
+  description: 考试、题库与代码评测基础设施。
+- id: self-learning
+  title: 知识管理与自主学习
+  description: 闪卡、间隔重复与学习笔记。
+- id: school-management
+  title: 学校与培训机构管理
+  description: 学生、教务与学校业务管理。

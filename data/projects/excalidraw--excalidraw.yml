@@ -1,0 +1,25 @@
+schema_version: 1
+name: Excalidraw
+github: excalidraw/excalidraw
+description_zh: 手绘风格的虚拟白板与图解编辑器。
+category: courseware
+tags:
+- 白板
+- 图解
+- 协作
+education_relation: adaptable
+audience:
+- 教师
+- 学生
+education_use: 绘制课堂板书、流程图、概念关系和讨论草图。
+cost: 自托管、同步或商业服务按使用方式另计。
+deployment: 可使用官方网页；自托管或嵌入需前端环境。
+license_note: 代码与用户绘制素材的许可分别处理。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/excalidraw/excalidraw/blob/master/README.md
+  - https://github.com/excalidraw/excalidraw

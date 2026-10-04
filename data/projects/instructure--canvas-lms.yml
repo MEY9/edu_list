@@ -1,0 +1,25 @@
+schema_version: 1
+name: Canvas LMS
+github: instructure/canvas-lms
+description_zh: Instructure 维护的开源学习管理系统。
+category: learning-platforms
+tags:
+- LMS
+- 作业
+- 服务端
+education_relation: native
+audience:
+- 教师
+- 学校
+education_use: 组织课程、作业与教学管理，作为学校学习平台基础。
+cost: 自托管需要服务器和运维；官方服务另计。
+deployment: 需要按上游生产部署文档配置服务和数据库。
+license_note: 代码采用 AGPL 标识；托管服务和扩展许可另查。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/instructure/canvas-lms/blob/master/README.md
+  - https://github.com/instructure/canvas-lms

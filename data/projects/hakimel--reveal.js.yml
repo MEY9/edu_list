@@ -1,0 +1,25 @@
+schema_version: 1
+name: reveal.js
+github: hakimel/reveal.js
+description_zh: 基于 HTML 的浏览器演示框架。
+category: courseware
+tags:
+- HTML
+- 演示
+- 数学公式
+education_relation: adaptable
+audience:
+- 教师
+- 开发者
+education_use: 制作课堂演示，整合数学公式、代码和交互说明。
+cost: 需制作内容；静态托管成本另计。
+deployment: 使用 Web 文件或 Node.js 开发工具构建演示。
+license_note: 框架代码与课程素材分别核对。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/hakimel/reveal.js/blob/master/README.md
+  - https://github.com/hakimel/reveal.js

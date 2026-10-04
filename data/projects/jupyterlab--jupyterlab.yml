@@ -1,0 +1,26 @@
+schema_version: 1
+name: JupyterLab
+github: jupyterlab/jupyterlab
+description_zh: 面向 Notebook、代码和数据的交互式开发环境。
+category: simulation
+tags:
+- Notebook
+- 科学计算
+- 数据分析
+education_relation: adaptable
+audience:
+- 高校教师
+- 学生
+- 开发者
+education_use: 制作可运行的数据分析、科学计算和编程实验讲义。
+cost: 本地或服务器计算资源与维护成本按部署方式计算。
+deployment: Python 环境；多人课程需另配置账户与运行隔离。
+license_note: 平台代码与 Notebook 内容、数据集分别核对。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/jupyterlab/jupyterlab/blob/main/README.md
+  - https://github.com/jupyterlab/jupyterlab

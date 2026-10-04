@@ -1,0 +1,26 @@
+schema_version: 1
+name: Blockly
+github: RaspberryPiFoundation/blockly
+description_zh: 用图形积木表示代码概念的 Web 编辑器库。
+category: programming
+tags:
+- 图形化编程
+- STEM
+- 需开发整合
+education_relation: native
+audience:
+- 编程教师
+- 开发者
+- 学生
+education_use: 嵌入图形化编程课件，设计变量、循环和逻辑教学活动。
+cost: 需开发课程界面与活动内容。
+deployment: 作为 JavaScript 库嵌入 Web 应用。
+license_note: 已迁移到 RaspberryPiFoundation/blockly；扩展和素材另查。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/RaspberryPiFoundation/blockly/blob/main/README.md
+  - https://github.com/RaspberryPiFoundation/blockly

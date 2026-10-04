@@ -1,0 +1,24 @@
+schema_version: 1
+name: Logseq
+github: logseq/logseq
+description_zh: 面向知识管理的笔记与协作平台。
+category: self-learning
+tags:
+- 笔记
+- 知识管理
+education_relation: adaptable
+audience:
+- 教师
+- 学生
+education_use: 整理课程笔记、建立知识关联和个人学习资料库。
+cost: 本地工具、同步与商业服务条件分别确认。
+deployment: 按官方发行说明安装，源码开发需对应工具链。
+license_note: 插件、同步服务和笔记内容分别核对。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/logseq/logseq/blob/master/README.md
+  - https://github.com/logseq/logseq

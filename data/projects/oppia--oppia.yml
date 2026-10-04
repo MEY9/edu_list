@@ -1,0 +1,25 @@
+schema_version: 1
+name: Oppia
+github: oppia/oppia
+description_zh: 支持创建与分享互动学习活动的平台。
+category: learning-platforms
+tags:
+- 互动学习
+- 数学
+education_relation: native
+audience:
+- 教师
+- 学生
+- 课程作者
+education_use: 制作带反馈的探索式学习活动，用于数学等课程。
+cost: 自托管需要运维；课程制作需要投入。
+deployment: 平台开发与部署需要 Python 和前端环境。
+license_note: 平台代码与现有课程内容分别核对许可。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/oppia/oppia/blob/develop/.github/README.md
+  - https://github.com/oppia/oppia

@@ -1,0 +1,55 @@
+name: 推荐教育项目
+description: 提交具有明确教育用途的 GitHub 项目，由维护者审核。
+title: '[推荐] '
+labels: []
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: GitHub 仓库地址
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 主要分类
+      options:
+        - AI 教育与智能辅导
+        - 课件与教学内容制作
+        - 仿真、可视化与虚拟实验
+        - 编程与 STEM 教育
+        - 学习平台与课程管理
+        - 测验与学习评价
+        - 知识管理与自主学习
+        - 学校与培训机构管理
+    validations:
+      required: true
+  - type: textarea
+    id: education_use
+    attributes:
+      label: 具体教育用途
+      description: 谁使用、完成什么教学任务、需要另外整合哪些功能？
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 核对依据与验证深度
+      description: 提供官方资料链接；说明是资料阅读、代码检查还是实际运行。
+    validations:
+      required: true
+  - type: textarea
+    id: limitations
+    attributes:
+      label: 成本、部署与许可说明
+      description: 如需外部 API、服务器、特殊许可或付费素材，请明确说明；未知可写待核对。
+    validations:
+      required: true
+  - type: checkboxes
+    id: duplicate
+    attributes:
+      label: 提交前检查
+      options:
+        - label: 已搜索现有主清单、观察清单、候选和归档记录，未重复提交。
+          required: true

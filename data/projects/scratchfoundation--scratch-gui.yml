@@ -1,0 +1,26 @@
+schema_version: 1
+name: Scratch GUI（旧仓库）
+github: scratchfoundation/scratch-gui
+description_zh: Scratch 3.0 的旧独立界面仓库，已迁移到 monorepo。
+category: programming
+tags:
+- 图形化编程
+- 已迁移
+education_relation: native
+audience:
+- 编程教师
+- 开发者
+education_use: 理解旧 Scratch 编辑器结构；新项目参考 scratch-editor。
+cost: 旧版本维护成本需自行评估。
+deployment: 旧仓库已归档，不作为新部署入口。
+license_note: 旧代码许可与当前 monorepo 分别核对。
+status: removed
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/scratchfoundation/scratch-gui/blob/develop/README.md
+  - https://github.com/scratchfoundation/scratch-gui
+status_reason: 旧仓库已归档；上游 README 明确迁移至 scratchfoundation/scratch-editor。
+replacement: scratchfoundation/scratch-editor

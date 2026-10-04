@@ -1,0 +1,24 @@
+schema_version: 1
+name: Marp
+github: marp-team/marp
+description_zh: 以 Markdown 编写演示文稿的工具生态入口。
+category: courseware
+tags:
+- Markdown
+- 演示
+education_relation: adaptable
+audience:
+- 教师
+- 课程作者
+education_use: 快速制作可版本管理的讲义与课堂幻灯片。
+cost: 本地制作需相应工具；托管与素材成本另计。
+deployment: 本仓库是生态入口；选择 Marp CLI 或编辑器扩展使用。
+license_note: 使用的具体 Marp 工具和主题另查许可。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/marp-team/marp/blob/main/README.md
+  - https://github.com/marp-team/marp

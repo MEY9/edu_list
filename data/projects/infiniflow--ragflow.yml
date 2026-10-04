@@ -1,0 +1,25 @@
+schema_version: 1
+name: RAGFlow
+github: infiniflow/ragflow
+description_zh: 围绕文档检索与生成式 AI 的 RAG 工具。
+category: ai-education
+tags:
+- 文档检索
+- 知识库
+- LLM
+education_relation: adaptable
+audience:
+- 开发者
+- 教师
+education_use: 围绕经过审核的课程资料构建检索问答原型；回答正确性需另验证。
+cost: 服务器、模型推理和外部 API 按配置产生费用。
+deployment: 需要服务端环境、文档处理与模型配置。
+license_note: 代码许可与使用的模型、数据和外部服务分别核对。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/infiniflow/ragflow/blob/main/README.md
+  - https://github.com/infiniflow/ragflow

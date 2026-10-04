@@ -1,0 +1,25 @@
+schema_version: 1
+name: Slidev
+github: slidevjs/slidev
+description_zh: 支持 Markdown、代码展示和交互组件的演示工具。
+category: courseware
+tags:
+- Markdown
+- 演示
+- 交互组件
+education_relation: adaptable
+audience:
+- 教师
+- 课程作者
+education_use: 制作编程课件、数学讲解和可嵌入交互的课堂演示。
+cost: 需制作内容；静态托管或服务器成本另计。
+deployment: Node.js 构建后发布网页演示。
+license_note: 主题、字体和嵌入素材许可另查。
+status: accepted
+review:
+  level: readme_reviewed
+  checked_at: '2026-10-04T17:04:00Z'
+  method: Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
+  sources:
+  - https://github.com/slidevjs/slidev/blob/main/README.md
+  - https://github.com/slidevjs/slidev
