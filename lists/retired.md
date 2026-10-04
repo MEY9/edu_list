@@ -23,6 +23,6 @@ Scratch 3.0 的旧独立界面仓库，已迁移到 monorepo。
 - 许可说明：旧代码许可与当前 monorepo 分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：旧仓库已归档；上游 README 明确迁移至 scratchfoundation/scratch-editor。
-- Star：4,808；最近推送：2026-05-29 21:17:36 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
+- Star：4,808；最近推送：2026-05-29 21:17:36 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
 - 替代仓库：[scratchfoundation/scratch-editor](https://github.com/scratchfoundation/scratch-editor)
 - 核对来源：[来源 1](https://github.com/scratchfoundation/scratch-gui/blob/develop/README.md)、[来源 2](https://github.com/scratchfoundation/scratch-gui)

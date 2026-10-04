@@ -10,52 +10,52 @@
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 398,464 | 课程、教材与学习路线／课程／资源 | 教育原生 | :books: Freely available programming books | 元数据收集 |
-| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 368,849 | 课程、教材与学习路线／课程／资源 | 教育原生 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 元数据收集 |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 362,312 | 课程、教材与学习路线／应用 | 可用于教育 | A complete computer science study plan to become a software engineer. | 元数据收集 |
-| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 285,804 | 课程、教材与学习路线／课程／资源 | 教育原生 | Curated list of project-based tutorials | 元数据收集 |
+| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 368,850 | 课程、教材与学习路线／课程／资源 | 教育原生 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 元数据收集 |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 362,311 | 课程、教材与学习路线／应用 | 可用于教育 | A complete computer science study plan to become a software engineer. | 元数据收集 |
+| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 285,811 | 课程、教材与学习路线／课程／资源 | 教育原生 | Curated list of project-based tutorials | 元数据收集 |
 | [ossu/computer-science](https://github.com/ossu/computer-science) | 209,785 | 课程、教材与学习路线／应用 | 教育原生 | 🎓 Path to a free self-taught education in Computer Science! | 元数据收集 |
-| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196,867 | 课程、教材与学习路线／应用 | 可用于教育 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 元数据收集 |
+| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196,868 | 课程、教材与学习路线／应用 | 可用于教育 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 元数据收集 |
 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | 186,370 | 课程、教材与学习路线／应用 | 可用于教育 | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 | 元数据收集 |
 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 185,011 | 课程、教材与学习路线／课程／资源 | 教育原生 | A book series (2 published editions) on the JS language. | 元数据收集 |
 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 136,084 | 课程、教材与学习路线／应用 | 可用于教育 | Crack LeetCode, not only how, but also why. | 元数据收集 |
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 130,613 | 课程、教材与学习路线／课程／资源 | 教育原生 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | 元数据收集 |
-| [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | 110,235 | 课程、教材与学习路线／应用 | 可用于教育 | Papers from the computer science community to read and discuss. | 元数据收集 |
+| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 130,615 | 课程、教材与学习路线／课程／资源 | 教育原生 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | 元数据收集 |
+| [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | 110,237 | 课程、教材与学习路线／应用 | 可用于教育 | Papers from the computer science community to read and discuss. | 元数据收集 |
 | [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | 100,505 | 课程、教材与学习路线／课程／资源 | 教育原生 | A collection of (mostly) technical things every software developer should know about | 元数据收集 |
-| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 96,889 | 课程、教材与学习路线／课程／资源 | 教育原生 | 24 Lessons, 12 Weeks, Get Started as a Web Developer | 元数据收集 |
+| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 96,890 | 课程、教材与学习路线／课程／资源 | 教育原生 | 24 Lessons, 12 Weeks, Get Started as a Web Developer | 元数据收集 |
 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 91,250 | 课程、教材与学习路线／课程／资源 | 教育原生 | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | 元数据收集 |
-| [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) | 90,211 | 课程、教材与学习路线／应用 | 可用于教育 | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. | 元数据收集 |
-| [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83,611 | 课程、教材与学习路线／课程／资源 | 教育原生 | List of Computer Science courses with video lectures. | 元数据收集 |
+| [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) | 90,213 | 课程、教材与学习路线／应用 | 可用于教育 | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. | 元数据收集 |
+| [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83,610 | 课程、教材与学习路线／课程／资源 | 教育原生 | List of Computer Science courses with video lectures. | 元数据收集 |
 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 83,289 | 课程、教材与学习路线／课程／资源 | 教育原生 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. | 元数据收集 |
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 81,666 | 课程、教材与学习路线／课程／资源 | 教育原生 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | 元数据收集 |
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 77,991 | 课程、教材与学习路线／应用 | 可用于教育 | Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 | 元数据收集 |
-| [enaqx/awesome-react](https://github.com/enaqx/awesome-react) | 74,794 | 课程、教材与学习路线／课程／资源 | 教育原生 | A collection of awesome things regarding React ecosystem | 元数据收集 |
-| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | 74,512 | 课程、教材与学习路线／课程／资源 | 教育原生 | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | 元数据收集 |
-| [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) | 71,586 | 课程、教材与学习路线／课程／资源 | 教育原生 | :books: List of awesome university courses for learning Computer Science! | 元数据收集 |
-| [byoungd/up](https://github.com/byoungd/up) | 67,120 | 课程、教材与学习路线／课程／资源 | 教育原生 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 | 元数据收集 |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 63,729 | 课程、教材与学习路线／应用 | 可用于教育 | Learn it. Build it. Ship it for others. | 元数据收集 |
-| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 56,204 | 课程、教材与学习路线／应用 | 可用于教育 | 🚀✨ Help beginners to contribute to open source projects | 元数据收集 |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 81,667 | 课程、教材与学习路线／课程／资源 | 教育原生 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | 元数据收集 |
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 77,994 | 课程、教材与学习路线／应用 | 可用于教育 | Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 | 元数据收集 |
+| [enaqx/awesome-react](https://github.com/enaqx/awesome-react) | 74,795 | 课程、教材与学习路线／课程／资源 | 教育原生 | A collection of awesome things regarding React ecosystem | 元数据收集 |
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | 74,514 | 课程、教材与学习路线／课程／资源 | 教育原生 | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | 元数据收集 |
+| [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) | 71,590 | 课程、教材与学习路线／课程／资源 | 教育原生 | :books: List of awesome university courses for learning Computer Science! | 元数据收集 |
+| [byoungd/up](https://github.com/byoungd/up) | 67,126 | 课程、教材与学习路线／课程／资源 | 教育原生 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 | 元数据收集 |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 63,768 | 课程、教材与学习路线／应用 | 可用于教育 | Learn it. Build it. Ship it for others. | 元数据收集 |
+| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 56,205 | 课程、教材与学习路线／应用 | 可用于教育 | 🚀✨ Help beginners to contribute to open source projects | 元数据收集 |
 | [azl397985856/leetcode](https://github.com/azl397985856/leetcode) | 55,728 | 课程、教材与学习路线／应用 | 可用于教育 | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) | 元数据收集 |
 | [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 51,881 | 课程、教材与学习路线／应用 | 可用于教育 | 100 Days of ML Coding | 元数据收集 |
 | [charlax/professional-programming](https://github.com/charlax/professional-programming) | 51,600 | 课程、教材与学习路线／课程／资源 | 教育原生 | A collection of learning resources for curious software engineers | 元数据收集 |
 | [nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) | 48,893 | 课程、教材与学习路线／应用 | 可用于教育 | An ultra-simplified explanation to design patterns | 元数据收集 |
 | [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | 45,995 | 课程、教材与学习路线／课程／资源 | 教育原生 | Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. Join the course here 👇🏼 | 元数据收集 |
 | [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) | 43,741 | 课程、教材与学习路线／课程／资源 | 教育原生 | TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2) | 元数据收集 |
-| [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 42,005 | 课程、教材与学习路线／应用 | 可用于教育 | Learn System Design concepts and prepare for interviews using free resources. | 元数据收集 |
+| [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 42,006 | 课程、教材与学习路线／应用 | 可用于教育 | Learn System Design concepts and prepare for interviews using free resources. | 元数据收集 |
 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 41,744 | 课程、教材与学习路线／课程／资源 | 教育原生 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. | 元数据收集 |
 | [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 37,796 | 课程、教材与学习路线／课程／资源 | 教育原生 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. | 元数据收集 |
 | [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 37,670 | 课程、教材与学习路线／课程／资源 | 教育原生 | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University | 元数据收集 |
 | [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) | 37,645 | 课程、教材与学习路线／应用 | 可用于教育 | Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de… | 元数据收集 |
 | [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 35,017 | 课程、教材与学习路线／课程／资源 | 教育原生 | 《The Way to Go》中文译本，中文正式名《Go 入门指南》 | 元数据收集 |
-| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | 34,733 | 课程、教材与学习路线／课程／资源 | 教育原生 | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | 元数据收集 |
+| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | 34,734 | 课程、教材与学习路线／课程／资源 | 教育原生 | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | 元数据收集 |
 | [google/comprehensive-rust](https://github.com/google/comprehensive-rust) | 33,398 | 课程、教材与学习路线／课程／资源 | 教育原生 | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. | 元数据收集 |
-| [huggingface/agents-course](https://github.com/huggingface/agents-course) | 33,185 | 课程、教材与学习路线／课程／资源 | 教育原生 | This repository contains the Hugging Face Agents Course. | 元数据收集 |
+| [huggingface/agents-course](https://github.com/huggingface/agents-course) | 33,186 | 课程、教材与学习路线／课程／资源 | 教育原生 | This repository contains the Hugging Face Agents Course. | 元数据收集 |
 | [sunface/rust-course](https://github.com/sunface/rust-course) | 30,982 | 课程、教材与学习路线／课程／资源 | 教育原生 | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book | 元数据收集 |
-| [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) | 29,280 | 课程、教材与学习路线／应用 | 可用于教育 | If you want to become good at AI engineering & system design, join this newsletter 👇 | 元数据收集 |
+| [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) | 29,279 | 课程、教材与学习路线／应用 | 可用于教育 | If you want to become good at AI engineering & system design, join this newsletter 👇 | 元数据收集 |
 | [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) | 25,493 | 课程、教材与学习路线／课程／资源 | 教育原生 | Modern JavaScript Tutorial | 元数据收集 |
 | [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) | 24,330 | 课程、教材与学习路线／课程／资源 | 教育原生 | A brief computer graphics / rendering course | 元数据收集 |
 | [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) | 23,819 | 课程、教材与学习路线／课程／资源 | 教育原生 | Mostly adequate guide to FP (in javascript) | 元数据收集 |
 | [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) | 23,767 | 课程、教材与学习路线／课程／资源 | 教育原生 | Video discussing this curriculum: | 元数据收集 |
-| [TheAlgorithms/C](https://github.com/TheAlgorithms/C) | 22,495 | 课程、教材与学习路线／课程／资源 | 教育原生 | Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes. | 元数据收集 |
+| [TheAlgorithms/C](https://github.com/TheAlgorithms/C) | 22,496 | 课程、教材与学习路线／课程／资源 | 教育原生 | Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes. | 元数据收集 |
 | [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) | 22,242 | 课程、教材与学习路线／应用 | 可用于教育 | 100-Days-Of-ML-Code中文版 | 元数据收集 |
 | [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) | 22,172 | 课程、教材与学习路线／应用 | 可用于教育 | TeachYourselfCS 的中文翻译 \| A Chinese translation of TeachYourselfCS | 元数据收集 |
 | [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) | 22,043 | 课程、教材与学习路线／课程／资源 | 教育原生 | IntelliJ IDEA 简体中文专题教程 | 元数据收集 |
@@ -67,8 +67,8 @@
 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 19,622 | 课程、教材与学习路线／课程／资源 | 教育原生 | 💻 vibe coding 101｜The first course for AI-native product builders. | 元数据收集 |
 | [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) | 18,078 | 课程、教材与学习路线／课程／资源 | 教育原生 | 💿 Free software that works great, and also happens to be open-source Python. | 元数据收集 |
 | [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) | 17,601 | 课程、教材与学习路线／应用 | 可用于教育 | 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖 | 元数据收集 |
-| [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 17,098 | 课程、教材与学习路线／课程／资源 | 教育原生 | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 | 元数据收集 |
-| [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) | 17,081 | 课程、教材与学习路线／应用 | 可用于教育 | Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation | 元数据收集 |
+| [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 17,099 | 课程、教材与学习路线／课程／资源 | 教育原生 | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 | 元数据收集 |
+| [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) | 17,082 | 课程、教材与学习路线／应用 | 可用于教育 | Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation | 元数据收集 |
 | [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) | 16,791 | 课程、教材与学习路线／课程／资源 | 教育原生 | 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases | 元数据收集 |
 | [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) | 16,722 | 课程、教材与学习路线／课程／资源 | 教育原生 | Modern Java - A Guide to Java 8 | 元数据收集 |
 | [leandromoreira/digital\_video\_introduction](https://github.com/leandromoreira/digital_video_introduction) | 16,341 | 课程、教材与学习路线／应用 | 可用于教育 | A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 | 元数据收集 |
@@ -81,7 +81,7 @@
 | [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) | 15,245 | 课程、教材与学习路线／课程／资源 | 教育原生 | Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖 | 元数据收集 |
 | [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) | 14,933 | 课程、教材与学习路线／课程／资源 | 教育原生 | Natural Language Processing Tutorial for Deep Learning Researchers | 元数据收集 |
 | [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) | 14,737 | 课程、教材与学习路线／课程／资源 | 教育原生 | :books: Learn to write an embedded OS in Rust :crab: | 元数据收集 |
-| [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) | 14,681 | 课程、教材与学习路线／应用 | 可用于教育 | Learn ML engineering for free in 4 months! Register here 👇🏼 | 元数据收集 |
+| [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) | 14,682 | 课程、教材与学习路线／应用 | 可用于教育 | Learn ML engineering for free in 4 months! Register here 👇🏼 | 元数据收集 |
 | [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) | 14,337 | 课程、教材与学习路线／课程／资源 | 教育原生 | :books: Find your next book to read! | 元数据收集 |
 | [Yixiaohan/show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) | 13,733 | 课程、教材与学习路线／应用 | 可用于教育 | Python 练习册，每天一个小程序 | 元数据收集 |
 | [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) | 13,351 | 课程、教材与学习路线／课程／资源 | 教育原生 | Advanced Python Mastery (course by @dabeaz) | 元数据收集 |
@@ -93,12 +93,12 @@
 | [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) | 12,250 | 课程、教材与学习路线／应用 | 可用于教育 | A bunch of links to blog posts, articles, videos, etc for learning Rust | 元数据收集 |
 | [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) | 11,694 | 课程、教材与学习路线／课程／资源 | 教育原生 | 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试 | 元数据收集 |
 | [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) | 11,053 | 课程、教材与学习路线／课程／资源 | 教育原生 | FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺 | 元数据收集 |
-| [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) | 11,041 | 课程、教材与学习路线／课程／资源 | 教育原生 | A list of learning materials to understand databases internals | 元数据收集 |
+| [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) | 11,044 | 课程、教材与学习路线／课程／资源 | 教育原生 | A list of learning materials to understand databases internals | 元数据收集 |
 | [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) | 10,923 | 课程、教材与学习路线／课程／资源 | 教育原生 | 计算机速成课（播放量 509 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评 | 元数据收集 |
 | [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) | 10,893 | 课程、教材与学习路线／课程／资源 | 教育原生 | Practical Python Programming (course by @dabeaz) | 元数据收集 |
 | [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) | 10,801 | 课程、教材与学习路线／课程／资源 | 教育原生 | 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。 | 元数据收集 |
 | [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) | 10,746 | 课程、教材与学习路线／课程／资源 | 教育原生 | TypeScript 入门教程 | 元数据收集 |
-| [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) | 10,400 | 课程、教材与学习路线／课程／资源 | 教育原生 | https://adongwanai.github.io/AgentGuide \| AI Agent开发指南 \| LangGraph实战 \| 高级RAG \| 转行大模型 \| 大模型面试 \| 算法工程师 \| 面试题库 \| 强化学习｜数据合成 | 元数据收集 |
+| [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) | 10,401 | 课程、教材与学习路线／课程／资源 | 教育原生 | https://adongwanai.github.io/AgentGuide \| AI Agent开发指南 \| LangGraph实战 \| 高级RAG \| 转行大模型 \| 大模型面试 \| 算法工程师 \| 面试题库 \| 强化学习｜数据合成 | 元数据收集 |
 | [mouredev/hello-sql](https://github.com/mouredev/hello-sql) | 10,364 | 课程、教材与学习路线／应用 | 可用于教育 | Curso para aprender los fundamentos del lenguaje SQL y bases de datos relacionales desde cero y para principiantes. | 元数据收集 |
 | [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) | 10,298 | 课程、教材与学习路线／应用 | 可用于教育 | 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试... | 元数据收集 |
 | [tpn/pdfs](https://github.com/tpn/pdfs) | 10,189 | 课程、教材与学习路线／课程／资源 | 教育原生 | Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs | 元数据收集 |
@@ -116,7 +116,7 @@
 | [thejsway/thejsway](https://github.com/thejsway/thejsway) | 7,880 | 课程、教材与学习路线／课程／资源 | 教育原生 | The JavaScript Way book | 元数据收集 |
 | [amejiarosario/dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) | 7,781 | 课程、教材与学习路线／应用 | 可用于教育 | 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook | 元数据收集 |
 | [linsa-io/books](https://github.com/linsa-io/books) | 7,689 | 课程、教材与学习路线／课程／资源 | 教育原生 | Awesome Books | 元数据收集 |
-| [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 7,387 | 课程、教材与学习路线／课程／资源 | 教育原生 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on … | 元数据收集 |
+| [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 7,389 | 课程、教材与学习路线／课程／资源 | 教育原生 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on … | 元数据收集 |
 | [shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) | 7,321 | 课程、教材与学习路线／应用 | 可用于教育 | Let's learn a new technology every week. A new technology blog every Sunday in 2016. | 元数据收集 |
 | [railsgirls/guides.railsgirls.com](https://github.com/railsgirls/guides.railsgirls.com) | 7,197 | 课程、教材与学习路线／应用 | 可用于教育 | Rails Girls Guides | 元数据收集 |
 | [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) | 7,181 | 课程、教材与学习路线／应用 | 可用于教育 | Programming curricula | 元数据收集 |
@@ -256,7 +256,7 @@
 | [henki-robotics/robotics\_essentials\_ros2](https://github.com/henki-robotics/robotics_essentials_ros2) | 2,649 | 课程、教材与学习路线／应用 | 可用于教育 | Learn the basics of robotics through hands-on experience using ROS 2 and Gazebo simulation. | 元数据收集 |
 | [novalagung/dasarpemrogramangolang](https://github.com/novalagung/dasarpemrogramangolang) | 2,637 | 课程、教材与学习路线／应用 | 可用于教育 | 📖 Source Code Website/Ebook Dasar Pemrograman Golang | 元数据收集 |
 | [Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs) | 2,627 | 课程、教材与学习路线／应用 | 可用于教育 | Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记 | 元数据收集 |
-| [CryptozombiesHQ/cryptozombies-lesson-code](https://github.com/CryptozombiesHQ/cryptozombies-lesson-code) | 2,623 | 课程、教材与学习路线／应用 | 可用于教育 | cryptozomebie lesson code | 元数据收集 |
+| [CryptozombiesHQ/cryptozombies-lesson-code](https://github.com/CryptozombiesHQ/cryptozombies-lesson-code) | 2,624 | 课程、教材与学习路线／应用 | 可用于教育 | cryptozomebie lesson code | 元数据收集 |
 | [opendilab/PPOxFamily](https://github.com/opendilab/PPOxFamily) | 2,623 | 课程、教材与学习路线／课程／资源 | 教育原生 | PPO x Family DRL Tutorial Course（决策智能入门级公开课：8节课帮你盘清算法理论，理顺代码逻辑，玩转决策AI应用实践 ） | 元数据收集 |
 | [kenberkeley/redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial) | 2,607 | 课程、教材与学习路线／课程／资源 | 教育原生 | Redux 简明教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰富的 Demo 等一条龙服务 | 元数据收集 |
 | [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) | 2,600 | 课程、教材与学习路线／应用 | 可用于教育 | Learning Kubernetes, The Chinese Taoist Way | 元数据收集 |
@@ -302,7 +302,7 @@
 | [pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts) | 2,276 | 课程、教材与学习路线／开发组件 | 可用于教育 | SharePoint Framework web part, Teams tab, personal app, app page samples | 元数据收集 |
 | [justmarkham/pandas-videos](https://github.com/justmarkham/pandas-videos) | 2,254 | 课程、教材与学习路线／应用 | 可用于教育 | Jupyter notebook and datasets from the pandas video series | 元数据收集 |
 | [fullstackreact/30-days-of-react](https://github.com/fullstackreact/30-days-of-react) | 2,249 | 课程、教材与学习路线／应用 | 可用于教育 | 30 Days of React Content and Source Code | 元数据收集 |
-| [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) | 2,236 | 课程、教材与学习路线／课程／资源 | 教育原生 | OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository wil… | 元数据收集 |
+| [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) | 2,237 | 课程、教材与学习路线／课程／资源 | 教育原生 | OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository wil… | 元数据收集 |
 | [datawhalechina/hello-claw](https://github.com/datawhalechina/hello-claw) | 2,213 | 课程、教材与学习路线／应用 | 可用于教育 | 哈喽！龙虾 🙋‍♀️ Adopt from scratch and build your first claw 🦞 来领养你的第一只龙虾！ | 元数据收集 |
 | [talkpython/100daysofcode-with-python-course](https://github.com/talkpython/100daysofcode-with-python-course) | 2,208 | 课程、教材与学习路线／课程／资源 | 教育原生 | Course materials and handouts for #100DaysOfCode in Python course | 元数据收集 |
 | [fendouai/Awesome-Chatbot](https://github.com/fendouai/Awesome-Chatbot) | 2,191 | 课程、教材与学习路线／课程／资源 | 教育原生 | Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =\>: | 元数据收集 |
@@ -449,8 +449,8 @@
 | [talkpython/mastering-pycharm-course](https://github.com/talkpython/mastering-pycharm-course) | 1,222 | 课程、教材与学习路线／课程／资源 | 教育原生 | Course demos and handouts for Talk Python's Effective PyCharm course | 元数据收集 |
 | [nwuzmedoutlook/university](https://github.com/nwuzmedoutlook/university) | 1,215 | 课程、教材与学习路线／课程／资源 | 教育原生 | :octocat:120+国内高校课程资源纯手工整理，欢迎补充、修订 | 元数据收集 |
 | [negarprh/Canadian-Tech-Internships-2027](https://github.com/negarprh/Canadian-Tech-Internships-2027) | 1,208 | 课程、教材与学习路线／课程／资源 | 教育原生 | A curated, regularly updated list of Canadian tech internships for Summer, Fall, and Winter 2027. Includes computer science, software engineering, … | 元数据收集 |
+| [TheAlgorithms/R](https://github.com/TheAlgorithms/R) | 1,203 | 课程、教材与学习路线／课程／资源 | 教育原生 | Collection of various algorithms implemented in R. | 元数据收集 |
 | [JiepengTan/Lockstep-Tutorial](https://github.com/JiepengTan/Lockstep-Tutorial) | 1,202 | 课程、教材与学习路线／课程／资源 | 教育原生 | 帧同步 教程 | 元数据收集 |
-| [TheAlgorithms/R](https://github.com/TheAlgorithms/R) | 1,202 | 课程、教材与学习路线／课程／资源 | 教育原生 | Collection of various algorithms implemented in R. | 元数据收集 |
 | [pengxurui/AndroidFamily](https://github.com/pengxurui/AndroidFamily) | 1,201 | 课程、教材与学习路线／课程／资源 | 教育原生 | 🔥【Android 面经 + Android 学习指南】一份帮助 Android 开发者知识积累与能力进阶的学习路线 | 元数据收集 |
 | [in28minutes/java-a-course-for-beginners](https://github.com/in28minutes/java-a-course-for-beginners) | 1,200 | 课程、教材与学习路线／课程／资源 | 教育原生 | Java Programming Tutorial for Beginners | 元数据收集 |
 | [upb-lea/reinforcement\_learning\_course\_materials](https://github.com/upb-lea/reinforcement_learning_course_materials) | 1,196 | 课程、教材与学习路线／课程／资源 | 教育原生 | Lecture notes, tutorial tasks including solutions as well as online videos for the reinforcement learning course hosted by Paderborn University | 元数据收集 |
@@ -560,7 +560,7 @@
 | [corylanou/tns-restful-json-api](https://github.com/corylanou/tns-restful-json-api) | 851 | 课程、教材与学习路线／应用 | 可用于教育 | This is the code repository that goes along with the "TheNewStack" article for RESTful JSON API post | 元数据收集 |
 | [satwikkansal/python\_blockchain\_app](https://github.com/satwikkansal/python_blockchain_app) | 851 | 课程、教材与学习路线／课程／资源 | 教育原生 | A fully functional blockchain application implemented in Python from scratch (with tutorial). | 元数据收集 |
 | [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) | 849 | 课程、教材与学习路线／课程／资源 | 教育原生 | A gentle Rust tutorial | 元数据收集 |
-| [dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials) | 845 | 课程、教材与学习路线／课程／资源 | 教育原生 | Turn PDFs, books and papers into interactive learning webpages｜将复杂材料转化为可追溯、可测验、可做笔记的学习网页 | 元数据收集 |
+| [dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials) | 846 | 课程、教材与学习路线／课程／资源 | 教育原生 | Turn PDFs, books and papers into interactive learning webpages｜将复杂材料转化为可追溯、可测验、可做笔记的学习网页 | 元数据收集 |
 | [KeKe-Li/tutorial](https://github.com/KeKe-Li/tutorial) | 845 | 课程、教材与学习路线／课程／资源 | 教育原生 | Deeplearning Algorithms Tutorial | 元数据收集 |
 | [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems) | 844 | 课程、教材与学习路线／课程／资源 | 教育原生 | Awesome list of distributed systems resources | 元数据收集 |
 | [sslotin/amh-code](https://github.com/sslotin/amh-code) | 842 | 课程、教材与学习路线／应用 | 可用于教育 | Complete implementations from "Algorithms for Modern Hardware" | 元数据收集 |
@@ -626,8 +626,8 @@
 | [acmbpdc/openlib.cs](https://github.com/acmbpdc/openlib.cs) | 738 | 课程、教材与学习路线／课程／资源 | 教育原生 | 📚 A Collection of Free & Open Resources for University Coursework in Computer Science. | 元数据收集 |
 | [rstudio/learnr](https://github.com/rstudio/learnr) | 738 | 课程、教材与学习路线／课程／资源 | 教育原生 | Interactive Tutorials with R Markdown | 元数据收集 |
 | [bonfy/go-mega](https://github.com/bonfy/go-mega) | 730 | 课程、教材与学习路线／课程／资源 | 教育原生 | ✨🤟✨Go-Mega Tutorial for Go Web Develop \| Demo: https://go-mega.herokuapp.com | 元数据收集 |
+| [leanprover/cslib](https://github.com/leanprover/cslib) | 730 | 课程、教材与学习路线／开发组件 | 可用于教育 | The Lean Computer Science Library (CSLib) | 元数据收集 |
 | [mouredev/Apple-Developer-Roadmap](https://github.com/mouredev/Apple-Developer-Roadmap) | 730 | 课程、教材与学习路线／课程／资源 | 教育原生 | Cómo convertirte en Apple Developer (iOS, iPadOS, macOS, watchOS, tvOS) | 元数据收集 |
-| [leanprover/cslib](https://github.com/leanprover/cslib) | 729 | 课程、教材与学习路线／开发组件 | 可用于教育 | The Lean Computer Science Library (CSLib) | 元数据收集 |
 | [MinaPecheux/UnityTutorials-RTS](https://github.com/MinaPecheux/UnityTutorials-RTS) | 728 | 课程、教材与学习路线／应用 | 可用于教育 | The code for my series of tutorials on how to make a real-time stategy (RTS) game in the well-know Unity game engine (with C# scripting)! | 元数据收集 |
 | [stackblitz/tutorialkit](https://github.com/stackblitz/tutorialkit) | 726 | 课程、教材与学习路线／应用 | 可用于教育 | TutorialKit by StackBlitz - Create interactive tutorials powered by the WebContainer API | 元数据收集 |
 | [HackYourFuture/curriculum](https://github.com/HackYourFuture/curriculum) | 723 | 课程、教材与学习路线／课程／资源 | 教育原生 | Dive into our 7-month web development program covering HTML, CSS, Javascript, Node, and React! | 元数据收集 |
@@ -690,8 +690,8 @@
 | [ankitaggarwal011/PyCNN](https://github.com/ankitaggarwal011/PyCNN) | 544 | 课程、教材与学习路线／应用 | 可用于教育 | Image Processing with Cellular Neural Networks in Python | 元数据收集 |
 | [talkpython/data-driven-web-apps-with-flask](https://github.com/talkpython/data-driven-web-apps-with-flask) | 543 | 课程、教材与学习路线／课程／资源 | 教育原生 | Course demo code and other hand-out materials for our data-driven web apps in Flask course | 元数据收集 |
 | [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) | 540 | 课程、教材与学习路线／课程／资源 | 教育原生 | Interactive Programming Courses | 元数据收集 |
+| [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) | 538 | 课程、教材与学习路线／课程／资源 | 教育原生 | Free harness engineering open-source course. Build a Claude Code clone from scratch: 8 articles, 6 videos, 1 codebase. | 元数据收集 |
 | [elizabethsiegle/30-seconds-of-swift-code](https://github.com/elizabethsiegle/30-seconds-of-swift-code) | 538 | 课程、教材与学习路线／课程／资源 | 教育原生 | A Swift implementation of 30-seconds-of-code: A curated collection of useful Swift 4 snippets that you can understand in 30 seconds or less. | 元数据收集 |
-| [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) | 536 | 课程、教材与学习路线／课程／资源 | 教育原生 | Free harness engineering open-source course. Build a Claude Code clone from scratch: 8 articles, 6 videos, 1 codebase. | 元数据收集 |
 | [leehanchung/awesome-full-stack-machine-learning-courses](https://github.com/leehanchung/awesome-full-stack-machine-learning-courses) | 536 | 课程、教材与学习路线／课程／资源 | 教育原生 | Curated list of publicly accessible machine learning engineering courses from CalTech, Columbia, Berkeley, MIT, and Stanford. | 元数据收集 |
 | [CIS-Team/UI-UX-Roadmap-2023](https://github.com/CIS-Team/UI-UX-Roadmap-2023) | 530 | 课程、教材与学习路线／课程／资源 | 教育原生 | UI/UX Squad Roadmap | 元数据收集 |
 | [AhmedNassar7/Software-Engineering](https://github.com/AhmedNassar7/Software-Engineering) | 529 | 课程、教材与学习路线／课程／资源 | 教育原生 | Software Engineering opportunities & resources | 元数据收集 |

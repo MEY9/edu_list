@@ -10,12 +10,12 @@
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
 | [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) | 23,310 | 语言学习与阅读训练／应用 | 教育原生 | 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers | 元数据收集 |
-| [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) | 16,887 | 语言学习与阅读训练／课程／资源 | 教育原生 | 专为程序员编写的英语学习指南 v1.2。在线版本请点 -\> | 元数据收集 |
+| [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) | 16,889 | 语言学习与阅读训练／课程／资源 | 教育原生 | 专为程序员编写的英语学习指南 v1.2。在线版本请点 -\> | 元数据收集 |
 | [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 9,966 | 语言学习与阅读训练／应用 | 教育原生 | 🐸 Read Frog - Language Learning & Translate \| 🐸 陪读蛙 - 语言学习与翻译 | 元数据收集 |
-| [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) | 5,215 | 语言学习与阅读训练／应用 | 教育原生 | 📃 White paper for Backend developers | 元数据收集 |
+| [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) | 5,216 | 语言学习与阅读训练／应用 | 教育原生 | 📃 White paper for Backend developers | 元数据收集 |
 | [tangshimin/MuJing](https://github.com/tangshimin/MuJing) | 4,656 | 语言学习与阅读训练／应用 | 教育原生 | 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。 | 元数据收集 |
 | [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) | 4,335 | 语言学习与阅读训练／应用 | 教育原生 | The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more! | 元数据收集 |
-| [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | 4,192 | 语言学习与阅读训练／应用 | 教育原生 | 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词 | 元数据收集 |
+| [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | 4,199 | 语言学习与阅读训练／应用 | 教育原生 | 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词 | 元数据收集 |
 | [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) | 4,089 | 语言学习与阅读训练／应用 | 教育原生 | Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。 | 元数据收集 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 3,562 | 语言学习与阅读训练／应用 | 教育原生 | Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-frie… | 元数据收集 |
 | [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) | 3,074 | 语言学习与阅读训练／应用 | 教育原生 | An otaku index for everything! ⭐ Star the project if you like it! | 元数据收集 |
@@ -24,7 +24,7 @@
 | [andylee1890/NewConceptEnglish](https://github.com/andylee1890/NewConceptEnglish) | 1,903 | 语言学习与阅读训练／应用 | 教育原生 | 新概念学习笔记、英语学习资料、英语学习工具分享。 | 元数据收集 |
 | [arianneorpilla/jidoujisho](https://github.com/arianneorpilla/jidoujisho) | 1,776 | 语言学习与阅读训练／应用 | 教育原生 | A full-featured immersion language learning suite for mobile. | 元数据收集 |
 | [mre/the-coding-interview](https://github.com/mre/the-coding-interview) | 1,745 | 语言学习与阅读训练／应用 | 教育原生 | Programming exercises, code katas and puzzles for your job interview training - or just for fun. | 元数据收集 |
-| [Chuloo/mural](https://github.com/Chuloo/mural) | 1,582 | 语言学习与阅读训练／应用 | 教育原生 | The language app you eventually delete. A native iPhone companion for learning through conversation. | 元数据收集 |
+| [Chuloo/mural](https://github.com/Chuloo/mural) | 1,583 | 语言学习与阅读训练／应用 | 教育原生 | The language app you eventually delete. A native iPhone companion for learning through conversation. | 元数据收集 |
 | [LuteOrg/lute-v3](https://github.com/LuteOrg/lute-v3) | 1,576 | 语言学习与阅读训练／应用 | 教育原生 | LUTE = Learning Using Texts: learn languages through reading. | 元数据收集 |
 | [asbplayer/asbplayer](https://github.com/asbplayer/asbplayer) | 1,462 | 语言学习与阅读训练／应用 | 教育原生 | Browser-based media player and Chrome extension for subtitle sentence mining | 元数据收集 |
 | [chapin666/books](https://github.com/chapin666/books) | 1,270 | 语言学习与阅读训练／课程／资源 | 教育原生 | Awesome Books | 元数据收集 |

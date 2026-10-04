@@ -15,7 +15,7 @@
 
 项目库 **3,364** 个有效仓库；已核对高星精选 **22** 个；元数据收集 **3,339** 个；归档／移出 **1** 个。
 
-数据更新尝试：2026-10-05 01:36:45 UTC+08:00。每个条目的成功获取时间见 YAML 与机器可读索引。
+数据更新尝试：2026-10-05 02:13:40 UTC+08:00。每个条目的成功获取时间见 YAML 与机器可读索引。
 
 Star 变化基线：尚无上一期快照，暂不计算增长。
 
@@ -59,8 +59,8 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [Dify](https://github.com/langgenius/dify) | 157,837 | 可用于教育 | 构建课程资料问答原型和教师内容助手；课程适配与回答审核另建。 | 需复核 |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | 91,677 | 可用于教育 | 围绕经过审核的课程资料构建检索问答原型；回答正确性需另验证。 | Apache-2.0 |
+| [Dify](https://github.com/langgenius/dify) | 157,841 | 可用于教育 | 构建课程资料问答原型和教师内容助手；课程适配与回答审核另建。 | 需复核 |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | 91,678 | 可用于教育 | 围绕经过审核的课程资料构建检索问答原型；回答正确性需另验证。 | Apache-2.0 |
 
 
 [查看完整分类](lists/ai-education.md)
@@ -69,7 +69,7 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [Excalidraw](https://github.com/excalidraw/excalidraw) | 133,491 | 可用于教育 | 绘制课堂板书、流程图、概念关系和讨论草图。 | MIT |
+| [Excalidraw](https://github.com/excalidraw/excalidraw) | 133,493 | 可用于教育 | 绘制课堂板书、流程图、概念关系和讨论草图。 | MIT |
 | [reveal.js](https://github.com/hakimel/reveal.js) | 72,375 | 可用于教育 | 制作课堂演示，整合数学公式、代码和交互说明。 | MIT |
 | [Slidev](https://github.com/slidevjs/slidev) | 48,924 | 可用于教育 | 制作编程课件、数学讲解和可嵌入交互的课堂演示。 | MIT |
 
@@ -80,9 +80,9 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [Manim Community](https://github.com/ManimCommunity/manim) | 41,245 | 教育原生 | 制作函数、几何、线性代数等概念的讲解动画。 | MIT |
+| [Manim Community](https://github.com/ManimCommunity/manim) | 41,246 | 教育原生 | 制作函数、几何、线性代数等概念的讲解动画。 | MIT |
 | [JupyterLab](https://github.com/jupyterlab/jupyterlab) | 15,333 | 可用于教育 | 制作可运行的数据分析、科学计算和编程实验讲义。 | BSD-3-Clause |
-| [image-blaster](https://github.com/neilsonnn/image-blaster) | 7,512 | 可用于教育 | 制作虚拟商店或情境教学素材；任务、评分和学习记录另开发。 | MIT |
+| [image-blaster](https://github.com/neilsonnn/image-blaster) | 7,630 | 可用于教育 | 制作虚拟商店或情境教学素材；任务、评分和学习记录另开发。 | MIT |
 
 
 [查看完整分类](lists/simulation.md)
@@ -91,7 +91,7 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,731 | 教育原生 | 参考编程学习路径与练习设计，支持学生自主练习。 | BSD-3-Clause |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,735 | 教育原生 | 参考编程学习路径与练习设计，支持学生自主练习。 | BSD-3-Clause |
 | [Blockly](https://github.com/RaspberryPiFoundation/blockly) | 13,578 | 教育原生 | 嵌入图形化编程课件，设计变量、循环和逻辑教学活动。 | Apache-2.0 |
 | [CodeCombat](https://github.com/codecombat/codecombat) | 8,571 | 教育原生 | 参考游戏化编程教学和关卡设计，组织代码练习。 | MIT |
 

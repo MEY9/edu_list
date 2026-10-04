@@ -9,10 +9,10 @@
 
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
-| [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) | 30,041 | 教学协作与在线课堂／应用 | 可用于教育 | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | 元数据收集 |
+| [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) | 30,042 | 教学协作与在线课堂／应用 | 可用于教育 | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | 元数据收集 |
 | [ossrs/srs](https://github.com/ossrs/srs) | 29,316 | 教学协作与在线课堂／应用 | 可用于教育 | SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, w… | 元数据收集 |
 | [ether/etherpad](https://github.com/ether/etherpad) | 18,559 | 教学协作与在线课堂／应用 | 可用于教育 | Etherpad: A modern really-real-time collaborative document editor. | 元数据收集 |
-| [liketrek/TREK](https://github.com/liketrek/TREK) | 14,566 | 教学协作与在线课堂／应用 | 可用于教育 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. | 元数据收集 |
+| [liketrek/TREK](https://github.com/liketrek/TREK) | 14,567 | 教学协作与在线课堂／应用 | 可用于教育 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. | 元数据收集 |
 | [tinode/chat](https://github.com/tinode/chat) | 13,525 | 教学协作与在线课堂／应用 | 可用于教育 | Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots | 元数据收集 |
 | [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) | 9,234 | 教学协作与在线课堂／应用 | 可用于教育 | A complete web conferencing system for virtual classes and more! | 元数据收集 |
 | [ekzhang/sshx](https://github.com/ekzhang/sshx) | 7,677 | 教学协作与在线课堂／应用 | 可用于教育 | Fast, collaborative live terminal sharing over the web | 元数据收集 |
@@ -39,7 +39,7 @@
 | [typeintandem/tandem](https://github.com/typeintandem/tandem) | 703 | 教学协作与在线课堂／应用 | 可用于教育 | Typing in Tandem. Decentralized, cross-editor, collaborative text-editing! | 元数据收集 |
 | [nextcloud/text](https://github.com/nextcloud/text) | 663 | 教学协作与在线课堂／应用 | 可用于教育 | 📑 Collaborative document editing using Markdown | 元数据收集 |
 | [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) | 635 | 教学协作与在线课堂／课程／资源 | 教育原生 | A collection of multi agent environments based on OpenAI gym. | 元数据收集 |
-| [mynaparrot/plugNmeet-server](https://github.com/mynaparrot/plugNmeet-server) | 568 | 教学协作与在线课堂／应用 | 可用于教育 | The open-source, self-hosted video conferencing software. Scalable, customizable, and with a powerful AI Meeting Agent. | 元数据收集 |
+| [mynaparrot/plugNmeet-server](https://github.com/mynaparrot/plugNmeet-server) | 567 | 教学协作与在线课堂／应用 | 可用于教育 | The open-source, self-hosted video conferencing software. Scalable, customizable, and with a powerful AI Meeting Agent. | 元数据收集 |
 | [jashandeep-sohi/webcam-filters](https://github.com/jashandeep-sohi/webcam-filters) | 552 | 教学协作与在线课堂／应用 | 可用于教育 | Add filters (background blur, etc) to your webcam on Linux. | 元数据收集 |
 | [Teamlinker/Teamlinker](https://github.com/Teamlinker/Teamlinker) | 522 | 教学协作与在线课堂／应用 | 可用于教育 | Teamlinker is a team collaboration platform that integrates multi-functional modules. Users can process tasks in parallel, including six functional… | 元数据收集 |
 | [bugbakery/transcribee](https://github.com/bugbakery/transcribee) | 518 | 教学协作与在线课堂／应用 | 可用于教育 | open source audio and video transcription software | 元数据收集 |

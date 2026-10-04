@@ -10,16 +10,16 @@
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 54,127 | 音视频与课堂录制／应用 | 可用于教育 | Port of OpenAI's Whisper model in C/C++ | 元数据收集 |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 53,019 | 音视频与课堂录制／应用 | 可用于教育 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo… | 元数据收集 |
-| [cjpais/Handy](https://github.com/cjpais/Handy) | 32,825 | 音视频与课堂录制／应用 | 可用于教育 | A free, open source, and extensible speech-to-text application that works completely offline. | 元数据收集 |
-| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 32,423 | 音视频与课堂录制／应用 | 可用于教育 | Create polished demo videos without editing skills. Mac/Windows/Linux | 元数据收集 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 53,033 | 音视频与课堂录制／应用 | 可用于教育 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo… | 元数据收集 |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | 32,826 | 音视频与课堂录制／应用 | 可用于教育 | A free, open source, and extensible speech-to-text application that works completely offline. | 元数据收集 |
+| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 32,426 | 音视频与课堂录制／应用 | 可用于教育 | Create polished demo videos without editing skills. Mac/Windows/Linux | 元数据收集 |
 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 31,429 | 音视频与课堂录制／应用 | 可用于教育 | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust… | 元数据收集 |
 | [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) | 26,168 | 音视频与课堂录制／应用 | 可用于教育 | Distribute and run LLMs with a single file. | 元数据收集 |
-| [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 25,701 | 音视频与课堂录制／应用 | 可用于教育 | Faster Whisper transcription with CTranslate2 | 元数据收集 |
+| [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 25,702 | 音视频与课堂录制／应用 | 可用于教育 | Faster Whisper transcription with CTranslate2 | 元数据收集 |
 | [m-bain/whisperX](https://github.com/m-bain/whisperX) | 24,362 | 音视频与课堂录制／应用 | 可用于教育 | WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization) | 元数据收集 |
-| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 23,040 | 音视频与课堂录制／应用 | 可用于教育 | Open source Loom alternative. Beautiful, shareable screen recordings. | 元数据收集 |
+| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 23,041 | 音视频与课堂录制／应用 | 可用于教育 | Open source Loom alternative. Beautiful, shareable screen recordings. | 元数据收集 |
 | [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) | 21,812 | 音视频与课堂录制／应用 | 可用于教育 | YC (S26) \| Open Computer History \| Continuously record your company computer work, map your workflows, help you find work worth automating, and pow… | 元数据收集 |
-| [modelscope/FunASR](https://github.com/modelscope/FunASR) | 20,579 | 音视频与课堂录制／开发组件 | 可用于教育 | Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatib… | 元数据收集 |
+| [modelscope/FunASR](https://github.com/modelscope/FunASR) | 20,580 | 音视频与课堂录制／开发组件 | 可用于教育 | Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatib… | 元数据收集 |
 | [wulkano/Kap](https://github.com/wulkano/Kap) | 19,387 | 音视频与课堂录制／应用 | 可用于教育 | An open-source screen recorder built with web technology | 元数据收集 |
 | [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) | 19,218 | 音视频与课堂录制／应用 | 可用于教育 | Translate the video from one language to another and embed dubbing & subtitles. | 元数据收集 |
 | [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) | 18,752 | 音视频与课堂录制／应用 | 可用于教育 | The free and privacy-friendly screen recorder with no limits 🎥 | 元数据收集 |
@@ -28,17 +28,17 @@
 | [alphacep/vosk-api](https://github.com/alphacep/vosk-api) | 15,163 | 音视频与课堂录制／应用 | 可用于教育 | Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node | 元数据收集 |
 | [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 15,101 | 音视频与课堂录制／应用 | 可用于教育 | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without I… | 元数据收集 |
 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 13,368 | 音视频与课堂录制／应用 | 可用于教育 | Build voice agents with open-source models | 元数据收集 |
-| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 12,971 | 音视频与课堂录制／应用 | 可用于教育 | Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper a… | 元数据收集 |
+| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 12,972 | 音视频与课堂录制／应用 | 可用于教育 | Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper a… | 元数据收集 |
 | [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) | 11,852 | 音视频与课堂录制／开发组件 | 可用于教育 | A PyTorch-based Speech Toolkit | 元数据收集 |
 | [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 11,114 | 音视频与课堂录制／应用 | 可用于教育 | Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs. | 元数据收集 |
 | [MathewSachin/Captura](https://github.com/MathewSachin/Captura) | 10,846 | 音视频与课堂录制／应用 | 可用于教育 | Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes | 元数据收集 |
 | [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) | 10,161 | 音视频与课堂录制／开发组件 | 可用于教育 | A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription. | 元数据收集 |
-| [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) | 9,437 | 音视频与课堂录制／应用 | 可用于教育 | Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event det… | 元数据收集 |
-| [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | 9,018 | 音视频与课堂录制／应用 | 可用于教育 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. | 元数据收集 |
+| [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) | 9,438 | 音视频与课堂录制／应用 | 可用于教育 | Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event det… | 元数据收集 |
+| [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | 9,020 | 音视频与课堂录制／应用 | 可用于教育 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. | 元数据收集 |
 | [Uberi/speech\_recognition](https://github.com/Uberi/speech_recognition) | 8,994 | 音视频与课堂录制／应用 | 可用于教育 | Speech recognition module for Python, supporting several engines and APIs, online and offline. | 元数据收集 |
 | [nl8590687/ASRT\_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition) | 8,391 | 音视频与课堂录制／应用 | 可用于教育 | A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统 | 元数据收集 |
-| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 7,989 | 音视频与课堂录制／开发组件 | 可用于教育 | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis… | 元数据收集 |
-| [Osmantic/ODS](https://github.com/Osmantic/ODS) | 6,989 | 音视频与课堂录制／应用 | 可用于教育 | ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server. | 元数据收集 |
+| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 7,991 | 音视频与课堂录制／开发组件 | 可用于教育 | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis… | 元数据收集 |
+| [Osmantic/ODS](https://github.com/Osmantic/ODS) | 6,990 | 音视频与课堂录制／应用 | 可用于教育 | ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server. | 元数据收集 |
 | [TalAter/annyang](https://github.com/TalAter/annyang) | 6,818 | 音视频与课堂录制／应用 | 可用于教育 | 💬 Speech recognition for your site | 元数据收集 |
 | [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) | 6,389 | 音视频与课堂录制／应用 | 可用于教育 | On-device Speech AI for Apple Silicon | 元数据收集 |
 | [modelscope/FunClip](https://github.com/modelscope/FunClip) | 6,362 | 音视频与课堂录制／应用 | 可用于教育 | FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI. | 元数据收集 |
@@ -49,10 +49,10 @@
 | [jianchang512/stt](https://github.com/jianchang512/stt) | 4,810 | 音视频与课堂录制／应用 | 可用于教育 | Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式 | 元数据收集 |
 | [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) | 4,680 | 音视频与课堂录制／应用 | 可用于教育 | JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU. | 元数据收集 |
 | [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) | 4,630 | 音视频与课堂录制／开发组件 | 可用于教育 | The python library for real-time communication | 元数据收集 |
-| [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) | 4,313 | 音视频与课堂录制／应用 | 可用于教育 | On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects. | 元数据收集 |
+| [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) | 4,314 | 音视频与课堂录制／应用 | 可用于教育 | On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects. | 元数据收集 |
 | [SakiRinn/LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) | 3,805 | 音视频与课堂录制／应用 | 可用于教育 | Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions. | 元数据收集 |
-| [Open-Less/openless](https://github.com/Open-Less/openless) | 3,714 | 音视频与课堂录制／应用 | 可用于教育 | Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字) | 元数据收集 |
-| [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) | 3,555 | 音视频与课堂录制／应用 | 可用于教育 | Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained. | 元数据收集 |
+| [Open-Less/openless](https://github.com/Open-Less/openless) | 3,715 | 音视频与课堂录制／应用 | 可用于教育 | Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字) | 元数据收集 |
+| [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) | 3,557 | 音视频与课堂录制／应用 | 可用于教育 | Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained. | 元数据收集 |
 | [SeaDve/Kooha](https://github.com/SeaDve/Kooha) | 3,525 | 音视频与课堂录制／应用 | 可用于教育 | Elegantly record your screen | 元数据收集 |
 | [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) | 3,351 | 音视频与课堂录制／应用 | 可用于教育 | OpenAI Whisper ASR Webservice API | 元数据收集 |
 | [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp) | 3,251 | 音视频与课堂录制／应用 | 可用于教育 | An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, w… | 元数据收集 |
@@ -82,8 +82,8 @@
 | [mkiol/dsnote](https://github.com/mkiol/dsnote) | 1,681 | 音视频与课堂录制／应用 | 可用于教育 | Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation. | 元数据收集 |
 | [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture) | 1,671 | 音视频与课堂录制／应用 | 可用于教育 | The macOS screen recorder for the rest of us - always free and open source with a native look and feel 📺 | 元数据收集 |
 | [Olcmyk/HuChenFeng](https://github.com/Olcmyk/HuChenFeng) | 1,663 | 音视频与课堂录制／应用 | 可用于教育 | 收集户晨风的所有内容 | 元数据收集 |
-| [royshil/obs-localvocal](https://github.com/royshil/obs-localvocal) | 1,620 | 音视频与课堂录制／应用 | 可用于教育 | OBS plugin for local speech recognition and captioning using AI | 元数据收集 |
-| [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) | 1,609 | 音视频与课堂录制／应用 | 可用于教育 | High-performance OpenAI and Anthropic compatible LLM inference server for Apple Silicon. Native MLX, continuous batching, multimodal models, MCP to… | 元数据收集 |
+| [royshil/obs-localvocal](https://github.com/royshil/obs-localvocal) | 1,622 | 音视频与课堂录制／应用 | 可用于教育 | OBS plugin for local speech recognition and captioning using AI | 元数据收集 |
+| [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) | 1,610 | 音视频与课堂录制／应用 | 可用于教育 | High-performance OpenAI and Anthropic compatible LLM inference server for Apple Silicon. Native MLX, continuous batching, multimodal models, MCP to… | 元数据收集 |
 | [peteonrails/voxtype](https://github.com/peteonrails/voxtype) | 1,600 | 音视频与课堂录制／应用 | 可用于教育 | Voice-to-text with push-to-talk for Wayland compositors | 元数据收集 |
 | [isaackogan/TikTokLive](https://github.com/isaackogan/TikTokLive) | 1,588 | 音视频与课堂录制／开发组件 | 可用于教育 | TikTok LIVE API for Python: The definitive 3rd-party library to receive livestream events (comments, gifts, etc.) in realtime from TikTok LIVE. | 元数据收集 |
 | [QwenAudio/Fun-ASR](https://github.com/QwenAudio/Fun-ASR) | 1,557 | 音视频与课堂录制／应用 | 可用于教育 | Fun-ASR speech recognition models, with native Hugging Face Transformers support for Fun-ASR-Nano and separate FunASR, vLLM and llama.cpp deploymen… | 元数据收集 |

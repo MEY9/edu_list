@@ -9,7 +9,7 @@
 
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
-| [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | 28,853 | 测验与学习评价／应用 | 教育原生 | Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, pytho… | 元数据收集 |
+| [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | 28,852 | 测验与学习评价／应用 | 教育原生 | Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, pytho… | 元数据收集 |
 | [heyform/heyform](https://github.com/heyform/heyform) | 8,996 | 测验与学习评价／应用 | 教育原生 | Open-Source Form Builder | 元数据收集 |
 | [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) | 7,069 | 测验与学习评价／应用 | 教育原生 | Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5) | 元数据收集 |
 | [surveyjs/survey-library](https://github.com/surveyjs/survey-library) | 4,887 | 测验与学习评价／开发组件 | 教育原生 | Open-source JavaScript form library for React, Angular, Vue, and plain JavaScript. Render dynamic JSON-driven forms, multi-step form wizards, surve… | 元数据收集 |
@@ -69,7 +69,7 @@
 | [KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation) | 139 | 测验与学习评价／应用 | 教育原生 | Easy to use and understand multiple-choice question generation algorithm using T5 Transformers. | 元数据收集 |
 | [feiyutalk/leetcode](https://github.com/feiyutalk/leetcode) | 136 | 测验与学习评价／应用 | 教育原生 | :confounded: :confused: :smiley:LeetCode问题解题思路。 | 元数据收集 |
 | [simplefanC/voj](https://github.com/simplefanC/voj) | 133 | 测验与学习评价／应用 | 教育原生 | Virtual Online Judge（VOJ）是基于微服务架构的高性能在线评测系统。拥有本地判题服务，同时支持其它知名 OJ (HDU、POJ...) 的远程判题。采用现阶段流行技术实现，采用 Docker 容器化部署。 | 元数据收集 |
-| [kirilxd/claude-tutor](https://github.com/kirilxd/claude-tutor) | 131 | 测验与学习评价／应用 | 教育原生 | Turn Claude Code into your personal tutor — personalized learning plans, adaptive quizzes, SM-2 spaced repetition, and a web dashboard. Works with … | 元数据收集 |
+| [kirilxd/claude-tutor](https://github.com/kirilxd/claude-tutor) | 132 | 测验与学习评价／应用 | 教育原生 | Turn Claude Code into your personal tutor — personalized learning plans, adaptive quizzes, SM-2 spaced repetition, and a web dashboard. Works with … | 元数据收集 |
 | [nvawntien/go-judge-system](https://github.com/nvawntien/go-judge-system) | 131 | 测验与学习评价／应用 | 教育原生 | An open-source Golang Online Judge platform using microservices, Kafka, sandboxed code execution, and real-time judging. | 元数据收集 |
 | [hit-moodle/moodle-local\_onlinejudge](https://github.com/hit-moodle/moodle-local_onlinejudge) | 124 | 测验与学习评价／应用 | 教育原生 | Online Judge plugin for Moodle 2.7-4.2. | 元数据收集 |
 | [illescasDaniel/Questions](https://github.com/illescasDaniel/Questions) | 124 | 测验与学习评价／应用 | 教育原生 | A modular iOS quiz app | 元数据收集 |
@@ -101,7 +101,7 @@
 - 许可说明：许可证标识以 API 为准；托管服务另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：4,461；最近推送：2026-09-30 21:02:38 UTC+08:00；数据获取：2026-10-05 01:33:17 UTC+08:00。
+- Star：4,461；最近推送：2026-09-30 21:02:38 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/judge0/judge0/blob/master/README.md)、[来源 2](https://github.com/judge0/judge0)
 
 
@@ -118,5 +118,5 @@ Java 与 Vue 构建的中文考试系统。
 - 许可说明：开源版本、商业版本与题库内容分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：3,907；最近推送：2026-09-30 14:29:03 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
+- Star：3,907；最近推送：2026-09-30 14:29:03 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/mindskip/xzs/blob/master/README.md)、[来源 2](https://github.com/mindskip/xzs)

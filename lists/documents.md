@@ -10,7 +10,7 @@
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 93,568 | 文档、PDF 与文字识别／应用 | 可用于教育 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | 元数据收集 |
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 90,594 | 文档、PDF 与文字识别／开发组件 | 可用于教育 | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and L… | 元数据收集 |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 90,595 | 文档、PDF 与文字识别／开发组件 | 可用于教育 | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and L… | 元数据收集 |
 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 81,084 | 文档、PDF 与文字识别／应用 | 可用于教育 | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. | 元数据收集 |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 76,826 | 文档、PDF 与文字识别／应用 | 可用于教育 | Tesseract Open Source OCR Engine (main repository) | 元数据收集 |
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 47,587 | 文档、PDF 与文字识别／应用 | 可用于教育 | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 | 元数据收集 |
@@ -19,7 +19,7 @@
 | [naptha/tesseract.js](https://github.com/naptha/tesseract.js) | 38,754 | 文档、PDF 与文字识别／应用 | 可用于教育 | Pure Javascript OCR for more than 100 Languages 📖🎉🖥 | 元数据收集 |
 | [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | 34,936 | 文档、PDF 与文字识别／应用 | 可用于教育 | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | 元数据收集 |
 | [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) | 30,046 | 文档、PDF 与文字识别／应用 | 可用于教育 | Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc. | 元数据收集 |
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 29,482 | 文档、PDF 与文字识别／应用 | 可用于教育 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. | 元数据收集 |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 29,484 | 文档、PDF 与文字识别／应用 | 可用于教育 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. | 元数据收集 |
 | [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) | 16,580 | 文档、PDF 与文字识别／应用 | 可用于教育 | pix2tex: Using a ViT to convert images of equations into LaTeX code. | 元数据收集 |
 | [alam00000/bentopdf](https://github.com/alam00000/bentopdf) | 15,834 | 文档、PDF 与文字识别／开发组件 | 可用于教育 | The Privacy First PDF Toolkit | 元数据收集 |
 | [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | 15,528 | 文档、PDF 与文字识别／应用 | 可用于教育 | Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structur… | 元数据收集 |
@@ -27,12 +27,12 @@
 | [tisfeng/Easydict](https://github.com/tisfeng/Easydict) | 14,837 | 文档、PDF 与文字识别／应用 | 可用于教育 | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionar… | 元数据收集 |
 | [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) | 14,813 | 文档、PDF 与文字识别／应用 | 可用于教育 | 带带弟弟 通用验证码识别OCR pypi版 | 元数据收集 |
 | [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 13,546 | 文档、PDF 与文字识别／应用 | 可用于教育 | 视觉小说翻译器 / Visual Novel Translator | 元数据收集 |
-| [run-llama/liteparse](https://github.com/run-llama/liteparse) | 12,786 | 文档、PDF 与文字识别／应用 | 可用于教育 | A fast, helpful, and open-source document parser | 元数据收集 |
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 12,415 | 文档、PDF 与文字识别／应用 | 可用于教育 | OCR model that handles complex tables, forms, handwriting with full layout. | 元数据收集 |
+| [run-llama/liteparse](https://github.com/run-llama/liteparse) | 12,787 | 文档、PDF 与文字识别／应用 | 可用于教育 | A fast, helpful, and open-source document parser | 元数据收集 |
+| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 12,416 | 文档、PDF 与文字识别／应用 | 可用于教育 | OCR model that handles complex tables, forms, handwriting with full layout. | 元数据收集 |
 | [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) | 12,349 | 文档、PDF 与文字识别／应用 | 可用于教育 | 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M | 元数据收集 |
 | [getomni-ai/zerox](https://github.com/getomni-ai/zerox) | 12,259 | 文档、PDF 与文字识别／应用 | 可用于教育 | OCR & Document Extraction using vision models | 元数据收集 |
 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 12,024 | 文档、PDF 与文字识别／应用 | 可用于教育 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow,… | 元数据收集 |
-| [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) | 10,824 | 文档、PDF 与文字识别／开发组件 | 可用于教育 | PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents. | 元数据收集 |
+| [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) | 10,825 | 文档、PDF 与文字识别／开发组件 | 可用于教育 | PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents. | 元数据收集 |
 | [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) | 10,595 | 文档、PDF 与文字识别／应用 | 可用于教育 | X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, com… | 元数据收集 |
 | [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) | 10,475 | 文档、PDF 与文字识别／应用 | 可用于教育 | Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working) | 元数据收集 |
 | [ripperhe/Bob](https://github.com/ripperhe/Bob) | 9,754 | 文档、PDF 与文字识别／应用 | 可用于教育 | Bob 是一款 macOS 平台的翻译和 OCR 软件。 | 元数据收集 |
@@ -48,7 +48,7 @@
 | [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) | 7,241 | 文档、PDF 与文字识别／应用 | 可用于教育 | 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 Screenshot Offline OCR Search Translate Search for picture Paste the picture on the screen Screen recorder Omn… | 元数据收集 |
 | [clovaai/donut](https://github.com/clovaai/donut) | 6,931 | 文档、PDF 与文字识别／应用 | 可用于教育 | Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022 | 元数据收集 |
 | [LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format) | 6,480 | 文档、PDF 与文字识别／应用 | 可用于教育 | 飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：… | 元数据收集 |
-| [mindee/doctr](https://github.com/mindee/doctr) | 6,370 | 文档、PDF 与文字识别／开发组件 | 可用于教育 | docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing develo… | 元数据收集 |
+| [mindee/doctr](https://github.com/mindee/doctr) | 6,371 | 文档、PDF 与文字识别／开发组件 | 可用于教育 | docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing develo… | 元数据收集 |
 | [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) | 6,339 | 文档、PDF 与文字识别／课程／资源 | 教育原生 | PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books. | 元数据收集 |
 | [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) | 6,271 | 文档、PDF 与文字识别／应用 | 可用于教育 | All-in-One Development Tool based on PaddlePaddle | 元数据收集 |
 | [axa-group/Parsr](https://github.com/axa-group/Parsr) | 6,171 | 文档、PDF 与文字识别／应用 | 可用于教育 | Transforms PDF, Documents and Images into Enriched Structured Data | 元数据收集 |
@@ -67,9 +67,9 @@
 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | 4,537 | 文档、PDF 与文字识别／应用 | 可用于教育 | RuVector provides High Performance, Real-Time decisions and agent memory , Self-Learning Ai, Vector GNN DB built in Rust. | 元数据收集 |
 | [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) | 4,525 | 文档、PDF 与文字识别／应用 | 可用于教育 | A PDF viewer that seamlessly integrates with any JavaScript project | 元数据收集 |
 | [liustack/modlens](https://github.com/liustack/modlens) | 4,121 | 文档、PDF 与文字识别／应用 | 可用于教育 | The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence … | 元数据收集 |
-| [SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF) | 4,027 | 文档、PDF 与文字识别／应用 | 可用于教育 | Free and open-source PDF editor for Windows with a built-in PDF 2.0 engine. View, annotate, OCR, merge, split, crop, rotate, compare, edit text, dr… | 元数据收集 |
+| [SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF) | 4,028 | 文档、PDF 与文字识别／应用 | 可用于教育 | Free and open-source PDF editor for Windows with a built-in PDF 2.0 engine. View, annotate, OCR, merge, split, crop, rotate, compare, edit text, dr… | 元数据收集 |
 | [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) | 3,943 | 文档、PDF 与文字识别／应用 | 可用于教育 | Text recognition (optical character recognition) with deep learning methods, ICCV 2019 | 元数据收集 |
-| [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) | 3,900 | 文档、PDF 与文字识别／课程／资源 | 教育原生 | A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases. | 元数据收集 |
+| [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) | 3,901 | 文档、PDF 与文字识别／课程／资源 | 教育原生 | A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases. | 元数据收集 |
 | [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) | 3,696 | 文档、PDF 与文字识别／应用 | 可用于教育 | A synthetic data generator for text recognition | 元数据收集 |
 | [aim-uofa/AdelaiDet](https://github.com/aim-uofa/AdelaiDet) | 3,479 | 文档、PDF 与文字识别／应用 | 可用于教育 | AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks. | 元数据收集 |
 | [eragonruan/text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn) | 3,428 | 文档、PDF 与文字识别／应用 | 可用于教育 | text detection mainly based on ctpn model in tensorflow, id card detect, connectionist text proposal network | 元数据收集 |
@@ -85,7 +85,7 @@
 | [thiagoalessio/tesseract-ocr-for-php](https://github.com/thiagoalessio/tesseract-ocr-for-php) | 3,043 | 文档、PDF 与文字识别／应用 | 可用于教育 | A wrapper to work with Tesseract OCR inside PHP. | 元数据收集 |
 | [Dicklesworthstone/llm\_aided\_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) | 3,004 | 文档、PDF 与文字识别／应用 | 可用于教育 | Enhances Tesseract OCR output using LLMs (local or API) for error correction, smart chunking, and markdown formatting of scanned PDFs | 元数据收集 |
 | [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) | 2,999 | 文档、PDF 与文字识别／应用 | 可用于教育 | A Model Context Protocol server for converting almost anything to Markdown | 元数据收集 |
-| [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) | 2,964 | 文档、PDF 与文字识别／应用 | 可用于教育 | AI comic and manga translator app/browser extension for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languag… | 元数据收集 |
+| [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) | 2,965 | 文档、PDF 与文字识别／应用 | 可用于教育 | AI comic and manga translator app/browser extension for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languag… | 元数据收集 |
 | [xiaofengShi/CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR) | 2,956 | 文档、PDF 与文字识别／应用 | 可用于教育 | End-to-end Chinese scene-text detection and recognition with CTPN, CRNN, and CTC (legacy project). | 元数据收集 |
 | [openrecall/openrecall](https://github.com/openrecall/openrecall) | 2,949 | 文档、PDF 与文字识别／应用 | 可用于教育 | OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can eas… | 元数据收集 |
 | [hgmzhn/manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) | 2,928 | 文档、PDF 与文字识别／应用 | 可用于教育 | 基于manga-image-translator 实现的开源漫画AI翻译桌面工具。支持日、韩、英文漫画自动处理，集成OpenAl、Gemini等多翻译引擎；实现OCR文字检测、原文擦除、AI翻译、图像修复、译文排版完整链路，自带可视化编辑器，支持自定义文本样式，一键部署开箱即用。 | 元数据收集 |
@@ -94,7 +94,7 @@
 | [kha-white/manga-ocr](https://github.com/kha-white/manga-ocr) | 2,796 | 文档、PDF 与文字识别／应用 | 可用于教育 | Optical character recognition for Japanese text, with the main focus being Japanese manga | 元数据收集 |
 | [dynobo/normcap](https://github.com/dynobo/normcap) | 2,741 | 文档、PDF 与文字识别／应用 | 可用于教育 | OCR powered screen-capture tool to capture information instead of images | 元数据收集 |
 | [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) | 2,728 | 文档、PDF 与文字识别／应用 | 可用于教育 | Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI | 元数据收集 |
-| [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) | 2,606 | 文档、PDF 与文字识别／应用 | 可用于教育 | Cross-device clipboard sync for macOS, Windows & Linux — end-to-end encrypted, LAN-only, no cloud. OCR, CLI and MCP server built in. | 元数据收集 |
+| [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) | 2,607 | 文档、PDF 与文字识别／应用 | 可用于教育 | Cross-device clipboard sync for macOS, Windows & Linux — end-to-end encrypted, LAN-only, no cloud. OCR, CLI and MCP server built in. | 元数据收集 |
 | [sismics/docs](https://github.com/sismics/docs) | 2,565 | 文档、PDF 与文字识别／应用 | 可用于教育 | Lightweight document management system packed with all the features you can expect from big expensive solutions | 元数据收集 |
 | [zhoubear/open-paperless](https://github.com/zhoubear/open-paperless) | 2,558 | 文档、PDF 与文字识别／应用 | 可用于教育 | Scan, index, and archive all of your paper documents (acquired by Mayan EDMS) | 元数据收集 |
 | [hwalsuklee/awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition) | 2,532 | 文档、PDF 与文字识别／课程／资源 | 教育原生 | A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods. | 元数据收集 |
@@ -123,7 +123,7 @@
 | [rudi-q/leed\_pdf\_viewer](https://github.com/rudi-q/leed_pdf_viewer) | 440 | 文档、PDF 与文字识别／应用 | 可用于教育 | Open-source PDF annotation and drawing tool built for privacy. Sketch and annotate PDFs with natural pen-like precision, drawing tablet support. Sv… | 元数据收集 |
 | [SimplePDF/simplepdf-embed](https://github.com/SimplePDF/simplepdf-embed) | 408 | 文档、PDF 与文字识别／应用 | 可用于教育 | PDF editor in the browser – add text, checkboxes, pictures, signatures to PDF files. Merge, rotate PDF pages – iframe, script and React component | 元数据收集 |
 | [awesome-yasin/PDF-Verse](https://github.com/awesome-yasin/PDF-Verse) | 280 | 文档、PDF 与文字识别／应用 | 可用于教育 | PDF Verse is a powerful web based PDF Editor with tools for editing, converting, and manipulating PDFs. Merge, compress, add or remove pages, or ex… | 元数据收集 |
-| [Chethan616/ClearPDF](https://github.com/Chethan616/ClearPDF) | 212 | 文档、PDF 与文字识别／开发组件 | 可用于教育 | Open-source Android PDF and document toolkit with PDF tools, Office viewing, XLSX editing, scanning, and image editing. Built with Kotlin and Jetpa… | 元数据收集 |
+| [Chethan616/ClearPDF](https://github.com/Chethan616/ClearPDF) | 214 | 文档、PDF 与文字识别／开发组件 | 可用于教育 | Open-source Android PDF and document toolkit with PDF tools, Office viewing, XLSX editing, scanning, and image editing. Built with Kotlin and Jetpa… | 元数据收集 |
 | [ilovepdf/ilovepdf-php](https://github.com/ilovepdf/ilovepdf-php) | 196 | 文档、PDF 与文字识别／开发组件 | 可用于教育 | iLovePDF Rest Api - PHP Library (https://developer.ilovepdf.com) | 元数据收集 |
 | [photown/private-pdf](https://github.com/photown/private-pdf) | 148 | 文档、PDF 与文字识别／应用 | 可用于教育 | PrivatePDF is a free web tool that lets you make quick PDF edits from within your web browser, without uploading anything anywhere. | 元数据收集 |
 | [ComPDFKit/compdf-self-hosted](https://github.com/ComPDFKit/compdf-self-hosted) | 145 | 文档、PDF 与文字识别／应用 | 可用于教育 | Edit, convert, and transform documents across PDFs, Office formats, HTML, TXT, CSV, RTF, JSON, and images with ComPDF Self-hosted, an open-source P… | 元数据收集 |

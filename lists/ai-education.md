@@ -9,9 +9,9 @@
 
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
-| [langgenius/dify](https://github.com/langgenius/dify) | 157,837 | AI 教育与智能辅导／应用 | 可用于教育 | 整合模型、知识库和工作流的 LLM 应用开发平台。 | 资料核对 |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 91,677 | AI 教育与智能辅导／应用 | 可用于教育 | 围绕文档检索与生成式 AI 的 RAG 工具。 | 资料核对 |
-| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 85,259 | AI 教育与智能辅导／应用 | 可用于教育 | Graphs that teach \> graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works … | 元数据收集 |
+| [langgenius/dify](https://github.com/langgenius/dify) | 157,841 | AI 教育与智能辅导／应用 | 可用于教育 | 整合模型、知识库和工作流的 LLM 应用开发平台。 | 资料核对 |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 91,678 | AI 教育与智能辅导／应用 | 可用于教育 | 围绕文档检索与生成式 AI 的 RAG 工具。 | 资料核对 |
+| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 85,260 | AI 教育与智能辅导／应用 | 可用于教育 | Graphs that teach \> graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works … | 元数据收集 |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 82,985 | AI 教育与智能辅导／应用 | 可用于教育 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. | 元数据收集 |
 | [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 46,629 | AI 教育与智能辅导／应用 | 可用于教育 | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 | 元数据收集 |
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 40,785 | AI 教育与智能辅导／应用 | 可用于教育 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | 元数据收集 |
@@ -29,7 +29,7 @@
 | [xerrors/Yuxi](https://github.com/xerrors/Yuxi) | 7,278 | AI 教育与智能辅导／应用 | 可用于教育 | 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge g… | 元数据收集 |
 | [massCodeIO/massCode](https://github.com/massCodeIO/massCode) | 7,018 | AI 教育与智能辅导／应用 | 可用于教育 | A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app. | 元数据收集 |
 | [athensresearch/athens](https://github.com/athensresearch/athens) | 6,294 | AI 教育与智能辅导／应用 | 可用于教育 | Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21 | 元数据收集 |
-| [the-open-agent/openagent](https://github.com/the-open-agent/openagent) | 5,688 | AI 教育与智能辅导／应用 | 可用于教育 | ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://d… | 元数据收集 |
+| [the-open-agent/openagent](https://github.com/the-open-agent/openagent) | 5,689 | AI 教育与智能辅导／应用 | 可用于教育 | ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://d… | 元数据收集 |
 | [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 5,369 | AI 教育与智能辅导／应用 | 可用于教育 | 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via … | 元数据收集 |
 | [colanode/colanode](https://github.com/colanode/colanode) | 5,156 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source and local-first Slack and Notion alternative that puts you in control of your data | 元数据收集 |
 | [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) | 4,831 | AI 教育与智能辅导／应用 | 可用于教育 | This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technolog… | 元数据收集 |
@@ -92,7 +92,7 @@
 | [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) | 805 | AI 教育与智能辅导／应用 | 可用于教育 | A community-driven knowledge base of practical patterns for Effect-TS. | 元数据收集 |
 | [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) | 770 | AI 教育与智能辅导／应用 | 可用于教育 | Logic Language for World Models 🌱🐋🌍 | 元数据收集 |
 | [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) | 767 | AI 教育与智能辅导／应用 | 可用于教育 | A local-first and universal knowledge graph, personal search engine, and workspace for your life. | 元数据收集 |
-| [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) | 749 | AI 教育与智能辅导／应用 | 可用于教育 | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progre… | 元数据收集 |
+| [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) | 750 | AI 教育与智能辅导／应用 | 可用于教育 | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progre… | 元数据收集 |
 | [NicholasSpisak/second-brain](https://github.com/NicholasSpisak/second-brain) | 734 | AI 教育与智能辅导／应用 | 可用于教育 | LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern. | 元数据收集 |
 | [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) | 727 | AI 教育与智能辅导／应用 | 可用于教育 | Chronicler is a free, offline worldbuilding tool and local wiki for writers, game masters, and tabletop RPG creators. It saves your notes as plain … | 元数据收集 |
 | [inception-project/inception](https://github.com/inception-project/inception) | 720 | AI 教育与智能辅导／应用 | 可用于教育 | INCEpTION provides a semantic annotation platform offering intelligent annotation assistance and knowledge management. | 元数据收集 |
@@ -110,7 +110,7 @@
 | [woojeongjin/dynamic-KG](https://github.com/woojeongjin/dynamic-KG) | 610 | AI 教育与智能辅导／应用 | 可用于教育 | Dynamic (Temporal) Knowledge Graph Completion (Reasoning) | 元数据收集 |
 | [Gram-ax/gramax](https://github.com/Gram-ax/gramax) | 608 | AI 教育与智能辅导／应用 | 可用于教育 | Embrace a docs-as-code approach to build, version, and publish Git-driven documentation sites using Markdown and a visual editor | 元数据收集 |
 | [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) | 606 | AI 教育与智能辅导／应用 | 可用于教育 | \[ACL 2021\] Learning Dense Representations of Phrases at Scale; EMNLP'2021: Phrase Retrieval Learns Passage Retrieval, Too https://arxiv.org/abs/201… | 元数据收集 |
-| [zosmaai/pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki) | 602 | AI 教育与智能辅导／应用 | 可用于教育 | Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds. Native Open Knowledge Forma… | 元数据收集 |
+| [zosmaai/pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki) | 603 | AI 教育与智能辅导／应用 | 可用于教育 | Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds. Native Open Knowledge Forma… | 元数据收集 |
 | [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) | 576 | AI 教育与智能辅导／应用 | 可用于教育 | Dataset and benchmark for RAG on company internal documents. | 元数据收集 |
 | [skygazer42/MimirQ](https://github.com/skygazer42/MimirQ) | 561 | AI 教育与智能辅导／应用 | 可用于教育 | 中文优先的企业 RAG 知识库：可控解析、治理、切块、混合检索、重排、引用、图谱、评测与 Dify 接入。 | 元数据收集 |
 | [cropflre/nowen-note](https://github.com/cropflre/nowen-note) | 546 | AI 教育与智能辅导／应用 | 可用于教育 | 开源自托管笔记与私有知识库，支持 Markdown/富文本、AI 写作、思维导图、任务管理、全文搜索、多级笔记本和 Docker 一键部署。 | 元数据收集 |
@@ -222,7 +222,7 @@
 - 许可说明：API 标记 NOASSERTION；上游自定义许可需按实际使用方式核对，不等同于 MIT。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：157,837；最近推送：2026-10-04 23:17:46 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
+- Star：157,841；最近推送：2026-10-04 23:17:46 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/langgenius/dify/blob/main/README.md)、[来源 2](https://github.com/langgenius/dify)
 
 
@@ -239,5 +239,5 @@
 - 许可说明：代码许可与使用的模型、数据和外部服务分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：91,677；最近推送：2026-10-04 22:51:58 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
+- Star：91,678；最近推送：2026-10-04 22:51:58 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/infiniflow/ragflow/blob/main/README.md)、[来源 2](https://github.com/infiniflow/ragflow)

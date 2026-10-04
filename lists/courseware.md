@@ -9,18 +9,18 @@
 
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
-| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 133,491 | 课件与教学内容制作／应用 | 可用于教育 | 手绘风格的虚拟白板与图解编辑器。 | 资料核对 |
+| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 133,493 | 课件与教学内容制作／应用 | 可用于教育 | 手绘风格的虚拟白板与图解编辑器。 | 资料核对 |
 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 73,223 | 课件与教学内容制作／应用 | 可用于教育 | There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain\]) is a next-gen knowledge base that brings planning, sorting and creating all tog… | 元数据收集 |
 | [hakimel/reveal.js](https://github.com/hakimel/reveal.js) | 72,375 | 课件与教学内容制作／应用 | 可用于教育 | 基于 HTML 的浏览器演示框架。 | 资料核对 |
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 57,596 | 课件与教学内容制作／应用 | 可用于教育 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de… | 元数据收集 |
-| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 50,745 | 课件与教学内容制作／开发组件 | 可用于教育 | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. | 元数据收集 |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 57,600 | 课件与教学内容制作／应用 | 可用于教育 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de… | 元数据收集 |
+| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 50,746 | 课件与教学内容制作／开发组件 | 可用于教育 | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. | 元数据收集 |
 | [slidevjs/slidev](https://github.com/slidevjs/slidev) | 48,924 | 课件与教学内容制作／应用 | 可用于教育 | 支持 Markdown、代码展示和交互组件的演示工具。 | 资料核对 |
 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,560 | 课件与教学内容制作／应用 | 可用于教育 | Universal markup converter | 元数据收集 |
 | [carbon-app/carbon](https://github.com/carbon-app/carbon) | 36,111 | 课件与教学内容制作／应用 | 可用于教育 | :black\_heart: Create and share beautiful images of your source code | 元数据收集 |
 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 31,552 | 课件与教学内容制作／应用 | 可用于教育 | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-… | 元数据收集 |
-| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 30,126 | 课件与教学内容制作／应用 | 可用于教育 | Create beautiful slides on the web using a coding agent's frontend skills | 元数据收集 |
+| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 30,127 | 课件与教学内容制作／应用 | 可用于教育 | Create beautiful slides on the web using a coding agent's frontend skills | 元数据收集 |
 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,232 | 课件与教学内容制作／应用 | 可用于教育 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power … | 元数据收集 |
-| [dream-num/univer](https://github.com/dream-num/univer) | 22,351 | 课件与教学内容制作／应用 | 可用于教育 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. | 元数据收集 |
+| [dream-num/univer](https://github.com/dream-num/univer) | 22,353 | 课件与教学内容制作／应用 | 可用于教育 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. | 元数据收集 |
 | [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) | 19,230 | 课件与教学内容制作／应用 | 可用于教育 | Visualize Your Ideas With Code | 元数据收集 |
 | [plait-board/drawnix](https://github.com/plait-board/drawnix) | 14,898 | 课件与教学内容制作／应用 | 可用于教育 | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. | 元数据收集 |
 | [konvajs/konva](https://github.com/konvajs/konva) | 14,847 | 课件与教学内容制作／开发组件 | 可用于教育 | Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag… | 元数据收集 |
@@ -121,7 +121,7 @@
 | [benweet/stackedit.js](https://github.com/benweet/stackedit.js) | 1,167 | 课件与教学内容制作／应用 | 可用于教育 | Add StackEdit to any website | 元数据收集 |
 | [marp-team/marp-core](https://github.com/marp-team/marp-core) | 1,156 | 课件与教学内容制作／应用 | 可用于教育 | The core of Marp converter | 元数据收集 |
 | [zhitongblog/solomd](https://github.com/zhitongblog/solomd) | 1,153 | 课件与教学内容制作／应用 | 可用于教育 | A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault dir… | 元数据收集 |
-| [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown) | 1,121 | 课件与教学内容制作／应用 | 可用于教育 | Multiplatform Markdown-Based Rich Text Solution | 元数据收集 |
+| [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown) | 1,122 | 课件与教学内容制作／应用 | 可用于教育 | Multiplatform Markdown-Based Rich Text Solution | 元数据收集 |
 | [YOOTeam/OpenPPT](https://github.com/YOOTeam/OpenPPT) | 1,099 | 课件与教学内容制作／应用 | 可用于教育 | AIPPT Online editor，Base On ChatPPT， supports document editing services throughout the entire process, including import, export, layout beautificat… | 元数据收集 |
 | [shaps80/SwiftUIBackports](https://github.com/shaps80/SwiftUIBackports) | 1,098 | 课件与教学内容制作／课程／资源 | 教育原生 | A collection of SwiftUI backports for iOS, macOS, tvOS and watchOS | 元数据收集 |
 | [ifer47/markeron](https://github.com/ifer47/markeron) | 1,078 | 课件与教学内容制作／应用 | 教育原生 | Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen re… | 元数据收集 |
@@ -218,7 +218,7 @@
 | [wanglin2/tiny\_whiteboard](https://github.com/wanglin2/tiny_whiteboard) | 293 | 课件与教学内容制作／应用 | 可用于教育 | 一个在线小白板，类似excalidraw。 | 元数据收集 |
 | [Rico00121/decktap](https://github.com/Rico00121/decktap) | 291 | 课件与教学内容制作／应用 | 可用于教育 | A lightweight local-network presentation remote. Control your slides wirelessly from your phone. | 元数据收集 |
 | [ixiaoyang8/iodraw](https://github.com/ixiaoyang8/iodraw) | 290 | 课件与教学内容制作／应用 | 可用于教育 | ioDraw is a free online drawing software, which is used to make flow chart, mind map, Gantt chart, whiteboard, mermaid, poster, and more—no registr… | 元数据收集 |
-| [piazzai/arguelles](https://github.com/piazzai/arguelles) | 280 | 课件与教学内容制作／应用 | 可用于教育 | Simple, typographic beamer theme | 元数据收集 |
+| [piazzai/arguelles](https://github.com/piazzai/arguelles) | 281 | 课件与教学内容制作／应用 | 可用于教育 | Simple, typographic beamer theme | 元数据收集 |
 | [pm25/SimplePlus-BeamerTheme](https://github.com/pm25/SimplePlus-BeamerTheme) | 279 | 课件与教学内容制作／应用 | 可用于教育 | 🍃 SimplePlus - A minimalist and clean LaTeX Beamer theme | 元数据收集 |
 | [zouchenzhen/thesis-defense-pptx-skill](https://github.com/zouchenzhen/thesis-defense-pptx-skill) | 266 | 课件与教学内容制作／应用 | 可用于教育 | Codex / Claude Skill for editable thesis-defense PPTX from PDF or LaTeX while preserving a PowerPoint template. 从论文 PDF / LaTeX 生成可编辑答辩 PPTX，并保留指定 … | 元数据收集 |
 | [mimseyedi/pysentation](https://github.com/mimseyedi/pysentation) | 262 | 课件与教学内容制作／应用 | 可用于教育 | pysentation is a CLI for displaying Python presentations. | 元数据收集 |
@@ -312,7 +312,7 @@
 - 许可说明：代码与用户绘制素材的许可分别处理。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：133,491；最近推送：2026-10-01 23:08:43 UTC+08:00；数据获取：2026-10-05 01:34:32 UTC+08:00。
+- Star：133,493；最近推送：2026-10-01 23:08:43 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/excalidraw/excalidraw/blob/master/README.md)、[来源 2](https://github.com/excalidraw/excalidraw)
 
 
@@ -329,7 +329,7 @@
 - 许可说明：框架代码与课程素材分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：72,375；最近推送：2026-10-01 03:38:13 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
+- Star：72,375；最近推送：2026-10-01 03:38:13 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/hakimel/reveal.js/blob/master/README.md)、[来源 2](https://github.com/hakimel/reveal.js)
 
 
@@ -346,7 +346,7 @@
 - 许可说明：主题、字体和嵌入素材许可另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：48,924；最近推送：2026-10-02 15:30:24 UTC+08:00；数据获取：2026-10-05 01:34:19 UTC+08:00。
+- Star：48,924；最近推送：2026-10-02 15:30:24 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/slidevjs/slidev/blob/main/README.md)、[来源 2](https://github.com/slidevjs/slidev)
 
 
@@ -363,5 +363,5 @@
 - 许可说明：使用的具体 Marp 工具和主题另查许可。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：12,592；最近推送：2026-07-30 03:35:44 UTC+08:00；数据获取：2026-10-05 01:34:19 UTC+08:00。
+- Star：12,592；最近推送：2026-07-30 03:35:44 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/marp-team/marp/blob/main/README.md)、[来源 2](https://github.com/marp-team/marp)

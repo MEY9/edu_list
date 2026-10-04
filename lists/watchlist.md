@@ -24,7 +24,7 @@
 - 许可说明：核心、主题、模块和学校数据分别处理。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：Star 未达到主清单 1000 门槛，保留教育用途记录。
-- Star：634；最近推送：2026-10-02 15:32:08 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
+- Star：634；最近推送：2026-10-02 15:32:08 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/GibbonEdu/core/blob/v31.0.00/README.md)、[来源 2](https://github.com/GibbonEdu/core)
 
 
@@ -41,5 +41,5 @@
 - 许可说明：本仓库替代旧 scratch-gui；依赖组件和项目素材另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：Star 未达到主清单 1000 门槛，保留教育用途记录。
-- Star：290；最近推送：2026-10-04 16:23:08 UTC+08:00；数据获取：2026-10-05 01:12:50 UTC+08:00。
+- Star：290；最近推送：2026-10-04 16:23:08 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
 - 核对来源：[来源 1](https://github.com/scratchfoundation/scratch-editor/blob/develop/README.md)、[来源 2](https://github.com/scratchfoundation/scratch-editor)
