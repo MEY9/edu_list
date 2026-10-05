@@ -9,20 +9,20 @@
 
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
-| [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | 28,852 | 测验与学习评价／应用 | 教育原生 | Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, pytho… | 元数据收集 |
-| [heyform/heyform](https://github.com/heyform/heyform) | 8,996 | 测验与学习评价／应用 | 教育原生 | Open-Source Form Builder | 元数据收集 |
-| [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) | 7,069 | 测验与学习评价／应用 | 教育原生 | Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5) | 元数据收集 |
+| [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | 28,850 | 测验与学习评价／应用 | 教育原生 | Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, pytho… | 元数据收集 |
+| [heyform/heyform](https://github.com/heyform/heyform) | 8,995 | 测验与学习评价／应用 | 教育原生 | Open-Source Form Builder | 元数据收集 |
+| [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) | 7,067 | 测验与学习评价／应用 | 教育原生 | Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5) | 元数据收集 |
 | [surveyjs/survey-library](https://github.com/surveyjs/survey-library) | 4,887 | 测验与学习评价／开发组件 | 教育原生 | Open-source JavaScript form library for React, Angular, Vue, and plain JavaScript. Render dynamic JSON-driven forms, multi-step form wizards, surve… | 元数据收集 |
 | [judge0/judge0](https://github.com/judge0/judge0) | 4,461 | 测验与学习评价／应用 | 可用于教育 | 隔离运行用户代码的在线执行系统。 | 资料核对 |
-| [mindskip/xzs](https://github.com/mindskip/xzs) | 3,907 | 测验与学习评价／应用 | 教育原生 | Java 与 Vue 构建的中文考试系统。 | 资料核对 |
+| [mindskip/xzs](https://github.com/mindskip/xzs) | 3,906 | 测验与学习评价／应用 | 教育原生 | Java 与 Vue 构建的中文考试系统。 | 资料核对 |
 | [zhblue/hustoj](https://github.com/zhblue/hustoj) | 3,803 | 测验与学习评价／应用 | 教育原生 | Popular Simple Open Source Online Judge based on PHP/C++/MySQL/Linux for ACM/ICPC and NOIP training, with easy installation. 简单实用的开源OJ系统 | 元数据收集 |
-| [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) | 3,799 | 测验与学习评价／应用 | 教育原生 | XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze d… | 元数据收集 |
+| [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) | 3,797 | 测验与学习评价／应用 | 教育原生 | XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze d… | 元数据收集 |
 | [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) | 2,205 | 测验与学习评价／应用 | 教育原生 | 🎹 Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual | 元数据收集 |
-| [DMOJ/online-judge](https://github.com/DMOJ/online-judge) | 1,193 | 测验与学习评价／应用 | 教育原生 | A modern open-source online judge and contest platform system. | 元数据收集 |
+| [DMOJ/online-judge](https://github.com/DMOJ/online-judge) | 1,194 | 测验与学习评价／应用 | 教育原生 | A modern open-source online judge and contest platform system. | 元数据收集 |
 | [judge0/ide](https://github.com/judge0/ide) | 1,123 | 测验与学习评价／应用 | 教育原生 | ✨ Simple, free and open-source online code editor. | 元数据收集 |
-| [WanyueKJ/education-online](https://github.com/WanyueKJ/education-online) | 1,028 | 测验与学习评价／应用 | 教育原生 | 万岳教育的web+后台管理系统。万岳教育系统(wanyue-education)，自主研发集知识付费、直播授课、在线教育功能为一体的在线/直播/题库/考试(exam)的教育平台系统 | 元数据收集 |
+| [WanyueKJ/education-online](https://github.com/WanyueKJ/education-online) | 1,027 | 测验与学习评价／应用 | 教育原生 | 万岳教育的web+后台管理系统。万岳教育系统(wanyue-education)，自主研发集知识付费、直播授课、在线教育功能为一体的在线/直播/题库/考试(exam)的教育平台系统 | 元数据收集 |
 | [DMOJ/judge-server](https://github.com/DMOJ/judge-server) | 980 | 测验与学习评价／应用 | 教育原生 | Judging backend server for the DMOJ online judge. | 元数据收集 |
-| [ZsgsDesign/NOJ](https://github.com/ZsgsDesign/NOJ) | 943 | 测验与学习评价／应用 | 教育原生 | ⚡ The most advanced open-source automatic algorithm online judge system \| 南京邮电大学开源 Online Judge \| QQ群：668108264 | 元数据收集 |
+| [ZsgsDesign/NOJ](https://github.com/ZsgsDesign/NOJ) | 942 | 测验与学习评价／应用 | 教育原生 | ⚡ The most advanced open-source automatic algorithm online judge system \| 南京邮电大学开源 Online Judge \| QQ群：668108264 | 元数据收集 |
 | [ditdot-dev/vue-flow-form](https://github.com/ditdot-dev/vue-flow-form) | 807 | 测验与学习评价／应用 | 教育原生 | Create conversational conditional-logic forms with Vue.js. | 元数据收集 |
 | [yosupo06/library-checker-problems](https://github.com/yosupo06/library-checker-problems) | 672 | 测验与学习评价／开发组件 | 教育原生 | The problem data (Test case generator, judge's solution, task, ...) of Library Checker | 元数据收集 |
 | [criyle/go-judge](https://github.com/criyle/go-judge) | 620 | 测验与学习评价／应用 | 教育原生 | Sandbox service built on Linux container technologies with simple REST and gRPC API | 元数据收集 |
@@ -32,25 +32,25 @@
 | [vijos/vj4](https://github.com/vijos/vj4) | 545 | 测验与学习评价／应用 | 教育原生 | The online judge service with millions of submissions, since 2005. | 元数据收集 |
 | [xlucn/PAT](https://github.com/xlucn/PAT) | 495 | 测验与学习评价／应用 | 教育原生 | PAT OJ exercises in C language 浙江大学PAT纯C语言题解。 | 元数据收集 |
 | [KristiyanVachev/Question-Generation](https://github.com/KristiyanVachev/Question-Generation) | 494 | 测验与学习评价／应用 | 教育原生 | Generating multiple choice questions from text using Machine Learning. | 元数据收集 |
-| [gbaranski/quizizz-cheat](https://github.com/gbaranski/quizizz-cheat) | 395 | 测验与学习评价／应用 | 教育原生 | Cheat for https://quizizz.com to get all correct answers | 元数据收集 |
+| [gbaranski/quizizz-cheat](https://github.com/gbaranski/quizizz-cheat) | 393 | 测验与学习评价／应用 | 教育原生 | Cheat for https://quizizz.com to get all correct answers | 元数据收集 |
 | [LeftValues/leftvalues.github.io](https://github.com/LeftValues/leftvalues.github.io) | 374 | 测验与学习评价／应用 | 教育原生 | LeftValues, a leftist political quiz | 元数据收集 |
 | [SuperKevinZhou/hpdg](https://github.com/SuperKevinZhou/hpdg) | 373 | 测验与学习评价／应用 | 教育原生 | High-Performance Data Generator for competitive programming (Olympiad in Informatics) use. | 元数据收集 |
 | [sarveshchavan7/Quiz-Game](https://github.com/sarveshchavan7/Quiz-Game) | 345 | 测验与学习评价／应用 | 教育原生 | Multiple choice questions answer game for android (Quiz game). | 元数据收集 |
 | [eightants/whisperify](https://github.com/eightants/whisperify) | 338 | 测验与学习评价／应用 | 教育原生 | An interactive way to learn about your favourite songs on Spotify. Quiz yourself on your favourite playlists and share quizzes with friends. | 元数据收集 |
-| [nymanjens/quizmaster](https://github.com/nymanjens/quizmaster) | 325 | 测验与学习评价／应用 | 教育原生 | A web-app for conducting a quiz over the internet | 元数据收集 |
+| [nymanjens/quizmaster](https://github.com/nymanjens/quizmaster) | 326 | 测验与学习评价／应用 | 教育原生 | A web-app for conducting a quiz over the internet | 元数据收集 |
 | [rusinikita/trainer](https://github.com/rusinikita/trainer) | 310 | 测验与学习评价／应用 | 教育原生 | GoLang interview prep questions. Terminal app with Go challenges and learning links | 元数据收集 |
 | [ZeKaiNie/universal-examprep-skill](https://github.com/ZeKaiNie/universal-examprep-skill) | 300 | 测验与学习评价／应用 | 教育原生 | Exam Cram Coach · 跨会话记忆与讲义溯源防幻觉的极速备考教练 \| AI exam-prep tutor for Claude Code, Cursor, Codex, Antigravity: teaches from slides with page citations, c… | 元数据收集 |
 | [tiny656/PAT](https://github.com/tiny656/PAT) | 284 | 测验与学习评价／应用 | 教育原生 | 浙江大学PAT题解 https://pintia.cn | 元数据收集 |
 | [BDFD-Learning-Ground/Cousera\_Google-Data-Analytics-Professional-Certificate](https://github.com/BDFD-Learning-Ground/Cousera_Google-Data-Analytics-Professional-Certificate) | 261 | 测验与学习评价／课程／资源 | 教育原生 | Quizzes & Assignment Solutions for Google Data Analytics Professional Certificate on Coursera. Also included a few resources on side that I found h… | 元数据收集 |
 | [shi-yang/jnoj](https://github.com/shi-yang/jnoj) | 254 | 测验与学习评价／应用 | 教育原生 | Jiangnan Online Judge | 元数据收集 |
-| [alphadamn/guwu-oj](https://github.com/alphadamn/guwu-oj) | 245 | 测验与学习评价／应用 | 教育原生 | 洛谷风格在线评测系统 \| Django + Bootstrap5 开发。支持用户系统、题目库、多语言代码提交（C/C++/Python/Java）、提交记录、排行榜及管理后台。轻量级 OJ，适合编程练习与竞赛训练。Luogu-style Online Judge built with Djan… | 元数据收集 |
+| [alphadamn/guwu-oj](https://github.com/alphadamn/guwu-oj) | 243 | 测验与学习评价／应用 | 教育原生 | 洛谷风格在线评测系统 \| Django + Bootstrap5 开发。支持用户系统、题目库、多语言代码提交（C/C++/Python/Java）、提交记录、排行榜及管理后台。轻量级 OJ，适合编程练习与竞赛训练。Luogu-style Online Judge built with Djan… | 元数据收集 |
 | [zeborg/kubekosh](https://github.com/zeborg/kubekosh) | 242 | 测验与学习评价／应用 | 教育原生 | Interactive Kubernetes Playground | 元数据收集 |
 | [Linzecong/LPOJ](https://github.com/Linzecong/LPOJ) | 241 | 测验与学习评价／开发组件 | 教育原生 | An open source online judge system base on Django REST framework and Vue.js ! | 元数据收集 |
 | [VNOI-Admin/OJ](https://github.com/VNOI-Admin/OJ) | 231 | 测验与学习评价／应用 | 教育原生 | A modern open-source online judge and contest platform system. | 元数据收集 |
 | [ram-sah/LinkedIn-Assessments](https://github.com/ram-sah/LinkedIn-Assessments) | 222 | 测验与学习评价／应用 | 教育原生 | LinkedIn Quiz Questions Skill Assessments Preparation, Test Questions Answers HTML, JavaScript, CSS, NodeJs | 元数据收集 |
 | [Decade-qiu/D-OnlineJudge](https://github.com/Decade-qiu/D-OnlineJudge) | 220 | 测验与学习评价／应用 | 教育原生 | A full-stack online coding platform powered by Spring Cloud microservices and a Vue 3 frontend, offering scalable, secure, and interactive coding c… | 元数据收集 |
 | [sumitkumar1503/onlinequiz](https://github.com/sumitkumar1503/onlinequiz) | 218 | 测验与学习评价／应用 | 教育原生 | Online Quiz \|\| Python Django | 元数据收集 |
-| [numbas/Numbas](https://github.com/numbas/Numbas) | 214 | 测验与学习评价／应用 | 教育原生 | A completely browser-based e-assessment/e-learning system, with an emphasis on mathematics | 元数据收集 |
+| [numbas/Numbas](https://github.com/numbas/Numbas) | 215 | 测验与学习评价／应用 | 教育原生 | A completely browser-based e-assessment/e-learning system, with an emphasis on mathematics | 元数据收集 |
 | [VladimirKhil/SI](https://github.com/VladimirKhil/SI) | 210 | 测验与学习评价／应用 | 教育原生 | SIGame and related products | 元数据收集 |
 | [hijiangtao/LeetCode-with-JavaScript](https://github.com/hijiangtao/LeetCode-with-JavaScript) | 206 | 测验与学习评价／课程／资源 | 教育原生 | Solutions collection of LeetCode submissions in JavaScript & TypeScript (LeetCode 解题集之 JavaScript & TypeScript 版) | 元数据收集 |
 | [navassherif98/IBM\_Data\_Science\_Professional\_Certification](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification) | 204 | 测验与学习评价／课程／资源 | 教育原生 | This repository contains all the resources and solution to quizzes given and asked in IBM Data Science Professional Certification. | 元数据收集 |
@@ -68,8 +68,8 @@
 | [Anduin2017/CameraVoyeur](https://github.com/Anduin2017/CameraVoyeur) | 140 | 测验与学习评价／应用 | 教育原生 | 摄像头黑入器。（基于RickAstley论文实现） | 元数据收集 |
 | [KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation) | 139 | 测验与学习评价／应用 | 教育原生 | Easy to use and understand multiple-choice question generation algorithm using T5 Transformers. | 元数据收集 |
 | [feiyutalk/leetcode](https://github.com/feiyutalk/leetcode) | 136 | 测验与学习评价／应用 | 教育原生 | :confounded: :confused: :smiley:LeetCode问题解题思路。 | 元数据收集 |
+| [kirilxd/claude-tutor](https://github.com/kirilxd/claude-tutor) | 133 | 测验与学习评价／应用 | 教育原生 | Turn Claude Code into your personal tutor — personalized learning plans, adaptive quizzes, SM-2 spaced repetition, and a web dashboard. Works with … | 元数据收集 |
 | [simplefanC/voj](https://github.com/simplefanC/voj) | 133 | 测验与学习评价／应用 | 教育原生 | Virtual Online Judge（VOJ）是基于微服务架构的高性能在线评测系统。拥有本地判题服务，同时支持其它知名 OJ (HDU、POJ...) 的远程判题。采用现阶段流行技术实现，采用 Docker 容器化部署。 | 元数据收集 |
-| [kirilxd/claude-tutor](https://github.com/kirilxd/claude-tutor) | 132 | 测验与学习评价／应用 | 教育原生 | Turn Claude Code into your personal tutor — personalized learning plans, adaptive quizzes, SM-2 spaced repetition, and a web dashboard. Works with … | 元数据收集 |
 | [nvawntien/go-judge-system](https://github.com/nvawntien/go-judge-system) | 131 | 测验与学习评价／应用 | 教育原生 | An open-source Golang Online Judge platform using microservices, Kafka, sandboxed code execution, and real-time judging. | 元数据收集 |
 | [hit-moodle/moodle-local\_onlinejudge](https://github.com/hit-moodle/moodle-local_onlinejudge) | 124 | 测验与学习评价／应用 | 教育原生 | Online Judge plugin for Moodle 2.7-4.2. | 元数据收集 |
 | [illescasDaniel/Questions](https://github.com/illescasDaniel/Questions) | 124 | 测验与学习评价／应用 | 教育原生 | A modular iOS quiz app | 元数据收集 |
@@ -80,7 +80,7 @@
 | [duthaho/js-quiz](https://github.com/duthaho/js-quiz) | 114 | 测验与学习评价／应用 | 教育原生 | The javascript quiz for learning | 元数据收集 |
 | [yegor256/quiz](https://github.com/yegor256/quiz) | 114 | 测验与学习评价／应用 | 教育原生 | Refactor the code to make it look more object-oriented and maintainable | 元数据收集 |
 | [priyanshuKr1/firebase-android-quiz-app](https://github.com/priyanshuKr1/firebase-android-quiz-app) | 113 | 测验与学习评价／应用 | 教育原生 | An android quiz app for taking and creating mcq's based quizzes using firebase. | 元数据收集 |
-| [oluiscabral/studorama](https://github.com/oluiscabral/studorama) | 108 | 测验与学习评价／应用 | 教育原生 | AI-powered study sessions to enhance your learning | 元数据收集 |
+| [oluiscabral/studorama](https://github.com/oluiscabral/studorama) | 107 | 测验与学习评价／应用 | 教育原生 | AI-powered study sessions to enhance your learning | 元数据收集 |
 | [KrisLiu16/OnlineJudge-GOJ](https://github.com/KrisLiu16/OnlineJudge-GOJ) | 103 | 测验与学习评价／应用 | 教育原生 | GOJ在线评测系统 | 元数据收集 |
 | [YUST777/verdict-community](https://github.com/YUST777/verdict-community) | 103 | 测验与学习评价／应用 | 教育原生 | A modern, all-in-one competitive programming environment. Solve Codeforces problems with a built-in IDE, Whiteboard, and Custom Judge—no more tab s… | 元数据收集 |
 | [surveyjs/surveyjs\_vue\_quickstart](https://github.com/surveyjs/surveyjs_vue_quickstart) | 102 | 测验与学习评价／应用 | 教育原生 | SurveyJS + Vue 2 Quickstart Template | 元数据收集 |
@@ -101,7 +101,8 @@
 - 许可说明：许可证标识以 API 为准；托管服务另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：4,461；最近推送：2026-09-30 21:02:38 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：4,461；最近推送：2026-09-30 21:02:38 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：+0。
 - 核对来源：[来源 1](https://github.com/judge0/judge0/blob/master/README.md)、[来源 2](https://github.com/judge0/judge0)
 
 
@@ -118,5 +119,6 @@ Java 与 Vue 构建的中文考试系统。
 - 许可说明：开源版本、商业版本与题库内容分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：3,907；最近推送：2026-09-30 14:29:03 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：3,906；最近推送：2026-09-30 14:29:03 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：-1。
 - 核对来源：[来源 1](https://github.com/mindskip/xzs/blob/master/README.md)、[来源 2](https://github.com/mindskip/xzs)

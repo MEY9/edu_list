@@ -9,56 +9,56 @@
 
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
-| [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) | 23,310 | 语言学习与阅读训练／应用 | 教育原生 | 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers | 元数据收集 |
-| [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) | 16,889 | 语言学习与阅读训练／课程／资源 | 教育原生 | 专为程序员编写的英语学习指南 v1.2。在线版本请点 -\> | 元数据收集 |
-| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 9,966 | 语言学习与阅读训练／应用 | 教育原生 | 🐸 Read Frog - Language Learning & Translate \| 🐸 陪读蛙 - 语言学习与翻译 | 元数据收集 |
+| [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) | 23,311 | 语言学习与阅读训练／应用 | 教育原生 | 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers | 元数据收集 |
+| [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) | 16,915 | 语言学习与阅读训练／课程／资源 | 教育原生 | 专为程序员编写的英语学习指南 v1.2。在线版本请点 -\> | 元数据收集 |
+| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 9,967 | 语言学习与阅读训练／应用 | 教育原生 | 🐸 Read Frog - Language Learning & Translate \| 🐸 陪读蛙 - 语言学习与翻译 | 元数据收集 |
 | [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) | 5,216 | 语言学习与阅读训练／应用 | 教育原生 | 📃 White paper for Backend developers | 元数据收集 |
-| [tangshimin/MuJing](https://github.com/tangshimin/MuJing) | 4,656 | 语言学习与阅读训练／应用 | 教育原生 | 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。 | 元数据收集 |
-| [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) | 4,335 | 语言学习与阅读训练／应用 | 教育原生 | The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more! | 元数据收集 |
-| [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | 4,199 | 语言学习与阅读训练／应用 | 教育原生 | 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词 | 元数据收集 |
-| [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) | 4,089 | 语言学习与阅读训练／应用 | 教育原生 | Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。 | 元数据收集 |
-| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 3,562 | 语言学习与阅读训练／应用 | 教育原生 | Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-frie… | 元数据收集 |
-| [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) | 3,074 | 语言学习与阅读训练／应用 | 教育原生 | An otaku index for everything! ⭐ Star the project if you like it! | 元数据收集 |
+| [tangshimin/MuJing](https://github.com/tangshimin/MuJing) | 4,657 | 语言学习与阅读训练／应用 | 教育原生 | 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。 | 元数据收集 |
+| [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | 4,386 | 语言学习与阅读训练／应用 | 教育原生 | 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词 | 元数据收集 |
+| [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) | 4,337 | 语言学习与阅读训练／应用 | 教育原生 | The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more! | 元数据收集 |
+| [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) | 4,095 | 语言学习与阅读训练／应用 | 教育原生 | Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。 | 元数据收集 |
+| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 3,564 | 语言学习与阅读训练／应用 | 教育原生 | Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-frie… | 元数据收集 |
+| [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) | 3,075 | 语言学习与阅读训练／应用 | 教育原生 | An otaku index for everything! ⭐ Star the project if you like it! | 元数据收集 |
 | [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) | 2,748 | 语言学习与阅读训练／应用 | 教育原生 | 💬 SpeechGPT is a web application that enables you to converse with ChatGPT. | 元数据收集 |
 | [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) | 1,944 | 语言学习与阅读训练／应用 | 教育原生 | 🌸 Learn Japanese grammar with TypeScript | 元数据收集 |
-| [andylee1890/NewConceptEnglish](https://github.com/andylee1890/NewConceptEnglish) | 1,903 | 语言学习与阅读训练／应用 | 教育原生 | 新概念学习笔记、英语学习资料、英语学习工具分享。 | 元数据收集 |
+| [andylee1890/NewConceptEnglish](https://github.com/andylee1890/NewConceptEnglish) | 1,906 | 语言学习与阅读训练／应用 | 教育原生 | 新概念学习笔记、英语学习资料、英语学习工具分享。 | 元数据收集 |
 | [arianneorpilla/jidoujisho](https://github.com/arianneorpilla/jidoujisho) | 1,776 | 语言学习与阅读训练／应用 | 教育原生 | A full-featured immersion language learning suite for mobile. | 元数据收集 |
 | [mre/the-coding-interview](https://github.com/mre/the-coding-interview) | 1,745 | 语言学习与阅读训练／应用 | 教育原生 | Programming exercises, code katas and puzzles for your job interview training - or just for fun. | 元数据收集 |
-| [Chuloo/mural](https://github.com/Chuloo/mural) | 1,583 | 语言学习与阅读训练／应用 | 教育原生 | The language app you eventually delete. A native iPhone companion for learning through conversation. | 元数据收集 |
+| [Chuloo/mural](https://github.com/Chuloo/mural) | 1,594 | 语言学习与阅读训练／应用 | 教育原生 | The language app you eventually delete. A native iPhone companion for learning through conversation. | 元数据收集 |
 | [LuteOrg/lute-v3](https://github.com/LuteOrg/lute-v3) | 1,576 | 语言学习与阅读训练／应用 | 教育原生 | LUTE = Learning Using Texts: learn languages through reading. | 元数据收集 |
-| [asbplayer/asbplayer](https://github.com/asbplayer/asbplayer) | 1,462 | 语言学习与阅读训练／应用 | 教育原生 | Browser-based media player and Chrome extension for subtitle sentence mining | 元数据收集 |
+| [asbplayer/asbplayer](https://github.com/asbplayer/asbplayer) | 1,463 | 语言学习与阅读训练／应用 | 教育原生 | Browser-based media player and Chrome extension for subtitle sentence mining | 元数据收集 |
 | [chapin666/books](https://github.com/chapin666/books) | 1,270 | 语言学习与阅读训练／课程／资源 | 教育原生 | Awesome Books | 元数据收集 |
 | [xiaochong/hi-kid](https://github.com/xiaochong/hi-kid) | 1,144 | 语言学习与阅读训练／应用 | 教育原生 | HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practi… | 元数据收集 |
 | [SethClydesdale/genki-study-resources](https://github.com/SethClydesdale/genki-study-resources) | 1,089 | 语言学习与阅读训练／课程／资源 | 教育原生 | A collection of exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese. | 元数据收集 |
-| [translate-tools/linguist](https://github.com/translate-tools/linguist) | 1,065 | 语言学习与阅读训练／应用 | 教育原生 | Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your pers… | 元数据收集 |
+| [translate-tools/linguist](https://github.com/translate-tools/linguist) | 1,067 | 语言学习与阅读训练／应用 | 教育原生 | Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your pers… | 元数据收集 |
 | [Interview-Science/interview-english](https://github.com/Interview-Science/interview-english) | 1,017 | 语言学习与阅读训练／应用 | 教育原生 | English for Tech Interview 面试中的英语 | 元数据收集 |
 | [SSmJaE/WELearnHelper](https://github.com/SSmJaE/WELearnHelper) | 887 | 语言学习与阅读训练／应用 | 教育原生 | 显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；基于生成式AI(ChatGPT)的答案生成 | 元数据收集 |
 | [ks233/ja-learner](https://github.com/ks233/ja-learner) | 841 | 语言学习与阅读训练／应用 | 教育原生 | 📖简易日语学习 / 视觉小说阅读辅助工具 | 元数据收集 |
 | [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) | 830 | 语言学习与阅读训练／应用 | 教育原生 | Another desktop dictionary, but way more faster and definition-rich, which makes you truly understand language. | 元数据收集 |
 | [codeyu/EnglishGrammarBook](https://github.com/codeyu/EnglishGrammarBook) | 800 | 语言学习与阅读训练／应用 | 教育原生 | 旋元佑进阶文法 | 元数据收集 |
 | [matt-m-o/YomiNinja](https://github.com/matt-m-o/YomiNinja) | 760 | 语言学习与阅读训练／应用 | 教育原生 | Open-source OCR and dictionary tool. | 元数据收集 |
-| [EthanLin-TWer/ielts](https://github.com/EthanLin-TWer/ielts) | 750 | 语言学习与阅读训练／课程／资源 | 教育原生 | IELTS guide and Cambridge English authentic examination papers (4-15, A+G) for programmers. 程序员雅思备考指南+剑雅4-15真题（A类+G类）全套。 | 元数据收集 |
+| [EthanLin-TWer/ielts](https://github.com/EthanLin-TWer/ielts) | 751 | 语言学习与阅读训练／课程／资源 | 教育原生 | IELTS guide and Cambridge English authentic examination papers (4-15, A+G) for programmers. 程序员雅思备考指南+剑雅4-15真题（A类+G类）全套。 | 元数据收集 |
 | [protogenesis/New-Concept-English](https://github.com/protogenesis/New-Concept-English) | 727 | 语言学习与阅读训练／应用 | 教育原生 | English for Chinese, 新概念英语笔记,英语学习资料 | 元数据收集 |
 | [Orenoid/BabelDuck](https://github.com/Orenoid/BabelDuck) | 691 | 语言学习与阅读训练／应用 | 教育原生 | Beginner-friendly AI conversation practice application | 元数据收集 |
+| [rtr46/meikipop](https://github.com/rtr46/meikipop) | 679 | 语言学习与阅读训练／应用 | 教育原生 | meikipop - universal japanese ocr popup dictionary for windows, linux and macos | 元数据收集 |
 | [Benature/WordReview](https://github.com/Benature/WordReview) | 678 | 语言学习与阅读训练／应用 | 教育原生 | 📚 背单词网页 Django + MySQL + Pug + JS | 元数据收集 |
-| [rtr46/meikipop](https://github.com/rtr46/meikipop) | 677 | 语言学习与阅读训练／应用 | 教育原生 | meikipop - universal japanese ocr popup dictionary for windows, linux and macos | 元数据收集 |
 | [Thiagohgl/ai-pronunciation-trainer](https://github.com/Thiagohgl/ai-pronunciation-trainer) | 522 | 语言学习与阅读训练／应用 | 教育原生 | This tool uses AI to evaluate your pronunciation. | 元数据收集 |
-| [ZackAkil/immersive-language-learning-with-live-api](https://github.com/ZackAkil/immersive-language-learning-with-live-api) | 506 | 语言学习与阅读训练／开发组件 | 教育原生 | Immergo is an immersive language learning application powered by the Google Gemini Live SDK. It simulates real-world roleplay scenarios (e.g., buyi… | 元数据收集 |
+| [ZackAkil/immersive-language-learning-with-live-api](https://github.com/ZackAkil/immersive-language-learning-with-live-api) | 507 | 语言学习与阅读训练／开发组件 | 教育原生 | Immergo is an immersive language learning application powered by the Google Gemini Live SDK. It simulates real-world roleplay scenarios (e.g., buyi… | 元数据收集 |
 | [willianpaixao/awesome-german](https://github.com/willianpaixao/awesome-german) | 482 | 语言学习与阅读训练／课程／资源 | 教育原生 | A great source of information to learn and practice German as a foreign language. :de: | 元数据收集 |
 | [RichardLitt/low-resource-languages](https://github.com/RichardLitt/low-resource-languages) | 459 | 语言学习与阅读训练／课程／资源 | 教育原生 | A curated list of resources for the conservation, development, and documentation of low resource (human) languages. | 元数据收集 |
-| [chigraph/chigraph](https://github.com/chigraph/chigraph) | 444 | 语言学习与阅读训练／应用 | 教育原生 | A visual systems language for beginners compiled using LLVM | 元数据收集 |
+| [chigraph/chigraph](https://github.com/chigraph/chigraph) | 445 | 语言学习与阅读训练／应用 | 教育原生 | A visual systems language for beginners compiled using LLVM | 元数据收集 |
 | [cpprefjp/site](https://github.com/cpprefjp/site) | 433 | 语言学习与阅读训练／应用 | 教育原生 | cpprefjpサイトのMarkdownソース | 元数据收集 |
 | [language-transfer/lt-app](https://github.com/language-transfer/lt-app) | 361 | 语言学习与阅读训练／应用 | 教育原生 | React Native application for Language Transfer | 元数据收集 |
 | [NsLearning/LangHelper](https://github.com/NsLearning/LangHelper) | 349 | 语言学习与阅读训练／课程／资源 | 教育原生 | Striving to create a great Application with full functions of learning languages by ChatGPT, TTS, STT and other awesome AI models, supports talking… | 元数据收集 |
 | [heygsc/word-wind](https://github.com/heygsc/word-wind) | 320 | 语言学习与阅读训练／应用 | 教育原生 | 在线背单词网页 | 元数据收集 |
 | [kkyon/Simple-IT-English](https://github.com/kkyon/Simple-IT-English) | 315 | 语言学习与阅读训练／应用 | 教育原生 | Simple-IT-English: smart wordbook from community for community | 元数据收集 |
-| [xckevin/magic-english-buddy](https://github.com/xckevin/magic-english-buddy) | 307 | 语言学习与阅读训练／应用 | 教育原生 | 专为儿童设计的 AI 英语阅读学习助手 | 元数据收集 |
+| [xckevin/magic-english-buddy](https://github.com/xckevin/magic-english-buddy) | 306 | 语言学习与阅读训练／应用 | 教育原生 | 专为儿童设计的 AI 英语阅读学习助手 | 元数据收集 |
 | [VocabHunter/VocabHunter](https://github.com/VocabHunter/VocabHunter) | 295 | 语言学习与阅读训练／应用 | 教育原生 | VocabHunter helps learners of foreign languages find vital new vocabulary to study. | 元数据收集 |
 | [vito-go/mywords](https://github.com/vito-go/mywords) | 280 | 语言学习与阅读训练／应用 | 教育原生 | 通过在线浏览或手动输入网址，自动提取网页中的单词及其上下文。软件会对单词进行去重、统计，并筛选出陌生的单词。作为一款开源字典工具，它将成为您英语学习的得力助手。 | 元数据收集 |
-| [Talljack/echo-type](https://github.com/Talljack/echo-type) | 278 | 语言学习与阅读训练／应用 | 教育原生 | An English learning SaaS for mastering listening, speaking, reading, and writing skills through immersive practice and typing exercises. | 元数据收集 |
+| [Talljack/echo-type](https://github.com/Talljack/echo-type) | 279 | 语言学习与阅读训练／应用 | 教育原生 | An English learning SaaS for mastering listening, speaking, reading, and writing skills through immersive practice and typing exercises. | 元数据收集 |
 | [hongyuan007/tapword-translator](https://github.com/hongyuan007/tapword-translator) | 271 | 语言学习与阅读训练／应用 | 教育原生 | Displays translations as subtitles, right below the original text, without popups or interruptions \| 🧑‍🎨 触词翻译，像做笔记一样翻译网页 | 元数据收集 |
 | [konieshadow/dart-tour](https://github.com/konieshadow/dart-tour) | 253 | 语言学习与阅读训练／课程／资源 | 教育原生 | Dart语言中文教程，官方文档翻译 | 元数据收集 |
-| [exam-data/NETEMVocabulary](https://github.com/exam-data/NETEMVocabulary) | 248 | 语言学习与阅读训练／应用 | 教育原生 | 考研词汇词频排序数据 | 元数据收集 |
+| [exam-data/NETEMVocabulary](https://github.com/exam-data/NETEMVocabulary) | 249 | 语言学习与阅读训练／应用 | 教育原生 | 考研词汇词频排序数据 | 元数据收集 |
 | [Ilosyi/Hust-CS-Learning-Library](https://github.com/Ilosyi/Hust-CS-Learning-Library) | 237 | 语言学习与阅读训练／开发组件 | 教育原生 | 华中科技大学计算机个人资料合集:课设/实验报告等。tag:数电实验交通灯，C++实验华为，C语言实验，数据结构实验，洛谷算法实验，SAT数独求解器，电路理论，Java，计算机系统基础实验(CSAPP)，组原实验，计网，软件工程，操作系统、函数式编程，头歌 | 元数据收集 |
 | [rgerum/unofficial-duolingo-stories](https://github.com/rgerum/unofficial-duolingo-stories) | 216 | 语言学习与阅读训练／应用 | 教育原生 | This project brings the official Duolingo Stories to new languages, translated by a community effort. | 元数据收集 |
 | [scriptin/topokanji](https://github.com/scriptin/topokanji) | 208 | 语言学习与阅读训练／应用 | 教育原生 | Topologically ordered lists of kanji for effective learning | 元数据收集 |
@@ -74,8 +74,8 @@
 | [arthcc/tech-ears](https://github.com/arthcc/tech-ears) | 179 | 语言学习与阅读训练／应用 | 教育原生 | tech ears: the place where devs can learn english for free | 元数据收集 |
 | [tryhardfifi/pronounce](https://github.com/tryhardfifi/pronounce) | 173 | 语言学习与阅读训练／应用 | 教育原生 | Never doubt how to pronounce a word. Double-click it and your browser will say it out loud for you! | 元数据收集 |
 | [biuworks/bilibili-digest](https://github.com/biuworks/bilibili-digest) | 169 | 语言学习与阅读训练／课程／资源 | 教育原生 | 已上架 Chrome / Edge 商店 🚀 把 B 站视频变成学习资源的浏览器扩展：字幕阅读、双语对照、AI 章节概览、划词解释和带时间戳的笔记 | 元数据收集 |
+| [TheOpenDictionary/odict](https://github.com/TheOpenDictionary/odict) | 169 | 语言学习与阅读训练／应用 | 教育原生 | A blazingly-fast, offline-first format and toolchain for lexical data 📖 | 元数据收集 |
 | [flymysql/WeChat-applets](https://github.com/flymysql/WeChat-applets) | 168 | 语言学习与阅读训练／应用 | 教育原生 | 📚🆎微信小程序小鸡单词 | 元数据收集 |
-| [TheOpenDictionary/odict](https://github.com/TheOpenDictionary/odict) | 168 | 语言学习与阅读训练／应用 | 教育原生 | A blazingly-fast, offline-first format and toolchain for lexical data 📖 | 元数据收集 |
 | [mreichhoff/HanziGraph](https://github.com/mreichhoff/HanziGraph) | 165 | 语言学习与阅读训练／应用 | 教育原生 | A webapp to visualize relationships among Chinese characters and to see example sentences that illustrate their use. Also available for Japanese le… | 元数据收集 |
 | [DipanshKhandelwal/Learning-German](https://github.com/DipanshKhandelwal/Learning-German) | 149 | 语言学习与阅读训练／应用 | 教育原生 | My journey to learn German | 元数据收集 |
 | [sheodox/jimaku-player](https://github.com/sheodox/jimaku-player) | 148 | 语言学习与阅读训练／应用 | 教育原生 | Use your own subtitles on VRV or Crunchyroll to learn Japanese! | 元数据收集 |
@@ -102,7 +102,7 @@
 | [eliuditau001ch/weeb-index](https://github.com/eliuditau001ch/weeb-index) | 116 | 语言学习与阅读训练／应用 | 教育原生 | Best Otaku Anime & Manga Directory 2026 | 元数据收集 |
 | [awesome-english/awesome-english](https://github.com/awesome-english/awesome-english) | 113 | 语言学习与阅读训练／课程／资源 | 教育原生 | 🇬🇧 A collection of useful resources for learning English | 元数据收集 |
 | [orgtre/google-books-ngram-frequency](https://github.com/orgtre/google-books-ngram-frequency) | 113 | 语言学习与阅读训练／课程／资源 | 教育原生 | Word/n-gram frequency lists for the Google Books Ngram Corpus (v3, all languages) with Python code | 元数据收集 |
-| [SahandMalaei/ai-dictionary-koreader](https://github.com/SahandMalaei/ai-dictionary-koreader) | 110 | 语言学习与阅读训练／应用 | 教育原生 | Context-aware AI dictionary plugin for KOReader: instant definitions, explanations, deep dives, pronunciation, and vocabulary learning on e-ink dev… | 元数据收集 |
+| [SahandMalaei/ai-dictionary-koreader](https://github.com/SahandMalaei/ai-dictionary-koreader) | 111 | 语言学习与阅读训练／应用 | 教育原生 | Context-aware AI dictionary plugin for KOReader: instant definitions, explanations, deep dives, pronunciation, and vocabulary learning on e-ink dev… | 元数据收集 |
 | [forkingachild/helloworlds](https://github.com/forkingachild/helloworlds) | 108 | 语言学习与阅读训练／应用 | 教育原生 | Hello-World program in most programming languages | 元数据收集 |
 | [ismaelgt/english-accents-map](https://github.com/ismaelgt/english-accents-map) | 108 | 语言学习与阅读训练／应用 | 教育原生 | 🌍 English Accents Map - A progressive web app (PWA) buit on React, Redux and Firebase | 元数据收集 |
 | [fltenwall/The-English-For-Programmer](https://github.com/fltenwall/The-English-For-Programmer) | 105 | 语言学习与阅读训练／课程／资源 | 教育原生 | 程序员👨🏻‍💻实用英语指南 | 元数据收集 |

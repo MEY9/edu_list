@@ -7,7 +7,7 @@
 
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,735 | 编程与 STEM 教育／应用 | 教育原生 | 包含自学课程与互动编程练习的平台代码库。 | 资料核对 |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 398,464 | 课程、教材与学习路线／课程／资源 | 教育原生 | :books: Freely available programming books | 元数据收集 |
-| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 368,850 | 课程、教材与学习路线／课程／资源 | 教育原生 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 元数据收集 |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 362,311 | 课程、教材与学习路线／应用 | 可用于教育 | A complete computer science study plan to become a software engineer. | 元数据收集 |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,772 | 编程与 STEM 教育／应用 | 教育原生 | 包含自学课程与互动编程练习的平台代码库。 | 资料核对 |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 398,500 | 课程、教材与学习路线／课程／资源 | 教育原生 | :books: Freely available programming books | 元数据收集 |
+| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 368,893 | 课程、教材与学习路线／课程／资源 | 教育原生 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 元数据收集 |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 362,356 | 课程、教材与学习路线／应用 | 可用于教育 | A complete computer science study plan to become a software engineer. | 元数据收集 |

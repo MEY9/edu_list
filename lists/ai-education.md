@@ -9,132 +9,132 @@
 
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
-| [langgenius/dify](https://github.com/langgenius/dify) | 157,841 | AI 教育与智能辅导／应用 | 可用于教育 | 整合模型、知识库和工作流的 LLM 应用开发平台。 | 资料核对 |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 91,678 | AI 教育与智能辅导／应用 | 可用于教育 | 围绕文档检索与生成式 AI 的 RAG 工具。 | 资料核对 |
-| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 85,260 | AI 教育与智能辅导／应用 | 可用于教育 | Graphs that teach \> graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works … | 元数据收集 |
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 82,985 | AI 教育与智能辅导／应用 | 可用于教育 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. | 元数据收集 |
-| [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 46,629 | AI 教育与智能辅导／应用 | 可用于教育 | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 | 元数据收集 |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 40,785 | AI 教育与智能辅导／应用 | 可用于教育 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | 元数据收集 |
-| [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | 38,670 | AI 教育与智能辅导／应用 | 可用于教育 | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 \| Langchain-Chatchat (formerly langchain-ChatGLM),… | 元数据收集 |
-| [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) | 38,196 | AI 教育与智能辅导／应用 | 可用于教育 | Build your personal knowledge base with Trilium Notes | 元数据收集 |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 31,997 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 元数据收集 |
-| [docmost/docmost](https://github.com/docmost/docmost) | 21,868 | AI 教育与智能辅导／应用 | 可用于教育 | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | 元数据收集 |
-| [suitenumerique/docs](https://github.com/suitenumerique/docs) | 16,893 | AI 教育与智能辅导／应用 | 可用于教育 | Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownershi… | 元数据收集 |
-| [memvid/memvid](https://github.com/memvid/memvid) | 16,575 | AI 教育与智能辅导／应用 | 可用于教育 | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-… | 元数据收集 |
-| [codexu/note-gen](https://github.com/codexu/note-gen) | 12,871 | AI 教育与智能辅导／应用 | 可用于教育 | Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. | 元数据收集 |
-| [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) | 12,408 | AI 教育与智能辅导／应用 | 可用于教育 | A distributed, fast open-source graph database featuring horizontal scalability and high availability | 元数据收集 |
-| [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | 10,846 | AI 教育与智能辅导／课程／资源 | 教育原生 | DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! | 元数据收集 |
-| [xwmx/nb](https://github.com/xwmx/nb) | 8,419 | AI 教育与智能辅导／应用 | 可用于教育 | CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc con… | 元数据收集 |
-| [deeplethe/utopia](https://github.com/deeplethe/utopia) | 8,059 | AI 教育与智能辅导／应用 | 可用于教育 | World's first open-source enterprise world model. | 元数据收集 |
-| [xerrors/Yuxi](https://github.com/xerrors/Yuxi) | 7,278 | AI 教育与智能辅导／应用 | 可用于教育 | 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge g… | 元数据收集 |
-| [massCodeIO/massCode](https://github.com/massCodeIO/massCode) | 7,018 | AI 教育与智能辅导／应用 | 可用于教育 | A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app. | 元数据收集 |
+| [langgenius/dify](https://github.com/langgenius/dify) | 157,864 | AI 教育与智能辅导／应用 | 可用于教育 | 整合模型、知识库和工作流的 LLM 应用开发平台。 | 资料核对 |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 91,687 | AI 教育与智能辅导／应用 | 可用于教育 | 围绕文档检索与生成式 AI 的 RAG 工具。 | 资料核对 |
+| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 85,301 | AI 教育与智能辅导／应用 | 可用于教育 | Graphs that teach \> graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works … | 元数据收集 |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 82,987 | AI 教育与智能辅导／应用 | 可用于教育 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. | 元数据收集 |
+| [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 46,630 | AI 教育与智能辅导／应用 | 可用于教育 | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 | 元数据收集 |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 40,807 | AI 教育与智能辅导／应用 | 可用于教育 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | 元数据收集 |
+| [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | 38,669 | AI 教育与智能辅导／应用 | 可用于教育 | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 \| Langchain-Chatchat (formerly langchain-ChatGLM),… | 元数据收集 |
+| [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) | 38,205 | AI 教育与智能辅导／应用 | 可用于教育 | Build your personal knowledge base with Trilium Notes | 元数据收集 |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 32,091 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 元数据收集 |
+| [docmost/docmost](https://github.com/docmost/docmost) | 21,871 | AI 教育与智能辅导／应用 | 可用于教育 | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | 元数据收集 |
+| [suitenumerique/docs](https://github.com/suitenumerique/docs) | 16,892 | AI 教育与智能辅导／应用 | 可用于教育 | Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownershi… | 元数据收集 |
+| [memvid/memvid](https://github.com/memvid/memvid) | 16,574 | AI 教育与智能辅导／应用 | 可用于教育 | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-… | 元数据收集 |
+| [codexu/note-gen](https://github.com/codexu/note-gen) | 12,869 | AI 教育与智能辅导／应用 | 可用于教育 | Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. | 元数据收集 |
+| [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) | 12,407 | AI 教育与智能辅导／应用 | 可用于教育 | A distributed, fast open-source graph database featuring horizontal scalability and high availability | 元数据收集 |
+| [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | 10,845 | AI 教育与智能辅导／课程／资源 | 教育原生 | DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! | 元数据收集 |
+| [xwmx/nb](https://github.com/xwmx/nb) | 8,417 | AI 教育与智能辅导／应用 | 可用于教育 | CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc con… | 元数据收集 |
+| [deeplethe/utopia](https://github.com/deeplethe/utopia) | 8,073 | AI 教育与智能辅导／应用 | 可用于教育 | World's first open-source enterprise world model. | 元数据收集 |
+| [xerrors/Yuxi](https://github.com/xerrors/Yuxi) | 7,277 | AI 教育与智能辅导／应用 | 可用于教育 | 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge g… | 元数据收集 |
+| [massCodeIO/massCode](https://github.com/massCodeIO/massCode) | 7,019 | AI 教育与智能辅导／应用 | 可用于教育 | A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app. | 元数据收集 |
 | [athensresearch/athens](https://github.com/athensresearch/athens) | 6,294 | AI 教育与智能辅导／应用 | 可用于教育 | Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21 | 元数据收集 |
-| [the-open-agent/openagent](https://github.com/the-open-agent/openagent) | 5,689 | AI 教育与智能辅导／应用 | 可用于教育 | ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://d… | 元数据收集 |
-| [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 5,369 | AI 教育与智能辅导／应用 | 可用于教育 | 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via … | 元数据收集 |
-| [colanode/colanode](https://github.com/colanode/colanode) | 5,156 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source and local-first Slack and Notion alternative that puts you in control of your data | 元数据收集 |
+| [the-open-agent/openagent](https://github.com/the-open-agent/openagent) | 5,685 | AI 教育与智能辅导／应用 | 可用于教育 | ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://d… | 元数据收集 |
+| [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 5,365 | AI 教育与智能辅导／应用 | 可用于教育 | 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via … | 元数据收集 |
+| [colanode/colanode](https://github.com/colanode/colanode) | 5,157 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source and local-first Slack and Notion alternative that puts you in control of your data | 元数据收集 |
 | [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) | 4,831 | AI 教育与智能辅导／应用 | 可用于教育 | This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technolog… | 元数据收集 |
-| [VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB) | 4,724 | AI 教育与智能辅导／应用 | 可用于教育 | OpenKB: Open LLM Knowledge Base | 元数据收集 |
-| [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) | 4,609 | AI 教育与智能辅导／应用 | 可用于教育 | Knowledge Base 慢雾安全团队知识库 | 元数据收集 |
-| [typedb/typedb](https://github.com/typedb/typedb) | 4,477 | AI 教育与智能辅导／应用 | 可用于教育 | TypeDB: Built for systems, not records | 元数据收集 |
-| [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 4,381 | AI 教育与智能辅导／应用 | 可用于教育 | Beautiful, AI-native markdown IDE and LLM wiki | 元数据收集 |
-| [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) | 3,598 | AI 教育与智能辅导／应用 | 可用于教育 | A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintain… | 元数据收集 |
-| [deta/surf](https://github.com/deta/surf) | 3,590 | AI 教育与智能辅导／应用 | 可用于教育 | Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local). | 元数据收集 |
-| [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) | 3,574 | AI 教育与智能辅导／应用 | 可用于教育 | A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp. | 元数据收集 |
-| [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) | 3,524 | AI 教育与智能辅导／开发组件 | 可用于教育 | Framework for AI agents to build and maintain a digital brain through Obsidian wiki \| Memory System for Agents | 元数据收集 |
-| [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) | 3,492 | AI 教育与智能辅导／应用 | 可用于教育 | Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and … | 元数据收集 |
+| [VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB) | 4,728 | AI 教育与智能辅导／应用 | 可用于教育 | OpenKB: Open LLM Knowledge Base | 元数据收集 |
+| [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) | 4,607 | AI 教育与智能辅导／应用 | 可用于教育 | Knowledge Base 慢雾安全团队知识库 | 元数据收集 |
+| [typedb/typedb](https://github.com/typedb/typedb) | 4,476 | AI 教育与智能辅导／应用 | 可用于教育 | TypeDB: Built for systems, not records | 元数据收集 |
+| [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 4,382 | AI 教育与智能辅导／应用 | 可用于教育 | Beautiful, AI-native markdown IDE and LLM wiki | 元数据收集 |
+| [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) | 3,599 | AI 教育与智能辅导／应用 | 可用于教育 | A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintain… | 元数据收集 |
+| [deta/surf](https://github.com/deta/surf) | 3,591 | AI 教育与智能辅导／应用 | 可用于教育 | Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local). | 元数据收集 |
+| [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) | 3,572 | AI 教育与智能辅导／应用 | 可用于教育 | A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp. | 元数据收集 |
+| [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) | 3,522 | AI 教育与智能辅导／开发组件 | 可用于教育 | Framework for AI agents to build and maintain a digital brain through Obsidian wiki \| Memory System for Agents | 元数据收集 |
+| [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) | 3,490 | AI 教育与智能辅导／应用 | 可用于教育 | Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and … | 元数据收集 |
 | [gnebbia/kb](https://github.com/gnebbia/kb) | 3,413 | AI 教育与智能辅导／应用 | 可用于教育 | A minimalist command line knowledge base manager | 元数据收集 |
 | [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) | 3,388 | AI 教育与智能辅导／应用 | 可用于教育 | OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files… | 元数据收集 |
 | [archivy/archivy](https://github.com/archivy/archivy) | 3,279 | AI 教育与智能辅导／应用 | 可用于教育 | Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki. | 元数据收集 |
-| [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) | 2,990 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot. | 元数据收集 |
-| [datachain-ai/datachain](https://github.com/datachain-ai/datachain) | 2,822 | AI 教育与智能辅导／应用 | 可用于教育 | The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure | 元数据收集 |
-| [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) | 2,818 | AI 教育与智能辅导／应用 | 可用于教育 | Your Self-Hosted Knowledge Base | 元数据收集 |
-| [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 2,784 | AI 教育与智能辅导／应用 | 可用于教育 | 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. … | 元数据收集 |
-| [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) | 2,772 | AI 教育与智能辅导／应用 | 可用于教育 | The Semantic Intelligence Layer for Ontologies | 元数据收集 |
-| [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG) | 2,517 | AI 教育与智能辅导／应用 | 可用于教育 | A new SOTA for RAG — an original retrieval architecture and an open-source knowledge base for humans and agents. | 元数据收集 |
+| [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) | 2,989 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot. | 元数据收集 |
+| [datachain-ai/datachain](https://github.com/datachain-ai/datachain) | 2,821 | AI 教育与智能辅导／应用 | 可用于教育 | The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure | 元数据收集 |
+| [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) | 2,819 | AI 教育与智能辅导／应用 | 可用于教育 | Your Self-Hosted Knowledge Base | 元数据收集 |
+| [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 2,783 | AI 教育与智能辅导／应用 | 可用于教育 | 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. … | 元数据收集 |
+| [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) | 2,771 | AI 教育与智能辅导／应用 | 可用于教育 | The Semantic Intelligence Layer for Ontologies | 元数据收集 |
+| [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG) | 2,516 | AI 教育与智能辅导／应用 | 可用于教育 | A new SOTA for RAG — an original retrieval architecture and an open-source knowledge base for humans and agents. | 元数据收集 |
 | [helpyio/helpy](https://github.com/helpyio/helpy) | 2,467 | AI 教育与智能辅导／应用 | 可用于教育 | Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets int… | 元数据收集 |
 | [documize/community](https://github.com/documize/community) | 2,419 | AI 教育与智能辅导／应用 | 可用于教育 | Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS | 元数据收集 |
-| [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) | 2,414 | AI 教育与智能辅导／应用 | 可用于教育 | Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting. | 元数据收集 |
+| [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) | 2,415 | AI 教育与智能辅导／应用 | 可用于教育 | Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting. | 元数据收集 |
 | [OffcierCia/ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) | 2,239 | AI 教育与智能辅导／应用 | 可用于教育 | Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. | 元数据收集 |
 | [lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph) | 2,179 | AI 教育与智能辅导／应用 | 可用于教育 | 利用网络上公开的数据构建一个小型的证券知识图谱/知识库 | 元数据收集 |
-| [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) | 2,161 | AI 教育与智能辅导／应用 | 可用于教育 | The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern. | 元数据收集 |
-| [bohyy/academic-ai-prompt](https://github.com/bohyy/academic-ai-prompt) | 2,019 | AI 教育与智能辅导／应用 | 可用于教育 | 一套为研究生和学术研究者设计的完整AI Prompt库 📖 包含内容： ✨ 40+ 精心设计的AI Prompt ✨ 论文选题系统方法（生成、评估、论证） ✨ 论文查找快速方案（8个不同方案） ✨ 文献综述框架和工具 ✨ Excel自动评估表格 ✨ 3个完整的论证模板 🚀 核心优势： ⚡ 节省… | 元数据收集 |
-| [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 2,009 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker. | 元数据收集 |
-| [kenforthewin/atomic](https://github.com/kenforthewin/atomic) | 1,972 | AI 教育与智能辅导／应用 | 可用于教育 | Self-hosted, semantically-connected personal knowledge base | 元数据收集 |
-| [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) | 1,876 | AI 教育与智能辅导／课程／资源 | 教育原生 | Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome. | 元数据收集 |
-| [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | 1,761 | AI 教育与智能辅导／应用 | 可用于教育 | The cross-harness, self-improving memory layer for AI agents. | 元数据收集 |
-| [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) | 1,662 | AI 教育与智能辅导／应用 | 可用于教育 | Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! | 元数据收集 |
-| [thomvaill/log4brains](https://github.com/thomvaill/log4brains) | 1,598 | AI 教育与智能辅导／应用 | 可用于教育 | ✍️ Architecture Decision Records (ADR) management and publication tool | 元数据收集 |
+| [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) | 2,160 | AI 教育与智能辅导／应用 | 可用于教育 | The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern. | 元数据收集 |
+| [bohyy/academic-ai-prompt](https://github.com/bohyy/academic-ai-prompt) | 2,024 | AI 教育与智能辅导／应用 | 可用于教育 | 一套为研究生和学术研究者设计的完整AI Prompt库 📖 包含内容： ✨ 40+ 精心设计的AI Prompt ✨ 论文选题系统方法（生成、评估、论证） ✨ 论文查找快速方案（8个不同方案） ✨ 文献综述框架和工具 ✨ Excel自动评估表格 ✨ 3个完整的论证模板 🚀 核心优势： ⚡ 节省… | 元数据收集 |
+| [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 2,023 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker. | 元数据收集 |
+| [kenforthewin/atomic](https://github.com/kenforthewin/atomic) | 1,969 | AI 教育与智能辅导／应用 | 可用于教育 | Self-hosted, semantically-connected personal knowledge base | 元数据收集 |
+| [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) | 1,878 | AI 教育与智能辅导／课程／资源 | 教育原生 | Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome. | 元数据收集 |
+| [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | 1,767 | AI 教育与智能辅导／应用 | 可用于教育 | The cross-harness, self-improving memory layer for AI agents. | 元数据收集 |
+| [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) | 1,663 | AI 教育与智能辅导／应用 | 可用于教育 | Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! | 元数据收集 |
+| [thomvaill/log4brains](https://github.com/thomvaill/log4brains) | 1,599 | AI 教育与智能辅导／应用 | 可用于教育 | ✍️ Architecture Decision Records (ADR) management and publication tool | 元数据收集 |
 | [Prismer-AI/PrismerCloud](https://github.com/Prismer-AI/PrismerCloud) | 1,554 | AI 教育与智能辅导／应用 | 可用于教育 | Prismer Cloud | 元数据收集 |
-| [GitHamza0206/simba](https://github.com/GitHamza0206/simba) | 1,545 | AI 教育与智能辅导／应用 | 可用于教育 | OpenSource Production ready Customer service with built in Evals and monitoring | 元数据收集 |
+| [GitHamza0206/simba](https://github.com/GitHamza0206/simba) | 1,544 | AI 教育与智能辅导／应用 | 可用于教育 | OpenSource Production ready Customer service with built in Evals and monitoring | 元数据收集 |
 | [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) | 1,517 | AI 教育与智能辅导／应用 | 可用于教育 | This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundatio… | 元数据收集 |
 | [limecloud/lime](https://github.com/limecloud/lime) | 1,482 | AI 教育与智能辅导／应用 | 可用于教育 | Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows. | 元数据收集 |
 | [LangChat/langchat](https://github.com/LangChat/langchat) | 1,292 | AI 教育与智能辅导／应用 | 可用于教育 | LangChat 是由 LangChat Team 开发的开源 AI Agent 应用平台，支持多模型、Agent、知识库 RAG、Skills、MCP 与智能问数。 | 元数据收集 |
 | [0xranx/OpenContext](https://github.com/0xranx/OpenContext) | 1,256 | AI 教育与智能辅导／应用 | 可用于教育 | A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a… | 元数据收集 |
-| [tllovesxs/wandao](https://github.com/tllovesxs/wandao) | 1,210 | AI 教育与智能辅导／应用 | 可用于教育 | 万能导:多平台知识库 Markdown 全项目一键导入导出工具(导入导出效果最好),用自动化代替手动复制粘贴(有道云,飞书,语雀,阿里云知识库,知识星球,印象笔记,ima,onenote,为知笔记,csdn,知乎,微信公众号导出导入).(可保留目录结构,图片,项目格式) 关键词:微信公众号导出… | 元数据收集 |
-| [chubbyguan/chubbyskills](https://github.com/chubbyguan/chubbyskills) | 1,171 | AI 教育与智能辅导／应用 | 可用于教育 | 把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 14 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU、RSS/YouTube 订阅调度与每日情报简报，附带知识库 MCP server。｜ Ingest Chinese conte… | 元数据收集 |
-| [perber/leafwiki](https://github.com/perber/leafwiki) | 1,166 | AI 教育与智能辅导／应用 | 可用于教育 | LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required. | 元数据收集 |
+| [tllovesxs/wandao](https://github.com/tllovesxs/wandao) | 1,215 | AI 教育与智能辅导／应用 | 可用于教育 | 万能导:多平台知识库 Markdown 全项目一键导入导出工具(导入导出效果最好),用自动化代替手动复制粘贴(有道云,飞书,语雀,阿里云知识库,知识星球,印象笔记,ima,onenote,为知笔记,csdn,知乎,微信公众号导出导入).(可保留目录结构,图片,项目格式) 关键词:微信公众号导出… | 元数据收集 |
+| [chubbyguan/chubbyskills](https://github.com/chubbyguan/chubbyskills) | 1,175 | AI 教育与智能辅导／应用 | 可用于教育 | 把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 14 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU、RSS/YouTube 订阅调度与每日情报简报，附带知识库 MCP server。｜ Ingest Chinese conte… | 元数据收集 |
+| [perber/leafwiki](https://github.com/perber/leafwiki) | 1,167 | AI 教育与智能辅导／应用 | 可用于教育 | LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required. | 元数据收集 |
 | [brufdev/many-notes](https://github.com/brufdev/many-notes) | 1,092 | AI 教育与智能辅导／应用 | 可用于教育 | Markdown note-taking web application designed for simplicity | 元数据收集 |
 | [heathersherry/Knowledge-Graph-Tutorials-and-Papers](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers) | 1,073 | AI 教育与智能辅导／课程／资源 | 教育原生 | Insightful Tutorials and Papers about Knowledge Graphs | 元数据收集 |
 | [vercel-labs/knowledge-agent-template](https://github.com/vercel-labs/knowledge-agent-template) | 1,063 | AI 教育与智能辅导／应用 | 可用于教育 | Open source file-system and knowledge based agent template. Build AI agents that stay up to date with your knowledge base | 元数据收集 |
-| [shuaiplus/inkstone](https://github.com/shuaiplus/inkstone) | 1,056 | AI 教育与智能辅导／应用 | 可用于教育 | A self-hosted Markdown notebook that runs entirely on Cloudflare Workers. | 元数据收集 |
+| [shuaiplus/inkstone](https://github.com/shuaiplus/inkstone) | 1,059 | AI 教育与智能辅导／应用 | 可用于教育 | A self-hosted Markdown notebook that runs entirely on Cloudflare Workers. | 元数据收集 |
 | [opencog/atomspace](https://github.com/opencog/atomspace) | 1,002 | AI 教育与智能辅导／应用 | 可用于教育 | The OpenCog (hyper-)graph database and graph rewriting system | 元数据收集 |
 | [AlmanacCode/codealmanac](https://github.com/AlmanacCode/codealmanac) | 997 | AI 教育与智能辅导／应用 | 可用于教育 | A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas. | 元数据收集 |
 | [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) | 983 | AI 教育与智能辅导／课程／资源 | 教育原生 | A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly. | 元数据收集 |
 | [BaranziniLab/KG\_RAG](https://github.com/BaranziniLab/KG_RAG) | 947 | AI 教育与智能辅导／应用 | 可用于教育 | Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks | 元数据收集 |
-| [Erudika/scoold](https://github.com/Erudika/scoold) | 923 | AI 教育与智能辅导／应用 | 可用于教育 | The Stack Overflow clone for your team (self-hosted or hosted) | 元数据收集 |
-| [churichard/notabase](https://github.com/churichard/notabase) | 912 | AI 教育与智能辅导／应用 | 可用于教育 | A second brain for your knowledge, thoughts, and ideas. | 元数据收集 |
+| [Erudika/scoold](https://github.com/Erudika/scoold) | 922 | AI 教育与智能辅导／应用 | 可用于教育 | The Stack Overflow clone for your team (self-hosted or hosted) | 元数据收集 |
+| [churichard/notabase](https://github.com/churichard/notabase) | 911 | AI 教育与智能辅导／应用 | 可用于教育 | A second brain for your knowledge, thoughts, and ideas. | 元数据收集 |
 | [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO) | 900 | AI 教育与智能辅导／应用 | 可用于教育 | 学习安全运营的记录 \| The knowledge base of security operation | 元数据收集 |
 | [liweiphys/layra](https://github.com/liweiphys/layra) | 898 | AI 教育与智能辅导／应用 | 可用于教育 | LAYRA—an enterprise-ready, out-of-the-box solution—unlocks next-generation intelligent systems powered by visual RAG and limitless visual multi-ste… | 元数据收集 |
-| [aakarim/OpenLore](https://github.com/aakarim/OpenLore) | 887 | AI 教育与智能辅导／应用 | 可用于教育 | A minimal, extensible, agent-native knowledge base that keeps shared context current and inspectable | 元数据收集 |
+| [aakarim/OpenLore](https://github.com/aakarim/OpenLore) | 893 | AI 教育与智能辅导／应用 | 可用于教育 | A minimal, extensible, agent-native knowledge base that keeps shared context current and inspectable | 元数据收集 |
 | [svsool/memo](https://github.com/svsool/memo) | 883 | AI 教育与智能辅导／应用 | 可用于教育 | Markdown knowledge base with bidirectional \[\[link\]\]s built on top of VSCode | 元数据收集 |
-| [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app) | 854 | AI 教育与智能辅导／应用 | 可用于教育 | Lightweight Knowledge Base and Feed Reader. | 元数据收集 |
+| [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app) | 855 | AI 教育与智能辅导／应用 | 可用于教育 | Lightweight Knowledge Base and Feed Reader. | 元数据收集 |
 | [kytmanov/obsidian-llm-wiki-local](https://github.com/kytmanov/obsidian-llm-wiki-local) | 829 | AI 教育与智能辅导／应用 | 可用于教育 | Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts concepts → your Obsidian wiki auto-links and grows. Zero sharing. Yo… | 元数据收集 |
-| [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) | 805 | AI 教育与智能辅导／应用 | 可用于教育 | A community-driven knowledge base of practical patterns for Effect-TS. | 元数据收集 |
+| [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) | 804 | AI 教育与智能辅导／应用 | 可用于教育 | A community-driven knowledge base of practical patterns for Effect-TS. | 元数据收集 |
 | [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) | 770 | AI 教育与智能辅导／应用 | 可用于教育 | Logic Language for World Models 🌱🐋🌍 | 元数据收集 |
 | [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) | 767 | AI 教育与智能辅导／应用 | 可用于教育 | A local-first and universal knowledge graph, personal search engine, and workspace for your life. | 元数据收集 |
-| [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) | 750 | AI 教育与智能辅导／应用 | 可用于教育 | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progre… | 元数据收集 |
+| [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) | 752 | AI 教育与智能辅导／应用 | 可用于教育 | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progre… | 元数据收集 |
 | [NicholasSpisak/second-brain](https://github.com/NicholasSpisak/second-brain) | 734 | AI 教育与智能辅导／应用 | 可用于教育 | LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern. | 元数据收集 |
 | [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) | 727 | AI 教育与智能辅导／应用 | 可用于教育 | Chronicler is a free, offline worldbuilding tool and local wiki for writers, game masters, and tabletop RPG creators. It saves your notes as plain … | 元数据收集 |
 | [inception-project/inception](https://github.com/inception-project/inception) | 720 | AI 教育与智能辅导／应用 | 可用于教育 | INCEpTION provides a semantic annotation platform offering intelligent annotation assistance and knowledge management. | 元数据收集 |
 | [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) | 716 | AI 教育与智能辅导／应用 | 可用于教育 | Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips | 元数据收集 |
 | [ozekik/awesome-ontology](https://github.com/ozekik/awesome-ontology) | 713 | AI 教育与智能辅导／课程／资源 | 教育原生 | A curated list of ontology things | 元数据收集 |
-| [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) | 690 | AI 教育与智能辅导／应用 | 可用于教育 | Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP. | 元数据收集 |
+| [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) | 691 | AI 教育与智能辅导／应用 | 可用于教育 | Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP. | 元数据收集 |
 | [GeminiLight/MindOS](https://github.com/GeminiLight/MindOS) | 677 | AI 教育与智能辅导／应用 | 可用于教育 | MindOS is a Human-AI Collaborative Mind System, where human thinks and agents act. Globally sync your mind for all agents: transparent, controllabl… | 元数据收集 |
-| [hyperquest-hq/hyperbase](https://github.com/hyperquest-hq/hyperbase) | 649 | AI 教育与智能辅导／开发组件 | 可用于教育 | A foundational library for Semantic Hypergraphs | 元数据收集 |
+| [hyperquest-hq/hyperbase](https://github.com/hyperquest-hq/hyperbase) | 648 | AI 教育与智能辅导／开发组件 | 可用于教育 | A foundational library for Semantic Hypergraphs | 元数据收集 |
 | [thunlp/OpenHowNet](https://github.com/thunlp/OpenHowNet) | 641 | AI 教育与智能辅导／应用 | 可用于教育 | Core Data of HowNet and OpenHowNet Python API | 元数据收集 |
 | [nolebase/nolebase](https://github.com/nolebase/nolebase) | 636 | AI 教育与智能辅导／应用 | 可用于教育 | A place to record memories, knowledge and ideas \| 记录回忆，知识和畅想的地方 | 元数据收集 |
-| [kiwifs/kiwifs](https://github.com/kiwifs/kiwifs) | 630 | AI 教育与智能辅导／应用 | 可用于教育 | Markdown filesystem for agents and teams. | 元数据收集 |
+| [kiwifs/kiwifs](https://github.com/kiwifs/kiwifs) | 631 | AI 教育与智能辅导／应用 | 可用于教育 | Markdown filesystem for agents and teams. | 元数据收集 |
 | [docsagent/docsagent](https://github.com/docsagent/docsagent) | 625 | AI 教育与智能辅导／应用 | 可用于教育 | ⚡ DocsAgent — give your AI agents instant, private access to your personal knowledge base (Zotero, Obsidian, Apple Notes supported now, local docs … | 元数据收集 |
 | [lycohana/BiliSum](https://github.com/lycohana/BiliSum) | 621 | AI 教育与智能辅导／应用 | 可用于教育 | 为 Bilibili、YouTube 及本地视频提供 AI 视频摘要和知识库.AI video summarizer and knowledge base for Bilibili, YouTube and local videos. | 元数据收集 |
 | [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) | 618 | AI 教育与智能辅导／应用 | 可用于教育 | A modern, feature-rich, databaseless flat-file wiki platform built with Go. | 元数据收集 |
 | [woojeongjin/dynamic-KG](https://github.com/woojeongjin/dynamic-KG) | 610 | AI 教育与智能辅导／应用 | 可用于教育 | Dynamic (Temporal) Knowledge Graph Completion (Reasoning) | 元数据收集 |
 | [Gram-ax/gramax](https://github.com/Gram-ax/gramax) | 608 | AI 教育与智能辅导／应用 | 可用于教育 | Embrace a docs-as-code approach to build, version, and publish Git-driven documentation sites using Markdown and a visual editor | 元数据收集 |
 | [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) | 606 | AI 教育与智能辅导／应用 | 可用于教育 | \[ACL 2021\] Learning Dense Representations of Phrases at Scale; EMNLP'2021: Phrase Retrieval Learns Passage Retrieval, Too https://arxiv.org/abs/201… | 元数据收集 |
-| [zosmaai/pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki) | 603 | AI 教育与智能辅导／应用 | 可用于教育 | Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds. Native Open Knowledge Forma… | 元数据收集 |
+| [zosmaai/pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki) | 604 | AI 教育与智能辅导／应用 | 可用于教育 | Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds. Native Open Knowledge Forma… | 元数据收集 |
 | [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) | 576 | AI 教育与智能辅导／应用 | 可用于教育 | Dataset and benchmark for RAG on company internal documents. | 元数据收集 |
 | [skygazer42/MimirQ](https://github.com/skygazer42/MimirQ) | 561 | AI 教育与智能辅导／应用 | 可用于教育 | 中文优先的企业 RAG 知识库：可控解析、治理、切块、混合检索、重排、引用、图谱、评测与 Dify 接入。 | 元数据收集 |
 | [cropflre/nowen-note](https://github.com/cropflre/nowen-note) | 546 | AI 教育与智能辅导／应用 | 可用于教育 | 开源自托管笔记与私有知识库，支持 Markdown/富文本、AI 写作、思维导图、任务管理、全文搜索、多级笔记本和 Docker 一键部署。 | 元数据收集 |
 | [awslabs/generative-ai-cdk-constructs](https://github.com/awslabs/generative-ai-cdk-constructs) | 544 | AI 教育与智能辅导／应用 | 可用于教育 | AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns. | 元数据收集 |
 | [lemonhu/open-entity-relation-extraction](https://github.com/lemonhu/open-entity-relation-extraction) | 538 | AI 教育与智能辅导／应用 | 可用于教育 | Knowledge triples extraction and knowledge base construction based on dependency syntax for open domain text. | 元数据收集 |
-| [LeDat98/NexusRAG](https://github.com/LeDat98/NexusRAG) | 530 | AI 教育与智能辅导／应用 | 可用于教育 | Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intellig… | 元数据收集 |
+| [LeDat98/NexusRAG](https://github.com/LeDat98/NexusRAG) | 531 | AI 教育与智能辅导／应用 | 可用于教育 | Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intellig… | 元数据收集 |
 | [rockbenben/LearnData](https://github.com/rockbenben/LearnData) | 529 | AI 教育与智能辅导／应用 | 可用于教育 | 开源笔记模板，一键部署个人知识库和博客 \| 开源工具、效率方法、心理学探索的自我提升笔记 | 元数据收集 |
 | [Sentient-OS-Labs/sentient-os](https://github.com/Sentient-OS-Labs/sentient-os) | 525 | AI 教育与智能辅导／应用 | 可用于教育 | An on-device LLM understands your entire life, then proactively offers to get your work done through computer use. | 元数据收集 |
 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 521 | AI 教育与智能辅导／开发组件 | 可用于教育 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. \| https://misa… | 元数据收集 |
-| [unbody-io/unbody](https://github.com/unbody-io/unbody) | 521 | AI 教育与智能辅导／应用 | 可用于教育 | The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data. | 元数据收集 |
+| [unbody-io/unbody](https://github.com/unbody-io/unbody) | 520 | AI 教育与智能辅导／应用 | 可用于教育 | The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data. | 元数据收集 |
 | [davidmyersdev/octo](https://github.com/davidmyersdev/octo) | 513 | AI 教育与智能辅导／应用 | 可用于教育 | A local-first knowledge management app | 元数据收集 |
-| [KimGLee/Cambium](https://github.com/KimGLee/Cambium) | 505 | AI 教育与智能辅导／应用 | 可用于教育 | Governance standard and reference toolset for LLM-maintained knowledge corpora | 元数据收集 |
+| [KimGLee/Cambium](https://github.com/KimGLee/Cambium) | 512 | AI 教育与智能辅导／应用 | 可用于教育 | Governance standard and reference toolset for LLM-maintained knowledge corpora | 元数据收集 |
 | [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) | 488 | AI 教育与智能辅导／应用 | 可用于教育 | Turn GitHub into a bookmark manager | 元数据收集 |
 | [breck7/scroll](https://github.com/breck7/scroll) | 486 | AI 教育与智能辅导／应用 | 可用于教育 | Scroll is a language for scientists of all ages. Scroll includes a command line app that builds static blogs, websites, CSVs, text files, and more. | 元数据收集 |
 | [JimmySadek/youtube-fetcher-to-markdown](https://github.com/JimmySadek/youtube-fetcher-to-markdown) | 486 | AI 教育与智能辅导／应用 | 可用于教育 | Portable AI-agent skill: capture YouTube transcripts as Obsidian-ready Markdown with metadata, linked timestamps, language selection, and subtitle … | 元数据收集 |
 | [redeye-framework/Redeye](https://github.com/redeye-framework/Redeye) | 472 | AI 教育与智能辅导／应用 | 可用于教育 | Redeye is a tool intended to help you manage your data during a pentest operation | 元数据收集 |
 | [Beever-AI/beever-atlas](https://github.com/Beever-AI/beever-atlas) | 450 | AI 教育与智能辅导／应用 | 可用于教育 | Your First LLM-Wiki Conversation Knowledge Base | 元数据收集 |
-| [frappe/wiki](https://github.com/frappe/wiki) | 442 | AI 教育与智能辅导／应用 | 可用于教育 | Free and Open Source Wiki built on top of Frappe | 元数据收集 |
-| [owlistic-notes/owlistic](https://github.com/owlistic-notes/owlistic) | 435 | AI 教育与智能辅导／应用 | 可用于教育 | 🦉 Free open-source notetaking app with real-time sync 🔄⚡️🚀 | 元数据收集 |
+| [frappe/wiki](https://github.com/frappe/wiki) | 441 | AI 教育与智能辅导／应用 | 可用于教育 | Free and Open Source Wiki built on top of Frappe | 元数据收集 |
+| [owlistic-notes/owlistic](https://github.com/owlistic-notes/owlistic) | 434 | AI 教育与智能辅导／应用 | 可用于教育 | 🦉 Free open-source notetaking app with real-time sync 🔄⚡️🚀 | 元数据收集 |
 | [classfang/AIHub](https://github.com/classfang/AIHub) | 420 | AI 教育与智能辅导／课程／资源 | 教育原生 | 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the… | 元数据收集 |
 | [AlexYangLi/ccks2019\_el](https://github.com/AlexYangLi/ccks2019_el) | 411 | AI 教育与智能辅导／应用 | 可用于教育 | CCKS 2019 中文短文本实体链指比赛技术创新奖解决方案 | 元数据收集 |
 | [ai919/Awesome-ChatGPT](https://github.com/ai919/Awesome-ChatGPT) | 400 | AI 教育与智能辅导／课程／资源 | 教育原生 | 🤖 Awesome ChatGPT 中文全指南 🤖这是一个ChatGPT相关的持续更新知识库。如果你对该领域保持着兴趣欢迎关注并运用该知识库！ | 元数据收集 |
 | [Pratiyush/llm-wiki](https://github.com/Pratiyush/llm-wiki) | 394 | AI 教育与智能辅导／应用 | 可用于教育 | LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped. | 元数据收集 |
-| [microsoft/iq-series](https://github.com/microsoft/iq-series) | 382 | AI 教育与智能辅导／应用 | 可用于教育 | The IQ Series is a hands-on learning experience for Microsoft IQ: Microsoft's unified intelligence layer for the enterprise, spanning Foundry IQ, W… | 元数据收集 |
+| [microsoft/iq-series](https://github.com/microsoft/iq-series) | 383 | AI 教育与智能辅导／应用 | 可用于教育 | The IQ Series is a hands-on learning experience for Microsoft IQ: Microsoft's unified intelligence layer for the enterprise, spanning Foundry IQ, W… | 元数据收集 |
 | [veyliss/ai-localbase](https://github.com/veyliss/ai-localbase) | 378 | AI 教育与智能辅导／应用 | 可用于教育 | 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务 | 元数据收集 |
 | [blakmatrix/node-zendesk](https://github.com/blakmatrix/node-zendesk) | 374 | AI 教育与智能辅导／开发组件 | 可用于教育 | A trusted Zendesk API client library for Node.js and the browser, lovingly maintained for over 10 years. | 元数据收集 |
 | [trvon/yams](https://github.com/trvon/yams) | 373 | AI 教育与智能辅导／应用 | 可用于教育 | Persistent memory for LLMs and apps. Content-addressed storage with dedupe, compression, full-text and vector search. | 元数据收集 |
@@ -143,28 +143,28 @@
 | [andrea9293/mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) | 342 | AI 教育与智能辅导／应用 | 可用于教育 | MCP Documentation Server - Bridge the AI Knowledge Gap. ✨ Features: Document management • Gemini integration • AI-powered semantic search • File up… | 元数据收集 |
 | [ergut/mcp-logseq](https://github.com/ergut/mcp-logseq) | 339 | AI 教育与智能辅导／应用 | 可用于教育 | MCP server to interact with LogSeq via its Local HTTP API - enabling AI assistants like Claude to seamlessly read, write, and manage your LogSeq gr… | 元数据收集 |
 | [alsacreations/kiwipedia](https://github.com/alsacreations/kiwipedia) | 338 | AI 教育与智能辅导／应用 | 可用于教育 | Base de connaissances techniques et bonnes pratiques internes à l'agence Alsacréations | 元数据收集 |
+| [busabase/busabase](https://github.com/busabase/busabase) | 338 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human review on the writes… | 元数据收集 |
 | [nameforjt-afk/session-knowledge](https://github.com/nameforjt-afk/session-knowledge) | 337 | AI 教育与智能辅导／应用 | 可用于教育 | Turn your Claude Code session history into a searchable local knowledge base — 13 MCP tools, pure stdlib, nothing leaves your machine | 元数据收集 |
 | [snap-stanford/stark](https://github.com/snap-stanford/stark) | 337 | AI 教育与智能辅导／应用 | 可用于教育 | (NeurIPS D&B 2024) STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases | 元数据收集 |
-| [Dest1ny-Sec/Des-CTF-Knowledge](https://github.com/Dest1ny-Sec/Des-CTF-Knowledge) | 335 | AI 教育与智能辅导／应用 | 可用于教育 | 2026最新CTF知识库：12大Web漏洞深度文章+1156篇历年大赛WP+50+脚本+Payload速查 +AI/RAG离线在线知识库 | 元数据收集 |
+| [Dest1ny-Sec/Des-CTF-Knowledge](https://github.com/Dest1ny-Sec/Des-CTF-Knowledge) | 336 | AI 教育与智能辅导／应用 | 可用于教育 | 2026最新CTF知识库：12大Web漏洞深度文章+1156篇历年大赛WP+50+脚本+Payload速查 +AI/RAG离线在线知识库 | 元数据收集 |
+| [bkywksj/knowledge-base](https://github.com/bkywksj/knowledge-base) | 330 | AI 教育与智能辅导／应用 | 可用于教育 | 本地优先的知识库桌面应用。Markdown 编辑器 + 全文搜索（FTS5） + 双向链接 / 知识图谱；多端同步（WebDAV / S3 / 同步盘，单笔记粒度增量 + 自动双向调度，含整库 ZIP 备份）；AI 问答与智能规划（OpenAI 兼容 / Ollama / 自定义 provid… | 元数据收集 |
 | [Fergana-Labs/stash](https://github.com/Fergana-Labs/stash) | 329 | AI 教育与智能辅导／课程／资源 | 教育原生 | Open-source infrastructure for agents that learn from experience. Capture production traces and turn lessons into reusable knowledge and skills. | 元数据收集 |
-| [bkywksj/knowledge-base](https://github.com/bkywksj/knowledge-base) | 328 | AI 教育与智能辅导／应用 | 可用于教育 | 本地优先的知识库桌面应用。Markdown 编辑器 + 全文搜索（FTS5） + 双向链接 / 知识图谱；多端同步（WebDAV / S3 / 同步盘，单笔记粒度增量 + 自动双向调度，含整库 ZIP 备份）；AI 问答与智能规划（OpenAI 兼容 / Ollama / 自定义 provid… | 元数据收集 |
-| [busabase/busabase](https://github.com/busabase/busabase) | 326 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human review on the writes… | 元数据收集 |
 | [gustavz/DataChad](https://github.com/gustavz/DataChad) | 320 | AI 教育与智能辅导／应用 | 可用于教育 | Ask questions about any data source by leveraging langchains | 元数据收集 |
-| [nolebase/integrations](https://github.com/nolebase/integrations) | 320 | AI 教育与智能辅导／课程／资源 | 教育原生 | ✍️ A collection of diverse documentation engineering tools. Better reading experience, inline link preview, highlight targeted title, enhanced \<mar… | 元数据收集 |
+| [nolebase/integrations](https://github.com/nolebase/integrations) | 319 | AI 教育与智能辅导／课程／资源 | 教育原生 | ✍️ A collection of diverse documentation engineering tools. Better reading experience, inline link preview, highlight targeted title, enhanced \<mar… | 元数据收集 |
+| [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard) | 313 | AI 教育与智能辅导／应用 | 可用于教育 | Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff viewer, pi-flows execution… | 元数据收集 |
 | [snap-stanford/KGReasoning](https://github.com/snap-stanford/KGReasoning) | 313 | AI 教育与智能辅导／应用 | 可用于教育 | Multi-Hop Logical Reasoning in Knowledge Graphs | 元数据收集 |
-| [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard) | 312 | AI 教育与智能辅导／应用 | 可用于教育 | Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff viewer, pi-flows execution… | 元数据收集 |
 | [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD) | 311 | AI 教育与智能辅导／应用 | 可用于教育 | A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to pr… | 元数据收集 |
-| [WeiWenda/effect-note](https://github.com/WeiWenda/effect-note) | 310 | AI 教育与智能辅导／应用 | 可用于教育 | 大纲笔记软件 | 元数据收集 |
 | [HKUST-KnowComp/ASER](https://github.com/HKUST-KnowComp/ASER) | 309 | AI 教育与智能辅导／应用 | 可用于教育 | ASER (Activities, States, Events, and their Relations): a large-scale weighted eventuality knowledge graph. | 元数据收集 |
+| [WeiWenda/effect-note](https://github.com/WeiWenda/effect-note) | 309 | AI 教育与智能辅导／应用 | 可用于教育 | 大纲笔记软件 | 元数据收集 |
 | [kamjin3086/chatless](https://github.com/kamjin3086/chatless) | 298 | AI 教育与智能辅导／应用 | 可用于教育 | 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写 A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js. | 元数据收集 |
 | [TaylliSun/Ars-note](https://github.com/TaylliSun/Ars-note) | 298 | AI 教育与智能辅导／应用 | 可用于教育 | Local-first Markdown workspace and AI game design assistant for game development teams | 元数据收集 |
+| [DAWNCR0W/affine-mcp-server](https://github.com/DAWNCR0W/affine-mcp-server) | 297 | AI 教育与智能辅导／应用 | 可用于教育 | Model Context Protocol server for AFFiNE. Connect AI assistants to AFFiNE workspaces, documents, databases, and collaboration APIs over stdio or HTTP. | 元数据收集 |
 | [realchendahuang/FlareMo](https://github.com/realchendahuang/FlareMo) | 297 | AI 教育与智能辅导／应用 | 可用于教育 | Cloudflare 原生团队知识库，提供 Memos 兼容 API 与 MCP 协议 / Cloudflare-native team knowledge base | 元数据收集 |
-| [DAWNCR0W/affine-mcp-server](https://github.com/DAWNCR0W/affine-mcp-server) | 296 | AI 教育与智能辅导／应用 | 可用于教育 | Model Context Protocol server for AFFiNE. Connect AI assistants to AFFiNE workspaces, documents, databases, and collaboration APIs over stdio or HTTP. | 元数据收集 |
 | [Moore-developers/moore-wechat-article-downloader](https://github.com/Moore-developers/moore-wechat-article-downloader) | 293 | AI 教育与智能辅导／应用 | 可用于教育 | 本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。 | 元数据收集 |
 | [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 290 | AI 教育与智能辅导／应用 | 可用于教育 | Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format parsers. Zero external ser… | 元数据收集 |
 | [Levix0501/notra](https://github.com/Levix0501/notra) | 289 | AI 教育与智能辅导／应用 | 可用于教育 | Notra is a full-stack knowledge base built with Next.js | 元数据收集 |
-| [openvetta/open-vetta](https://github.com/openvetta/open-vetta) | 286 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source, local-first AI agent for coding and real work. BYOK models, MCP, skills, plugins, workflows, and private knowledge bases. | 元数据收集 |
-| [karanb192/algo-sensei](https://github.com/karanb192/algo-sensei) | 284 | AI 教育与智能辅导／应用 | 可用于教育 | Your AI-powered LeetCode & DSA mentor for Claude Code and Claude.ai. Master algorithms through intelligent guidance, progressive hints, and pattern… | 元数据收集 |
+| [openvetta/open-vetta](https://github.com/openvetta/open-vetta) | 287 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source, local-first AI agent for coding and real work. BYOK models, MCP, skills, plugins, workflows, and private knowledge bases. | 元数据收集 |
+| [karanb192/algo-sensei](https://github.com/karanb192/algo-sensei) | 285 | AI 教育与智能辅导／应用 | 可用于教育 | Your AI-powered LeetCode & DSA mentor for Claude Code and Claude.ai. Master algorithms through intelligent guidance, progressive hints, and pattern… | 元数据收集 |
 | [helloianneo/obsidian-ai-second-brain](https://github.com/helloianneo/obsidian-ai-second-brain) | 282 | AI 教育与智能辅导／课程／资源 | 教育原生 | Obsidian + Claude AI 个人知识库完整搭建指南 \| 基于 Karpathy LLM Wiki 方法论 \| 4 阶段 12 步 \| 不用写代码 | 元数据收集 |
 | [luyu0279/Ainee](https://github.com/luyu0279/Ainee) | 281 | AI 教育与智能辅导／应用 | 可用于教育 | Ainee: AI Notetaking and Learning Companion – Speed Up Your Learning, Enhance Your Insight Sharing | 元数据收集 |
 | [tomgrek/zincbase](https://github.com/tomgrek/zincbase) | 278 | AI 教育与智能辅导／应用 | 可用于教育 | A batteries-included kit for knowledge graphs | 元数据收集 |
@@ -174,19 +174,19 @@
 | [lhh737/KnowledgeBase-RAG-LLM-System](https://github.com/lhh737/KnowledgeBase-RAG-LLM-System) | 273 | AI 教育与智能辅导／应用 | 可用于教育 | 基于 Streamlit、LangChain 与 Chroma 的轻量级 RAG 学习项目，支持本地知识库上传、检索增强问答与聊天式交互。 | 元数据收集 |
 | [masterFoad/NanoSage](https://github.com/masterFoad/NanoSage) | 266 | AI 教育与智能辅导／应用 | 可用于教育 | Local LLM Powered Recursive Search & Smart Knowledge Explorer | 元数据收集 |
 | [cu/silicon](https://github.com/cu/silicon) | 264 | AI 教育与智能辅导／应用 | 可用于教育 | Silicon Notes, a web-based personal knowledge base with few frills | 元数据收集 |
-| [huabeitech/agent-desk](https://github.com/huabeitech/agent-desk) | 262 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source AI customer support system. AI-first support, human-ready operations. | 元数据收集 |
+| [huabeitech/agent-desk](https://github.com/huabeitech/agent-desk) | 260 | AI 教育与智能辅导／应用 | 可用于教育 | Open-source AI customer support system. AI-first support, human-ready operations. | 元数据收集 |
 | [uclnlp/jack](https://github.com/uclnlp/jack) | 260 | AI 教育与智能辅导／应用 | 可用于教育 | Jack the Reader | 元数据收集 |
 | [kytmanov/synto](https://github.com/kytmanov/synto) | 259 | AI 教育与智能辅导／应用 | 可用于教育 | More than just Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts concepts → your Obsidian wiki auto-links and grows. Z… | 元数据收集 |
 | [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) | 258 | AI 教育与智能辅导／应用 | 可用于教育 | A knowledge management garden for https://obsidian.md, in which to grow your ideas | 元数据收集 |
+| [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag) | 254 | AI 教育与智能辅导／应用 | 可用于教育 | Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios. | 元数据收集 |
 | [pengfei-luo/multimodal-knowledge-graph](https://github.com/pengfei-luo/multimodal-knowledge-graph) | 253 | AI 教育与智能辅导／课程／资源 | 教育原生 | A collection of resources on multimodal knowledge graph, including datasets, papers and contests. | 元数据收集 |
-| [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag) | 253 | AI 教育与智能辅导／应用 | 可用于教育 | Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios. | 元数据收集 |
-| [sopaco/terrain](https://github.com/sopaco/terrain) | 252 | AI 教育与智能辅导／应用 | 可用于教育 | AI-native engineering environment management that makes your codebase agent-ready. | 元数据收集 |
-| [knowns-dev/knowns](https://github.com/knowns-dev/knowns) | 249 | AI 教育与智能辅导／应用 | 可用于教育 | The memory layer for AI-native development - giving AI persistent understanding of your software projects. | 元数据收集 |
-| [advai-x/advai-cli](https://github.com/advai-x/advai-cli) | 248 | AI 教育与智能辅导／应用 | 可用于教育 | Local-first CLI for agent skills, browser automation, knowledge bases, external CLIs, and terminal AI chat. | 元数据收集 |
+| [sopaco/terrain](https://github.com/sopaco/terrain) | 253 | AI 教育与智能辅导／应用 | 可用于教育 | AI-native engineering environment management that makes your codebase agent-ready. | 元数据收集 |
+| [advai-x/advai-cli](https://github.com/advai-x/advai-cli) | 249 | AI 教育与智能辅导／应用 | 可用于教育 | Local-first CLI for agent skills, browser automation, knowledge bases, external CLIs, and terminal AI chat. | 元数据收集 |
+| [knowns-dev/knowns](https://github.com/knowns-dev/knowns) | 248 | AI 教育与智能辅导／应用 | 可用于教育 | The memory layer for AI-native development - giving AI persistent understanding of your software projects. | 元数据收集 |
+| [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 248 | AI 教育与智能辅导／开发组件 | 可用于教育 | A library-science-inspired personal knowledge management system with LLM agents | 元数据收集 |
 | [wfjsw/VP-StableDiffusionBook](https://github.com/wfjsw/VP-StableDiffusionBook) | 248 | AI 教育与智能辅导／应用 | 可用于教育 | AI 作图知识库 | 元数据收集 |
-| [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 247 | AI 教育与智能辅导／开发组件 | 可用于教育 | A library-science-inspired personal knowledge management system with LLM agents | 元数据收集 |
 | [Laurent00TT/PharosRAG](https://github.com/Laurent00TT/PharosRAG) | 243 | AI 教育与智能辅导／开发组件 | 可用于教育 | Pharos — local-first agentic RAG for your team's document library: multi-format ingest, hybrid retrieval, enterprise ACL, dual HTTP + MCP exits. | 元数据收集 |
-| [Red-noblue/Gog\_ac\_deal](https://github.com/Red-noblue/Gog_ac_deal) | 242 | AI 教育与智能辅导／开发组件 | 可用于教育 | Tampermonkey userscripts to batch-create/export Gemini public share links, plus a cross-platform desktop app (Tauri + SQLite) to import, tag, favor… | 元数据收集 |
+| [Red-noblue/Gog\_ac\_deal](https://github.com/Red-noblue/Gog_ac_deal) | 243 | AI 教育与智能辅导／开发组件 | 可用于教育 | Tampermonkey userscripts to batch-create/export Gemini public share links, plus a cross-platform desktop app (Tauri + SQLite) to import, tag, favor… | 元数据收集 |
 | [zou-group/avatar](https://github.com/zou-group/avatar) | 242 | AI 教育与智能辅导／应用 | 可用于教育 | (NeurIPS 2024) AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning | 元数据收集 |
 | [asgard-ai-platform/skills](https://github.com/asgard-ai-platform/skills) | 240 | AI 教育与智能辅导／应用 | 可用于教育 | 301 open-source coding agent skills across 22 domains — methodology, judgment & gotchas packaged as Claude Agent Skills for the Asgard AI Platform. | 元数据收集 |
 | [DirtyHarryLYL/HAKE-Action-Torch](https://github.com/DirtyHarryLYL/HAKE-Action-Torch) | 238 | AI 教育与智能辅导／应用 | 可用于教育 | HAKE-Action in PyTorch | 元数据收集 |
@@ -204,8 +204,8 @@
 | [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) | 209 | AI 教育与智能辅导／课程／资源 | 教育原生 | 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。… | 元数据收集 |
 | [tpoisonooo/ROGRAG](https://github.com/tpoisonooo/ROGRAG) | 201 | AI 教育与智能辅导／开发组件 | 可用于教育 | \[ACL2025 demo track\] ROGRAG: A Robustly Optimized GraphRAG Framework | 元数据收集 |
 | [HugoBlox/hugo-theme-documentation](https://github.com/HugoBlox/hugo-theme-documentation) | 200 | AI 教育与智能辅导／应用 | 可用于教育 | 📚 Docs site that builds in ~1s. AI generates pages, you own as Markdown. Sidebar nav, search, syntax highlighting — fewer deps than Docusaurus, no … | 元数据收集 |
-| [lockedmutex/rhyolite](https://github.com/lockedmutex/rhyolite) | 199 | AI 教育与智能辅导／应用 | 可用于教育 | A simple markdown editor and knowledge base written in Rust that is compatible with various markdown syntax. | 元数据收集 |
-| [gowtham0992/link](https://github.com/gowtham0992/link) | 192 | AI 教育与智能辅导／应用 | 可用于教育 | Local personal memory for LLM agents | 元数据收集 |
+| [lockedmutex/rhyolite](https://github.com/lockedmutex/rhyolite) | 200 | AI 教育与智能辅导／应用 | 可用于教育 | A simple markdown editor and knowledge base written in Rust that is compatible with various markdown syntax. | 元数据收集 |
+| [gowtham0992/link](https://github.com/gowtham0992/link) | 194 | AI 教育与智能辅导／应用 | 可用于教育 | Local personal memory for LLM agents | 元数据收集 |
 
 ## 已核对精选详情
 
@@ -222,7 +222,8 @@
 - 许可说明：API 标记 NOASSERTION；上游自定义许可需按实际使用方式核对，不等同于 MIT。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：157,841；最近推送：2026-10-04 23:17:46 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：157,864；最近推送：2026-10-05 17:13:57 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：+23。
 - 核对来源：[来源 1](https://github.com/langgenius/dify/blob/main/README.md)、[来源 2](https://github.com/langgenius/dify)
 
 
@@ -239,5 +240,6 @@
 - 许可说明：代码许可与使用的模型、数据和外部服务分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：91,678；最近推送：2026-10-04 22:51:58 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：91,687；最近推送：2026-10-04 22:51:58 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：+9。
 - 核对来源：[来源 1](https://github.com/infiniflow/ragflow/blob/main/README.md)、[来源 2](https://github.com/infiniflow/ragflow)

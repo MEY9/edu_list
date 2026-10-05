@@ -9,18 +9,18 @@
 
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
-| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 33,659 | 学习平台与课程管理／课程／资源 | 教育原生 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. | 元数据收集 |
-| [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20,488 | 学习平台与课程管理／应用 | 教育原生 | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or c… | 元数据收集 |
-| [openedx/openedx-platform](https://github.com/openedx/openedx-platform) | 8,196 | 学习平台与课程管理／应用 | 教育原生 | 包含 LMS 与课程创作工具的在线教育平台。 | 资料核对 |
-| [snapcast/snapcast](https://github.com/snapcast/snapcast) | 7,904 | 学习平台与课程管理／应用 | 教育原生 | Synchronous multiroom audio player | 元数据收集 |
-| [moodle/moodle](https://github.com/moodle/moodle) | 7,461 | 学习平台与课程管理／应用 | 教育原生 | 面向学校、企业与其他机构的学习管理平台。 | 资料核对 |
-| [instructure/canvas-lms](https://github.com/instructure/canvas-lms) | 6,859 | 学习平台与课程管理／应用 | 教育原生 | Instructure 维护的开源学习管理系统。 | 资料核对 |
-| [oppia/oppia](https://github.com/oppia/oppia) | 6,842 | 学习平台与课程管理／应用 | 教育原生 | 支持创建与分享互动学习活动的平台。 | 资料核对 |
+| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 33,769 | 学习平台与课程管理／课程／资源 | 教育原生 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. | 元数据收集 |
+| [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20,487 | 学习平台与课程管理／应用 | 教育原生 | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or c… | 元数据收集 |
+| [openedx/openedx-platform](https://github.com/openedx/openedx-platform) | 8,197 | 学习平台与课程管理／应用 | 教育原生 | 包含 LMS 与课程创作工具的在线教育平台。 | 资料核对 |
+| [snapcast/snapcast](https://github.com/snapcast/snapcast) | 7,905 | 学习平台与课程管理／应用 | 教育原生 | Synchronous multiroom audio player | 元数据收集 |
+| [moodle/moodle](https://github.com/moodle/moodle) | 7,462 | 学习平台与课程管理／应用 | 教育原生 | 面向学校、企业与其他机构的学习管理平台。 | 资料核对 |
+| [instructure/canvas-lms](https://github.com/instructure/canvas-lms) | 6,861 | 学习平台与课程管理／应用 | 教育原生 | Instructure 维护的开源学习管理系统。 | 资料核对 |
+| [oppia/oppia](https://github.com/oppia/oppia) | 6,843 | 学习平台与课程管理／应用 | 教育原生 | 支持创建与分享互动学习活动的平台。 | 资料核对 |
 | [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) | 5,238 | 学习平台与课程管理／应用 | 教育原生 | This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups. | 元数据收集 |
-| [anu0012/awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) | 4,172 | 学习平台与课程管理／课程／资源 | 教育原生 | An awesome list of events and fellowship opportunities for Computer Science students | 元数据收集 |
-| [frappe/lms](https://github.com/frappe/lms) | 3,285 | 学习平台与课程管理／应用 | 教育原生 | Easy to Use, 100% Open Source Learning Management System | 元数据收集 |
+| [anu0012/awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) | 4,173 | 学习平台与课程管理／课程／资源 | 教育原生 | An awesome list of events and fellowship opportunities for Computer Science students | 元数据收集 |
+| [frappe/lms](https://github.com/frappe/lms) | 3,286 | 学习平台与课程管理／应用 | 教育原生 | Easy to Use, 100% Open Source Learning Management System | 元数据收集 |
 | [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) | 2,316 | 学习平台与课程管理／应用 | 教育原生 | The Next-gen Open Source learning platform for everyone ✨ | 元数据收集 |
-| [classroomio/classroomio](https://github.com/classroomio/classroomio) | 1,709 | 学习平台与课程管理／应用 | 教育原生 | The Open Source Education Platform for Companies. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable | 元数据收集 |
+| [classroomio/classroomio](https://github.com/classroomio/classroomio) | 1,710 | 学习平台与课程管理／应用 | 教育原生 | The Open Source Education Platform for Companies. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable | 元数据收集 |
 | [sakaiproject/sakai](https://github.com/sakaiproject/sakai) | 1,234 | 学习平台与课程管理／应用 | 教育原生 | Sakai is a freely available, feature-rich technology solution for learning, teaching, research and collaboration. Sakai is an open source software … | 元数据收集 |
 | [xiaochong0302/course-tencent-cloud](https://github.com/xiaochong0302/course-tencent-cloud) | 1,175 | 学习平台与课程管理／应用 | 教育原生 | 专注于网课系统，网校系统，在线教育系统，知识付费系统。docker容器化部署，名符其实的开源，可免费商用。 | 元数据收集 |
 | [learningequality/kolibri](https://github.com/learningequality/kolibri) | 1,129 | 学习平台与课程管理／应用 | 教育原生 | Learning Equality 开发的离线优先教学学习平台。 | 资料核对 |
@@ -29,12 +29,12 @@
 | [pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst) | 979 | 学习平台与课程管理／应用 | 教育原生 | A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feed… | 元数据收集 |
 | [beltromatti/get-it](https://github.com/beltromatti/get-it) | 962 | 学习平台与课程管理／应用 | 教育原生 | Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track. | 元数据收集 |
 | [safytech/ulearn](https://github.com/safytech/ulearn) | 699 | 学习平台与课程管理／应用 | 教育原生 | ULEARN - Open Source(FREE) LMS script in Laravel 5.8 and ReactJS 16.9 | 元数据收集 |
-| [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) | 666 | 学习平台与课程管理／课程／资源 | 教育原生 | :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS). | 元数据收集 |
-| [SkyCascade/SkyLearn](https://github.com/SkyCascade/SkyLearn) | 661 | 学习平台与课程管理／开发组件 | 教育原生 | The world’s lightweight learning management system. Using django web framework. Basic staff like course add and drop, grade and assessment result m… | 元数据收集 |
+| [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) | 667 | 学习平台与课程管理／课程／资源 | 教育原生 | :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS). | 元数据收集 |
+| [SkyCascade/SkyLearn](https://github.com/SkyCascade/SkyLearn) | 662 | 学习平台与课程管理／开发组件 | 教育原生 | The world’s lightweight learning management system. Using django web framework. Basic staff like course add and drop, grade and assessment result m… | 元数据收集 |
 | [gazpachu/hypatia](https://github.com/gazpachu/hypatia) | 651 | 学习平台与课程管理／应用 | 教育原生 | A JavaScript open source LMS (eLearning platform) for MOOCs and online courses | 元数据收集 |
 | [Automattic/sensei](https://github.com/Automattic/sensei) | 596 | 学习平台与课程管理／课程／资源 | 教育原生 | Sensei LMS - Online Courses, Quizzes, & Learning | 元数据收集 |
 | [ILIAS-eLearning/ILIAS](https://github.com/ILIAS-eLearning/ILIAS) | 505 | 学习平台与课程管理／应用 | 教育原生 | GitHub repository for official ILIAS release branches and development branches (trunk) | 元数据收集 |
-| [LMS-Laravel/LMS-Laravel](https://github.com/LMS-Laravel/LMS-Laravel) | 504 | 学习平台与课程管理／应用 | 教育原生 | Laravel Learning Management System (LMS) | 元数据收集 |
+| [LMS-Laravel/LMS-Laravel](https://github.com/LMS-Laravel/LMS-Laravel) | 505 | 学习平台与课程管理／应用 | 教育原生 | Laravel Learning Management System (LMS) | 元数据收集 |
 | [aaryansamanta/ai-ethos](https://github.com/aaryansamanta/ai-ethos) | 499 | 学习平台与课程管理／应用 | 教育原生 | 501(c)(3) nonprofit delivering ethical, inclusive, multilingual AI tutoring for underserved learners — low-income, rural, multilingual & neurodiver… | 元数据收集 |
 | [OpenOLAT/OpenOLAT](https://github.com/OpenOLAT/OpenOLAT) | 446 | 学习平台与课程管理／应用 | 教育原生 | Learning Management System OpenOlat | 元数据收集 |
 | [inducer/relate](https://github.com/inducer/relate) | 436 | 学习平台与课程管理／应用 | 教育原生 | RELATE is an Environment for Learning And TEaching | 元数据收集 |
@@ -45,7 +45,7 @@
 | [jcputney/scorm-again](https://github.com/jcputney/scorm-again) | 351 | 学习平台与课程管理／开发组件 | 教育原生 | A modern SCORM JavaScript runtime library. | 元数据收集 |
 | [claroline/Claroline](https://github.com/claroline/Claroline) | 350 | 学习平台与课程管理／应用 | 教育原生 | Learning management system | 元数据收集 |
 | [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) | 340 | 学习平台与课程管理／应用 | 教育原生 | Whole House Audio System 🔊 | 元数据收集 |
-| [canyongbs/advisingapp](https://github.com/canyongbs/advisingapp) | 339 | 学习平台与课程管理／应用 | 教育原生 | Advising App® by Canyon GBS® is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifical… | 元数据收集 |
+| [canyongbs/advisingapp](https://github.com/canyongbs/advisingapp) | 338 | 学习平台与课程管理／应用 | 教育原生 | Advising App® by Canyon GBS® is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifical… | 元数据收集 |
 | [openfun/richie](https://github.com/openfun/richie) | 316 | 学习平台与课程管理／应用 | 教育原生 | :pencil: An opensource CMS to build education portals | 元数据收集 |
 | [tompazourek/Colourful](https://github.com/tompazourek/Colourful) | 299 | 学习平台与课程管理／开发组件 | 教育原生 | 🎨 Open source .NET library for working with color spaces. | 元数据收集 |
 | [leemonade/leemons](https://github.com/leemonade/leemons) | 292 | 学习平台与课程管理／应用 | 教育原生 | 🚀 The Powerful, flexible, user-friendly and open source Learning Experience Platform built entirely in Javascript 😎 | 元数据收集 |
@@ -60,14 +60,14 @@
 | [gocodebox/lifterlms](https://github.com/gocodebox/lifterlms) | 211 | 学习平台与课程管理／课程／资源 | 教育原生 | LifterLMS, a WordPress LMS Solution: Easily create, sell, and protect engaging online courses. | 元数据收集 |
 | [lantingzhang1119/cohort-harbor](https://github.com/lantingzhang1119/cohort-harbor) | 199 | 学习平台与课程管理／应用 | 教育原生 | Self-hosted employee onboarding, policy learning, and assessment platform. | 元数据收集 |
 | [mumuki/mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory) | 199 | 学习平台与课程管理／应用 | 教育原生 | :microscope: Where students practice and receive automated and human feedback | 元数据收集 |
-| [wesleyscholl/credly-badge](https://github.com/wesleyscholl/credly-badge) | 194 | 学习平台与课程管理／课程／资源 | 教育原生 | A curated list of free Credly badges 🏆🏅 500+ free courses and certifications🎖️🥇 Learn new skills from 50+ organizations, earn verifiable badges, an… | 元数据收集 |
+| [wesleyscholl/credly-badge](https://github.com/wesleyscholl/credly-badge) | 195 | 学习平台与课程管理／课程／资源 | 教育原生 | A curated list of free Credly badges 🏆🏅 500+ free courses and certifications🎖️🥇 Learn new skills from 50+ organizations, earn verifiable badges, an… | 元数据收集 |
 | [Azure/Moodle](https://github.com/Azure/Moodle) | 185 | 学习平台与课程管理／应用 | 教育原生 | Tooling and guidance on deploying Scalable Moodle Clusters on Azure. | 元数据收集 |
 | [dhodges47/SCORM-LearningManagementSystem](https://github.com/dhodges47/SCORM-LearningManagementSystem) | 183 | 学习平台与课程管理／应用 | 教育原生 | Open Source SCORM Learning Management System demo | 元数据收集 |
 | [atutor/ATutor](https://github.com/atutor/ATutor) | 180 | 学习平台与课程管理／应用 | 教育原生 | NO LONGER USER LEVEL SUPPORTED. CONTRIBUTING DEVELOPERS INTERESTED IN MAINTAINING ATUTOR, SHOULD REQUEST COLLABORATOR ACCESS. : ATutor is an Open S… | 元数据收集 |
 | [LiXirong/AdaptiveFilterandActiveNoiseCancellation](https://github.com/LiXirong/AdaptiveFilterandActiveNoiseCancellation) | 180 | 学习平台与课程管理／应用 | 教育原生 | Adaptive Filter and Active Noise Cancellation —— LMS, NLMS, RLS | 元数据收集 |
 | [senjun-team/senjun-courses](https://github.com/senjun-team/senjun-courses) | 159 | 学习平台与课程管理／课程／资源 | 教育原生 | Курсы от программистов для программистов | 元数据收集 |
 | [cyaxaress/lms](https://github.com/cyaxaress/lms) | 156 | 学习平台与课程管理／应用 | 教育原生 | A learning management system built with Laravel | 元数据收集 |
-| [artcc/freelingo](https://github.com/artcc/freelingo) | 153 | 学习平台与课程管理／应用 | 教育原生 | Open-source, self-hosted AI language learning platform with local or cloud LLMs, CEFR study plans, an AI tutor, voice conversations, flashcards, an… | 元数据收集 |
+| [artcc/freelingo](https://github.com/artcc/freelingo) | 154 | 学习平台与课程管理／应用 | 教育原生 | Open-source, self-hosted AI language learning platform with local or cloud LLMs, CEFR study plans, an AI tutor, voice conversations, flashcards, an… | 元数据收集 |
 | [wesdoyle/lightlib-lms](https://github.com/wesdoyle/lightlib-lms) | 152 | 学习平台与课程管理／开发组件 | 教育原生 | A lightweight library management system built in .NET 5.0 MVC with Postgres and EF Core | 元数据收集 |
 | [arashactive/laramint](https://github.com/arashactive/laramint) | 149 | 学习平台与课程管理／课程／资源 | 教育原生 | A new experience in Laravel LMS followed by gamification, onboarding, marketing and course management | 元数据收集 |
 | [Mazbaul/Online-Learning-And-Course-Management-System](https://github.com/Mazbaul/Online-Learning-And-Course-Management-System) | 144 | 学习平台与课程管理／应用 | 教育原生 | An Online learning ,course And Exam Management System | 元数据收集 |
@@ -99,7 +99,8 @@
 - 许可说明：API 指向当前 openedx/openedx-platform；组件和内容许可另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：8,196；最近推送：2026-10-03 06:45:03 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：8,197；最近推送：2026-10-05 15:31:26 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：+1。
 - 核对来源：[来源 1](https://github.com/openedx/openedx-platform/blob/master/README.rst)、[来源 2](https://github.com/openedx/openedx-platform)
 
 
@@ -116,7 +117,8 @@
 - 许可说明：代码许可证标识以 API 为准；插件和课程内容另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：7,461；最近推送：2026-10-03 19:09:49 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：7,462；最近推送：2026-10-03 19:09:49 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：+1。
 - 核对来源：[来源 1](https://github.com/moodle/moodle/blob/main/README.md)、[来源 2](https://github.com/moodle/moodle)
 
 
@@ -133,7 +135,8 @@ Instructure 维护的开源学习管理系统。
 - 许可说明：代码采用 AGPL 标识；托管服务和扩展许可另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：6,859；最近推送：2026-04-30 22:52:10 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：6,861；最近推送：2026-04-30 22:52:10 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：+2。
 - 核对来源：[来源 1](https://github.com/instructure/canvas-lms/blob/master/README.md)、[来源 2](https://github.com/instructure/canvas-lms)
 
 
@@ -150,7 +153,8 @@ Instructure 维护的开源学习管理系统。
 - 许可说明：平台代码与现有课程内容分别核对许可。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：6,842；最近推送：2026-10-04 09:33:10 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：6,843；最近推送：2026-10-04 09:33:10 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：+1。
 - 核对来源：[来源 1](https://github.com/oppia/oppia/blob/develop/.github/README.md)、[来源 2](https://github.com/oppia/oppia)
 
 
@@ -167,5 +171,6 @@ Learning Equality 开发的离线优先教学学习平台。
 - 许可说明：平台代码与导入学习资源的许可分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：1,129；最近推送：2026-10-03 13:06:45 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：1,129；最近推送：2026-10-05 13:54:29 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：+0。
 - 核对来源：[来源 1](https://github.com/learningequality/kolibri/blob/develop/README.md)、[来源 2](https://github.com/learningequality/kolibri)

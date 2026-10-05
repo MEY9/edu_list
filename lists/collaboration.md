@@ -9,41 +9,41 @@
 
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
-| [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) | 30,042 | 教学协作与在线课堂／应用 | 可用于教育 | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | 元数据收集 |
-| [ossrs/srs](https://github.com/ossrs/srs) | 29,316 | 教学协作与在线课堂／应用 | 可用于教育 | SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, w… | 元数据收集 |
+| [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) | 30,040 | 教学协作与在线课堂／应用 | 可用于教育 | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | 元数据收集 |
+| [ossrs/srs](https://github.com/ossrs/srs) | 29,317 | 教学协作与在线课堂／应用 | 可用于教育 | SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, w… | 元数据收集 |
 | [ether/etherpad](https://github.com/ether/etherpad) | 18,559 | 教学协作与在线课堂／应用 | 可用于教育 | Etherpad: A modern really-real-time collaborative document editor. | 元数据收集 |
-| [liketrek/TREK](https://github.com/liketrek/TREK) | 14,567 | 教学协作与在线课堂／应用 | 可用于教育 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. | 元数据收集 |
-| [tinode/chat](https://github.com/tinode/chat) | 13,525 | 教学协作与在线课堂／应用 | 可用于教育 | Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots | 元数据收集 |
+| [liketrek/TREK](https://github.com/liketrek/TREK) | 14,574 | 教学协作与在线课堂／应用 | 可用于教育 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. | 元数据收集 |
+| [tinode/chat](https://github.com/tinode/chat) | 13,523 | 教学协作与在线课堂／应用 | 可用于教育 | Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots | 元数据收集 |
 | [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) | 9,234 | 教学协作与在线课堂／应用 | 可用于教育 | A complete web conferencing system for virtual classes and more! | 元数据收集 |
-| [ekzhang/sshx](https://github.com/ekzhang/sshx) | 7,677 | 教学协作与在线课堂／应用 | 可用于教育 | Fast, collaborative live terminal sharing over the web | 元数据收集 |
+| [ekzhang/sshx](https://github.com/ekzhang/sshx) | 7,676 | 教学协作与在线课堂／应用 | 可用于教育 | Fast, collaborative live terminal sharing over the web | 元数据收集 |
 | [livebook-dev/livebook](https://github.com/livebook-dev/livebook) | 5,876 | 教学协作与在线课堂／应用 | 可用于教育 | Automate code & data workflows with interactive Elixir notebooks | 元数据收集 |
 | [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) | 3,733 | 教学协作与在线课堂／开发组件 | 可用于教育 | A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets | 元数据收集 |
-| [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) | 3,616 | 教学协作与在线课堂／应用 | 可用于教育 | Jitsi Meet on Docker | 元数据收集 |
+| [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) | 3,617 | 教学协作与在线课堂／应用 | 可用于教育 | Jitsi Meet on Docker | 元数据收集 |
 | [guoguibing/librec](https://github.com/guoguibing/librec) | 3,256 | 教学协作与在线课堂／开发组件 | 可用于教育 | LibRec: A Leading Java Library for Recommender Systems, see | 元数据收集 |
 | [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) | 3,119 | 教学协作与在线课堂／应用 | 可用于教育 | 🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time communication and collaboration. A modern alternative to Zoom, Google M… | 元数据收集 |
 | [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) | 2,917 | 教学协作与在线课堂／应用 | 可用于教育 | SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the… | 元数据收集 |
-| [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) | 2,616 | 教学协作与在线课堂／应用 | 可用于教育 | The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project. | 元数据收集 |
-| [suitenumerique/meet](https://github.com/suitenumerique/meet) | 2,411 | 教学协作与在线课堂／应用 | 可用于教育 | Open source video conferencing app powered by LiveKit. Built with Django and React. | 元数据收集 |
+| [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) | 2,618 | 教学协作与在线课堂／应用 | 可用于教育 | The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project. | 元数据收集 |
+| [suitenumerique/meet](https://github.com/suitenumerique/meet) | 2,410 | 教学协作与在线课堂／应用 | 可用于教育 | Open source video conferencing app powered by LiveKit. Built with Django and React. | 元数据收集 |
 | [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) | 2,408 | 教学协作与在线课堂／应用 | 可用于教育 | Open source video conferencing system for tutors. | 元数据收集 |
 | [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) | 2,335 | 教学协作与在线课堂／应用 | 可用于教育 | Secure peer-to-peer chat that is serverless, decentralized, and ephemeral | 元数据收集 |
 | [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) | 2,135 | 教学协作与在线课堂／应用 | 可用于教育 | OpenVidu Platform: self-hosted real-time video and audio for your apps, built on LiveKit and mediasoup | 元数据收集 |
 | [toeverything/OctoBase](https://github.com/toeverything/OctoBase) | 2,074 | 教学协作与在线课堂／应用 | 可用于教育 | 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust. | 元数据收集 |
 | [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) | 1,864 | 教学协作与在线课堂／开发组件 | 可用于教育 | SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically. | 元数据收集 |
 | [jitsi/jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) | 1,632 | 教学协作与在线课堂／应用 | 可用于教育 | Jitsi Meet desktop application powered by :electron: | 元数据收集 |
-| [jech/galene](https://github.com/jech/galene) | 1,415 | 教学协作与在线课堂／应用 | 可用于教育 | The Galène videoconference server | 元数据收集 |
-| [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) | 1,301 | 教学协作与在线课堂／应用 | 可用于教育 | Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus. | 元数据收集 |
+| [jech/galene](https://github.com/jech/galene) | 1,416 | 教学协作与在线课堂／应用 | 可用于教育 | The Galène videoconference server | 元数据收集 |
+| [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) | 1,303 | 教学协作与在线课堂／应用 | 可用于教育 | Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus. | 元数据收集 |
 | [streamich/json-joy](https://github.com/streamich/json-joy) | 1,094 | 教学协作与在线课堂／开发组件 | 可用于教育 | json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus … | 元数据收集 |
-| [superdoc/docx-editor](https://github.com/superdoc/docx-editor) | 1,081 | 教学协作与在线课堂／开发组件 | 可用于教育 | SuperDoc - Build AI agents that work with DOCX (DOCX Editor, DOCX Agent SDK) | 元数据收集 |
+| [superdoc/docx-editor](https://github.com/superdoc/docx-editor) | 1,082 | 教学协作与在线课堂／开发组件 | 可用于教育 | SuperDoc - Build AI agents that work with DOCX (DOCX Editor, DOCX Agent SDK) | 元数据收集 |
 | [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) | 942 | 教学协作与在线课堂／应用 | 可用于教育 | Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. | 元数据收集 |
-| [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me) | 763 | 教学协作与在线课堂／应用 | 可用于教育 | 📞 Open-source, self-hosted WebRTC click-to-call solution for websites. Add a video Call-Me button and let visitors instantly connect with your team… | 元数据收集 |
+| [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me) | 764 | 教学协作与在线课堂／应用 | 可用于教育 | 📞 Open-source, self-hosted WebRTC click-to-call solution for websites. Add a video Call-Me button and let visitors instantly connect with your team… | 元数据收集 |
 | [typeintandem/tandem](https://github.com/typeintandem/tandem) | 703 | 教学协作与在线课堂／应用 | 可用于教育 | Typing in Tandem. Decentralized, cross-editor, collaborative text-editing! | 元数据收集 |
 | [nextcloud/text](https://github.com/nextcloud/text) | 663 | 教学协作与在线课堂／应用 | 可用于教育 | 📑 Collaborative document editing using Markdown | 元数据收集 |
 | [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) | 635 | 教学协作与在线课堂／课程／资源 | 教育原生 | A collection of multi agent environments based on OpenAI gym. | 元数据收集 |
 | [mynaparrot/plugNmeet-server](https://github.com/mynaparrot/plugNmeet-server) | 567 | 教学协作与在线课堂／应用 | 可用于教育 | The open-source, self-hosted video conferencing software. Scalable, customizable, and with a powerful AI Meeting Agent. | 元数据收集 |
 | [jashandeep-sohi/webcam-filters](https://github.com/jashandeep-sohi/webcam-filters) | 552 | 教学协作与在线课堂／应用 | 可用于教育 | Add filters (background blur, etc) to your webcam on Linux. | 元数据收集 |
 | [Teamlinker/Teamlinker](https://github.com/Teamlinker/Teamlinker) | 522 | 教学协作与在线课堂／应用 | 可用于教育 | Teamlinker is a team collaboration platform that integrates multi-functional modules. Users can process tasks in parallel, including six functional… | 元数据收集 |
-| [bugbakery/transcribee](https://github.com/bugbakery/transcribee) | 518 | 教学协作与在线课堂／应用 | 可用于教育 | open source audio and video transcription software | 元数据收集 |
-| [miroslavpejic85/mirotalkc2c](https://github.com/miroslavpejic85/mirotalkc2c) | 513 | 教学协作与在线课堂／应用 | 可用于教育 | 📹 Open-source, self-hosted WebRTC 1-to-1 video calling for private real-time communication. Build secure browser-based consultations, coaching, sup… | 元数据收集 |
+| [bugbakery/transcribee](https://github.com/bugbakery/transcribee) | 517 | 教学协作与在线课堂／应用 | 可用于教育 | open source audio and video transcription software | 元数据收集 |
+| [miroslavpejic85/mirotalkc2c](https://github.com/miroslavpejic85/mirotalkc2c) | 512 | 教学协作与在线课堂／应用 | 可用于教育 | 📹 Open-source, self-hosted WebRTC 1-to-1 video calling for private real-time communication. Build secure browser-based consultations, coaching, sup… | 元数据收集 |
 | [b310-digital/teammapper](https://github.com/b310-digital/teammapper) | 503 | 教学协作与在线课堂／应用 | 可用于教育 | Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps. | 元数据收集 |
 | [FilippoBovo/production-data-science](https://github.com/FilippoBovo/production-data-science) | 454 | 教学协作与在线课堂／应用 | 可用于教育 | Production Data Science: a workflow for collaborative data science aimed at production | 元数据收集 |
 | [CervantesSec/cervantes](https://github.com/CervantesSec/cervantes) | 449 | 教学协作与在线课堂／应用 | 可用于教育 | Cervantes is an open-source, collaborative platform designed specifically for pentesters and red teams. It serves as a comprehensive management too… | 元数据收集 |
@@ -51,7 +51,7 @@
 | [HongZhaoHua/jstarcraft-rns](https://github.com/HongZhaoHua/jstarcraft-rns) | 414 | 教学协作与在线课堂／应用 | 可用于教育 | 专注于解决推荐领域与搜索领域的两个核心问题:排序预测(Ranking)和评分预测(Rating). 为相关领域的研发人员提供完整的通用设计与参考实现. 涵盖了70多种排序预测与评分预测算法,是最快最全的Java推荐与搜索引擎. | 元数据收集 |
 | [tinode/tindroid](https://github.com/tinode/tindroid) | 395 | 教学协作与在线课堂／应用 | 可用于教育 | Tinode chat client application for Android | 元数据收集 |
 | [SuperViz/superviz](https://github.com/SuperViz/superviz) | 381 | 教学协作与在线课堂／应用 | 可用于教育 | SuperViz provides powerful SDKs and APIs that enable developers to easily integrate real-time features into web applications. Our platform accelera… | 元数据收集 |
-| [miroslavpejic85/mirotalkwebrtc](https://github.com/miroslavpejic85/mirotalkwebrtc) | 366 | 教学协作与在线课堂／应用 | 可用于教育 | 🛠 Open-source, self-hosted WebRTC SaaS platform and video meeting scheduler. Provide user accounts, dashboards, meeting scheduling, invitations, an… | 元数据收集 |
+| [miroslavpejic85/mirotalkwebrtc](https://github.com/miroslavpejic85/mirotalkwebrtc) | 365 | 教学协作与在线课堂／应用 | 可用于教育 | 🛠 Open-source, self-hosted WebRTC SaaS platform and video meeting scheduler. Provide user accounts, dashboards, meeting scheduling, invitations, an… | 元数据收集 |
 | [prodaft/cradle](https://github.com/prodaft/cradle) | 341 | 教学协作与在线课堂／应用 | 可用于教育 | CRADLE is a collaborative platform for Cyber Threat Intelligence analysts. It streamlines threat investigations with integrated note-taking, automa… | 元数据收集 |
 | [waterbustech/waterbus](https://github.com/waterbustech/waterbus) | 340 | 教学协作与在线课堂／应用 | 可用于教育 | Showcase app demonstrating Waterbus-powered real-time media. | 元数据收集 |
 | [fleather-editor/fleather](https://github.com/fleather-editor/fleather) | 311 | 教学协作与在线课堂／应用 | 可用于教育 | Soft and gentle rich text editing for Flutter applications. | 元数据收集 |
@@ -63,7 +63,7 @@
 | [Dirvann/webrtc-video-conference-simple-peer](https://github.com/Dirvann/webrtc-video-conference-simple-peer) | 243 | 教学协作与在线课堂／应用 | 可用于教育 | A simple video conferencing example using simple-peer | 元数据收集 |
 | [goupaz/goupaz.com](https://github.com/goupaz/goupaz.com) | 219 | 教学协作与在线课堂／应用 | 可用于教育 | Community driven open source accelerator | 元数据收集 |
 | [hackstarsj/student\_management\_system\_part\_11](https://github.com/hackstarsj/student_management_system_part_11) | 219 | 教学协作与在线课堂／应用 | 可用于教育 | Student Management System With Video Conferencing Class Room Features | 元数据收集 |
-| [miroslavpejic85/mirotalkbro](https://github.com/miroslavpejic85/mirotalkbro) | 210 | 教学协作与在线课堂／应用 | 可用于教育 | 📡 Open-source, self-hosted WebRTC live broadcasting platform for real-time video, audio, and screen streaming. Build your own broadcasting solution… | 元数据收集 |
+| [miroslavpejic85/mirotalkbro](https://github.com/miroslavpejic85/mirotalkbro) | 209 | 教学协作与在线课堂／应用 | 可用于教育 | 📡 Open-source, self-hosted WebRTC live broadcasting platform for real-time video, audio, and screen streaming. Build your own broadcasting solution… | 元数据收集 |
 | [OpenSight/janus-cloud](https://github.com/OpenSight/janus-cloud) | 209 | 教学协作与在线课堂／应用 | 可用于教育 | a cluster solution for Janus WebRTC server, by API proxy approach | 元数据收集 |
 | [sbrl/Pepperminty-Wiki](https://github.com/sbrl/Pepperminty-Wiki) | 206 | 教学协作与在线课堂／应用 | 可用于教育 | A wiki in a box | 元数据收集 |
 | [Ramez-/go-video-conference](https://github.com/Ramez-/go-video-conference) | 205 | 教学协作与在线课堂／应用 | 可用于教育 | Create a video conference using Golang. | 元数据收集 |

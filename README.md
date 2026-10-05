@@ -15,9 +15,9 @@
 
 项目库 **3,364** 个有效仓库；已核对高星精选 **22** 个；元数据收集 **3,339** 个；归档／移出 **1** 个。
 
-数据更新尝试：2026-10-05 02:13:40 UTC+08:00。每个条目的成功获取时间见 YAML 与机器可读索引。
+数据更新尝试：2026-10-05 17:14:25 UTC+08:00。每个条目的成功获取时间见 YAML 与机器可读索引。
 
-Star 变化基线：尚无上一期快照，暂不计算增长。
+Star 变化基线：2026-10-05 02:13:40 UTC+08:00。
 
 ## Star 分层
 
@@ -29,8 +29,8 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 | 100K–300K（10 万至 30 万） | 13 | [查看项目](lists/tiers/100k-300k.md) |
 | 50K–100K（5 万至 10 万） | 32 | [查看项目](lists/tiers/50k-100k.md) |
 | 10K–50K（1 万至 5 万） | 180 | [查看项目](lists/tiers/10k-50k.md) |
-| 1K–10K（1 千至 1 万） | 1,017 | [查看项目](lists/tiers/1k-10k.md) |
-| 100–1K（100 至 1 千） | 2,118 | [查看项目](lists/tiers/100-1k.md) |
+| 1K–10K（1 千至 1 万） | 1,018 | [查看项目](lists/tiers/1k-10k.md) |
+| 100–1K（100 至 1 千） | 2,117 | [查看项目](lists/tiers/100-1k.md) |
 | 100 以下 | 0 | [查看项目](lists/tiers/under-100.md) |
 
 [完整分页目录](lists/all.md) · [机器可读索引](data/catalog.json)
@@ -59,8 +59,8 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [Dify](https://github.com/langgenius/dify) | 157,841 | 可用于教育 | 构建课程资料问答原型和教师内容助手；课程适配与回答审核另建。 | 需复核 |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | 91,678 | 可用于教育 | 围绕经过审核的课程资料构建检索问答原型；回答正确性需另验证。 | Apache-2.0 |
+| [Dify](https://github.com/langgenius/dify) | 157,864 | 可用于教育 | 构建课程资料问答原型和教师内容助手；课程适配与回答审核另建。 | 需复核 |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | 91,687 | 可用于教育 | 围绕经过审核的课程资料构建检索问答原型；回答正确性需另验证。 | Apache-2.0 |
 
 
 [查看完整分类](lists/ai-education.md)
@@ -69,9 +69,9 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [Excalidraw](https://github.com/excalidraw/excalidraw) | 133,493 | 可用于教育 | 绘制课堂板书、流程图、概念关系和讨论草图。 | MIT |
-| [reveal.js](https://github.com/hakimel/reveal.js) | 72,375 | 可用于教育 | 制作课堂演示，整合数学公式、代码和交互说明。 | MIT |
-| [Slidev](https://github.com/slidevjs/slidev) | 48,924 | 可用于教育 | 制作编程课件、数学讲解和可嵌入交互的课堂演示。 | MIT |
+| [Excalidraw](https://github.com/excalidraw/excalidraw) | 133,525 | 可用于教育 | 绘制课堂板书、流程图、概念关系和讨论草图。 | MIT |
+| [reveal.js](https://github.com/hakimel/reveal.js) | 72,377 | 可用于教育 | 制作课堂演示，整合数学公式、代码和交互说明。 | MIT |
+| [Slidev](https://github.com/slidevjs/slidev) | 48,923 | 可用于教育 | 制作编程课件、数学讲解和可嵌入交互的课堂演示。 | MIT |
 
 
 [查看完整分类](lists/courseware.md)
@@ -80,9 +80,9 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [Manim Community](https://github.com/ManimCommunity/manim) | 41,246 | 教育原生 | 制作函数、几何、线性代数等概念的讲解动画。 | MIT |
-| [JupyterLab](https://github.com/jupyterlab/jupyterlab) | 15,333 | 可用于教育 | 制作可运行的数据分析、科学计算和编程实验讲义。 | BSD-3-Clause |
-| [image-blaster](https://github.com/neilsonnn/image-blaster) | 7,630 | 可用于教育 | 制作虚拟商店或情境教学素材；任务、评分和学习记录另开发。 | MIT |
+| [Manim Community](https://github.com/ManimCommunity/manim) | 41,267 | 教育原生 | 制作函数、几何、线性代数等概念的讲解动画。 | MIT |
+| [JupyterLab](https://github.com/jupyterlab/jupyterlab) | 15,334 | 可用于教育 | 制作可运行的数据分析、科学计算和编程实验讲义。 | BSD-3-Clause |
+| [image-blaster](https://github.com/neilsonnn/image-blaster) | 9,006 | 可用于教育 | 制作虚拟商店或情境教学素材；任务、评分和学习记录另开发。 | MIT |
 
 
 [查看完整分类](lists/simulation.md)
@@ -91,8 +91,8 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,735 | 教育原生 | 参考编程学习路径与练习设计，支持学生自主练习。 | BSD-3-Clause |
-| [Blockly](https://github.com/RaspberryPiFoundation/blockly) | 13,578 | 教育原生 | 嵌入图形化编程课件，设计变量、循环和逻辑教学活动。 | Apache-2.0 |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,772 | 教育原生 | 参考编程学习路径与练习设计，支持学生自主练习。 | BSD-3-Clause |
+| [Blockly](https://github.com/RaspberryPiFoundation/blockly) | 13,576 | 教育原生 | 嵌入图形化编程课件，设计变量、循环和逻辑教学活动。 | Apache-2.0 |
 | [CodeCombat](https://github.com/codecombat/codecombat) | 8,571 | 教育原生 | 参考游戏化编程教学和关卡设计，组织代码练习。 | MIT |
 
 
@@ -102,9 +102,9 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [Open edX](https://github.com/openedx/openedx-platform) | 8,196 | 教育原生 | 构建在线课程网站，为学习者提供课程内容与学习活动。 | AGPL-3.0 |
-| [Moodle](https://github.com/moodle/moodle) | 7,461 | 教育原生 | 发布课程、布置学习活动、管理作业和学习进度。 | GPL-3.0 |
-| [Canvas LMS](https://github.com/instructure/canvas-lms) | 6,859 | 教育原生 | 组织课程、作业与教学管理，作为学校学习平台基础。 | AGPL-3.0 |
+| [Open edX](https://github.com/openedx/openedx-platform) | 8,197 | 教育原生 | 构建在线课程网站，为学习者提供课程内容与学习活动。 | AGPL-3.0 |
+| [Moodle](https://github.com/moodle/moodle) | 7,462 | 教育原生 | 发布课程、布置学习活动、管理作业和学习进度。 | GPL-3.0 |
+| [Canvas LMS](https://github.com/instructure/canvas-lms) | 6,861 | 教育原生 | 组织课程、作业与教学管理，作为学校学习平台基础。 | AGPL-3.0 |
 
 
 [查看完整分类](lists/learning-platforms.md)
@@ -114,7 +114,7 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
 | [Judge0](https://github.com/judge0/judge0) | 4,461 | 可用于教育 | 作为编程练习或自动评测的执行后端，题目和评分规则另建。 | GPL-3.0 |
-| [学之思考试系统](https://github.com/mindskip/xzs) | 3,907 | 教育原生 | 组织题库与在线测验，参考教师和学生端流程。 | AGPL-3.0 |
+| [学之思考试系统](https://github.com/mindskip/xzs) | 3,906 | 教育原生 | 组织题库与在线测验，参考教师和学生端流程。 | AGPL-3.0 |
 
 
 [查看完整分类](lists/assessment.md)
@@ -123,9 +123,9 @@ Star 变化基线：尚无上一期快照，暂不计算增长。
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [Logseq](https://github.com/logseq/logseq) | 45,130 | 可用于教育 | 整理课程笔记、建立知识关联和个人学习资料库。 | AGPL-3.0 |
-| [Anki](https://github.com/ankitects/anki) | 31,749 | 教育原生 | 制作词汇、概念和知识点卡片，组织复习。 | 需复核 |
-| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | 11,923 | 教育原生 | 在 Android 设备开展卡片复习和自学活动。 | GPL-3.0 |
+| [Logseq](https://github.com/logseq/logseq) | 45,132 | 可用于教育 | 整理课程笔记、建立知识关联和个人学习资料库。 | AGPL-3.0 |
+| [Anki](https://github.com/ankitects/anki) | 31,762 | 教育原生 | 制作词汇、概念和知识点卡片，组织复习。 | 需复核 |
+| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | 11,936 | 教育原生 | 在 Android 设备开展卡片复习和自学活动。 | GPL-3.0 |
 
 
 [查看完整分类](lists/self-learning.md)

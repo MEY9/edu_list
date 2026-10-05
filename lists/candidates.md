@@ -7,7 +7,7 @@
 
 | 项目 | Star | 教育关系 | 教学用途 | 许可证标识 |
 | --- | ---: | --- | --- | --- |
-| [GeoGebra](https://github.com/geogebra/geogebra) | 2,345 | 教育原生 | 参考动态几何与数学可视化，具体使用方式需核对官方条款。 | 需复核 |
+| [GeoGebra](https://github.com/geogebra/geogebra) | 2,347 | 教育原生 | 参考动态几何与数学可视化，具体使用方式需核对官方条款。 | 需复核 |
 
 
 ### GeoGebra
@@ -23,5 +23,6 @@
 - 许可说明：README 指向 GeoGebra 专门许可页面；API 无许可证标识，暂不进入主清单。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：需核对上游专门许可与计划使用方式；当前资料核对不足以判定许可范围。
-- Star：2,345；最近推送：2026-10-03 05:18:38 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：2,347；最近推送：2026-10-03 05:18:38 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：+2。
 - 核对来源：[来源 1](https://github.com/geogebra/geogebra/blob/main/README.md)、[来源 2](https://github.com/geogebra/geogebra)

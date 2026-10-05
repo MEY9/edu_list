@@ -12,7 +12,7 @@
 | [changeweb/Unifiedtransform](https://github.com/changeweb/Unifiedtransform) | 3,002 | 学校与培训机构管理／应用 | 教育原生 | A school management Software | 元数据收集 |
 | [hrshadhin/school-management-system](https://github.com/hrshadhin/school-management-system) | 1,144 | 学校与培训机构管理／应用 | 教育原生 | Another School Management System | 元数据收集 |
 | [4jean/lav\_sms](https://github.com/4jean/lav_sms) | 1,043 | 学校与培训机构管理／应用 | 教育原生 | Laravel School Management System (LAVSMS) | 元数据收集 |
-| [frappe/education](https://github.com/frappe/education) | 659 | 学校与培训机构管理／应用 | 教育原生 | Open source education / school management system | 元数据收集 |
+| [frappe/education](https://github.com/frappe/education) | 658 | 学校与培训机构管理／应用 | 教育原生 | Open source education / school management system | 元数据收集 |
 | [francoisjacquet/rosariosis](https://github.com/francoisjacquet/rosariosis) | 645 | 学校与培训机构管理／应用 | 教育原生 | RosarioSIS Student Information System for school management. | 元数据收集 |
 | [GibbonEdu/core](https://github.com/GibbonEdu/core) | 634 | 学校与培训机构管理／应用 | 教育原生 | 面向教师、学生、家长和学校的学校管理平台。 | 资料核对 |
 | [yungifez/skuul](https://github.com/yungifez/skuul) | 407 | 学校与培训机构管理／应用 | 教育原生 | A multi school management system | 元数据收集 |

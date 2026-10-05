@@ -9,75 +9,75 @@
 
 | 仓库 | Star | 分类／类型 | 教育关系 | 用途或上游简介 | 核对深度 |
 | --- | ---: | --- | --- | --- | --- |
-| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 133,493 | 课件与教学内容制作／应用 | 可用于教育 | 手绘风格的虚拟白板与图解编辑器。 | 资料核对 |
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 73,223 | 课件与教学内容制作／应用 | 可用于教育 | There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain\]) is a next-gen knowledge base that brings planning, sorting and creating all tog… | 元数据收集 |
-| [hakimel/reveal.js](https://github.com/hakimel/reveal.js) | 72,375 | 课件与教学内容制作／应用 | 可用于教育 | 基于 HTML 的浏览器演示框架。 | 资料核对 |
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 57,600 | 课件与教学内容制作／应用 | 可用于教育 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de… | 元数据收集 |
-| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 50,746 | 课件与教学内容制作／开发组件 | 可用于教育 | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. | 元数据收集 |
-| [slidevjs/slidev](https://github.com/slidevjs/slidev) | 48,924 | 课件与教学内容制作／应用 | 可用于教育 | 支持 Markdown、代码展示和交互组件的演示工具。 | 资料核对 |
-| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,560 | 课件与教学内容制作／应用 | 可用于教育 | Universal markup converter | 元数据收集 |
-| [carbon-app/carbon](https://github.com/carbon-app/carbon) | 36,111 | 课件与教学内容制作／应用 | 可用于教育 | :black\_heart: Create and share beautiful images of your source code | 元数据收集 |
-| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 31,552 | 课件与教学内容制作／应用 | 可用于教育 | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-… | 元数据收集 |
-| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 30,127 | 课件与教学内容制作／应用 | 可用于教育 | Create beautiful slides on the web using a coding agent's frontend skills | 元数据收集 |
-| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,232 | 课件与教学内容制作／应用 | 可用于教育 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power … | 元数据收集 |
-| [dream-num/univer](https://github.com/dream-num/univer) | 22,353 | 课件与教学内容制作／应用 | 可用于教育 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. | 元数据收集 |
-| [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) | 19,230 | 课件与教学内容制作／应用 | 可用于教育 | Visualize Your Ideas With Code | 元数据收集 |
-| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 14,898 | 课件与教学内容制作／应用 | 可用于教育 | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. | 元数据收集 |
-| [konvajs/konva](https://github.com/konvajs/konva) | 14,847 | 课件与教学内容制作／开发组件 | 可用于教育 | Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag… | 元数据收集 |
+| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 133,525 | 课件与教学内容制作／应用 | 可用于教育 | 手绘风格的虚拟白板与图解编辑器。 | 资料核对 |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 73,232 | 课件与教学内容制作／应用 | 可用于教育 | There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain\]) is a next-gen knowledge base that brings planning, sorting and creating all tog… | 元数据收集 |
+| [hakimel/reveal.js](https://github.com/hakimel/reveal.js) | 72,377 | 课件与教学内容制作／应用 | 可用于教育 | 基于 HTML 的浏览器演示框架。 | 资料核对 |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 57,671 | 课件与教学内容制作／应用 | 可用于教育 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de… | 元数据收集 |
+| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 50,755 | 课件与教学内容制作／开发组件 | 可用于教育 | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. | 元数据收集 |
+| [slidevjs/slidev](https://github.com/slidevjs/slidev) | 48,923 | 课件与教学内容制作／应用 | 可用于教育 | 支持 Markdown、代码展示和交互组件的演示工具。 | 资料核对 |
+| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,570 | 课件与教学内容制作／应用 | 可用于教育 | Universal markup converter | 元数据收集 |
+| [carbon-app/carbon](https://github.com/carbon-app/carbon) | 36,109 | 课件与教学内容制作／应用 | 可用于教育 | :black\_heart: Create and share beautiful images of your source code | 元数据收集 |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 31,574 | 课件与教学内容制作／应用 | 可用于教育 | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-… | 元数据收集 |
+| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 30,146 | 课件与教学内容制作／应用 | 可用于教育 | Create beautiful slides on the web using a coding agent's frontend skills | 元数据收集 |
+| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,246 | 课件与教学内容制作／应用 | 可用于教育 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power … | 元数据收集 |
+| [dream-num/univer](https://github.com/dream-num/univer) | 22,366 | 课件与教学内容制作／应用 | 可用于教育 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. | 元数据收集 |
+| [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) | 19,231 | 课件与教学内容制作／应用 | 可用于教育 | Visualize Your Ideas With Code | 元数据收集 |
+| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 14,896 | 课件与教学内容制作／应用 | 可用于教育 | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. | 元数据收集 |
+| [konvajs/konva](https://github.com/konvajs/konva) | 14,849 | 课件与教学内容制作／开发组件 | 可用于教育 | Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag… | 元数据收集 |
 | [pandao/editor.md](https://github.com/pandao/editor.md) | 14,319 | 课件与教学内容制作／应用 | 可用于教育 | The open source embeddable online markdown editor (component). | 元数据收集 |
-| [doocs/md](https://github.com/doocs/md) | 13,388 | 课件与教学内容制作／应用 | 可用于教育 | ✍ WeChat Markdown Editor \| 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性 | 元数据收集 |
-| [marp-team/marp](https://github.com/marp-team/marp) | 12,592 | 课件与教学内容制作／应用 | 可用于教育 | 以 Markdown 编写演示文稿的工具生态入口。 | 资料核对 |
+| [doocs/md](https://github.com/doocs/md) | 13,389 | 课件与教学内容制作／应用 | 可用于教育 | ✍ WeChat Markdown Editor \| 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性 | 元数据收集 |
+| [marp-team/marp](https://github.com/marp-team/marp) | 12,591 | 课件与教学内容制作／应用 | 可用于教育 | 以 Markdown 编写演示文稿的工具生态入口。 | 资料核对 |
 | [Milkdown/milkdown](https://github.com/Milkdown/milkdown) | 11,973 | 课件与教学内容制作／开发组件 | 可用于教育 | 🍼 Plugin driven WYSIWYG markdown editor framework. | 元数据收集 |
-| [maaslalani/slides](https://github.com/maaslalani/slides) | 11,674 | 课件与教学内容制作／应用 | 可用于教育 | Terminal based presentation tool | 元数据收集 |
-| [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) | 11,499 | 课件与教学内容制作／应用 | 可用于教育 | ♠️ React MDX-based presentation decks | 元数据收集 |
-| [presenton/presenton](https://github.com/presenton/presenton) | 10,952 | 课件与教学内容制作／应用 | 可用于教育 | Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative) | 元数据收集 |
-| [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) | 10,345 | 课件与教学内容制作／应用 | 可用于教育 | 💻 Democratizing Snippet Management (macOS/Win/Linux) | 元数据收集 |
-| [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) | 10,170 | 课件与教学内容制作／开发组件 | 可用于教育 | A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code. | 元数据收集 |
+| [maaslalani/slides](https://github.com/maaslalani/slides) | 11,675 | 课件与教学内容制作／应用 | 可用于教育 | Terminal based presentation tool | 元数据收集 |
+| [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) | 11,497 | 课件与教学内容制作／应用 | 可用于教育 | ♠️ React MDX-based presentation decks | 元数据收集 |
+| [presenton/presenton](https://github.com/presenton/presenton) | 10,951 | 课件与教学内容制作／应用 | 可用于教育 | Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative) | 元数据收集 |
+| [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) | 10,344 | 课件与教学内容制作／应用 | 可用于教育 | 💻 Democratizing Snippet Management (macOS/Win/Linux) | 元数据收集 |
+| [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) | 10,169 | 课件与教学内容制作／开发组件 | 可用于教育 | A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code. | 元数据收集 |
 | [MacDownApp/macdown](https://github.com/MacDownApp/macdown) | 9,837 | 课件与教学内容制作／应用 | 可用于教育 | Open source Markdown editor for macOS. | 元数据收集 |
-| [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) | 9,367 | 课件与教学内容制作／应用 | 可用于教育 | PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing f… | 元数据收集 |
-| [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 9,137 | 课件与教学内容制作／应用 | 可用于教育 | An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX. | 元数据收集 |
-| [mfontanini/presenterm](https://github.com/mfontanini/presenterm) | 8,897 | 课件与教学内容制作／应用 | 可用于教育 | A markdown terminal slideshow tool | 元数据收集 |
-| [tw93/MiaoYan](https://github.com/tw93/MiaoYan) | 8,663 | 课件与教学内容制作／应用 | 可用于教育 | ⛷ Lightweight Markdown app to help you write great sentences. | 元数据收集 |
-| [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 8,599 | 课件与教学内容制作／应用 | 可用于教育 | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a \`genoffice\` CLI and agent … | 元数据收集 |
-| [jgraph/drawio](https://github.com/jgraph/drawio) | 8,555 | 课件与教学内容制作／应用 | 可用于教育 | draw.io is a JavaScript, client-side editor for general diagramming. | 元数据收集 |
-| [dendronhq/dendron](https://github.com/dendronhq/dendron) | 7,471 | 课件与教学内容制作／应用 | 可用于教育 | The personal knowledge management (PKM) tool that grows as you do! | 元数据收集 |
-| [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) | 6,968 | 课件与教学内容制作／应用 | 可用于教育 | ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF… | 元数据收集 |
-| [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) | 6,833 | 课件与教学内容制作／应用 | 可用于教育 | Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot. | 元数据收集 |
-| [purocean/yn](https://github.com/purocean/yn) | 6,764 | 课件与教学内容制作／应用 | 可用于教育 | A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code sn… | 元数据收集 |
-| [netless-io/flat](https://github.com/netless-io/flat) | 6,439 | 课件与教学内容制作／应用 | 可用于教育 | Project flat is the Web, Windows and macOS client of Agora Flat open source classroom. | 元数据收集 |
+| [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) | 9,366 | 课件与教学内容制作／应用 | 可用于教育 | PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing f… | 元数据收集 |
+| [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 9,146 | 课件与教学内容制作／应用 | 可用于教育 | An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX. | 元数据收集 |
+| [mfontanini/presenterm](https://github.com/mfontanini/presenterm) | 8,898 | 课件与教学内容制作／应用 | 可用于教育 | A markdown terminal slideshow tool | 元数据收集 |
+| [tw93/MiaoYan](https://github.com/tw93/MiaoYan) | 8,662 | 课件与教学内容制作／应用 | 可用于教育 | ⛷ Lightweight Markdown app to help you write great sentences. | 元数据收集 |
+| [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 8,642 | 课件与教学内容制作／应用 | 可用于教育 | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a \`genoffice\` CLI and agent … | 元数据收集 |
+| [jgraph/drawio](https://github.com/jgraph/drawio) | 8,568 | 课件与教学内容制作／应用 | 可用于教育 | draw.io is a JavaScript, client-side editor for general diagramming. | 元数据收集 |
+| [dendronhq/dendron](https://github.com/dendronhq/dendron) | 7,469 | 课件与教学内容制作／应用 | 可用于教育 | The personal knowledge management (PKM) tool that grows as you do! | 元数据收集 |
+| [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) | 6,969 | 课件与教学内容制作／应用 | 可用于教育 | ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF… | 元数据收集 |
+| [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) | 6,834 | 课件与教学内容制作／应用 | 可用于教育 | Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot. | 元数据收集 |
+| [purocean/yn](https://github.com/purocean/yn) | 6,763 | 课件与教学内容制作／应用 | 可用于教育 | A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code sn… | 元数据收集 |
+| [netless-io/flat](https://github.com/netless-io/flat) | 6,438 | 课件与教学内容制作／应用 | 可用于教育 | Project flat is the Web, Windows and macOS client of Agora Flat open source classroom. | 元数据收集 |
 | [konvajs/react-konva](https://github.com/konvajs/react-konva) | 6,425 | 课件与教学内容制作／开发组件 | 可用于教育 | React components for the Konva 2d canvas library. Build interactive graphics, design editors, and whiteboards with JSX. | 元数据收集 |
 | [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) | 6,393 | 课件与教学内容制作／应用 | 可用于教育 | A web based file manager,web IDE / browser based code editor | 元数据收集 |
-| [pomber/code-surfer](https://github.com/pomber/code-surfer) | 6,370 | 课件与教学内容制作／应用 | 可用于教育 | Rad code slides \<🏄/\> | 元数据收集 |
-| [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | 6,328 | 课件与教学内容制作／应用 | 可用于教育 | GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents | 元数据收集 |
-| [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) | 5,777 | 课件与教学内容制作／应用 | 可用于教育 | Just like TextEdit on Mac but dedicated to Markdown. | 元数据收集 |
-| [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) | 5,476 | 课件与教学内容制作／应用 | 可用于教育 | Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Win… | 元数据收集 |
+| [pomber/code-surfer](https://github.com/pomber/code-surfer) | 6,371 | 课件与教学内容制作／应用 | 可用于教育 | Rad code slides \<🏄/\> | 元数据收集 |
+| [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | 6,336 | 课件与教学内容制作／应用 | 可用于教育 | GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents | 元数据收集 |
+| [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) | 5,781 | 课件与教学内容制作／应用 | 可用于教育 | Just like TextEdit on Mac but dedicated to Markdown. | 元数据收集 |
+| [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) | 5,477 | 课件与教学内容制作／应用 | 可用于教育 | Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Win… | 元数据收集 |
 | [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) | 5,474 | 课件与教学内容制作／应用 | 可用于教育 | Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators. | 元数据收集 |
 | [visit1985/mdp](https://github.com/visit1985/mdp) | 5,282 | 课件与教学内容制作／应用 | 可用于教育 | A command-line based markdown presentation tool. | 元数据收集 |
 | [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent) | 5,088 | 课件与教学内容制作／开发组件 | 可用于教育 | An Agentic Framework for Reflective PowerPoint Generation | 元数据收集 |
-| [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) | 4,766 | 课件与教学内容制作／应用 | 可用于教育 | 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no down… | 元数据收集 |
+| [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) | 4,764 | 课件与教学内容制作／应用 | 可用于教育 | 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no down… | 元数据收集 |
 | [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) | 4,443 | 课件与教学内容制作／应用 | 可用于教育 | One of the 'BEST' markdown preview extensions for Atom editor! | 元数据收集 |
-| [freeplane/freeplane](https://github.com/freeplane/freeplane) | 4,390 | 课件与教学内容制作／应用 | 可用于教育 | Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effe… | 元数据收集 |
+| [freeplane/freeplane](https://github.com/freeplane/freeplane) | 4,391 | 课件与教学内容制作／应用 | 可用于教育 | Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effe… | 元数据收集 |
 | [pd4d10/hashmd](https://github.com/pd4d10/hashmd) | 4,348 | 课件与教学内容制作／应用 | 可用于教育 | Hackable Markdown Editor and Viewer (WIP) | 元数据收集 |
-| [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws) | 4,209 | 课件与教学内容制作／应用 | 可用于教育 | Whiteboard as an IDE, draw and code in your browser | 元数据收集 |
-| [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) | 4,088 | 课件与教学内容制作／课程／资源 | 教育原生 | Tourist Guide into your React Components | 元数据收集 |
+| [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws) | 4,207 | 课件与教学内容制作／应用 | 可用于教育 | Whiteboard as an IDE, draw and code in your browser | 元数据收集 |
+| [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) | 4,087 | 课件与教学内容制作／课程／资源 | 教育原生 | Tourist Guide into your React Components | 元数据收集 |
 | [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 4,003 | 课件与教学内容制作／课程／资源 | 教育原生 | ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentat… | 元数据收集 |
-| [marp-team/marp-cli](https://github.com/marp-team/marp-cli) | 3,848 | 课件与教学内容制作／应用 | 可用于教育 | A CLI interface for Marp and Marpit based converters | 元数据收集 |
-| [mdx-editor/editor](https://github.com/mdx-editor/editor) | 3,689 | 课件与教学内容制作／应用 | 可用于教育 | A rich text editor React component for markdown | 元数据收集 |
+| [marp-team/marp-cli](https://github.com/marp-team/marp-cli) | 3,850 | 课件与教学内容制作／应用 | 可用于教育 | A CLI interface for Marp and Marpit based converters | 元数据收集 |
+| [mdx-editor/editor](https://github.com/mdx-editor/editor) | 3,688 | 课件与教学内容制作／应用 | 可用于教育 | A rich text editor React component for markdown | 元数据收集 |
 | [Aloxaf/silicon](https://github.com/Aloxaf/silicon) | 3,591 | 课件与教学内容制作／应用 | 可用于教育 | Create beautiful image of your source code. | 元数据收集 |
 | [lukakerr/Pine](https://github.com/lukakerr/Pine) | 3,486 | 课件与教学内容制作／应用 | 可用于教育 | A modern, native macOS markdown editor | 元数据收集 |
 | [kalcaddle/kodbox](https://github.com/kalcaddle/kodbox) | 3,349 | 课件与教学内容制作／应用 | 可用于教育 | kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop we… | 元数据收集 |
 | [SublimeText-Markdown/MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) | 3,330 | 课件与教学内容制作／应用 | 可用于教育 | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | 元数据收集 |
 | [tmcw/big](https://github.com/tmcw/big) | 3,318 | 课件与教学内容制作／应用 | 可用于教育 | presentations for busy messy hackers | 元数据收集 |
-| [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) | 3,081 | 课件与教学内容制作／应用 | 可用于教育 | EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in auto… | 元数据收集 |
+| [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) | 3,082 | 课件与教学内容制作／应用 | 可用于教育 | EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in auto… | 元数据收集 |
 | [hyperoslo/Presentation](https://github.com/hyperoslo/Presentation) | 3,069 | 课件与教学内容制作／课程／资源 | 教育原生 | :bookmark\_tabs: Presentation helps you to make tutorials, release notes and animated pages. | 元数据收集 |
 | [IcaliaLabs/Presentr](https://github.com/IcaliaLabs/Presentr) | 3,038 | 课件与教学内容制作／应用 | 可用于教育 | Swift wrapper for custom ViewController presentations on iOS | 元数据收集 |
-| [microsoft/ResearchStudio](https://github.com/microsoft/ResearchStudio) | 3,000 | 课件与教学内容制作／应用 | 可用于教育 | ResearchStudio: Our AI co-author, from research problem to final publication. | 元数据收集 |
+| [microsoft/ResearchStudio](https://github.com/microsoft/ResearchStudio) | 3,003 | 课件与教学内容制作／应用 | 可用于教育 | ResearchStudio: Our AI co-author, from research problem to final publication. | 元数据收集 |
 | [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) | 2,930 | 课件与教学内容制作／应用 | 可用于教育 | A simple markdown editor with preview, implemented with React.js and TypeScript. | 元数据收集 |
-| [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) | 2,768 | 课件与教学内容制作／应用 | 可用于教育 | Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks. | 元数据收集 |
-| [jaspervdj/patat](https://github.com/jaspervdj/patat) | 2,742 | 课件与教学内容制作／应用 | 可用于教育 | Terminal-based presentations using Pandoc | 元数据收集 |
+| [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) | 2,773 | 课件与教学内容制作／应用 | 可用于教育 | Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks. | 元数据收集 |
+| [jaspervdj/patat](https://github.com/jaspervdj/patat) | 2,743 | 课件与教学内容制作／应用 | 可用于教育 | Terminal-based presentations using Pandoc | 元数据收集 |
 | [dvorka/mindforger](https://github.com/dvorka/mindforger) | 2,721 | 课件与教学内容制作／应用 | 可用于教育 | Thinking notebook and Markdown editor. | 元数据收集 |
-| [revezone/revezone](https://github.com/revezone/revezone) | 2,664 | 课件与教学内容制作／应用 | 可用于教育 | A lightweight local-first graphic-centric productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like not… | 元数据收集 |
-| [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) | 2,658 | 课件与教学内容制作／应用 | 可用于教育 | Online collaborative Whiteboard that is simple, free, easy to use and to deploy | 元数据收集 |
+| [revezone/revezone](https://github.com/revezone/revezone) | 2,663 | 课件与教学内容制作／应用 | 可用于教育 | A lightweight local-first graphic-centric productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like not… | 元数据收集 |
+| [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) | 2,659 | 课件与教学内容制作／应用 | 可用于教育 | Online collaborative Whiteboard that is simple, free, easy to use and to deploy | 元数据收集 |
 | [LHRUN/paint-board](https://github.com/LHRUN/paint-board) | 2,633 | 课件与教学内容制作／应用 | 可用于教育 | 🎨 A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects! | 元数据收集 |
 | [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) | 2,605 | 课件与教学内容制作／应用 | 可用于教育 | VLOOK™ 是优雅好用的 Typora/Markdown 主题包和排版增强插件。 VLOOK™ is an elegant and practical THEME PACKAGE × TYPESETTING PLUS for Typora/Markdown | 元数据收集 |
 | [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3) | 2,599 | 课件与教学内容制作／应用 | 可用于教育 | Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the pictu… | 元数据收集 |
@@ -89,10 +89,10 @@
 | [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) | 2,039 | 课件与教学内容制作／应用 | 可用于教育 | Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io | 元数据收集 |
 | [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) | 1,875 | 课件与教学内容制作／应用 | 可用于教育 | A presenter console with multi-monitor support for PDF files. | 元数据收集 |
 | [tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress) | 1,839 | 课件与教学内容制作／应用 | 可用于教育 | NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。搭配 DeepSeek和微信公众号助手使用，碎片时间也能用手机发有排版的文章了。 | 元数据收集 |
-| [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst) | 1,833 | 课件与教学内容制作／应用 | 可用于教育 | Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually… | 元数据收集 |
-| [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) | 1,820 | 课件与教学内容制作／应用 | 可用于教育 | A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience. | 元数据收集 |
+| [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst) | 1,835 | 课件与教学内容制作／应用 | 可用于教育 | Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually… | 元数据收集 |
+| [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) | 1,821 | 课件与教学内容制作／应用 | 可用于教育 | A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience. | 元数据收集 |
 | [martinbjeldbak/ultimate-beamer-theme-list](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) | 1,817 | 课件与教学内容制作／课程／资源 | 教育原生 | A collection of Beamer themes from the community | 元数据收集 |
-| [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor) | 1,777 | 课件与教学内容制作／应用 | 可用于教育 | AiEditor is a next-generation rich text editor for AI. | 元数据收集 |
+| [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor) | 1,778 | 课件与教学内容制作／应用 | 可用于教育 | AiEditor is a next-generation rich text editor for AI. | 元数据收集 |
 | [animotionjs/animotion](https://github.com/animotionjs/animotion) | 1,758 | 课件与教学内容制作／应用 | 可用于教育 | 🪄 Create beautiful presentations with Svelte | 元数据收集 |
 | [inspire-js/inspire.js](https://github.com/inspire-js/inspire.js) | 1,754 | 课件与教学内容制作／开发组件 | 可用于教育 | Lean, hackable, extensible slide deck framework. Previously known as CSSS. | 元数据收集 |
 | [hyperoslo/Lightbox](https://github.com/hyperoslo/Lightbox) | 1,742 | 课件与教学内容制作／应用 | 可用于教育 | :milky\_way: A convenient and easy to use image viewer for your iOS app | 元数据收集 |
@@ -108,32 +108,32 @@
 | [yihui/xaringan](https://github.com/yihui/xaringan) | 1,522 | 课件与教学内容制作／应用 | 可用于教育 | Presentation Ninja 幻灯忍者 · 写轮眼 | 元数据收集 |
 | [growilabs/growi](https://github.com/growilabs/growi) | 1,469 | 课件与教学内容制作／应用 | 可用于教育 | :anchor: GROWI - Team collaboration software using markdown | 元数据收集 |
 | [nubasedev/potato](https://github.com/nubasedev/potato) | 1,438 | 课件与教学内容制作／应用 | 可用于教育 | Potato | 元数据收集 |
-| [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design) | 1,416 | 课件与教学内容制作／应用 | 可用于教育 | DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness. | 元数据收集 |
+| [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design) | 1,419 | 课件与教学内容制作／应用 | 可用于教育 | DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness. | 元数据收集 |
 | [marp-team/marpit](https://github.com/marp-team/marpit) | 1,385 | 课件与教学内容制作／开发组件 | 可用于教育 | The skinny framework for creating slide deck from Markdown | 元数据收集 |
 | [PHPOffice/PHPPresentation](https://github.com/PHPOffice/PHPPresentation) | 1,372 | 课件与教学内容制作／开发组件 | 可用于教育 | A pure PHP library for reading and writing presentations documents | 元数据收集 |
 | [konvajs/vue-konva](https://github.com/konvajs/vue-konva) | 1,358 | 课件与教学内容制作／开发组件 | 可用于教育 | Vue components for the Konva 2d canvas library. Build interactive graphics, design editors, and whiteboards in Vue. | 元数据收集 |
 | [wbopan/moffee](https://github.com/wbopan/moffee) | 1,329 | 课件与教学内容制作／应用 | 可用于教育 | moffee: Make Markdown Ready to Present | 元数据收集 |
 | [mb21/panwriter](https://github.com/mb21/panwriter) | 1,294 | 课件与教学内容制作／应用 | 可用于教育 | Markdown editor with pandoc integration and paginated preview. | 元数据收集 |
 | [arnehilmann/markdeck](https://github.com/arnehilmann/markdeck) | 1,273 | 课件与教学内容制作／应用 | 可用于教育 | presentations as code - author cool slide decks, text-only, offline-ready, collaborative | 元数据收集 |
-| [marswaveai/ColaMD](https://github.com/marswaveai/ColaMD) | 1,244 | 课件与教学内容制作／应用 | 可用于教育 | A free, elegant Markdown editor for macOS, Windows and Linux. Simple by design, always in sync with the file on disk. | 元数据收集 |
+| [marswaveai/ColaMD](https://github.com/marswaveai/ColaMD) | 1,245 | 课件与教学内容制作／应用 | 可用于教育 | A free, elegant Markdown editor for macOS, Windows and Linux. Simple by design, always in sync with the file on disk. | 元数据收集 |
 | [zhuzhuyule/HexoEditor](https://github.com/zhuzhuyule/HexoEditor) | 1,227 | 课件与教学内容制作／应用 | 可用于教育 | this markdown Editor for hexo blog | 元数据收集 |
-| [sftwrdotdev/Markpad](https://github.com/sftwrdotdev/Markpad) | 1,184 | 课件与教学内容制作／应用 | 可用于教育 | The Notepad equivalent for Markdown | 元数据收集 |
+| [sftwrdotdev/Markpad](https://github.com/sftwrdotdev/Markpad) | 1,187 | 课件与教学内容制作／应用 | 可用于教育 | The Notepad equivalent for Markdown | 元数据收集 |
 | [benweet/stackedit.js](https://github.com/benweet/stackedit.js) | 1,167 | 课件与教学内容制作／应用 | 可用于教育 | Add StackEdit to any website | 元数据收集 |
+| [zhitongblog/solomd](https://github.com/zhitongblog/solomd) | 1,159 | 课件与教学内容制作／应用 | 可用于教育 | A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault dir… | 元数据收集 |
 | [marp-team/marp-core](https://github.com/marp-team/marp-core) | 1,156 | 课件与教学内容制作／应用 | 可用于教育 | The core of Marp converter | 元数据收集 |
-| [zhitongblog/solomd](https://github.com/zhitongblog/solomd) | 1,153 | 课件与教学内容制作／应用 | 可用于教育 | A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault dir… | 元数据收集 |
-| [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown) | 1,122 | 课件与教学内容制作／应用 | 可用于教育 | Multiplatform Markdown-Based Rich Text Solution | 元数据收集 |
-| [YOOTeam/OpenPPT](https://github.com/YOOTeam/OpenPPT) | 1,099 | 课件与教学内容制作／应用 | 可用于教育 | AIPPT Online editor，Base On ChatPPT， supports document editing services throughout the entire process, including import, export, layout beautificat… | 元数据收集 |
+| [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown) | 1,127 | 课件与教学内容制作／应用 | 可用于教育 | Multiplatform Markdown-Based Rich Text Solution | 元数据收集 |
 | [shaps80/SwiftUIBackports](https://github.com/shaps80/SwiftUIBackports) | 1,098 | 课件与教学内容制作／课程／资源 | 教育原生 | A collection of SwiftUI backports for iOS, macOS, tvOS and watchOS | 元数据收集 |
-| [ifer47/markeron](https://github.com/ifer47/markeron) | 1,078 | 课件与教学内容制作／应用 | 教育原生 | Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen re… | 元数据收集 |
+| [YOOTeam/OpenPPT](https://github.com/YOOTeam/OpenPPT) | 1,097 | 课件与教学内容制作／应用 | 可用于教育 | AIPPT Online editor，Base On ChatPPT， supports document editing services throughout the entire process, including import, export, layout beautificat… | 元数据收集 |
+| [ifer47/markeron](https://github.com/ifer47/markeron) | 1,081 | 课件与教学内容制作／应用 | 教育原生 | Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen re… | 元数据收集 |
 | [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) | 1,053 | 课件与教学内容制作／应用 | 可用于教育 | Emacs Markdown Mode | 元数据收集 |
 | [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) | 1,049 | 课件与教学内容制作／课程／资源 | 教育原生 | An open-source presentation theme ecosystem for Marp/Markdown users. | 元数据收集 |
 | [DmytroVasin/DrawPen](https://github.com/DmytroVasin/DrawPen) | 1,037 | 课件与教学内容制作／应用 | 可用于教育 | DrawPen is a simple screen annotation. Available on macOS, Windows & Linux. | 元数据收集 |
 | [liuxiaopai-ai/raphael-publish](https://github.com/liuxiaopai-ai/raphael-publish) | 984 | 课件与教学内容制作／应用 | 可用于教育 | Raphael Publish - 公众号排版大师 \| 现代 Markdown 排版引擎 | 元数据收集 |
 | [LearnPrompt/humanize-ppt](https://github.com/LearnPrompt/humanize-ppt) | 964 | 课件与教学内容制作／应用 | 可用于教育 | AST-based outline director for human-centered AI presentation workflows. | 元数据收集 |
-| [tenngoxars/WeMD](https://github.com/tenngoxars/WeMD) | 958 | 课件与教学内容制作／应用 | 可用于教育 | 更优雅的 Markdown 公众号编辑器 | 元数据收集 |
+| [tenngoxars/WeMD](https://github.com/tenngoxars/WeMD) | 960 | 课件与教学内容制作／应用 | 可用于教育 | 更优雅的 Markdown 公众号编辑器 | 元数据收集 |
 | [binford2k/showoff](https://github.com/binford2k/showoff) | 947 | 课件与教学内容制作／应用 | 可用于教育 | Don't just present; interact with your audience! | 元数据收集 |
 | [Shouheng88/MarkNote](https://github.com/Shouheng88/MarkNote) | 919 | 课件与教学内容制作／应用 | 可用于教育 | An open sourced markdown note-taking application for Android. | 元数据收集 |
-| [markrahq/markra](https://github.com/markrahq/markra) | 908 | 课件与教学内容制作／应用 | 可用于教育 | A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local. | 元数据收集 |
+| [markrahq/markra](https://github.com/markrahq/markra) | 909 | 课件与教学内容制作／应用 | 可用于教育 | A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local. | 元数据收集 |
 | [h2non/videoshow](https://github.com/h2non/videoshow) | 903 | 课件与教学内容制作／应用 | 可用于教育 | Simple node.js utility to create video slideshows from images with optional audio and visual effects using ffmpeg | 元数据收集 |
 | [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) | 900 | 课件与教学内容制作／应用 | 可用于教育 | 🙌 Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI | 元数据收集 |
 | [liuzi6612/awesome-web-editor](https://github.com/liuzi6612/awesome-web-editor) | 898 | 课件与教学内容制作／应用 | 可用于教育 | 🔨 Open source WEB editor summary | 元数据收集 |
@@ -141,8 +141,8 @@
 | [antfu/live-draw](https://github.com/antfu/live-draw) | 852 | 课件与教学内容制作／应用 | 可用于教育 | A tool allows you to draw on screen real-time. | 元数据收集 |
 | [cracker0dks/whiteboard](https://github.com/cracker0dks/whiteboard) | 840 | 课件与教学内容制作／应用 | 可用于教育 | Lightweight collaborative Whiteboard / Sketchboard | 元数据收集 |
 | [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) | 828 | 课件与教学内容制作／应用 | 可用于教育 | 👨‍💻👩‍💻 Write Markdown. Together. | 元数据收集 |
+| [ClaperCo/Claper](https://github.com/ClaperCo/Claper) | 810 | 课件与教学内容制作／应用 | 可用于教育 | 👋 The ultimate tool to interact with your audience | 元数据收集 |
 | [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) | 810 | 课件与教学内容制作／应用 | 可用于教育 | Markdown language support for IntelliJ IDEA. | 元数据收集 |
-| [ClaperCo/Claper](https://github.com/ClaperCo/Claper) | 809 | 课件与教学内容制作／应用 | 可用于教育 | 👋 The ultimate tool to interact with your audience | 元数据收集 |
 | [sinedied/backslide](https://github.com/sinedied/backslide) | 777 | 课件与教学内容制作／应用 | 可用于教育 | :sweat\_drops: CLI tool for making HTML presentations with Remark.js using Markdown | 元数据收集 |
 | [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) | 761 | 课件与教学内容制作／应用 | 可用于教育 | A SwiftUI view for dynamically highlighting user input | 元数据收集 |
 | [joshed-io/reveal-hugo](https://github.com/joshed-io/reveal-hugo) | 745 | 课件与教学内容制作／应用 | 可用于教育 | 📽️ Create rich HTML-based presentations with Hugo and Reveal.js | 元数据收集 |
@@ -157,12 +157,12 @@
 | [zaaack/vscode-markdown-editor](https://github.com/zaaack/vscode-markdown-editor) | 610 | 课件与教学内容制作／应用 | 可用于教育 | A vscode extension to make your vscode become a full-featured WYSIWYG markdown editor | 元数据收集 |
 | [Doist/typist](https://github.com/Doist/typist) | 602 | 课件与教学内容制作／应用 | 可用于教育 | The mighty Tiptap-based rich-text editor that powers Doist products. | 元数据收集 |
 | [radude/rentry](https://github.com/radude/rentry) | 592 | 课件与教学内容制作／应用 | 可用于教育 | Markdown pastebin from command line | 元数据收集 |
-| [do-md/domd](https://github.com/do-md/domd) | 580 | 课件与教学内容制作／应用 | 可用于教育 | 30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows. | 元数据收集 |
+| [do-md/domd](https://github.com/do-md/domd) | 581 | 课件与教学内容制作／应用 | 可用于教育 | 30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows. | 元数据收集 |
 | [KaneCheshire/ShowTime](https://github.com/KaneCheshire/ShowTime) | 579 | 课件与教学内容制作／应用 | 可用于教育 | The easiest way to show off your iOS taps and gestures for demos and videos. | 元数据收集 |
 | [objcio/markdown-playgrounds](https://github.com/objcio/markdown-playgrounds) | 577 | 课件与教学内容制作／应用 | 可用于教育 | A Markdown Editor that can execute Swift code | 元数据收集 |
 | [timmyomahony/django-pagedown](https://github.com/timmyomahony/django-pagedown) | 570 | 课件与教学内容制作／应用 | 可用于教育 | A django app that allows the easy addition of Stack Overflow's "PageDown" markdown editor to a django form field, whether in a custom app or the Dj… | 元数据收集 |
 | [suchnsuch/Tangent](https://github.com/suchnsuch/Tangent) | 564 | 课件与教学内容制作／应用 | 可用于教育 | The Tangent monorepo. | 元数据收集 |
-| [fxyadela/write-then-publish](https://github.com/fxyadela/write-then-publish) | 557 | 课件与教学内容制作／应用 | 可用于教育 | 本地优先的中文内容排版工具：把 Markdown 转成小红书图文卡片、公众号长文和可下载图片，并支持 Obsidian 工作流。 | 元数据收集 |
+| [fxyadela/write-then-publish](https://github.com/fxyadela/write-then-publish) | 558 | 课件与教学内容制作／应用 | 可用于教育 | 本地优先的中文内容排版工具：把 Markdown 转成小红书图文卡片、公众号长文和可下载图片，并支持 Obsidian 工作流。 | 元数据收集 |
 | [avo-hq/marksmith](https://github.com/avo-hq/marksmith) | 556 | 课件与教学内容制作／应用 | 可用于教育 | GitHub-style markdown editor for Ruby and Rails | 元数据收集 |
 | [PatWie/drafft-ink](https://github.com/PatWie/drafft-ink) | 555 | 课件与教学内容制作／应用 | 可用于教育 | Effortlessly self-host whiteboards. High-performance, cross-platform digital whiteboard with live collaboration built in Rust & WebGPU. Zero subscr… | 元数据收集 |
 | [awesome-iwb/awesome-iwb](https://github.com/awesome-iwb/awesome-iwb) | 551 | 课件与教学内容制作／课程／资源 | 教育原生 | ✨ 「Awesome Iwb」是专为广大中小学电教打造的班级希沃/鸿合等一体机/数字白板/班班通一站式软件推荐清单和实用知识手册，助你在新学期快速上手班级一体机新玩法！ --- ✨ Useful Open-Sources Softwares & Tutorials for Iwb Device… | 元数据收集 |
@@ -173,14 +173,14 @@
 | [jaywcjlove/wxmp](https://github.com/jaywcjlove/wxmp) | 540 | 课件与教学内容制作／应用 | 可用于教育 | 微信公众号文章 Markdown 编辑器，使用 markdown 语法创建一篇简介美观大方的微信公众号图文。 | 元数据收集 |
 | [Houfeng/mditor](https://github.com/Houfeng/mditor) | 530 | 课件与教学内容制作／应用 | 可用于教育 | 📝 \[ M \] arkdown + E \[ ditor \] = Mditor | 元数据收集 |
 | [marp-team/awesome-marp](https://github.com/marp-team/awesome-marp) | 521 | 课件与教学内容制作／课程／资源 | 教育原生 | A curated list of awesome things related to Marp | 元数据收集 |
-| [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) | 519 | 课件与教学内容制作／应用 | 可用于教育 | A Markdown Editor That Lives in Your Browser, Desktop, and a Single URL. Fast GitHub-style Markdown editing with live preview, diagrams, LaTeX, syn… | 元数据收集 |
+| [quickdrawjs/quickdraw](https://github.com/quickdrawjs/quickdraw) | 520 | 课件与教学内容制作／开发组件 | 可用于教育 | The MIT-licensed infinite-canvas whiteboard SDK. An open-source tldraw alternative — no license fee, free for commercial use. React, React Native, … | 元数据收集 |
+| [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) | 520 | 课件与教学内容制作／应用 | 可用于教育 | A Markdown Editor That Lives in Your Browser, Desktop, and a Single URL. Fast GitHub-style Markdown editing with live preview, diagrams, LaTeX, syn… | 元数据收集 |
 | [ApostropheEditor/Apostrophe](https://github.com/ApostropheEditor/Apostrophe) | 517 | 课件与教学内容制作／应用 | 可用于教育 | Mirror of | 元数据收集 |
-| [quickdrawjs/quickdraw](https://github.com/quickdrawjs/quickdraw) | 517 | 课件与教学内容制作／开发组件 | 可用于教育 | The MIT-licensed infinite-canvas whiteboard SDK. An open-source tldraw alternative — no license fee, free for commercial use. React, React Native, … | 元数据收集 |
 | [bvaughn/react-presents](https://github.com/bvaughn/react-presents) | 508 | 课件与教学内容制作／开发组件 | 可用于教育 | React slideshow framework | 元数据收集 |
 | [ErrorAtLine0/infinipaint](https://github.com/ErrorAtLine0/infinipaint) | 498 | 课件与教学内容制作／应用 | 可用于教育 | Infinite space, infinite zoom, collaborative canvas program for massive sketches and notes | 元数据收集 |
 | [alexishida/Moji](https://github.com/alexishida/Moji) | 492 | 课件与教学内容制作／应用 | 可用于教育 | Open Markdown files like PDFs. A lightweight, clean desktop app for opening, reading, editing, and exporting Markdown files. | 元数据收集 |
 | [biaochenxuying/blog-react-admin](https://github.com/biaochenxuying/blog-react-admin) | 492 | 课件与教学内容制作／应用 | 可用于教育 | 基于 pro.ant.design 的 react + Ant Design 的博客管理后台项目 | 元数据收集 |
-| [mattenarle10/markamd](https://github.com/mattenarle10/markamd) | 489 | 课件与教学内容制作／应用 | 可用于教育 | local-first markdown editor with live preview, reading mode, diagrams, themes, and context bundles. | 元数据收集 |
+| [mattenarle10/markamd](https://github.com/mattenarle10/markamd) | 490 | 课件与教学内容制作／应用 | 可用于教育 | local-first markdown editor with live preview, reading mode, diagrams, themes, and context bundles. | 元数据收集 |
 | [thewh1teagle/mobslide](https://github.com/thewh1teagle/mobslide) | 489 | 课件与教学内容制作／应用 | 可用于教育 | Turn your smartphone into presentation remote controller | 元数据收集 |
 | [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) | 484 | 课件与教学内容制作／开发组件 | 可用于教育 | TUI framework and developer productivity apps in Rust 🦀 | 元数据收集 |
 | [schuyler/macdown3000](https://github.com/schuyler/macdown3000) | 483 | 课件与教学内容制作／应用 | 可用于教育 | A modern, lightweight Markdown editor for macOS. | 元数据收集 |
@@ -197,22 +197,22 @@
 | [miroapp/app-examples](https://github.com/miroapp/app-examples) | 427 | 课件与教学内容制作／应用 | 可用于教育 | Miro Developer Platform App Examples | 元数据收集 |
 | [Linbreux/wikmd](https://github.com/Linbreux/wikmd) | 424 | 课件与教学内容制作／应用 | 可用于教育 | A file based wiki that uses markdown | 元数据收集 |
 | [onblog/JustWrite](https://github.com/onblog/JustWrite) | 423 | 课件与教学内容制作／应用 | 可用于教育 | 一款支持同步滑动预览的跨平台Markdown编辑器 | 元数据收集 |
-| [KitionAI/kition](https://github.com/KitionAI/kition) | 414 | 课件与教学内容制作／应用 | 可用于教育 | Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. | 元数据收集 |
+| [KitionAI/kition](https://github.com/KitionAI/kition) | 418 | 课件与教学内容制作／应用 | 可用于教育 | Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. | 元数据收集 |
 | [dohliam/libreoffice-impress-templates](https://github.com/dohliam/libreoffice-impress-templates) | 410 | 课件与教学内容制作／应用 | 可用于教育 | Freely-licensed LibreOffice Impress templates | 元数据收集 |
 | [z3tt/OutlierConf2021](https://github.com/z3tt/OutlierConf2021) | 408 | 课件与教学内容制作／应用 | 可用于教育 | ⭕ Slides and hands-on codes for my talk "ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R" at the 1st OutlierConf, February… | 元数据收集 |
-| [OXOYO/XBoard](https://github.com/OXOYO/XBoard) | 405 | 课件与教学内容制作／应用 | 可用于教育 | 在线白板 Online whiteboard | 元数据收集 |
-| [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) | 400 | 课件与教学内容制作／应用 | 可用于教育 | Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール | 元数据收集 |
+| [OXOYO/XBoard](https://github.com/OXOYO/XBoard) | 404 | 课件与教学内容制作／应用 | 可用于教育 | 在线白板 Online whiteboard | 元数据收集 |
+| [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) | 401 | 课件与教学内容制作／应用 | 可用于教育 | Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール | 元数据收集 |
 | [kkfor/for-editor](https://github.com/kkfor/for-editor) | 397 | 课件与教学内容制作／应用 | 可用于教育 | for-editor - A markdown editor based on React | 元数据收集 |
-| [kiraaziz/Neoflow](https://github.com/kiraaziz/Neoflow) | 372 | 课件与教学内容制作／应用 | 可用于教育 | Neoflow is an open-source whiteboard application designed for seamless collaboration and creativity. It combines simplicity with advanced features,… | 元数据收集 |
+| [kiraaziz/Neoflow](https://github.com/kiraaziz/Neoflow) | 371 | 课件与教学内容制作／应用 | 可用于教育 | Neoflow is an open-source whiteboard application designed for seamless collaboration and creativity. It combines simplicity with advanced features,… | 元数据收集 |
 | [Dyakonov/PZAD](https://github.com/Dyakonov/PZAD) | 346 | 课件与教学内容制作／应用 | 可用于教育 | Курс "Прикладные задачи анализа данных" (ВМК, МГУ имени М.В. Ломоносова) | 元数据收集 |
 | [vizzuhq/ipyvizzu-story](https://github.com/vizzuhq/ipyvizzu-story) | 334 | 课件与教学内容制作／应用 | 可用于教育 | Build, present and share animated data stories in Jupyter Notebook and similar environments. | 元数据收集 |
 | [wanglin2/lx-doc](https://github.com/wanglin2/lx-doc) | 329 | 课件与教学内容制作／应用 | 可用于教育 | 理想文档。定位于个人和小团队的在线云文档。支持思维导图、白板、流程图、PPT、电子表格等 | 元数据收集 |
 | [Azim-Ahmed/Automation-workflow](https://github.com/Azim-Ahmed/Automation-workflow) | 325 | 课件与教学内容制作／应用 | 可用于教育 | React flow Examples with Workflow automations and others examples in one repo. | 元数据收集 |
 | [KovaMD/Kova](https://github.com/KovaMD/Kova) | 309 | 课件与教学内容制作／应用 | 可用于教育 | Kova - Markdown presentation editor. | 元数据收集 |
 | [trekhleb/okso-app](https://github.com/trekhleb/okso-app) | 307 | 课件与教学内容制作／应用 | 可用于教育 | ✍🏻 The drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp. | 元数据收集 |
-| [Faust-Donf/beamer-academic](https://github.com/Faust-Donf/beamer-academic) | 306 | 课件与教学内容制作／应用 | 可用于教育 | 一键从论文生成高质量学术答辩PPT \| AI-powered thesis defense slides generator \| Claude Code & Codex Skill | 元数据收集 |
+| [Faust-Donf/beamer-academic](https://github.com/Faust-Donf/beamer-academic) | 305 | 课件与教学内容制作／应用 | 可用于教育 | 一键从论文生成高质量学术答辩PPT \| AI-powered thesis defense slides generator \| Claude Code & Codex Skill | 元数据收集 |
 | [natolambert/colloquium](https://github.com/natolambert/colloquium) | 303 | 课件与教学内容制作／应用 | 可用于教育 | A markdown native slides tool for academics building with agents. | 元数据收集 |
-| [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) | 295 | 课件与教学内容制作／应用 | 可用于教育 | Minimalist LaTeX template for academic presentations | 元数据收集 |
+| [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) | 296 | 课件与教学内容制作／应用 | 可用于教育 | Minimalist LaTeX template for academic presentations | 元数据收集 |
 | [sindrel/excalidraw-converter](https://github.com/sindrel/excalidraw-converter) | 295 | 课件与教学内容制作／应用 | 可用于教育 | A command line tool for porting Excalidraw diagrams to Gliffy, draw.io and Mermaid. | 元数据收集 |
 | [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 293 | 课件与教学内容制作／应用 | 可用于教育 | Consulting firm-style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格PPT设计系统。 | 元数据收集 |
 | [wanglin2/tiny\_whiteboard](https://github.com/wanglin2/tiny_whiteboard) | 293 | 课件与教学内容制作／应用 | 可用于教育 | 一个在线小白板，类似excalidraw。 | 元数据收集 |
@@ -224,18 +224,18 @@
 | [mimseyedi/pysentation](https://github.com/mimseyedi/pysentation) | 262 | 课件与教学内容制作／应用 | 可用于教育 | pysentation is a CLI for displaying Python presentations. | 元数据收集 |
 | [neatsoftware/term-sheets](https://github.com/neatsoftware/term-sheets) | 262 | 课件与教学内容制作／应用 | 可用于教育 | Create animated terminal presentations. Export as SVG, animated GIF, or HTML+CSS | 元数据收集 |
 | [dynamicreports/dynamicreports](https://github.com/dynamicreports/dynamicreports) | 245 | 课件与教学内容制作／开发组件 | 可用于教育 | Java reporting library for creating dynamic report designs at runtime | 元数据收集 |
-| [markboard-io/markboard](https://github.com/markboard-io/markboard) | 243 | 课件与教学内容制作／应用 | 可用于教育 | Wysiwyg markdown whiteboard for note-taking and building team knowledge base. | 元数据收集 |
 | [yusukebe/revealgo](https://github.com/yusukebe/revealgo) | 243 | 课件与教学内容制作／应用 | 可用于教育 | Markdown driven presentation tool written in Go! | 元数据收集 |
+| [markboard-io/markboard](https://github.com/markboard-io/markboard) | 242 | 课件与教学内容制作／应用 | 可用于教育 | Wysiwyg markdown whiteboard for note-taking and building team knowledge base. | 元数据收集 |
 | [znck/vue-slides](https://github.com/znck/vue-slides) | 240 | 课件与教学内容制作／应用 | 可用于教育 | Present with Vue | 元数据收集 |
-| [hubeiqiao/apple-bento-grid](https://github.com/hubeiqiao/apple-bento-grid) | 235 | 课件与教学内容制作／应用 | 可用于教育 | Agent skill that generates Apple-inspired bento grid presentation cards. For Claude Code, Codex, and any AI coding agent. | 元数据收集 |
+| [hubeiqiao/apple-bento-grid](https://github.com/hubeiqiao/apple-bento-grid) | 234 | 课件与教学内容制作／应用 | 可用于教育 | Agent skill that generates Apple-inspired bento grid presentation cards. For Claude Code, Codex, and any AI coding agent. | 元数据收集 |
 | [mkobuolys/flutter\_deck](https://github.com/mkobuolys/flutter_deck) | 217 | 课件与教学内容制作／开发组件 | 可用于教育 | A lightweight, customizable, and easy-to-use framework to create presentations in Flutter. | 元数据收集 |
 | [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard) | 217 | 课件与教学内容制作／应用 | 可用于教育 | Create & collaborate on an infinite canvas! | 元数据收集 |
 | [sining1989/WBoard](https://github.com/sining1989/WBoard) | 217 | 课件与教学内容制作／应用 | 教育原生 | WBoard是一款在Windows平台基于VS2017、Qt5.9.5开发的一款开放源码的白板教学软件，主要用于学校和大学的交互式电子白板。 它既可以与交互式白板一起使用，也可以在双屏幕场景中通过笔、平板显示器和光束进行使用。 主要有演示板、网页、文档和桌面四大界面。由于时间有限，代码中不妥之… | 元数据收集 |
 | [RatulSaha/presento](https://github.com/RatulSaha/presento) | 216 | 课件与教学内容制作／应用 | 可用于教育 | A clean, simple and extensible template for presentations. Supports XeTeX and Beamer. | 元数据收集 |
 | [tslide/tslide](https://github.com/tslide/tslide) | 216 | 课件与教学内容制作／应用 | 可用于教育 | Terminal SlideDeck, supporting markdown. | 元数据收集 |
 | [yhatt/marp-cli-example](https://github.com/yhatt/marp-cli-example) | 213 | 课件与教学内容制作／应用 | 可用于教育 | The good starter for using Marp via Marp CLI, by the author of Marp | 元数据收集 |
+| [psobot/keynote-parser](https://github.com/psobot/keynote-parser) | 211 | 课件与教学内容制作／应用 | 可用于教育 | A packer/unpacker for Apple Keynote presentation files. | 元数据收集 |
 | [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir) | 211 | 课件与教学内容制作／应用 | 教育原生 | An online blackboard 🖉 with fridge magnets 🌈🧲 for teaching, and making animations 🏃 and presentations ⎚. All of that in a lightweight user interfac… | 元数据收集 |
-| [psobot/keynote-parser](https://github.com/psobot/keynote-parser) | 210 | 课件与教学内容制作／应用 | 可用于教育 | A packer/unpacker for Apple Keynote presentation files. | 元数据收集 |
 | [hyscaler/HyCanvas](https://github.com/hyscaler/HyCanvas) | 206 | 课件与教学内容制作／应用 | 可用于教育 | Free, self-hostable, AI-native design software for creating graphics, social posts, and more, with no paywalls or watermarks. | 元数据收集 |
 | [FuzzyIdeas/YellowDot](https://github.com/FuzzyIdeas/YellowDot) | 203 | 课件与教学内容制作／应用 | 可用于教育 | Hide the macOS yellow recording dot in the corner of your screen | 元数据收集 |
 | [jedcn/reveal-ck](https://github.com/jedcn/reveal-ck) | 202 | 课件与教学内容制作／应用 | 可用于教育 | Create slides with ruby (and usually in markdown) | 元数据收集 |
@@ -243,15 +243,15 @@
 | [excalideck/excalideck](https://github.com/excalideck/excalideck) | 194 | 课件与教学内容制作／应用 | 可用于教育 | Weapon for Legendary Slides | 元数据收集 |
 | [doersino/markdeep-slides](https://github.com/doersino/markdeep-slides) | 187 | 课件与教学内容制作／应用 | 可用于教育 | Build presentation slides with Markdeep and present them right in your browser. | 元数据收集 |
 | [molefrog/presa](https://github.com/molefrog/presa) | 183 | 课件与教学内容制作／应用 | 可用于教育 | 🎞 Make stylish presentations in React, powered by styled-components | 元数据收集 |
-| [mujingquan835/dashiai-ppt-skill](https://github.com/mujingquan835/dashiai-ppt-skill) | 181 | 课件与教学内容制作／应用 | 可用于教育 | 大师 PPT：由 @大师的AI小灶 维护的可编辑 PPTX 生成、网页编辑与安全返工 Skill | 元数据收集 |
+| [mujingquan835/dashiai-ppt-skill](https://github.com/mujingquan835/dashiai-ppt-skill) | 182 | 课件与教学内容制作／应用 | 可用于教育 | 大师 PPT：由 @大师的AI小灶 维护的可编辑 PPTX 生成、网页编辑与安全返工 Skill | 元数据收集 |
 | [ChangbaFE/presentation](https://github.com/ChangbaFE/presentation) | 177 | 课件与教学内容制作／应用 | 可用于教育 | 唱吧前端分享会 | 元数据收集 |
 | [TomHumphries/InfiniteCanvasWhiteboard](https://github.com/TomHumphries/InfiniteCanvasWhiteboard) | 174 | 课件与教学内容制作／应用 | 可用于教育 | An infinite whiteboard built using a canvas element | 元数据收集 |
 | [swillner/highlight-pointer](https://github.com/swillner/highlight-pointer) | 171 | 课件与教学内容制作／应用 | 可用于教育 | Highlight mouse pointer/cursor using a dot - useful for presentations, screen sharing, ... | 元数据收集 |
 | [cojapacze/sketchpad](https://github.com/cojapacze/sketchpad) | 169 | 课件与教学内容制作／应用 | 可用于教育 | Sketchpad is a fully customizable collaborative whiteboard plugin written in pure JavaScript. | 元数据收集 |
 | [Someone0nEarth/excalidraw-self-hosted](https://github.com/Someone0nEarth/excalidraw-self-hosted) | 168 | 课件与教学内容制作／应用 | 可用于教育 | A docker-compose configuration for a fully self-hosted excalidraw stack, a collaborative whiteboard solution | 元数据收集 |
+| [ToseaAI/awesome-html-slide-skills](https://github.com/ToseaAI/awesome-html-slide-skills) | 166 | 课件与教学内容制作／课程／资源 | 教育原生 | A curated list of HTML slide generation skills and template libraries for Claude Code, Codex, Cursor, OpenClaw, and Hermes. 精选 HTML 演示文稿 Skill 与模板库。 | 元数据收集 |
 | [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic) | 165 | 课件与教学内容制作／应用 | 可用于教育 | A true minimalistic LaTeX beamer template | 元数据收集 |
-| [ToseaAI/awesome-html-slide-skills](https://github.com/ToseaAI/awesome-html-slide-skills) | 165 | 课件与教学内容制作／课程／资源 | 教育原生 | A curated list of HTML slide generation skills and template libraries for Claude Code, Codex, Cursor, OpenClaw, and Hermes. 精选 HTML 演示文稿 Skill 与模板库。 | 元数据收集 |
-| [vcmf/dim0](https://github.com/vcmf/dim0) | 164 | 课件与教学内容制作／应用 | 可用于教育 | Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board. | 元数据收集 |
+| [vcmf/dim0](https://github.com/vcmf/dim0) | 165 | 课件与教学内容制作／应用 | 可用于教育 | Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board. | 元数据收集 |
 | [alepez/lavagna](https://github.com/alepez/lavagna) | 162 | 课件与教学内容制作／应用 | 可用于教育 | A collaborative blackboard, ideal for simple sketches during online meetings | 元数据收集 |
 | [wengzige/html-deck-editor](https://github.com/wengzige/html-deck-editor) | 162 | 课件与教学内容制作／应用 | 可用于教育 | Anchor Deck: local-first HTML presentation editor for converting AI-generated slides into editable HTML decks | 元数据收集 |
 | [chaitanyabsprip/present.nvim](https://github.com/chaitanyabsprip/present.nvim) | 159 | 课件与教学内容制作／应用 | 可用于教育 | Presentation plugin for neovim written in lua | 元数据收集 |
@@ -271,7 +271,7 @@
 | [cocoatoucher/AICustomViewControllerTransition](https://github.com/cocoatoucher/AICustomViewControllerTransition) | 140 | 课件与教学内容制作／应用 | 可用于教育 | Easy and tidy way for creating custom UIViewController transitions for iOS | 元数据收集 |
 | [konvajs/ng2-konva](https://github.com/konvajs/ng2-konva) | 140 | 课件与教学内容制作／开发组件 | 可用于教育 | Angular components for the Konva 2d canvas library. Build interactive graphics, design editors, and whiteboards in Angular. | 元数据收集 |
 | [nordeck/matrix-neoboard](https://github.com/nordeck/matrix-neoboard) | 140 | 课件与教学内容制作／应用 | 可用于教育 | A collaborative whiteboard widget for Matrix | 元数据收集 |
-| [zcag/tahta](https://github.com/zcag/tahta) | 138 | 课件与教学内容制作／应用 | 可用于教育 | A pristine, themeable design system for Slidev — switch the entire visual style (type, shape, texture, palette) with one line. | 元数据收集 |
+| [zcag/tahta](https://github.com/zcag/tahta) | 139 | 课件与教学内容制作／应用 | 可用于教育 | A pristine, themeable design system for Slidev — switch the entire visual style (type, shape, texture, palette) with one line. | 元数据收集 |
 | [davnag/DJSemiModalViewController](https://github.com/davnag/DJSemiModalViewController) | 137 | 课件与教学内容制作／应用 | 可用于教育 | Simple semi modal presentation dialog with stacked content | 元数据收集 |
 | [ivantsepp/ssh-slides](https://github.com/ivantsepp/ssh-slides) | 136 | 课件与教学内容制作／应用 | 可用于教育 | Terminal-based Presentations Over SSH | 元数据收集 |
 | [Artanidos/AnimationMaker](https://github.com/Artanidos/AnimationMaker) | 135 | 课件与教学内容制作／应用 | 可用于教育 | Create animated presentations and export them to a video or xml file. | 元数据收集 |
@@ -312,7 +312,8 @@
 - 许可说明：代码与用户绘制素材的许可分别处理。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：133,493；最近推送：2026-10-01 23:08:43 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：133,525；最近推送：2026-10-01 23:08:43 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：+32。
 - 核对来源：[来源 1](https://github.com/excalidraw/excalidraw/blob/master/README.md)、[来源 2](https://github.com/excalidraw/excalidraw)
 
 
@@ -329,7 +330,8 @@
 - 许可说明：框架代码与课程素材分别核对。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：72,375；最近推送：2026-10-01 03:38:13 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：72,377；最近推送：2026-10-01 03:38:13 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：+2。
 - 核对来源：[来源 1](https://github.com/hakimel/reveal.js/blob/master/README.md)、[来源 2](https://github.com/hakimel/reveal.js)
 
 
@@ -346,7 +348,8 @@
 - 许可说明：主题、字体和嵌入素材许可另查。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：48,924；最近推送：2026-10-02 15:30:24 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：48,923；最近推送：2026-10-02 15:30:24 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：-1。
 - 核对来源：[来源 1](https://github.com/slidevjs/slidev/blob/main/README.md)、[来源 2](https://github.com/slidevjs/slidev)
 
 
@@ -363,5 +366,6 @@
 - 许可说明：使用的具体 Marp 工具和主题另查许可。
 - 审核：资料核对（2026-10-05，北京时间）；Codex 辅助核对官方 README 与仓库元数据；未部署、未进行课堂验证。
 - 收录状态：符合当前收录门槛。
-- Star：12,592；最近推送：2026-07-30 03:35:44 UTC+08:00；数据获取：2026-10-05 02:13:40 UTC+08:00。
+- Star：12,591；最近推送：2026-07-30 03:35:44 UTC+08:00；数据获取：2026-10-05 17:14:25 UTC+08:00。
+- 较上一期快照 Star 变化：-1。
 - 核对来源：[来源 1](https://github.com/marp-team/marp/blob/main/README.md)、[来源 2](https://github.com/marp-team/marp)
